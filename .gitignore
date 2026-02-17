@@ -8,8 +8,10 @@ media/
 # PDFs (textbook scans, exam confirmations — keep locally only)
 *.pdf
 
-# Source chapter files (sections 01-07, reference only)
+# Source/copyrighted material (keep locally only)
 0[1-7]-*.md
+yki_highway_to_hill.md
+YKI-keskitaso-harjoitukset.md
 
 # Python
 .venv/
