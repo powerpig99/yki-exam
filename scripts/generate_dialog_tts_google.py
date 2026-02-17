@@ -149,8 +149,8 @@ def concat_audio_files(files: list[Path], out_file: Path) -> None:
         list_file = Path(td) / "concat_list.txt"
         with list_file.open("w", encoding="utf-8") as f:
             for p in files:
-                p_escaped = str(p).replace("'", "'\\''")
-                f.write(f"file '{p_escaped}'\n")
+                p_abs = str(p.resolve()).replace("'", "'\\''")
+                f.write(f"file '{p_abs}'\n")
 
         out_ext = out_file.suffix.lower().lstrip(".")
         cmd = [
