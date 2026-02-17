@@ -134,6 +134,9 @@ def generate_silence(out_path: Path, duration_sec: float, sample_rate: int = 240
     subprocess.run(cmd, check=True, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
 
 
+EN_DIALOG_HEADER_RE = re.compile(r"^\*\*EN Full sample dialogue:\*\*")
+
+
 def parse_fi_en_package(path: Path) -> tuple[str, list[tuple[str, str]]]:
     """Parse fi_en_package.md returning (context, [(speaker, text), ...])."""
     lines = path.read_text(encoding="utf-8").splitlines()
@@ -159,6 +162,61 @@ def parse_fi_en_package(path: Path) -> tuple[str, list[tuple[str, str]]]:
                 turns.append((m.group(1), m.group(2).strip()))
 
     return context, turns
+
+
+def _count_sentences(text: str) -> int:
+    """Count sentences by terminal punctuation marks."""
+    return len(re.findall(r"[.!?]", text))
+
+
+def validate_sentence_counts(path: Path) -> None:
+    """Verify FI and EN turns have matching sentence counts.
+
+    Mismatched counts cause karaoke EN subtitles to shift/disappear.
+    Raises ValueError with details on which turns mismatch.
+    """
+    lines = path.read_text(encoding="utf-8").splitlines()
+    fi_turns: list[tuple[str, str]] = []
+    en_turns: list[tuple[str, str]] = []
+    section = None  # "fi" or "en"
+
+    for line in lines:
+        stripped = line.strip()
+        if FI_DIALOG_HEADER_RE.match(stripped):
+            section = "fi"
+            continue
+        if EN_DIALOG_HEADER_RE.match(stripped):
+            section = "en"
+            continue
+        if section and (stripped.startswith("####") or stripped == ""):
+            if stripped.startswith("####"):
+                section = None
+            continue
+        if section:
+            m = TURN_RE.match(stripped)
+            if m:
+                target = fi_turns if section == "fi" else en_turns
+                target.append((m.group(1), m.group(2).strip()))
+
+    if len(fi_turns) != len(en_turns):
+        raise ValueError(
+            f"{path.name}: FI has {len(fi_turns)} turns, EN has {len(en_turns)}"
+        )
+
+    errors = []
+    for i, ((fi_spk, fi_text), (en_spk, en_text)) in enumerate(zip(fi_turns, en_turns)):
+        fi_count = _count_sentences(fi_text)
+        en_count = _count_sentences(en_text)
+        if fi_count != en_count:
+            errors.append(
+                f"  Turn {i+1} ({fi_spk}): FI={fi_count} EN={en_count}\n"
+                f"    FI: {fi_text}\n"
+                f"    EN: {en_text}"
+            )
+    if errors:
+        raise ValueError(
+            f"{path.name}: Sentence count mismatches:\n" + "\n".join(errors)
+        )
 
 
 def concat_audio_files(files: list[Path], out_file: Path) -> None:
@@ -230,6 +288,9 @@ def generate_dialogue_audio(
     pkg_path = dialogue_dir / "fi_en_package.md"
     if not pkg_path.exists():
         raise FileNotFoundError(f"No fi_en_package.md in {dialogue_dir}")
+
+    # Validate FI/EN sentence counts before generating audio
+    validate_sentence_counts(pkg_path)
 
     context, turns = parse_fi_en_package(pkg_path)
     if not turns:

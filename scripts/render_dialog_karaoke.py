@@ -92,11 +92,7 @@ def parse_fi_en_package(path: Path) -> dict:
 # --- Karaoke word timing ---
 
 def build_karaoke_words(text: str, start: float, end: float) -> list[dict]:
-    """Distribute time across words proportionally by character length.
-
-    Reserves a small hold period at the end so the last word appears
-    fully highlighted before the subtitle event disappears.
-    """
+    """Distribute time across words proportionally by character length."""
     tokens = text.split()
     if not tokens or end <= start:
         return []
@@ -109,20 +105,17 @@ def build_karaoke_words(text: str, start: float, end: float) -> list[dict]:
             weights.append(max(1.0, len(tok) / 3.0))
 
     total_weight = sum(weights) or 1.0
-    # Reserve 10% (max 0.4s) as hold time so last word shows fully lit
-    hold = min(0.4, (end - start) * 0.10)
-    fill_end = end - hold
-    dur = fill_end - start
+    dur = end - start
 
     out = []
     t = start
     for i, tok in enumerate(tokens):
         if i == len(tokens) - 1:
-            t_next = fill_end
+            t_next = end
         else:
             t_next = t + dur * (weights[i] / total_weight)
         if t_next <= t:
-            t_next = min(fill_end, t + 0.05)
+            t_next = min(end, t + 0.05)
         out.append({"word": tok, "start": t, "end": t_next})
         t = t_next
     return out
@@ -147,7 +140,7 @@ def karaoke_ass_text(words: list[dict], max_chars: int = 32) -> str:
         else:
             new_len = line_len + 1 + word_len
             if new_len > max_chars:
-                parts.append(f"{{\\kf{dur_cs}}}\\N{word}")
+                parts.append(f"\\N{{\\kf{dur_cs}}}{word}")
                 line_len = word_len
             else:
                 parts.append(f"{{\\kf{dur_cs}}} {word}")
