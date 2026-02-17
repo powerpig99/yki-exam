@@ -114,13 +114,13 @@ Save plan in Claude plans or as `learners/<name>/plan.md`.
 ### Pipeline Commands
 ```bash
 # Generate TTS (Google Chirp 3 HD) — basic
-.venv/bin/python3 scripts/generate_dialog_tts_google.py --only <id> --force
+.venv/bin/python3 scripts/generate_dialog_tts_google.py --dialogues-root learners/<name>/dialogues --only <id> --force
 
 # Generate TTS with gendered learner voice (for personalized sets)
-.venv/bin/python3 scripts/generate_dialog_tts_google.py --only <id> --force --learner-gender female
+.venv/bin/python3 scripts/generate_dialog_tts_google.py --dialogues-root learners/<name>/dialogues --only <id> --force --learner-gender female
 
 # Render karaoke video
-.venv/bin/python3 scripts/render_dialog_karaoke.py --only <id> --force
+.venv/bin/python3 scripts/render_dialog_karaoke.py --dialogues-root learners/<name>/dialogues --only <id> --force
 ```
 
 ### Learner Voice Gender
@@ -172,6 +172,9 @@ learners/
         audio/                # TTS output (git-ignored)
         video/                # Rendered video (git-ignored)
 ```
+
+All working files (content, audio, video) live under the learner's own directory.
+Scripts use `--dialogues-root learners/<name>/dialogues` to target the right location.
 
 ---
 
