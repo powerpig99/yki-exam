@@ -113,15 +113,17 @@ Save plan in Claude plans or as `learners/<name>/plan.md`.
 
 ### Pipeline Commands
 ```bash
-# Generate TTS (Google Chirp 3 HD) — basic
-.venv/bin/python3 scripts/generate_dialog_tts_google.py --dialogues-root learners/<name>/dialogues --only <id> --force
+# Generate TTS (Google Chirp 3 HD) — auto-discovers dialogue location by ID
+.venv/bin/python3 scripts/generate_dialog_tts_google.py --only <id> --force
 
 # Generate TTS with gendered learner voice (for personalized sets)
-.venv/bin/python3 scripts/generate_dialog_tts_google.py --dialogues-root learners/<name>/dialogues --only <id> --force --learner-gender female
+.venv/bin/python3 scripts/generate_dialog_tts_google.py --only <id> --force --learner-gender female
 
 # Render karaoke video
-.venv/bin/python3 scripts/render_dialog_karaoke.py --dialogues-root learners/<name>/dialogues --only <id> --force
+.venv/bin/python3 scripts/render_dialog_karaoke.py --only <id> --force
 ```
+
+Scripts auto-discover dialogue directories by ID across `dialog_practice/dialogues/` and `learners/*/dialogues/`. No need for `--dialogues-root` unless targeting an unusual location.
 
 ### Learner Voice Gender
 The `--learner-gender` flag assigns a gendered voice to the learner's speaker role:
@@ -174,7 +176,7 @@ learners/
 ```
 
 All working files (content, audio, video) live under the learner's own directory.
-Scripts use `--dialogues-root learners/<name>/dialogues` to target the right location.
+Scripts auto-discover dialogue directories by ID — just use `--only <id>`.
 
 ---
 

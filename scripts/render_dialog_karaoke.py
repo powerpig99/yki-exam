@@ -382,12 +382,46 @@ def render_dialogue(dialogue_dir: Path) -> Path:
     return out_path
 
 
+DIALOGUE_SEARCH_ROOTS = [
+    Path("dialog_practice/dialogues"),
+    Path("learners"),
+]
+
+
+def find_dialogue_dir(dialogue_id: str, explicit_root: Path | None = None) -> Path | None:
+    """Find a dialogue directory by ID, searching known locations."""
+    if explicit_root:
+        candidate = explicit_root / dialogue_id
+        if candidate.is_dir():
+            return candidate
+
+    for search_root in DIALOGUE_SEARCH_ROOTS:
+        if not search_root.exists():
+            continue
+        for match in search_root.rglob(dialogue_id):
+            if match.is_dir():
+                return match
+    return None
+
+
+def resolve_dialogue_dirs(ids: list[str], explicit_root: Path | None = None) -> list[Path]:
+    """Resolve a list of dialogue IDs to their directories."""
+    dirs = []
+    for did in ids:
+        d = find_dialogue_dir(did, explicit_root)
+        if d:
+            dirs.append(d)
+        else:
+            print(f"WARNING: dialogue '{did}' not found in any known location")
+    return dirs
+
+
 def main():
     parser = argparse.ArgumentParser(description="Render karaoke videos for YKI dialogues")
     parser.add_argument("--dialogue-dir", type=Path, help="Single dialogue dir")
     parser.add_argument(
-        "--dialogues-root", type=Path,
-        default=Path("dialog_practice/dialogues"),
+        "--dialogues-root", type=Path, default=None,
+        help="Explicit root directory (auto-discovers if omitted)",
     )
     parser.add_argument("--only", type=str, default=None, help="Comma-separated IDs")
     parser.add_argument("--force", action="store_true", help="Regenerate videos")
@@ -395,16 +429,17 @@ def main():
 
     if args.dialogue_dir:
         dirs = [args.dialogue_dir]
+    elif args.only:
+        ids = [x.strip() for x in args.only.split(",")]
+        dirs = resolve_dialogue_dirs(ids, args.dialogues_root)
+    elif args.dialogues_root:
+        dirs = sorted(
+            d for d in args.dialogues_root.iterdir()
+            if d.is_dir() and (d / "audio" / "manifest.json").exists()
+        )
     else:
-        root = args.dialogues_root
-        if args.only:
-            ids = [x.strip() for x in args.only.split(",")]
-            dirs = [root / i for i in ids]
-        else:
-            dirs = sorted(
-                d for d in root.iterdir()
-                if d.is_dir() and (d / "audio" / "manifest.json").exists()
-            )
+        print("Specify --only <id>, --dialogues-root, or --dialogue-dir")
+        return
 
     total = len(dirs)
     done = 0

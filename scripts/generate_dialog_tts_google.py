@@ -459,14 +459,52 @@ def generate_dialogue_audio(
     return manifest
 
 
+DIALOGUE_SEARCH_ROOTS = [
+    Path("dialog_practice/dialogues"),
+    Path("learners"),
+]
+
+
+def find_dialogue_dir(dialogue_id: str, explicit_root: Path | None = None) -> Path | None:
+    """Find a dialogue directory by ID, searching known locations.
+
+    If explicit_root is given, look there first (direct child).
+    Then search DIALOGUE_SEARCH_ROOTS recursively for a matching directory name.
+    """
+    if explicit_root:
+        candidate = explicit_root / dialogue_id
+        if candidate.is_dir() and (candidate / "fi_en_package.md").exists():
+            return candidate
+
+    for search_root in DIALOGUE_SEARCH_ROOTS:
+        if not search_root.exists():
+            continue
+        for match in search_root.rglob(dialogue_id):
+            if match.is_dir() and (match / "fi_en_package.md").exists():
+                return match
+    return None
+
+
+def resolve_dialogue_dirs(ids: list[str], explicit_root: Path | None = None) -> list[Path]:
+    """Resolve a list of dialogue IDs to their directories."""
+    dirs = []
+    for did in ids:
+        d = find_dialogue_dir(did, explicit_root)
+        if d:
+            dirs.append(d)
+        else:
+            print(f"WARNING: dialogue '{did}' not found in any known location")
+    return dirs
+
+
 def main():
     parser = argparse.ArgumentParser(
         description="Generate per-turn TTS audio for YKI dialogues using Google Chirp 3 HD"
     )
     parser.add_argument("--dialogue-dir", type=Path, help="Single dialogue directory")
     parser.add_argument(
-        "--dialogues-root", type=Path,
-        default=Path("dialog_practice/dialogues"),
+        "--dialogues-root", type=Path, default=None,
+        help="Explicit root directory (auto-discovers if omitted)",
     )
     parser.add_argument("--only", type=str, default=None, help="Comma-separated dialogue IDs")
     parser.add_argument("--pause-narrator", type=float, default=1.0)
@@ -493,16 +531,17 @@ def main():
 
     if args.dialogue_dir:
         dirs = [args.dialogue_dir]
+    elif args.only:
+        ids = [x.strip() for x in args.only.split(",")]
+        dirs = resolve_dialogue_dirs(ids, args.dialogues_root)
+    elif args.dialogues_root:
+        dirs = sorted(
+            d for d in args.dialogues_root.iterdir()
+            if d.is_dir() and (d / "fi_en_package.md").exists()
+        )
     else:
-        root = args.dialogues_root
-        if args.only:
-            ids = [x.strip() for x in args.only.split(",")]
-            dirs = [root / i for i in ids]
-        else:
-            dirs = sorted(
-                d for d in root.iterdir()
-                if d.is_dir() and (d / "fi_en_package.md").exists()
-            )
+        print("Specify --only <id>, --dialogues-root, or --dialogue-dir")
+        return
 
     if not dirs:
         print("No dialogue directories found.")
