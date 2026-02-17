@@ -63,11 +63,30 @@ VOICE_POOL = [
 ]
 
 
-def pick_voices(dialogue_id: str) -> tuple[dict, dict, dict]:
-    """Randomly pick 3 distinct voices, seeded by dialogue ID for reproducibility."""
+def pick_voices(dialogue_id: str, repick_role: str | None = None) -> tuple[dict, dict, dict]:
+    """Randomly pick 3 distinct voices, seeded by dialogue ID for reproducibility.
+
+    repick_role: "A", "B", or "narrator" — re-pick only that speaker's voice
+    using a shifted seed, keeping the other two unchanged.
+    """
     rng = random.Random(dialogue_id)
     chosen = rng.sample(VOICE_POOL, 3)
-    return chosen[0], chosen[1], chosen[2]
+    narrator, va, vb = chosen[0], chosen[1], chosen[2]
+
+    if repick_role:
+        # Pick a replacement from the remaining pool (exclude already-chosen voices)
+        used_names = {narrator["name"], va["name"], vb["name"]}
+        remaining = [v for v in VOICE_POOL if v["name"] not in used_names]
+        alt_rng = random.Random(f"{dialogue_id}_repick_{repick_role}")
+        replacement = alt_rng.choice(remaining)
+        if repick_role.upper() == "A":
+            va = replacement
+        elif repick_role.upper() == "B":
+            vb = replacement
+        elif repick_role.lower() == "narrator":
+            narrator = replacement
+
+    return narrator, va, vb
 
 
 # --- Regexes for parsing fi_en_package.md ---
@@ -170,11 +189,21 @@ def concat_audio_files(files: list[Path], out_file: Path) -> None:
 
 
 def google_tts(client, text: str, voice_id: str, out_path: Path) -> None:
-    """Generate TTS audio via Google Chirp 3 HD and save as WAV."""
+    """Generate TTS audio via Google Chirp 3 HD and save as WAV.
+
+    Chirp 3 HD exaggerates tone on exclamation marks, so we replace '!' with
+    '.' before sending to the API. The original text in fi_en_package.md is
+    kept intact for use with other TTS engines that handle '!' better.
+    """
     from google.cloud import texttospeech
 
+    # Flatten exclamations for Chirp — it over-emotes on '!'
+    tts_text = text.replace("!", ".")
+
+    synth_input = texttospeech.SynthesisInput(text=tts_text)
+
     resp = client.synthesize_speech(
-        input=texttospeech.SynthesisInput(text=text),
+        input=synth_input,
         voice=texttospeech.VoiceSelectionParams(
             language_code="fi-FI",
             name=voice_id,
@@ -342,6 +371,10 @@ def main():
     parser.add_argument("--pause-narrator", type=float, default=1.0)
     parser.add_argument("--pause-turns", type=float, default=0.6)
     parser.add_argument("--force", action="store_true", help="Regenerate even if manifest exists")
+    parser.add_argument(
+        "--repick", type=str, default=None,
+        help="Re-pick voice for a speaker: A, B, or narrator (e.g. --repick A)",
+    )
     args = parser.parse_args()
 
     api_key = os.environ.get("GOOGLE_API_KEY", "")
@@ -386,7 +419,7 @@ def main():
             skipped += 1
             continue
 
-        v_narrator, v_a, v_b = pick_voices(dia_id)
+        v_narrator, v_a, v_b = pick_voices(dia_id, repick_role=args.repick)
 
         print(f"\n[{i}/{total}] {dia_id}")
         print(f"{'─' * 50}")
