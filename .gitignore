@@ -5,8 +5,11 @@ dialog_practice/tts_comparison/
 media/
 *.wav
 
-# Large PDFs (textbook scans — keep locally only)
-Ykaanko-vai-ykiinko-*.pdf
+# PDFs (textbook scans, exam confirmations — keep locally only)
+*.pdf
+
+# Source chapter files (sections 01-07, reference only)
+0[1-7]-*.md
 
 # Python
 .venv/
