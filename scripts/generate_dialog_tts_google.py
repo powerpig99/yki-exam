@@ -465,36 +465,79 @@ DIALOGUE_SEARCH_ROOTS = [
 ]
 
 
-def find_dialogue_dir(dialogue_id: str, explicit_root: Path | None = None) -> Path | None:
-    """Find a dialogue directory by ID, searching known locations.
-
-    If explicit_root is given, look there first (direct child).
-    Then search DIALOGUE_SEARCH_ROOTS recursively for a matching directory name.
-    """
-    if explicit_root:
-        candidate = explicit_root / dialogue_id
-        if candidate.is_dir() and (candidate / "fi_en_package.md").exists():
-            return candidate
-
+def _find_all(dialogue_id: str) -> list[Path]:
+    """Find all directories matching dialogue_id across known locations."""
+    results = []
     for search_root in DIALOGUE_SEARCH_ROOTS:
         if not search_root.exists():
             continue
         for match in search_root.rglob(dialogue_id):
-            if match.is_dir() and (match / "fi_en_package.md").exists():
-                return match
-    return None
+            if match.is_dir():
+                results.append(match)
+    return results
+
+
+def _infer_home(dialogue_id: str) -> Path:
+    """Infer the home directory for a dialogue ID based on where siblings live.
+
+    Looks for existing directories with the same prefix (e.g. 'xr' from 'xr_dia_01')
+    to determine which dialogues root they belong to. Falls back to dialog_practice/.
+    """
+    prefix = dialogue_id.split("_")[0]  # e.g. "xr" from "xr_dia_01"
+
+    # Check learner directories for matching prefix
+    learners_dir = Path("learners")
+    if learners_dir.exists():
+        for learner_dir in sorted(learners_dir.iterdir()):
+            dialogues_dir = learner_dir / "dialogues"
+            if not dialogues_dir.is_dir():
+                continue
+            for existing in dialogues_dir.iterdir():
+                if existing.is_dir() and existing.name.split("_")[0] == prefix:
+                    return dialogues_dir
+
+    # Check dialog_practice for matching prefix
+    dp_dir = Path("dialog_practice/dialogues")
+    if dp_dir.exists():
+        for existing in dp_dir.iterdir():
+            if existing.is_dir() and existing.name.split("_")[0] == prefix:
+                return dp_dir
+
+    # Default fallback
+    return dp_dir
+
+
+def resolve_dialogue_dir(dialogue_id: str, explicit_root: Path | None = None) -> Path:
+    """Find, move, or create a dialogue directory in the right location.
+
+    1. Search everywhere for the ID
+    2. Determine "home" (from explicit_root, or inferred from sibling prefix)
+    3. If found in wrong place → move it
+    4. If not found → create it
+    """
+    home_root = explicit_root if explicit_root else _infer_home(dialogue_id)
+    home = home_root / dialogue_id
+    found = _find_all(dialogue_id)
+
+    if found:
+        existing = found[0]
+        if existing.resolve() == home.resolve():
+            return home  # already in right place
+        # Found in wrong place — move it
+        home.parent.mkdir(parents=True, exist_ok=True)
+        shutil.move(str(existing), str(home))
+        print(f"  Moved {existing} → {home}")
+        return home
+
+    # Not found — create
+    home.mkdir(parents=True, exist_ok=True)
+    print(f"  Created {home}")
+    return home
 
 
 def resolve_dialogue_dirs(ids: list[str], explicit_root: Path | None = None) -> list[Path]:
     """Resolve a list of dialogue IDs to their directories."""
-    dirs = []
-    for did in ids:
-        d = find_dialogue_dir(did, explicit_root)
-        if d:
-            dirs.append(d)
-        else:
-            print(f"WARNING: dialogue '{did}' not found in any known location")
-    return dirs
+    return [resolve_dialogue_dir(did, explicit_root) for did in ids]
 
 
 def main():
