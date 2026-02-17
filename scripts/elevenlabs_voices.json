@@ -1,0 +1,170 @@
+[
+  {
+    "id": "CwhRBWXzGAHq8TQ4Fs17",
+    "name": "Roger",
+    "gender": "male",
+    "accent": "american",
+    "age": "middle_aged",
+    "description": "Roger - Laid-Back, Casual, Resonant"
+  },
+  {
+    "id": "EXAVITQu4vr4xnSDxMaL",
+    "name": "Sarah",
+    "gender": "female",
+    "accent": "american",
+    "age": "young",
+    "description": "Sarah - Mature, Reassuring, Confident"
+  },
+  {
+    "id": "FGY2WhTYpPnrIDTdsKH5",
+    "name": "Laura",
+    "gender": "female",
+    "accent": "american",
+    "age": "young",
+    "description": "Laura - Enthusiast, Quirky Attitude"
+  },
+  {
+    "id": "IKne3meq5aSn9XLyUdCD",
+    "name": "Charlie",
+    "gender": "male",
+    "accent": "australian",
+    "age": "young",
+    "description": "Charlie - Deep, Confident, Energetic"
+  },
+  {
+    "id": "JBFqnCBsd6RMkjVDRZzb",
+    "name": "George",
+    "gender": "male",
+    "accent": "british",
+    "age": "middle_aged",
+    "description": "George - Warm, Captivating Storyteller"
+  },
+  {
+    "id": "N2lVS1w4EtoT3dr4eOWO",
+    "name": "Callum",
+    "gender": "male",
+    "accent": "american",
+    "age": "middle_aged",
+    "description": "Callum - Husky Trickster"
+  },
+  {
+    "id": "SAz9YHcvj6GT2YYXdXww",
+    "name": "River",
+    "gender": "neutral",
+    "accent": "american",
+    "age": "middle_aged",
+    "description": "River - Relaxed, Neutral, Informative"
+  },
+  {
+    "id": "SOYHLrjzK2X1ezoPC6cr",
+    "name": "Harry",
+    "gender": "male",
+    "accent": "american",
+    "age": "young",
+    "description": "Harry - Fierce Warrior"
+  },
+  {
+    "id": "TX3LPaxmHKxFdv7VOQHJ",
+    "name": "Liam",
+    "gender": "male",
+    "accent": "american",
+    "age": "young",
+    "description": "Liam - Energetic, Social Media Creator"
+  },
+  {
+    "id": "Xb7hH8MSUJpSbSDYk0k2",
+    "name": "Alice",
+    "gender": "female",
+    "accent": "british",
+    "age": "middle_aged",
+    "description": "Alice - Clear, Engaging Educator"
+  },
+  {
+    "id": "XrExE9yKIg1WjnnlVkGX",
+    "name": "Matilda",
+    "gender": "female",
+    "accent": "american",
+    "age": "middle_aged",
+    "description": "Matilda - Knowledgable, Professional"
+  },
+  {
+    "id": "bIHbv24MWmeRgasZH58o",
+    "name": "Will",
+    "gender": "male",
+    "accent": "american",
+    "age": "young",
+    "description": "Will - Relaxed Optimist"
+  },
+  {
+    "id": "cgSgspJ2msm6clMCkdW9",
+    "name": "Jessica",
+    "gender": "female",
+    "accent": "american",
+    "age": "young",
+    "description": "Jessica - Playful, Bright, Warm"
+  },
+  {
+    "id": "cjVigY5qzO86Huf0OWal",
+    "name": "Eric",
+    "gender": "male",
+    "accent": "american",
+    "age": "middle_aged",
+    "description": "Eric - Smooth, Trustworthy"
+  },
+  {
+    "id": "hpp4J3VqNfWAUOO0d1Us",
+    "name": "Bella",
+    "gender": "female",
+    "accent": "american",
+    "age": "middle_aged",
+    "description": "Bella - Professional, Bright, Warm"
+  },
+  {
+    "id": "iP95p4xoKVk53GoZ742B",
+    "name": "Chris",
+    "gender": "male",
+    "accent": "american",
+    "age": "middle_aged",
+    "description": "Chris - Charming, Down-to-Earth"
+  },
+  {
+    "id": "nPczCjzI2devNBz1zQrb",
+    "name": "Brian",
+    "gender": "male",
+    "accent": "american",
+    "age": "middle_aged",
+    "description": "Brian - Deep, Resonant and Comforting"
+  },
+  {
+    "id": "onwK4e9ZLuTAKqWW03F9",
+    "name": "Daniel",
+    "gender": "male",
+    "accent": "british",
+    "age": "middle_aged",
+    "description": "Daniel - Steady Broadcaster"
+  },
+  {
+    "id": "pFZP5JQG7iQjIQuC4Bku",
+    "name": "Lily",
+    "gender": "female",
+    "accent": "british",
+    "age": "middle_aged",
+    "description": "Lily - Velvety Actress"
+  },
+  {
+    "id": "pNInz6obpgDQGcFmaJgB",
+    "name": "Adam",
+    "gender": "male",
+    "accent": "american",
+    "age": "middle_aged",
+    "description": "Adam - Dominant, Firm"
+  },
+  {
+    "id": "pqHfZKP75CvOlQylNhV4",
+    "name": "Bill",
+    "gender": "male",
+    "accent": "american",
+    "age": "old",
+    "description": "Bill - Wise, Mature, Balanced"
+  }
+]

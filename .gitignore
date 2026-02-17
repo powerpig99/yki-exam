@@ -1,0 +1,23 @@
+# Media files (regenerable from fi_en_package.md + scripts)
+dialog_practice/dialogues/*/audio/
+dialog_practice/dialogues/*/video/
+dialog_practice/tts_comparison/
+media/
+*.wav
+
+# Large PDFs (textbook scans — keep locally only)
+Ykaanko-vai-ykiinko-*.pdf
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
+
+# Obsidian (local editor config)
+.obsidian/
+
+# Environment
+.env
