@@ -109,15 +109,26 @@ Save plan in Claude plans or as `learners/<name>/plan.md`.
 4. **Finnicize loanwords**: freelance → friilanssi, online → verkossa. Better TTS pronunciation.
 5. **Natural spoken Finnish**: YKI keskitaso level, colloquial (mä/mun/sun), not overly formal.
 6. **One topic per A-B exchange**: Don't split topics across multiple exchanges.
+7. **Learner role marker**: Add `**Learner role:** A` or `**Learner role:** B` to fi_en_package.md to indicate which speaker the learner should identify with. Default is B if omitted.
 
 ### Pipeline Commands
 ```bash
-# Generate TTS (Google Chirp 3 HD)
+# Generate TTS (Google Chirp 3 HD) — basic
 .venv/bin/python3 scripts/generate_dialog_tts_google.py --only <id> --force
+
+# Generate TTS with gendered learner voice (for personalized sets)
+.venv/bin/python3 scripts/generate_dialog_tts_google.py --only <id> --force --learner-gender female
 
 # Render karaoke video
 .venv/bin/python3 scripts/render_dialog_karaoke.py --only <id> --force
 ```
+
+### Learner Voice Gender
+The `--learner-gender` flag assigns a gendered voice to the learner's speaker role:
+- Reads `**Learner role:** A|B` from fi_en_package.md (defaults to B)
+- Learner gets specified gender voice, other speaker gets opposite gender
+- Makes it easy for the learner to identify "their" lines when listening
+- Omit the flag for gender-random assignment (backward compatible)
 
 ### Per-Item Workflow (STRICT ORDER)
 1. Write fi_en_package.md
