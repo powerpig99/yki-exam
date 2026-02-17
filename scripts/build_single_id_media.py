@@ -41,11 +41,11 @@ def main() -> int:
     p.add_argument("--section-title", required=True, help="e.g. Ihminen ja lähipiiri")
     p.add_argument(
         "--source-md",
-        default="/Users/jingliang/Documents/YKI_exam/yki_highway_to_hill.md",
+        default="yki_highway_to_hill.md",
     )
     p.add_argument(
         "--out-dir",
-        default="/Users/jingliang/Documents/YKI_exam/media/single_id_test",
+        default="media/single_id_test",
     )
     p.add_argument("--tts-backend", choices=("openai", "edge_tts", "say", "google_chirp"), default="edge_tts")
     p.add_argument("--edge-voice", default="fi-FI-NooraNeural")
@@ -85,7 +85,7 @@ def main() -> int:
     run(
         [
             "python3",
-            "/Users/jingliang/Documents/YKI_exam/scripts/build_fi_listening_package.py",
+            "scripts/build_fi_listening_package.py",
             "--source-md",
             str(source_md),
             "--section",
@@ -101,7 +101,7 @@ def main() -> int:
     run(
         [
             "python3",
-            "/Users/jingliang/Documents/YKI_exam/scripts/generate_fi_tts_from_package.py",
+            "scripts/generate_fi_tts_from_package.py",
             "--input",
             str(subset_listening),
             "--out-dir",
@@ -149,7 +149,7 @@ def main() -> int:
 
     cmd = [
         "python3",
-        "/Users/jingliang/Documents/YKI_exam/scripts/render_dual_karaoke_from_package.py",
+        "scripts/render_dual_karaoke_from_package.py",
         "--audio",
         str(out_mp3),
         "--output-prefix",

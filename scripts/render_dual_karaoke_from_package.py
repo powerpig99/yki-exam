@@ -1001,7 +1001,7 @@ def main() -> int:
     )
     args = parser.parse_args()
 
-    script_path = Path("/Users/jingliang/Documents/YKI_exam/scripts/transcribe_karaoke_video.py")
+    script_path = Path("scripts/transcribe_karaoke_video.py")
     tkv = load_tkv_module(script_path)
     setup_ffmpeg_bins(tkv)
 

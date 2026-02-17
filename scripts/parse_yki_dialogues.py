@@ -196,13 +196,13 @@ def main():
     parser.add_argument(
         "--source-dir",
         type=Path,
-        default=Path("/Users/jingliang/Documents/YKI_exam"),
+        default=Path("."),
         help="Directory containing 01-07 markdown files",
     )
     parser.add_argument(
         "--out-dir",
         type=Path,
-        default=Path("/Users/jingliang/Documents/YKI_exam/dialog_practice/dialogues"),
+        default=Path("dialog_practice/dialogues"),
         help="Output directory for parsed dialogues",
     )
     parser.add_argument(

@@ -394,7 +394,7 @@ def main():
     parser.add_argument("--dialogue-dir", type=Path, help="Single dialogue dir")
     parser.add_argument(
         "--dialogues-root", type=Path,
-        default=Path("/Users/jingliang/Documents/YKI_exam/dialog_practice/dialogues"),
+        default=Path("dialog_practice/dialogues"),
     )
     parser.add_argument("--only", type=str, default=None, help="Comma-separated IDs")
     parser.add_argument("--force", action="store_true", help="Regenerate videos")

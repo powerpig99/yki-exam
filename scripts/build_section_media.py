@@ -45,12 +45,12 @@ def main() -> int:
     parser.add_argument("--fi-en-package", required=True, help="Path to section .fi_en.md package")
     parser.add_argument(
         "--source-md",
-        default="/Users/jingliang/Documents/YKI_exam/yki_highway_to_hill.md",
+        default="yki_highway_to_hill.md",
         help="Source markdown path",
     )
     parser.add_argument(
         "--project-root",
-        default="/Users/jingliang/Documents/YKI_exam",
+        default=".",
         help="Project root",
     )
     parser.add_argument(

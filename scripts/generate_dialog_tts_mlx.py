@@ -308,7 +308,7 @@ def main():
     )
     parser.add_argument(
         "--dialogues-root", type=Path,
-        default=Path("/Users/jingliang/Documents/YKI_exam/dialog_practice/dialogues"),
+        default=Path("dialog_practice/dialogues"),
         help="Root directory containing all dialogue dirs",
     )
     parser.add_argument(
@@ -317,7 +317,7 @@ def main():
     )
     parser.add_argument(
         "--voice-narrator-ref", type=str,
-        default="/Users/jingliang/Documents/YKI_exam/media/_mlx_test/fi_auto_ryan_000.wav",
+        default="media/_mlx_test/fi_auto_ryan_000.wav",
         help="Reference audio for narrator (distinct from dialogue speakers)",
     )
     parser.add_argument(
@@ -326,7 +326,7 @@ def main():
     )
     parser.add_argument(
         "--voice-b-ref", type=str,
-        default="/Users/jingliang/Documents/YKI_exam/media/_mlx_test/fi_auto_ryan_000.wav",
+        default="media/_mlx_test/fi_auto_ryan_000.wav",
         help="Reference audio for Speaker B (default: same as narrator for voice distinction)",
     )
     parser.add_argument(

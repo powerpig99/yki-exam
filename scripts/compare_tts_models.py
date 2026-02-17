@@ -110,19 +110,19 @@ def main():
     parser.add_argument(
         "--dialogue",
         type=Path,
-        default=Path("/Users/jingliang/Documents/YKI_exam/dialog_practice/dialogues/01_dia_03"),
+        default=Path("dialog_practice/dialogues/01_dia_03"),
         help="Path to dialogue directory with dialogue.json",
     )
     parser.add_argument(
         "--out-dir",
         type=Path,
-        default=Path("/Users/jingliang/Documents/YKI_exam/dialog_practice/tts_comparison"),
+        default=Path("dialog_practice/tts_comparison"),
         help="Output directory for comparison audio",
     )
     parser.add_argument(
         "--ref-audio",
         type=str,
-        default="/Users/jingliang/Documents/YKI_exam/media/_mlx_test/fi_auto_ryan_000.wav",
+        default="media/_mlx_test/fi_auto_ryan_000.wav",
         help="Reference audio for voice cloning (Chatterbox)",
     )
     parser.add_argument(

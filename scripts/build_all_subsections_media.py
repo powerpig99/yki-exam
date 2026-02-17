@@ -68,7 +68,7 @@ def subsection_output(subsections_dir: Path, section_key: str, name: str) -> tup
 
 def main() -> int:
     p = argparse.ArgumentParser(description="Batch-build subsection media (Reagointi/Kertominen/Mielipide).")
-    p.add_argument("--project-root", default="/Users/jingliang/Documents/YKI_exam")
+    p.add_argument("--project-root", default=".")
     p.add_argument(
         "--sections",
         default="",

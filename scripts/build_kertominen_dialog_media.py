@@ -412,7 +412,7 @@ def main() -> int:
     p.add_argument("--clean", action="store_true")
     args = p.parse_args()
 
-    root = Path("/Users/jingliang/Documents/YKI_exam")
+    root = Path(".")
     scripts = root / "scripts"
 
     src_package = Path(args.fi_en_package).expanduser().resolve()

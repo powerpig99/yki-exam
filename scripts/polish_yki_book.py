@@ -2,8 +2,8 @@
 from pathlib import Path
 import re
 
-SRC = Path('/Users/jingliang/Documents/YKI_exam/yki_highway_to_hill.md')
-OUT = Path('/Users/jingliang/Documents/YKI_exam/yki_highway_to_hill.polished.md')
+SRC = Path('yki_highway_to_hill.md')
+OUT = Path('yki_highway_to_hill.polished.md')
 
 ROLE_SET = {
     'Sinä',

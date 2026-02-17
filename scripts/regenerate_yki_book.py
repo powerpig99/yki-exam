@@ -2,8 +2,8 @@
 from pathlib import Path
 import re
 
-INPUT = Path('/Users/jingliang/Documents/YKI_exam/new_pdf_plain.txt')
-OUTPUT = Path('/Users/jingliang/Documents/YKI_exam/yki_highway_to_hill.regen.md')
+INPUT = Path('new_pdf_plain.txt')
+OUTPUT = Path('yki_highway_to_hill.regen.md')
 
 section_names = [
     'Ihminen ja lähipiiri',

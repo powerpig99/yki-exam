@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
-ROOT="/Users/jingliang/Documents/YKI_exam"
+ROOT="."
 SCRIPT="$ROOT/scripts/build_section_media.py"
 
 # NOTE:
