@@ -19,7 +19,7 @@ Total test time: ~3-5 hours including breaks.
 ### Scoring
 - Each section scored independently: levels 1-6 (mapping to CEFR A1-C2)
 - Keskitaso targets levels 3 (B1) and 4 (B2)
-- For Finnish citizenship: minimum taitotaso 3 (B1.1) in all sections
+- For Finnish citizenship: minimum taitotaso 3 (B1.1) in Puhuminen + Kirjoittaminen (speaking + writing). Kuunteleminen + Lukeminen (listening + reading) are NOT required for citizenship, but recommended.
 - You CAN get different levels in different sections
 
 ---
