@@ -152,6 +152,25 @@ def ffprobe_duration_seconds(path: Path) -> float:
         return 0.0
 
 
+def trim_leading_silence(wav_path: Path, threshold_db: int = -30):
+    """Trim leading silence from a WAV file in-place using ffmpeg silenceremove."""
+    ff = ffmpeg_binary()
+    if not ff:
+        return
+    tmp = wav_path.with_suffix(".trimmed.wav")
+    cmd = [
+        ff, "-y", "-i", str(wav_path),
+        "-af", f"silenceremove=start_periods=1:start_threshold={threshold_db}dB",
+        "-c:a", "pcm_s16le",
+        str(tmp),
+    ]
+    result = subprocess.run(cmd, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
+    if result.returncode == 0 and tmp.exists() and tmp.stat().st_size > 0:
+        tmp.replace(wav_path)
+    elif tmp.exists():
+        tmp.unlink()
+
+
 def generate_silence(out_path: Path, duration_sec: float, sample_rate: int = 24000):
     """Generate a silent WAV file."""
     ffmpeg = ffmpeg_binary()
@@ -356,6 +375,7 @@ def generate_dialogue_audio(
     print(f"  [narrator] {narrator_text[:70]}...")
     t0 = time.time()
     google_tts(client, narrator_text, voice_narrator["voice_id"], narrator_file)
+    trim_leading_silence(narrator_file)
     elapsed = time.time() - t0
     narrator_dur = ffprobe_duration_seconds(narrator_file)
     print(f"    {elapsed:.1f}s api → {narrator_dur:.1f}s audio")
@@ -384,6 +404,7 @@ def generate_dialogue_audio(
         print(f"  {label} {text[:60]}{'...' if len(text) > 60 else ''}")
         t0 = time.time()
         google_tts(client, text, voice["voice_id"], out_file)
+        trim_leading_silence(out_file)
         elapsed = time.time() - t0
         dur = ffprobe_duration_seconds(out_file)
         print(f"    {elapsed:.1f}s api → {dur:.1f}s audio")
