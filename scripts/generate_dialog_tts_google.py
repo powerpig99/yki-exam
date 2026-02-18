@@ -6,7 +6,7 @@ Reads fi_en_package.md for Finnish text, generates audio per turn with
 dialogues, concatenates into merged.mp3, and writes manifest.json.
 
 Requires: GOOGLE_API_KEY in environment.
-Run with: .venv_mlx_audio/bin/python3
+Run with: .venv/bin/python3 scripts/generate_dialog_tts_google.py --only <id> --force
 """
 from __future__ import annotations
 
