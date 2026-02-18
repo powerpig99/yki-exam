@@ -1,76 +1,64 @@
-# SoundCloud to Karaoke Scripts
+# YKI Karaoke Video Pipeline
 
-This folder contains 3 scripts:
+Generate personalized YKI keskitaso practice videos from `fi_en_package.md` dialogue files.
 
-- `soundcloud_url_to_karaoke.sh` (recommended): one URL in, final `.mp3` + `.mp4` out.
-- `soundcloud_playlist_clean_merge.sh`: download SoundCloud playlist and merge to cleaned MP3.
-- `transcribe_karaoke_video.py`: transcribe MP3 and render vertical karaoke video.
+## Pipeline
+
+```
+fi_en_package.md (Finnish dialogue + English translation)
+  → generate_dialog_tts_google.py  (per-turn TTS audio → merged.mp3 + manifest.json)
+  → render_dialog_karaoke.py       (karaoke video with dual subtitles → .mp4)
+```
+
+## Scripts
+
+| Script | Purpose |
+|--------|---------|
+| `generate_dialog_tts_google.py` | Google Chirp 3 HD TTS with voice rotation |
+| `render_dialog_karaoke.py` | 9:16 vertical video with Finnish karaoke + English subtitles |
+| `build_all_dialog_videos.py` | Batch orchestrator (TTS + video for multiple dialogues) |
 
 ## Requirements
 
-- `python3`
-- `yt-dlp`
-- `curl`
+- Python 3.12+ with venv (`.venv/`)
 - `ffmpeg` and `ffprobe`
-- `OPENAI_API_KEY` environment variable for transcription/translation
+- `GOOGLE_API_KEY` environment variable (Google Cloud TTS)
+- Packages: `pip install python-dotenv google-cloud-texttospeech`
 
-If installed, the scripts prefer `/opt/homebrew/opt/ffmpeg-full/bin`.
+## Usage
 
-## Quick Start (One Command)
-
-From project root:
-
+### Single dialogue
 ```bash
-./scripts/soundcloud_url_to_karaoke.sh "https://soundcloud.com/gi-mara/sets/sisunautti-yhteiskunta-dialogit" .
+.venv/bin/python3 scripts/generate_dialog_tts_google.py --only xr_dia_01 --force
+.venv/bin/python3 scripts/render_dialog_karaoke.py --only xr_dia_01 --force
 ```
 
-Output files:
-
-- `./sisunautti-yhteiskunta-dialogit.mp3`
-- `./sisunautti-yhteiskunta-dialogit.mp4`
-
-Notes:
-
-- The output base name is auto-derived from the SoundCloud set slug.
-- Intermediate files are cleaned automatically.
-
-## Default Audio Cleaning Parameters
-
-`soundcloud_playlist_clean_merge.sh` uses:
-
-- `SILENCE_THRESH_DB=-50`
-- `MIN_SILENCE_SEC=1.5`
-- `KEEP_SILENCE_SEC=0.30`
-
-You can override per run, for example:
-
+### With learner gender (personalized voice assignment)
 ```bash
-SILENCE_THRESH_DB=-48 MIN_SILENCE_SEC=1.2 ./scripts/soundcloud_url_to_karaoke.sh "<url>" .
+.venv/bin/python3 scripts/generate_dialog_tts_google.py --only xr_dia_01 --force --learner-gender female
 ```
 
-## Advanced: Run Steps Separately
-
-Step 1: Merge playlist to MP3
-
+### Batch all dialogues
 ```bash
-./scripts/soundcloud_playlist_clean_merge.sh "<soundcloud set url>" "my_output.mp3"
+.venv/bin/python3 scripts/build_all_dialog_videos.py --force-audio --force-video
 ```
 
-Step 2: Create karaoke MP4 from MP3
-
+### Re-pick a single speaker's voice
 ```bash
-./scripts/transcribe_karaoke_video.py "/absolute/path/to/my_output.mp3" --english-translation
+.venv/bin/python3 scripts/generate_dialog_tts_google.py --only xr_dia_01 --force --repick B
 ```
 
-Useful optional flags:
+## Input format
 
-- `--force-transcribe`
-- `--force-translate`
-- `--split-mode semantic|timing`
-- `--translation-batch-size 1` (best sync fidelity)
+Each dialogue directory must contain `fi_en_package.md` with:
+- Header: title, learner role (A or B), FI/EN context
+- `**FI Koko mallidialogi:**` section with `- **A**:` / `- **B**:` turns
+- `**EN Full sample dialogue:**` section with matching turns
 
-## If Script Is Not Executable
+Each FI turn and its EN translation must have the same number of sentences (split on `.!?`).
 
-```bash
-chmod +x ./scripts/soundcloud_url_to_karaoke.sh ./scripts/soundcloud_playlist_clean_merge.sh ./scripts/transcribe_karaoke_video.py
-```
+## Output
+
+- `audio/merged.mp3` — concatenated TTS audio with narrator intro
+- `audio/manifest.json` — per-segment timing data
+- `video/dialogue.karaoke.mp4` — 1080x1920 vertical video, H.264

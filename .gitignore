@@ -1,7 +1,6 @@
 # Media files (regenerable from fi_en_package.md + scripts)
-dialog_practice/dialogues/*/audio/
-dialog_practice/dialogues/*/video/
-dialog_practice/tts_comparison/
+**/audio/
+**/video/
 media/
 *.wav
 
@@ -14,7 +13,7 @@ yki_highway_to_hill.md
 YKI-keskitaso-harjoitukset.md
 
 # Python
-.venv/
+.venv*/
 __pycache__/
 *.pyc
 
