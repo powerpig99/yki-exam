@@ -72,6 +72,7 @@ def pick_voices(
     repick_role: str | None = None,
     learner_gender: str | None = None,
     learner_role: str = "B",
+    non_learner_gender: str | None = None,
 ) -> tuple[dict, dict, dict]:
     """Randomly pick 3 distinct voices, seeded by dialogue ID for reproducibility.
 
@@ -79,8 +80,10 @@ def pick_voices(
     using a shifted seed, keeping the other two unchanged.
 
     learner_gender: "female", "male", or None — if set, the learner_role speaker
-    gets a voice of this gender, the other speaker gets the opposite gender.
-    Narrator stays random.
+    gets a voice of this gender.
+
+    non_learner_gender: "female", "male", or None — if set, the non-learner speaker
+    gets a voice of this gender. Falls back to opposite of learner_gender if not set.
 
     learner_role: "A" or "B" — which speaker is the learner (default "B").
     Read from **Learner role:** in fi_en_package.md.
@@ -88,9 +91,10 @@ def pick_voices(
     rng = random.Random(dialogue_id)
 
     if learner_gender:
-        opposite = "male" if learner_gender == "female" else "female"
+        # Use explicit non-learner gender if provided, otherwise opposite of learner
+        other_gender = non_learner_gender or ("male" if learner_gender == "female" else "female")
         learner_pool = FEMALE_VOICES if learner_gender == "female" else MALE_VOICES
-        other_pool = MALE_VOICES if learner_gender == "female" else FEMALE_VOICES
+        other_pool = FEMALE_VOICES if other_gender == "female" else MALE_VOICES
 
         learner_voice = rng.choice(learner_pool)
         other_voice = rng.choice([v for v in other_pool if v["name"] != learner_voice["name"]])
@@ -125,6 +129,7 @@ CONTEXT_RE = re.compile(r"^\*\*FI Konteksti:\*\*\s*(.+)$")
 FI_DIALOG_HEADER_RE = re.compile(r"^\*\*FI Koko mallidialogi:\*\*")
 TURN_RE = re.compile(r"^-\s+\*\*([AB])\*\*:\s*(.+)$")
 LEARNER_ROLE_RE = re.compile(r"^\*\*Learner role:\*\*\s*([ABab])\s*$")
+NON_LEARNER_GENDER_RE = re.compile(r"^\*\*Non-learner gender:\*\*\s*(female|male)\s*$", re.IGNORECASE)
 
 
 def ffmpeg_binary() -> str:
@@ -169,15 +174,17 @@ def generate_silence(out_path: Path, duration_sec: float, sample_rate: int = 240
 EN_DIALOG_HEADER_RE = re.compile(r"^\*\*EN Full sample dialogue:\*\*")
 
 
-def parse_fi_en_package(path: Path) -> tuple[str, list[tuple[str, str]], str]:
-    """Parse fi_en_package.md returning (context, [(speaker, text), ...], learner_role).
+def parse_fi_en_package(path: Path) -> tuple[str, list[tuple[str, str]], str, str | None]:
+    """Parse fi_en_package.md returning (context, [(speaker, text), ...], learner_role, non_learner_gender).
 
     learner_role is "A" or "B" (default "B" if not specified in file).
+    non_learner_gender is "female", "male", or None if not specified.
     """
     lines = path.read_text(encoding="utf-8").splitlines()
     context = ""
     turns: list[tuple[str, str]] = []
     learner_role = "B"  # default
+    non_learner_gender: str | None = None
     in_fi_dialog = False
 
     for line in lines:
@@ -185,6 +192,10 @@ def parse_fi_en_package(path: Path) -> tuple[str, list[tuple[str, str]], str]:
         m = LEARNER_ROLE_RE.match(stripped)
         if m:
             learner_role = m.group(1).upper()
+            continue
+        m = NON_LEARNER_GENDER_RE.match(stripped)
+        if m:
+            non_learner_gender = m.group(1).lower()
             continue
         m = CONTEXT_RE.match(stripped)
         if m:
@@ -201,7 +212,7 @@ def parse_fi_en_package(path: Path) -> tuple[str, list[tuple[str, str]], str]:
             if m:
                 turns.append((m.group(1), m.group(2).strip()))
 
-    return context, turns, learner_role
+    return context, turns, learner_role, non_learner_gender
 
 
 def _count_sentences(text: str) -> int:
@@ -337,7 +348,7 @@ def generate_dialogue_audio(
     # Validate FI/EN sentence counts before generating audio
     validate_sentence_counts(pkg_path)
 
-    context, turns, _learner_role = parse_fi_en_package(pkg_path)
+    context, turns, _learner_role, _non_learner_gender = parse_fi_en_package(pkg_path)
     if not turns:
         raise ValueError(f"No turns found in {pkg_path}")
 
@@ -611,17 +622,19 @@ def main():
             skipped += 1
             continue
 
-        # Parse learner role from fi_en_package.md for gender-aware voice selection
+        # Parse learner role and non-learner gender from fi_en_package.md
         learner_role = "B"  # default
+        non_learner_gender = None
         pkg_file = d / "fi_en_package.md"
         if pkg_file.exists() and args.learner_gender:
-            _ctx, _turns, learner_role = parse_fi_en_package(pkg_file)
+            _ctx, _turns, learner_role, non_learner_gender = parse_fi_en_package(pkg_file)
 
         v_narrator, v_a, v_b = pick_voices(
             dia_id,
             repick_role=args.repick,
             learner_gender=args.learner_gender,
             learner_role=learner_role,
+            non_learner_gender=non_learner_gender,
         )
 
         print(f"\n[{i}/{total}] {dia_id}")
