@@ -205,8 +205,13 @@ def parse_fi_en_package(path: Path) -> tuple[str, list[tuple[str, str]], str]:
 
 
 def _count_sentences(text: str) -> int:
-    """Count sentences by terminal punctuation marks."""
-    return len(re.findall(r"[.!?]", text))
+    """Count sentences by splitting on terminal punctuation followed by whitespace.
+
+    Matches the renderer's split_sentences logic so decimals like 0.375 or 4.2
+    are not falsely counted as sentence boundaries.
+    """
+    parts = re.split(r"(?<=[.!?])\s+", text.strip())
+    return len([p for p in parts if p.strip()])
 
 
 def validate_sentence_counts(path: Path) -> None:
