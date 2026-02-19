@@ -574,6 +574,7 @@ Source: [OPH — Selecting the right test](https://www.oph.fi/en/education-and-q
 - "Oma auto on liian kallis" (A personal car is too expensive)
 - Pros and cons of remote work (etätyö)
 - Smaller apartments in Finland — positive or negative trend?
+- Lowering drink-drive limit — good idea? (reported as 0.8 → 0.5 debate)
 
 ### Listening — Topics (from actual tests/samples)
 - Bus driver + passenger conversation (fare, schedule, destination)
@@ -587,6 +588,8 @@ Source: [OPH — Selecting the right test](https://www.oph.fi/en/education-and-q
 - Child ski competition story
 - Prison release/reintegration story
 - Raffle contest at community event
+- Medical/research news (painkillers, cancer treatment, tropical disease research)
+- Coach driver informal announcement (casual register, fast speech)
 
 ### Reading — Topics (from actual tests)
 - Escaped lizard news story
@@ -605,6 +608,8 @@ Source: [OPH — Selecting the right test](https://www.oph.fi/en/education-and-q
 - Sports club announcement
 - Commuting patterns article
 - Online shopping guide
+- Product recall notice
+- Fatal accident news report
 
 Source: [Finland Forum — Topics from previous tests](https://www.finlandforum.org/viewtopic.php?t=84883), [Finland Forum — YKI kirjoittaminen](https://www.finlandforum.org/viewtopic.php?t=95823), [Let's Finnish This — YKI 2015](https://joensuuletsfinnishthis.wordpress.com/2015/04/12/yki-testi-11-04-2015-the-yki-test-11-04-2015/), [Finland Forum — Mielipide topics](https://www.finlandforum.org/viewtopic.php?t=61138), [Scribd — 2022 YKI Questions](https://www.scribd.com/document/688725617/Some-2022-Questions-YKI), [yki-testi.fi](https://yki-testi.fi/)
 
@@ -1126,6 +1131,8 @@ Topics that appear in actual tests but aren't always in textbooks:
 - [Kielibuusti.fi](https://kielibuusti.fi/) — Government-funded Finnish learning platform
 - [yki-testi.fi](https://yki-testi.fi/) — Practice tests; claims ~90% of topics repeat from their bank
 - [YKIFinnish.fi](https://ykifinnish.fi/) — 1 free practice test, B1-B2 guide
+- [YKIFinnish.fi — Vocabulary themes](https://ykifinnish.fi/yki-vocabulary-themes/) — Thematic vocabulary lists for YKI prep
+- [Menossa YKIin](http://www.menossaykiin.fi/) — Free YKI prep from Helsinki Adult Education
 - [Quizlet YKI sets](https://quizlet.com/subject/yki-keskitaso/) — Community flashcard decks for YKI vocabulary
 
 ### Apps
@@ -1160,6 +1167,7 @@ Topics that appear in actual tests but aren't always in textbooks:
 - [Start Your Finnish — YKI Keskitaso 2017 Report](https://startyourfinnish.blogspot.com/2017/04/yki-keskitaso-08042017.html) — Detailed test-day report with speaking/writing topics
 - [Reddit r/LearnFinnish — YKI prep discussion](https://www.reddit.com/r/LearnFinnish/comments/1ldxv7x/what_are_the_best_ways_to_prepare_for_the_yki/) — Recent tips and format discussion
 - [Reddit r/LearnFinnish — YKI intermediate rant](https://www.reddit.com/r/LearnFinnish/comments/1n3axnt/rantabout_yki_intermediate_test/) — Recent test-taker frustration report with remembered topics
+- [Reddit r/LearnFinnish — YKI listening & speaking Oct 2025](https://www.reddit.com/r/LearnFinnish/comments/1o8xadm/yki_test_listening_comprehension_and_speaking/) — 2025 report confirming test structure
 
 ### Preparation Courses (Helsinki Area, with approximate prices)
 - [Helsingin aikuisopisto (HELAO)](https://helao.fi/) — YKI prep course ~133 EUR
