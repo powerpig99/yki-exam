@@ -248,6 +248,7 @@ Source: [JYU Demo — Keskitaso Puhuminen](http://ykitesti.solki.jyu.fi/en/tutus
   - Write postcard from vacation
   - Message about unexpected work trip
   - Email to friend about being sick and needing to cancel plans
+- Message to child's teacher explaining absence and asking about homework
 
 **Task 2: Formal Letter/Email (kirje/sähköposti)**
 - To authority, company, organization, school, taloyhtiö
@@ -265,6 +266,8 @@ Source: [JYU Demo — Keskitaso Puhuminen](http://ykitesti.solki.jyu.fi/en/tutus
   - Course registration email (ask about schedule, price, level)
   - Apply for an open position (cover letter style)
   - Join a project for lonely individuals (volunteer/participant application)
+- Email to library asking about book borrowing rules and opening hours
+- Complaint to police about noisy motorists in residential area
 
 **Task 3: Opinion Piece (mielipidekirjoitus)**
 - Choose from **2 topics** (write about only one)
@@ -495,6 +498,7 @@ Source: [OPH — Selecting the right test](https://www.oph.fi/en/education-and-q
 - Thank colleague for covering your shift
 - Ask colleague to return to work (from break/absence)
 - Decline a newspaper subscription offer politely
+- Decline being called to work on a day off
 
 ### Speaking — Kertominen (from actual tests)
 - Describe important person in your life and why they matter
@@ -521,6 +525,8 @@ Source: [OPH — Selecting the right test](https://www.oph.fi/en/education-and-q
 - Should there be more cycling and walking paths to reduce driving?
 - Home-cooked food vs prepared/ready-made food
 - Public transport vs own car — which is better for daily commute?
+- Is domestic travel less practical than travel abroad from Finland?
+- School/home responsibilities for children — who should do what?
 
 ### Writing — Task 1 Short Messages (from actual tests)
 - Cancel meeting with friend (give reason)
@@ -564,6 +570,10 @@ Source: [OPH — Selecting the right test](https://www.oph.fi/en/education-and-q
 - Summer cottage (mökki) is the best place to spend time
 - Food is too expensive in Finland
 - Smoking display bans in stores — good idea?
+- "Mitä on terveellinen elämä?" (What is a healthy life?)
+- "Oma auto on liian kallis" (A personal car is too expensive)
+- Pros and cons of remote work (etätyö)
+- Smaller apartments in Finland — positive or negative trend?
 
 ### Listening — Topics (from actual tests/samples)
 - Bus driver + passenger conversation (fare, schedule, destination)
@@ -572,6 +582,11 @@ Source: [OPH — Selecting the right test](https://www.oph.fi/en/education-and-q
 - Interviews about various topics
 - Shopping mall announcements (store specials, events, closing times)
 - Transport ticket purchase dialogues (machines, counters)
+- Private detective interview (workplace/profession)
+- Environmental impact of flights interview
+- Child ski competition story
+- Prison release/reintegration story
+- Raffle contest at community event
 
 ### Reading — Topics (from actual tests)
 - Escaped lizard news story
@@ -880,9 +895,11 @@ Source: [Poliisi/Ministry of Interior — Passport fees 2026](https://eiglaw.com
 
 ---
 
-## 11. Official YKI Topic Themes (7 Themes)
+## 11. Official YKI Topic Themes
 
-Based on Opetushallitus framework, Gimara.fi courses, and textbook structure:
+The OPH framework PDF defines **9 categories (A-I)**: (A) Personal identification, (B) Home & living, (C) Retail & services, (D) Culture, (E) Travel, (F) Health & well-being, (G) Work, (H) Environment, (I) Society. Source: [OPH — Qualification requirements (PDF)](https://www.oph.fi/sites/default/files/documents/Qualification_requirements_of_National_Certificates_of_Language_Proficiency_2011.pdf)
+
+Below we use the 7-theme grouping from Gimara.fi courses and textbooks, which covers the same territory with slightly different boundaries:
 
 ### Theme 1: Ihminen ja lähipiiri (Person & Inner Circle)
 - Family members and relationships
@@ -1072,6 +1089,7 @@ Topics that appear in actual tests but aren't always in textbooks:
 - [JYU — Intermediate Speaking (English)](https://ykitesti.solki.jyu.fi/en/tutustu-testiin/in-english/intermediate-level-speaking/)
 - [JYU — Intermediate Listening (English)](https://ykitesti.solki.jyu.fi/en/tutustu-testiin/in-english/intermediate-level-listening-comprehension/)
 - [JYU — Test instructions](https://ykitesti.solki.jyu.fi/en/info/ohjeet/)
+- [OPH — Qualification requirements PDF (official 9 categories A-I)](https://www.oph.fi/sites/default/files/documents/Qualification_requirements_of_National_Certificates_of_Language_Proficiency_2011.pdf)
 
 ### Citizenship & Immigration
 - [Migri — Language skills](https://migri.fi/en/language-skills)
@@ -1139,6 +1157,9 @@ Topics that appear in actual tests but aren't always in textbooks:
 - [Puhutaan Suomea — Kirjoittaminen](https://www.puhutaan-suomea.net/yleisen-kielitutkinnon-keskitason-kirjoittamisen-testi/)
 - [YKI Finnish Guide (B1-B2)](https://ykifinnish.fi/what-is-the-yki-finnish-test-a-guide-to-intermediate-levels-b1-b2/)
 - [Scribd — 2022 YKI Questions](https://www.scribd.com/document/688725617/Some-2022-Questions-YKI)
+- [Start Your Finnish — YKI Keskitaso 2017 Report](https://startyourfinnish.blogspot.com/2017/04/yki-keskitaso-08042017.html) — Detailed test-day report with speaking/writing topics
+- [Reddit r/LearnFinnish — YKI prep discussion](https://www.reddit.com/r/LearnFinnish/comments/1ldxv7x/what_are_the_best_ways_to_prepare_for_the_yki/) — Recent tips and format discussion
+- [Reddit r/LearnFinnish — YKI intermediate rant](https://www.reddit.com/r/LearnFinnish/comments/1n3axnt/rantabout_yki_intermediate_test/) — Recent test-taker frustration report with remembered topics
 
 ### Preparation Courses (Helsinki Area, with approximate prices)
 - [Helsingin aikuisopisto (HELAO)](https://helao.fi/) — YKI prep course ~133 EUR
@@ -1165,85 +1186,154 @@ Topics that appear in actual tests but aren't always in textbooks:
 
 ---
 
-## 15. Gap Analysis vs Our Existing Materials
+## 15. Vocabulary Clusters (B1-B2 Must-Know)
 
-### Well Covered (Sections 01-08)
-All 7 official themes are thoroughly covered across our 112 existing videos. Section 08 specifically adds immigration, digital life, banking, authorities, transport, culture, everyday problems, and health topics.
+Essential vocabulary for content generation and practice, organized by OPH theme.
 
-### Potential Gaps to Address for New Learners
-- **Phone conversation format** — our dialogues are A/B but actual test uses studio recording with audio prompts
-- **Timed responses** — test has strict time limits (20 sec for situations, 1.5-2 min for narration)
-- **Reading comprehension topics** — our materials focus on speaking/writing; reading practice with ads, news, instructions could be added
-- **Listening practice** — separate from our karaoke format; natural-speed audio needed
-- **Formal register practice** — more valitus/kirje practice for kirjoittaminen
-- **Abstract opinion topics** — topics beyond personal experience (society, politics, environment)
+### A) Personal Identification (Minä ja taustani)
+- henkilötiedot → personal details, tausta → background, vahvuus → strength, heikkous → weakness
+- tavoite → goal, kokemus → experience, arki → everyday life, tulevaisuudensuunnitelma → future plan
+- muuttaminen → moving, sopeutuminen → adaptation, sukulainen → relative, läheinen → close one
+- harrastus → hobby, ammatti → profession, koulutus → education
 
-### New Topics Discovered from Research
-- Medication advertising (appeared in actual test)
-- Gender roles in housework (appeared in actual test)
-- Frozen pipes prevention (appeared in reading)
-- Pet/animal care scenarios
-- Workplace phone conversations specifically
-- Consumer rights disputes
-- Busyness/time management as opinion topic
-- Television licenses as opinion topic
-- Late-night eating as opinion topic
+### B) Home & Living (Koti ja asuminen)
+- vuokra → rent, vuokrasopimus → rental contract, vuokranantaja → landlord
+- taloyhtiö → housing company, isännöitsijä → property manager, huoltoyhtiö → maintenance company
+- häiriö → disturbance, valitus → complaint, remontti → renovation, lupa → permission
+- vakuus/takuuvuokra → deposit, irtisanomisaika → notice period, naapuri → neighbor
+- kylpyhuone → bathroom, vesihana → water tap, vuotaa → to leak
+
+### C) Retail & Services (Kauppa ja palvelut)
+- kuitti → receipt, reklamaatio → complaint claim, hyvitys → compensation, palautus → return
+- asiakaspalvelu → customer service, varaus → reservation, peruutus → cancellation
+- nettikauppa → online shop, postimyynti → mail order, tarjous → offer/sale
+- viallinen → defective, lasku → invoice, resepti → prescription
+
+### D) Culture (Kulttuuri ja vapaa-aika)
+- harrastus → hobby, tapahtuma → event, perinne → tradition, juhla → celebration
+- mielipide → opinion, perustelu → justification, vaikutus → impact, osallistua → participate
+- vapaaehtoistyö → volunteer work, talkoot → communal work
+
+### E) Travel (Matkustaminen)
+- aikataulu → timetable, vaihto → transfer, myöhästyä → be late, matkatavara → luggage
+- varata → book, reitti → route, peruuttaa → cancel, kimppakyyti → carpool
+- perheloma → family holiday, joukkoliikenne → public transport
+
+### F) Health & Well-being (Terveys ja hyvinvointi)
+- oire → symptom, kipu → pain, kuume → fever, flunssa → flu
+- resepti → prescription, hoito → treatment, lääke → medicine
+- sairausloma → sick leave, sairauslomatodistus → sick leave certificate
+- terveyskeskus → health center, työterveys → occupational health, vointi → condition
+- terveellinen → healthy, liikunta → exercise, hyvinvointi → well-being
+
+### G) Work (Työ ja koulutus)
+- työsopimus → employment contract, työvuoro → shift, palkka → salary
+- työhaastattelu → job interview, työhakemus → job application, ansioluettelo → CV
+- osaaminen → competence, määräaikainen → fixed-term, irtisanoutua → resign
+- esimies → supervisor, etätyö → remote work, työaika → working hours
+- koulutus → education/training
+
+### H) Environment (Ympäristö)
+- kierrätys → recycling, lajittelu → sorting, päästöt → emissions
+- joukkoliikenne → public transport, luonnonsuojelu → nature protection
+- kulutus → consumption, kestävä → sustainable, jokamiehenoikeudet → everyman's rights
+
+### I) Society (Yhteiskunta)
+- viranomainen → authority, hakemus → application, kansalaisuus → citizenship
+- oikeus → right, velvollisuus → obligation, verotus → taxation
+- äänestys → voting, uutiset → news, tasa-arvo → equality
+- lastenhoito → childcare, kotitalous → household
+
+### Functional Phrase Clusters (High-Frequency Exam Moves)
+
+**Requesting / negotiating:**
+- Voisitko tarkentaa... (Could you clarify...)
+- Olisiko mahdollista, että... (Would it be possible that...)
+- Ehdotan, että... (I suggest that...)
+- Haluaisin varata/tilata/peruuttaa... (I would like to reserve/order/cancel...)
+
+**Complaining / reporting:**
+- Haluaisin tehdä reklamaation... (I would like to make a complaint...)
+- Tuote on viallinen... (The product is defective...)
+- Haluaisin ilmoittaa... (I would like to report...)
+- Asia ei ole kunnossa... (The matter is not in order...)
+
+**Opinion / argumentation:**
+- Olen sitä mieltä, että... (I am of the opinion that...)
+- Mun mielestä... (In my opinion... — spoken)
+- Toisaalta... (On the other hand...)
+- Perustelen tämän näin... (I justify this as follows...)
+- Syy on siinä, että... (The reason is that...)
+- Esimerkiksi... (For example...)
+- Tärkeää, koska... (Important, because...)
+
+**Declining / apologizing:**
+- Valitettavasti en pääse... (Unfortunately I can't make it...)
+- Anteeksi, mutta... (Sorry, but...)
+- En voi tulla, koska... (I can't come, because...)
+
+**Structuring speech/text:**
+- Ensinnäkin... (First of all...)
+- Lisäksi... (In addition...)
+- Toiseksi... (Secondly...)
+- Lopuksi... (Finally...)
+- Vaikka... koska... joten... (Although... because... therefore...)
 
 ---
 
-## 16. Learning Resources & Practice Materials
+## 16. Coverage Matrix for Practice Generation
 
-This section consolidates all known learning resources for YKI keskitaso preparation, organized by type.
+Use this matrix to ensure generated practice stays within plausible test territory and covers diverse combinations.
 
-### Free Online Resources
-| Resource | URL | Description |
-|----------|-----|-------------|
-| YLE YKItreeni | [yle.fi](https://yle.fi/a/20-146803) | Best free resource; 9 themes with listening, reading, vocabulary exercises |
-| JYU official demos | [ykitesti.solki.jyu.fi](https://ykitesti.solki.jyu.fi/en/tutustu-testiin/testifin/) | Closest to real test; includes all 4 subtests |
-| Kotisuomessa.fi | [kotisuomessa.fi](https://kotisuomessa.fi) | Integration Finnish; grammar, vocabulary, reading |
-| Gimara.fi | [gimara.fi](https://gimara.fi/) | Free online Finnish courses by theme |
-| HELAO exercises | [helao.fi](https://helao.fi/en/instructions-and-exercises-for-the-yki-test/) | Free YKI exercises from Helsinki Adult Education |
-| Suomi-koulujen tuki | [suomikoulut.fi](https://suomikoulut.fi/) | Materials for Finnish language learners |
-| Kielibuusti.fi | [kielibuusti.fi](https://kielibuusti.fi/) | Government-funded platform; self-study and courses |
-| yki-testi.fi | [yki-testi.fi](https://yki-testi.fi/) | Practice tests; claims ~90% topic repetition from real exams |
-| YKIFinnish.fi | [ykifinnish.fi](https://ykifinnish.fi/) | 1 free practice test; B1-B2 level guide |
-| Wordwall | [wordwall.net](https://wordwall.net/fi-fi/community/yki-keskitaso) | Community-made interactive exercises |
-| Quizlet | [quizlet.com](https://quizlet.com/subject/yki-keskitaso/) | Flashcard decks for YKI vocabulary |
+### Dimensions
 
-### Apps
-| App | Platform | Price | Notes |
-|-----|----------|-------|-------|
-| YKI Trainer | Android/iOS | 39 EUR lifetime | Structured practice for all 4 subtests |
-| Finnish It | iOS | Free/Freemium | Finnish learning with YKI-relevant content |
-| ykiGPT | Web (ChatGPT) | Free | AI-powered YKI practice conversation partner |
-| Moikka Plus | Web | Paid | [moikkaplus.fi](https://moikkaplus.fi/) — Online tutoring |
+**Task form:** dialogue reaction, role-play phone call, short message, formal letter/email, opinion text, MCQ/TF, open-answer comprehension, extended monologue
 
-### Textbooks
-| Title | Price | Notes |
-|-------|-------|-------|
-| YKIa kohti (Edita) | 41.80 EUR | Newest YKI prep book (2024); comprehensive |
-| Ykäänkö vai ykiinkö | ~30-40 EUR | "Highway to Hill" YKI workbook; practice-focused |
-| Hyvin menee 2 | Free in libraries | General B1 Finnish textbook |
-| Suomea paremmin | Out of print | Advanced intermediate; check libraries |
+**Register:** informal (friend/family), semi-formal (colleague/acquaintance), formal (authority/company)
 
-### Podcasts
-| Podcast | Price | Description |
-|---------|-------|-------------|
-| Finnishtogo | Paid subscription | Structured lessons with transcripts at multiple levels |
-| Helppoa suomea | Free | Easy Finnish for intermediate learners |
-| Random Finnish Lesson | Free | Casual conversational Finnish |
-| FinnishPod101 | Freemium | Structured series from beginner to advanced |
+**Language function:** request, explain, complain, justify opinion, negotiate, apologize, advise, describe, compare, narrate
 
-### Preparation Courses (Helsinki Area)
-| Provider | Price | Format |
-|----------|-------|--------|
-| HELAO (Helsingin aikuisopisto) | ~133 EUR | In-person, Helsinki |
-| HSKY (Kesäyliopisto) | ~135 EUR | In-person, Helsinki |
-| Taitotalo | ~300 EUR | In-person, Helsinki |
-| Konepajan aikuislukio | ~50 EUR | In-person, Helsinki |
-| Omnia | ~83 EUR | In-person, Espoo |
-| OpeMari | ~195 EUR | Online |
-| Waltari-opisto | 19-59 EUR | In-person, Helsinki |
-| Gotthilf Productions | ~140 EUR | Online + in-person |
-| YKI Pass | Varies | Online, self-paced |
-| Enjoy Finnish | Varies | Online with sample answers |
+**Context:** private life, services/shopping, authority/government, workplace, public issue/society
+
+### Sampling Rule for Practice Sets
+
+For each practice set (e.g., one learner's 56 videos), ensure at least:
+- 1 personal/daily scenario per 3 items
+- 1 service/authority scenario per 3 items
+- 1 opinion/public-issue scenario per 3 items
+- All 3 registers represented across the set
+- All 10 language functions represented across the set
+
+### Cross-Cutting Skills (appears across all themes)
+- Describe past events and future plans
+- Give 3+ reasons to support opinions
+- Role-play phone conversations and email exchanges
+- Understand instructions, advertisements, and news
+- Complain politely and negotiate solutions
+- Apologize and explain reasons
+- Switch between informal and formal registers
+
+---
+
+## 17. Update Protocol (for --update-research)
+
+### Monthly (high volatility)
+- OPH test-day page: dates, registration windows, start times
+- OPH registration page: fee/policy details
+- OPH after-test page: mailing status, reassessment rules
+
+### Quarterly (medium volatility)
+- Migri language-skill pages: citizenship language-proof rules, fee changes
+- Reddit r/LearnFinnish + Finland Forum + blog scan for newly reported test topics
+- Price table spot-check: HSL, healthcare fees, Migri fees
+
+### Yearly (low volatility)
+- OPH framework/specification documents and assessment criteria PDFs
+- Major structure/policy changes (OPH news announcements)
+- Resource link validation (check for dead URLs)
+
+### Data Hygiene Rules
+- Keep "Official" (OPH/Migri/JYU) and "Observed" (test-taker reports) sources distinguishable
+- Do not promote observed-only topics to official status without primary-source confirmation
+- For content generation, prioritize topics appearing in 2+ observed sources OR 1 observed + official-theme match
+- When updating prices, always note the source and date verified
