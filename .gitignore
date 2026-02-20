@@ -23,6 +23,9 @@ __pycache__/
 # Obsidian (local editor config)
 .obsidian/
 
+# Claude Code (local config and skills)
+.claude/
+
 # Environment
 .env
 
