@@ -109,7 +109,7 @@ This separation means new learner sets can reuse existing templates (fast path) 
 Media files, personal learner content, and copyrighted sources are gitignored:
 
 - `learners/*` — personal learner content (only `framework/` and sample `linh/` are tracked)
-- `audio/`, `video/` — regenerable from pipeline
+- `audio/`, `video/` — excluded due to size; fully regenerable from the `fi_en_package.md` source files using the pipeline scripts
 - `.pdf` files — copyrighted textbook scans (local reference only)
 - `.env` — API keys
 
