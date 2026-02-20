@@ -25,3 +25,8 @@ __pycache__/
 
 # Environment
 .env
+
+# Learner content — keep framework templates and sample (Linh) only
+learners/*
+!learners/framework/
+!learners/linh/
