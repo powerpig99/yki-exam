@@ -26,8 +26,9 @@ __pycache__/
 # Environment
 .env
 
-# Legacy supplementary content
+# Legacy content
 dialog_practice/
+scripts/build_all_dialog_videos.py
 
 # Learner content — keep framework templates and sample (Linh) only
 learners/*

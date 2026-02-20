@@ -51,7 +51,6 @@ YKI_exam/
 | `generate_dialog_tts_google.py` | Google Chirp 3 HD TTS — reads `fi_en_package.md`, generates per-turn audio with voice rotation |
 | `render_dialog_karaoke.py` | Karaoke video renderer — ASS subtitles with word timing, 1080x1920 H.264 |
 | `batch_generate.sh` | Generic batch launcher — auto-discovers IDs from learner directory, retry logic |
-| `build_all_dialog_videos.py` | Legacy batch orchestrator for sections 01-08 |
 | `validate_packages.py` | Validates FI/EN sentence count parity across all packages |
 
 See [scripts/README.md](scripts/README.md) for detailed usage.
