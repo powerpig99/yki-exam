@@ -115,4 +115,4 @@ Media files, personal learner content, and copyrighted sources are gitignored:
 
 ## License
 
-This project contains personalized educational content. The pipeline scripts are available for reference but the content is tailored to specific learners.
+[MIT](LICENSE) — pipeline scripts, templates, and sample imaginary learner content are all freely available.
