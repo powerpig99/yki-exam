@@ -1,6 +1,6 @@
 # YKI Keskitaso Exam Prep — Personalized Karaoke Videos
 
-Automated pipeline for generating personalized Finnish language practice videos for the [YKI keskitaso (intermediate) exam](https://www.oph.fi/en/services/yki-test-finnish). Each video is a karaoke-style dialogue with word-by-word Finnish highlighting and English subtitles, tailored to an individual learner's life context.
+Automated pipeline for generating personalized Finnish language practice videos for the [YKI keskitaso (intermediate) exam](https://www.oph.fi/en/national-certificates-language-proficiency-yki). Each video is a karaoke-style dialogue with word-by-word Finnish highlighting and English subtitles, tailored to an individual learner's life context.
 
 Includes a sample learner (Linh) with 56 complete dialogue packages for reference.
 
