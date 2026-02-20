@@ -4,7 +4,7 @@ Automated pipeline for generating personalized Finnish language practice videos 
 
 Includes a sample learner (Linh) with 56 complete dialogue packages for reference.
 
-<video src="sample.mp4" controls width="270"></video>
+[**Sample output video**](sample.mp4) (3.5MB, click to download and play)
 
 ## How It Works
 
