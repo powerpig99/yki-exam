@@ -4,6 +4,10 @@ Automated pipeline for generating personalized Finnish language practice videos 
 
 Includes a sample learner (Linh) with 56 complete dialogue packages for reference.
 
+**Sample output** — [sample.mp4](sample.mp4):
+
+https://github.com/powerpig99/yki-exam/raw/main/sample.mp4
+
 ## How It Works
 
 ```
