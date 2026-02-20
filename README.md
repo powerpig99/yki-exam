@@ -40,11 +40,7 @@ YKI_exam/
 │   │       ├── ker_01/ … ker_03/
 │   │       ├── mie_01/ … mie_05/
 │   │       └── wri_01/ … wri_07/
-│   ├── jing/                   # Per-learner: profile, plan, dialogues/
-│   ├── xiaoru/
-│   ├── linh/
-│   ├── jing_s2/
-│   └── xiaoru_s2/
+│   └── linh/                   # Sample learner: profile, plan, dialogues/
 └── dialog_practice/            # Supplementary practice materials
 ```
 
@@ -81,16 +77,16 @@ pip install python-dotenv google-cloud-texttospeech
 ```bash
 # TTS
 .venv/bin/python3 scripts/generate_dialog_tts_google.py \
-  --only xr_dia_01 --force --learner-gender female
+  --only li_dia_01 --force --learner-gender female
 
 # Video
-.venv/bin/python3 scripts/render_dialog_karaoke.py --only xr_dia_01 --force
+.venv/bin/python3 scripts/render_dialog_karaoke.py --only li_dia_01 --force
 ```
 
 ### Batch Generate for a Learner
 
 ```bash
-scripts/batch_generate.sh learners/xiaoru female ~/delivery/YKI_xiaoru/
+scripts/batch_generate.sh learners/linh female ~/delivery/YKI_linh/
 ```
 
 ## Content Architecture
@@ -122,8 +118,9 @@ This separation means new learner sets can reuse existing templates (fast path) 
 
 ## What's Not in Git
 
-Media files and copyrighted sources are gitignored:
+Media files, personal learner content, and copyrighted sources are gitignored:
 
+- `learners/*` — personal learner content (only `framework/` and sample `linh/` are tracked)
 - `audio/`, `video/` — regenerable from pipeline
 - `.pdf` files — copyrighted textbook scans (local reference only)
 - `.env` — API keys
