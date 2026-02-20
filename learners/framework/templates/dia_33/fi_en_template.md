@@ -1,41 +1,43 @@
-#### dia_33 — Sending package abroad at post office
-**Learner role:** A
+#### dia_33 — Checking out of hotel — late check-out request and minibar charge
+**Learner role:** B
 **Non-learner gender:** female
-**FI Konteksti:** Lähetät paketin ulkomaille postissa ja kysyt toimitusvaihtoehdoista, hinnoista ja tulliasioista.
-**EN Context:** You send a package abroad at the post office and ask about shipping options, prices, and customs.
+**FI Konteksti:** Kirjaudut ulos hotellista ja pyydät myöhäistä uloskirjautumista sekä selvität minibaarikuluja.
+**EN Context:** You check out of the hotel and request late check-out while clarifying a minibar charge.
 
 **FI Koko mallidialogi:**
-- **A**: <!-- LEARNER: greet, say you'd like to send a package to Germany, it weighs about 2 kilograms -->
-- **B**: Hei! Saksaan meillä on kaksi vaihtoehtoa. Peruslähetys menee noin viidessä seitsemässä arkipäivässä ja maksaa viisitoista euroa yhdeksänkymmentä senttiä. Pikalähetys kahdessa kolmessa arkipäivässä, kaksikymmentäseitsemän euroa viisikymmentä senttiä.
-- **A**: <!-- LEARNER: say the basic shipping is fine, ask if there's tracking included -->
-- **B**: Joo, peruslähetyksessä on seurantanumero mukana. Sä näät paketin etenemisen Postin sovelluksessa tai nettisivuilla.
-- **A**: <!-- LEARNER: ask about customs — do you need to fill in a customs form for EU countries -->
-- **B**: EU-maiden välillä ei tarvii tulliselvitystä. Mutta jos lähettäisit EU:n ulkopuolelle, niin silloin pitäisi täyttää tulliasiakirja ja ilmoittaa sisältö ja arvo.
-- **A**: <!-- LEARNER: say it contains books and chocolates, ask if there are any restrictions -->
-- **B**: Elintarvikkeita saa lähettää EU-sisällä. Suklaa on ihan okei. Nesteistä ja paineenalaisista aineista on rajoituksia. Paristoja ja akkuja saa lähettää vaan maateitse.
-- **A**: <!-- LEARNER: say there are no liquids or batteries, ask if you should insure the package -->
-- **B**: Vakuutus on vapaaehtoinen. Perusvakuutus sadan euron asti maksaa kolme euroa viisikymmentä senttiä. Jos kirjat on arvokkaita, niin kannattaa ottaa.
-- **A**: <!-- LEARNER: say the contents are worth about 40 euros, take the basic insurance, ask how to pay -->
-- **B**: Yhteensä tulee yhdeksäntoista euroa neljäkymmentä senttiä vakuutuksineen. Käy kortti, käteinen ja MobilePay. Kirjoita vastaanottajan osoite ja nimi tähän tarraan.
-- **A**: <!-- LEARNER: fill in the address label, ask when the package will arrive -->
-- **B**: Paketti lähtee tänään seuraavassa noudossa kello neljä ja on perillä noin viikon päästä. Vastaanottaja saa noutokutsun tekstiviestillä lähimpään noutopisteeseen. Tässä on kuitti ja seurantatunnus.
-- **A**: <!-- LEARNER: thank Tiina, say goodbye -->
-- **B**: Kiitos asioimisesta ja hyvää päivänjatkoa! Hei hei!
+- **A**: Hyvää huomenta! Onko aika lähteä vai voinko auttaa jossain?
+- **B**: <!-- LEARNER: greet, say you're checking out today but your train doesn't leave until 3 PM, ask if late check-out is possible -->
+- **A**: Normaali uloskirjautuminen on kello kaksitoista. Myöhäistä uloskirjautumista voi pyytää, se onnistuu kello neljääntoista asti kolmellakymmenellä eurolla. Kolmen jälkeen menee kokonaisen yön hinta.
+- **B**: <!-- LEARNER: say you'd like late check-out until 2 PM, that works perfectly, ask Tiina to add it to the bill -->
+- **A**: Selvä, mä merkitsen sen. Huone kolmesataakolmetoista, kaksi yötä plus myöhäinen uloskirjautuminen. Mä tulostan laskun sulle. Hetkinen.
+- **B**: <!-- LEARNER: look at the bill, say there's a minibar charge of twelve euros that you didn't use — you only drank the free bottled water -->
+- **A**: Mä katson. Täällä on merkitty kaksi olutta minibaarista eilen illalla. Oletteko varmoja, ettei kukaan käyttänyt minibaaria?
+- **B**: <!-- LEARNER: say you're sure, you didn't touch the minibar at all, ask if someone can check the minibar before you leave -->
+- **A**: Totta kai, mä pyydän kerroshoidon tarkistamaan. Jos kaikki on paikallaan, poistan kulun laskusta. Anteeksi vaivasta.
+- **B**: <!-- LEARNER: thank Tiina, while waiting ask about leaving luggage at the hotel after check-out until your train -->
+- **A**: Joo, meillä on ilmainen säilytys vastaanotossa uloskirjautumispäivänä. Jätä vaan laukut tähän, niin pidetään ne turvassa.
+- **B**: <!-- LEARNER: ask if there's a good restaurant nearby for lunch, and how to get to the train station from here -->
+- **A**: Tässä lähellä on Ravintola Satama, joka on suosittu lounaspaikka. Buffet on kolmetoista euroa viisikymmentä senttiä. Rautatieasema on noin puolentoista kilometrin päässä, noin kaksikymmentä minuuttia kävellen. Tai bussilla numero kolme pääsee suoraan tuosta kadun toiselta puolelta.
+- **B**: <!-- LEARNER: say you'll walk, ask about the total bill now that the minibar charge has been removed -->
+- **A**: Kerroshoidon tarkistus on tehty ja minibaarissa kaikki oli paikallaan. Mä oon poistanut sen laskusta. Yhteensä kaksi yötä sataneljäkymmentäviisi euroa per yö, plus myöhäinen uloskirjautuminen kolmekymmentä euroa. Yhteensä kolmesataakaksikymmentä euroa.
+- **B**: <!-- LEARNER: pay with card, thank Tiina for resolving the minibar issue and for a pleasant stay, say goodbye -->
+- **A**: Kiitos, {NIMI}, ja tervetuloa uudelleen! Hyvää matkaa ja hei hei!
 
 **EN Full sample dialogue:**
-- **A**: <!-- LEARNER: greet, say you'd like to send a package to Germany, it weighs about 2 kilograms -->
-- **B**: Hi! For Germany we have two options. Standard shipping takes about 5 to 7 business days and costs 15.90 euros. Express shipping in 2 to 3 business days, 27.50 euros.
-- **A**: <!-- LEARNER: say the basic shipping is fine, ask if there's tracking included -->
-- **B**: Yes, standard shipping includes a tracking number. You can follow the package's progress in the Posti app or on the website.
-- **A**: <!-- LEARNER: ask about customs — do you need to fill in a customs form for EU countries -->
-- **B**: Within EU countries you don't need a customs declaration. But if you were sending outside the EU, you'd need to fill in a customs document and declare the contents and value.
-- **A**: <!-- LEARNER: say it contains books and chocolates, ask if there are any restrictions -->
-- **B**: Food items can be sent within the EU. Chocolate is perfectly fine. There are restrictions on liquids and pressurized substances. Batteries can only be sent by ground transport.
-- **A**: <!-- LEARNER: say there are no liquids or batteries, ask if you should insure the package -->
-- **B**: Insurance is optional. Basic insurance up to 100 euros costs 3.50 euros. If the books are valuable, it's worth getting.
-- **A**: <!-- LEARNER: say the contents are worth about 40 euros, take the basic insurance, ask how to pay -->
-- **B**: The total comes to 19.40 euros including insurance. We accept card, cash, and MobilePay. Write the recipient's address and name on this label.
-- **A**: <!-- LEARNER: fill in the address label, ask when the package will arrive -->
-- **B**: The package will leave today on the next pickup at 4 PM and arrive in about a week. The recipient will get a pickup notification by text to the nearest pickup point. Here's your receipt and tracking number.
-- **A**: <!-- LEARNER: thank Tiina, say goodbye -->
-- **B**: Thanks for your visit and have a nice rest of the day! Bye bye!
+- **A**: Good morning! Is it time to leave, or can I help with something?
+- **B**: <!-- LEARNER: greet, say you're checking out today but your train doesn't leave until 3 PM, ask if late check-out is possible -->
+- **A**: Normal check-out is at noon. Late check-out can be requested, it's available until 2 PM for 30 euros. After 3 PM the full night rate applies.
+- **B**: <!-- LEARNER: say you'd like late check-out until 2 PM, that works perfectly, ask Tiina to add it to the bill -->
+- **A**: Alright, I'll note that. Room 313, 2 nights plus late check-out. Let me print your bill. One moment.
+- **B**: <!-- LEARNER: look at the bill, say there's a minibar charge of twelve euros that you didn't use — you only drank the free bottled water -->
+- **A**: Let me check. There are 2 beers listed from the minibar last night. Are you sure nobody used the minibar?
+- **B**: <!-- LEARNER: say you're sure, you didn't touch the minibar at all, ask if someone can check the minibar before you leave -->
+- **A**: Of course, I'll ask housekeeping to check. If everything is in place, I'll remove the charge from the bill. Sorry for the trouble.
+- **B**: <!-- LEARNER: thank Tiina, while waiting ask about leaving luggage at the hotel after check-out until your train -->
+- **A**: Yes, we have free storage at reception on the check-out day. Just leave the bags here and we'll keep them safe.
+- **B**: <!-- LEARNER: ask if there's a good restaurant nearby for lunch, and how to get to the train station from here -->
+- **A**: Nearby there's Ravintola Satama, a popular lunch spot. The buffet is 13.50 euros. The train station is about 1.5 kilometers away, about 20 minutes on foot. Or bus number 3 goes directly, the stop is across the street.
+- **B**: <!-- LEARNER: say you'll walk, ask about the total bill now that the minibar charge has been removed -->
+- **A**: Housekeeping has checked and everything was in place in the minibar. I've removed the charge. The total is 2 nights at 145 euros per night, plus late check-out 30 euros. A total of 320 euros.
+- **B**: <!-- LEARNER: pay with card, thank Tiina for resolving the minibar issue and for a pleasant stay, say goodbye -->
+- **A**: Thank you, {NAME}, and welcome back! Have a good trip and bye bye!

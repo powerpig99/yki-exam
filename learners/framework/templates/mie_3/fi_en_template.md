@@ -1,61 +1,61 @@
-#### mie_3 — Mielipide: Elämäntavat ja kulutus
+#### mie_3 — Mielipide: Liikenne ja ympäristö
 **Learner role:** B
 **Non-learner gender:** female
-**FI Konteksti:** Sinun pitää kertoa mielipiteesi eri aiheista, jotka liittyvät elämäntapoihin, kulutukseen ja yhteiskunnallisiin kysymyksiin. Haastattelija esittää väittämiä ja kysymyksiä.
-**EN Context:** You need to share your opinion on various topics related to lifestyles, consumption, and societal issues. The interviewer presents statements and questions.
+**FI Konteksti:** Sinun pitää kertoa mielipiteesi eri aiheista, jotka liittyvät liikenteeseen ja ympäristöön. Katja esittää väittämiä ja kysymyksiä.
+**EN Context:** You need to share your opinion on various topics related to transport and the environment. Katja presents statements and questions.
 
 **FI Koko mallidialogi:**
-- **A**: Aloitetaan ensimmäisestä aiheesta. Pitäisikö työpaikalla pukeutua virallisesti vai epävirallisesti? Mitä mieltä olet pukeutumissäännöistä töissä?
+- **A**: Aloitetaan ensimmäisestä aiheesta. Julkinen liikenne vai oma auto, kumpi on parempi arjessa? Mitä itse käytät ja miksi?
 - **B**: <!-- LEARNER -->
 
-- **A**: Seuraava aihe. Rikollisuus on lisääntymässä maailmassa. Oletko samaa mieltä vai eri mieltä? Miltä turvallisuustilanne näyttää?
+- **A**: Seuraava aihe. Pitäisikö pyörä- ja kävelyteitä lisätä kaupungeissa? Miten se vaikuttaisi arkeen ja liikenteeseen?
 - **B**: <!-- LEARNER -->
 
-- **A**: Entä tämä väite. Terveellinen elämä on jokaisen omalla vastuulla. Oletko samaa mieltä? Kenen vastuulla terveys on?
+- **A**: Entä tämä. Onko kotimaanmatkailu vähemmän käytännöllistä kuin ulkomaanmatkailu? Miten itse matkustat mieluiten?
 - **B**: <!-- LEARNER -->
 
-- **A**: Pitäisikö kotimaan matkailua suosia ulkomaanmatkojen sijaan? Mitä mieltä olet matkailusta ja sen ympäristövaikutuksista?
+- **A**: Ympäristönsuojelu, kenen vastuulla se on? Pitäisikö yksilöiden, yritysten vai valtion tehdä enemmän?
 - **B**: <!-- LEARNER -->
 
-- **A**: Iltasyöminen on epäterveellistä. Oletko samaa mieltä vai eri mieltä? Mitkä ovat sinun ruokailutottumuksesi?
+- **A**: Muovin käyttöä pitäisi vähentää. Miten se onnistuisi parhaiten arjessa? Mitä sinä teet muovin vähentämiseksi?
 - **B**: <!-- LEARNER -->
 
-- **A**: Pitäisikö Yle-veroa eli televisiomaksua periä? Mitä mieltä olet julkisen median rahoituksesta?
+- **A**: Sähköautot, ovatko ne tulevaisuus vai pelkkä muoti? Mitä mieltä olet sähköautojen hyödyistä ja haitoista?
 - **B**: <!-- LEARNER -->
 
-- **A**: Pienemmät asunnot ovat yleistymässä Suomessa. Onko tämä hyvä vai huono trendi? Mitä mieltä olet asuntojen koosta?
+- **A**: Pitäisikö lentomatkustamista verottaa enemmän? Miten lentovero vaikuttaisi matkustamiseen?
 - **B**: <!-- LEARNER -->
 
-- **A**: Pitäisikö rattijuopumuksen rajaa laskea? Mitä mieltä olet alkoholin ja liikenteen yhdistämisestä?
+- **A**: Kierrätys, riittääkö se ilmastonmuutoksen torjuntaan? Mitä muuta pitäisi tehdä ympäristön suojelemiseksi?
 - **B**: <!-- LEARNER -->
 
-- **A**: Viimeinen aihe. Nykymuoti on mautonta. Oletko samaa mieltä vai eri mieltä? Mikä on sinulle tärkeää pukeutumisessa?
+- **A**: Viimeinen aihe. Luonnossa liikkuminen parantaa terveyttä. Oletko samaa mieltä? Miten itse vietät aikaa luonnossa?
 - **B**: <!-- LEARNER -->
 
 **EN Full sample dialogue:**
-- **A**: Let's start with the first topic. Should one dress formally or informally at work? What do you think about dress codes at work?
+- **A**: Let's start with the first topic. Public transport or your own car, which is better in everyday life? What do you use yourself and why?
 - **B**: <!-- LEARNER -->
 
-- **A**: Next topic. Crime is increasing in the world. Do you agree or disagree? How does the safety situation look?
+- **A**: Next topic. Should there be more cycling and walking paths in cities? How would it affect everyday life and traffic?
 - **B**: <!-- LEARNER -->
 
-- **A**: How about this claim. A healthy life is everyone's own responsibility. Do you agree? Whose responsibility is health?
+- **A**: How about this. Is domestic travel less practical than travel abroad? How do you prefer to travel yourself?
 - **B**: <!-- LEARNER -->
 
-- **A**: Should domestic travel be preferred over foreign travel? What do you think about tourism and its environmental impact?
+- **A**: Environmental protection, whose responsibility is it? Should individuals, companies, or the government do more?
 - **B**: <!-- LEARNER -->
 
-- **A**: Eating late at night is unhealthy. Do you agree or disagree? What are your eating habits?
+- **A**: Plastic use should be reduced. How could that best be achieved in everyday life? What do you do to reduce plastic?
 - **B**: <!-- LEARNER -->
 
-- **A**: Should the Yle tax, the television fee, be collected? What do you think about the funding of public media?
+- **A**: Electric cars, are they the future or just a fad? What do you think about the benefits and drawbacks of electric cars?
 - **B**: <!-- LEARNER -->
 
-- **A**: Smaller apartments are becoming more common in Finland. Is this a good or bad trend? What do you think about apartment sizes?
+- **A**: Should air travel be taxed more? How would a flight tax affect travel?
 - **B**: <!-- LEARNER -->
 
-- **A**: Should the drink-driving limit be lowered? What do you think about combining alcohol and driving?
+- **A**: Recycling, is it enough to fight climate change? What else should be done to protect the environment?
 - **B**: <!-- LEARNER -->
 
-- **A**: Last topic. Modern fashion is tasteless. Do you agree or disagree? What is important to you in how you dress?
+- **A**: Last topic. Nature activities improve health. Do you agree? How do you spend time in nature yourself?
 - **B**: <!-- LEARNER -->

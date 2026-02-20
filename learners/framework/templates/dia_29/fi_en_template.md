@@ -1,41 +1,43 @@
-#### dia_29 — At pharmacy asking about medication
-**Learner role:** A
+#### dia_29 — Discussing flu vaccine options and side effects at pharmacy
+**Learner role:** B
 **Non-learner gender:** female
-**FI Konteksti:** Kysyt apteekissa reseptilääkkeestä ja geneerisistä vaihtoehdoista.
-**EN Context:** You ask at the pharmacy about a prescription medication and generic alternatives.
+**FI Konteksti:** Kysyt apteekissa influenssarokotevaihtoehdoista ja sivuvaikutuksista.
+**EN Context:** You ask at the pharmacy about flu vaccine options and side effects.
 
 **FI Koko mallidialogi:**
-- **A**: <!-- LEARNER: greet, say you have an electronic prescription from the doctor, give your name and date of birth -->
-- **B**: Kiitos, mä katson. Joo, täällä näkyy resepti amoksisilliinille, viidensadan milligramman tabletit. Se on antibioottikuuri kymmeneksi päiväksi.
-- **A**: <!-- LEARNER: ask how much the medication costs -->
-- **B**: Alkuperäinen valmiste maksaa kolmetoista euroa kahdeksankymmentä senttiä. Mutta sulle on edullisempi vaihtoehto, rinnakkaisvalmiste eli geneerinen lääke. Sama vaikuttava aine, mutta eri valmistaja. Se maksaa seitsemän euroa viisikymmentä senttiä.
-- **A**: <!-- LEARNER: ask if the generic works exactly the same way as the original -->
-- **B**: Kyllä. Fimea eli lääkeviranomainen vaatii, että rinnakkaisvalmisteet on biologisesti samanarvoisia. Ainoa ero on yleensä se, miltä tabletti näyttää.
-- **A**: <!-- LEARNER: say you'll take the generic version, ask about Kela reimbursement -->
-- **B**: Hyvä valinta. Kelan peruskorvaus on neljäkymmentä prosenttia, mutta ensin pitää täyttyä alkuomavastuu, joka on seitsemänkymmentä euroa ja kolmekymmentäkolme senttiä vuodessa. Mä katson järjestelmästä. Sulla on vielä omavastuuta jäljellä, eli tää lääke menee kokonaan omavastuuseen.
-- **A**: <!-- LEARNER: understand, ask about how to take the medication — before or after meals, how often -->
-- **B**: Ota yksi tabletti kolme kertaa päivässä, aina kahdeksan tunnin välein. Voi ottaa ruuan kanssa tai ilman, mutta ruuan kanssa se ei ärsytä niin paljon vatsaa.
-- **A**: <!-- LEARNER: ask if there are any side effects to be aware of or interactions with other medicines -->
-- **B**: Yleisin sivuvaikutus on vatsavaivat, kuten ripuli. Jos tulee ihottumaa tai hengitysvaikeuksia, lopeta lääke ja ota heti yhteys lääkäriin. Juotko mitään muita lääkkeitä tällä hetkellä?
-- **A**: <!-- LEARNER: say you take ibuprofen sometimes for headaches, ask if that's okay with the antibiotic -->
-- **B**: Joo, ibuprofeeni ja amoksisilliini sopii yhteen ihan hyvin. Muista vaan käydä koko kuuri loppuun, vaikka olo paranisi aikaisemmin.
-- **A**: <!-- LEARNER: thank Leena, say you'll take the medicine as instructed, pay and say goodbye -->
-- **B**: Ole hyvä. Hyvää paranemista! Tuu käymään, jos sulla tulee kysymyksiä lääkkeestä. Hei hei!
+- **A**: Hei, tervetuloa apteekkiin! Miten voin auttaa?
+- **B**: <!-- LEARNER: greet, say you'd like to get a flu vaccine, ask if the pharmacy provides vaccinations -->
+- **A**: Kyllä, meillä annetaan influenssarokotteita. Kuuluuko sä johonkin riskiryhmään, esimerkiksi yli kuusikymmentäviisivuotiaat, raskaana olevat tai pitkäaikaissairaat?
+- **B**: <!-- LEARNER: say you're not in a risk group, you just want to protect yourself during flu season, ask about the cost -->
+- **A**: Selvä. Riskiryhmille rokote on ilmainen terveyskeskuksessa. Mutta apteekissa me annetaan rokote kaikille. Rokotteen hinta on noin kolmekymmentä euroa ja rokotusmaksu on viisitoista euroa, eli yhteensä neljäkymmentäviisi euroa.
+- **B**: <!-- LEARNER: ask what vaccine brands are available and if there's a difference between them -->
+- **A**: Meillä on tällä hetkellä kaksi vaihtoehtoa. Tavallinen nelivaikutteinen influenssarokote ja tehostettu rokote, joka on suunnattu erityisesti yli kuusikymmentäviisivuotiaille. Sulle sopii se tavallinen nelivaikutteinen.
+- **B**: <!-- LEARNER: ask about side effects — what to expect after getting the vaccine -->
+- **A**: Yleisimmät sivuvaikutukset on pistoskohdan arkuus ja punoitus. Joillakin tulee lievää kuumetta tai väsymystä yhdeksi kahdeksi päiväksi. Vakavat sivuvaikutukset on erittäin harvinaisia.
+- **B**: <!-- LEARNER: ask if you should avoid exercise or sauna after the vaccine, and how long it takes for the vaccine to start working -->
+- **A**: Suosittelemme, että vältät raskasta liikuntaa rokotuspäivänä. Saunaan voi mennä seuraavana päivänä, jos olo on hyvä. Rokotteen suoja kehittyy noin kahdessa viikossa, siksi kannattaa ottaa rokote jo syksyllä ennen influenssakauden huippua.
+- **B**: <!-- LEARNER: say you'd like to get it now, ask if you can get the vaccine today or do you need an appointment -->
+- **A**: Meillä on rokotusaika vapaana tänään kello viisitoista. Se kestää noin viisitoista minuuttia, ja sen jälkeen odotat viisitoista minuuttia apteekissa varmuuden vuoksi.
+- **B**: <!-- LEARNER: say that time works, ask if you need to bring anything -->
+- **A**: Ota mukaan henkilöllisyystodistus ja Kela-kortti. Rokotus merkitään OmaKantaan automaattisesti.
+- **B**: <!-- LEARNER: thank Leena, confirm the time at 3 PM today, say goodbye -->
+- **A**: Hienoa, {NIMI}, nähdään kolmelta! Hei hei!
 
 **EN Full sample dialogue:**
-- **A**: <!-- LEARNER: greet, say you have an electronic prescription from the doctor, give your name and date of birth -->
-- **B**: Thanks, let me check. Yes, I can see a prescription for amoxicillin, 500-milligram tablets. It's an antibiotic course for 10 days.
-- **A**: <!-- LEARNER: ask how much the medication costs -->
-- **B**: The original brand costs 13.80 euros. But there's a cheaper option for you, a generic medicine. Same active ingredient, but a different manufacturer. It costs 7.50 euros.
-- **A**: <!-- LEARNER: ask if the generic works exactly the same way as the original -->
-- **B**: Yes. Fimea, the medicines authority, requires that generic medicines are bioequivalent. The only difference is usually what the tablet looks like.
-- **A**: <!-- LEARNER: say you'll take the generic version, ask about Kela reimbursement -->
-- **B**: Good choice. The Kela basic reimbursement is 40%, but first the initial deductible of 70.33 euros per year needs to be met. Let me check the system. You still have deductible left, so this medicine will go entirely toward the deductible.
-- **A**: <!-- LEARNER: understand, ask about how to take the medication — before or after meals, how often -->
-- **B**: Take one tablet 3 times a day, every 8 hours. You can take it with or without food, but with food it's less likely to upset your stomach.
-- **A**: <!-- LEARNER: ask if there are any side effects to be aware of or interactions with other medicines -->
-- **B**: The most common side effect is stomach trouble, like diarrhea. If you get a rash or difficulty breathing, stop the medication and contact a doctor right away. Are you taking any other medicines currently?
-- **A**: <!-- LEARNER: say you take ibuprofen sometimes for headaches, ask if that's okay with the antibiotic -->
-- **B**: Yes, ibuprofen and amoxicillin go together just fine. Just remember to finish the whole course, even if you start feeling better earlier.
-- **A**: <!-- LEARNER: thank Leena, say you'll take the medicine as instructed, pay and say goodbye -->
-- **B**: You're welcome. Get well soon! Come by if you have any questions about the medication. Bye bye!
+- **A**: Hi, welcome to the pharmacy! How can I help?
+- **B**: <!-- LEARNER: greet, say you'd like to get a flu vaccine, ask if the pharmacy provides vaccinations -->
+- **A**: Yes, we give flu vaccines. Do you belong to any risk group, for example over 65, pregnant, or with a chronic illness?
+- **B**: <!-- LEARNER: say you're not in a risk group, you just want to protect yourself during flu season, ask about the cost -->
+- **A**: Alright. For risk groups, the vaccine is free at the health center. But at the pharmacy, we vaccinate everyone. The vaccine costs about 30 euros and the vaccination fee is 15 euros, so 45 euros total.
+- **B**: <!-- LEARNER: ask what vaccine brands are available and if there's a difference between them -->
+- **A**: We currently have two options. The standard quadrivalent flu vaccine and an enhanced vaccine, which is specifically for those over 65. The standard quadrivalent one is right for you.
+- **B**: <!-- LEARNER: ask about side effects — what to expect after getting the vaccine -->
+- **A**: The most common side effects are soreness and redness at the injection site. Some people get a mild fever or fatigue for 1 to 2 days. Serious side effects are extremely rare.
+- **B**: <!-- LEARNER: ask if you should avoid exercise or sauna after the vaccine, and how long it takes for the vaccine to start working -->
+- **A**: We recommend avoiding heavy exercise on the vaccination day. You can go to sauna the next day if you feel fine. The vaccine's protection develops in about 2 weeks, so it's worth getting it in autumn before the peak of flu season.
+- **B**: <!-- LEARNER: say you'd like to get it now, ask if you can get the vaccine today or do you need an appointment -->
+- **A**: We have a vaccination slot available today at 3 PM. It takes about 15 minutes, and afterwards you wait 15 minutes at the pharmacy as a precaution.
+- **B**: <!-- LEARNER: say that time works, ask if you need to bring anything -->
+- **A**: Bring your ID and Kela card. The vaccination is recorded in OmaKanta automatically.
+- **B**: <!-- LEARNER: thank Leena, confirm the time at 3 PM today, say goodbye -->
+- **A**: Great, {NAME}, see you at 3! Bye bye!

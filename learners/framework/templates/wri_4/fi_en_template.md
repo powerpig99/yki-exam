@@ -1,31 +1,25 @@
-#### wri_4 — Kirjoittaminen: Vapaa-aika ja yhteiskunta
+#### wri_4 — Kirjoittaminen: Koulutus ja kehitys
 **Learner role:** B
 **Non-learner gender:** female
-**FI Konteksti:** Kirjoita erilaisia tekstejä vapaa-aikaan ja yhteiskuntaan liittyvistä aiheista.
-**EN Context:** Write various texts on leisure and society topics.
+**FI Konteksti:** Kirjoita erilaisia tekstejä koulutukseen ja kehitykseen liittyvistä aiheista.
+**EN Context:** Write various texts on education and development topics.
 
 **FI Koko mallidialogi:**
-- **A**: Tehtävä yksi, postikortti ystävälle. Olet lomalla ja kirjoitat ystävällesi postikortin. Kerro, millainen sää on, mitä olet tehnyt lomalla ja millainen tunnelma siellä on. Toivota ystävällesi terveisiä.
+- **A**: Tehtävä yksi, viesti ystävälle. Olet löytänyt mielenkiintoisen kurssin ja haluat kertoa siitä ystävällesi Tiinalle. Kirjoita hänelle viesti, jossa kerrot millainen kurssi on, miksi se kiinnostaa sinua ja ehdotat, että hänkin voisi osallistua.
 - **B**: <!-- LEARNER -->
-
-- **A**: Tehtävä kaksi, kirje vapaaehtoisjärjestölle. Haluat ryhtyä vapaaehtoistyöntekijäksi paikallisessa järjestössä. Kirjoita järjestölle virallinen kirje, jossa kerrot itsestäsi ja taustastasi, selität miksi haluat tehdä vapaaehtoistyötä ja kerrot milloin olet käytettävissä. Kysy myös, millaista apua he tarvitsevat.
+- **A**: Tehtävä kaksi, hakemus aikuisopiston kurssille. Haluat ilmoittautua aikuisopiston suomen kielen kurssille. Kirjoita aikuisopiston koulutussihteerille virallinen hakemus, jossa kerrot nykyisen kielitaitosi tason, selität miksi haluat osallistua kurssille ja kysyt kurssin aikataulusta, hinnasta ja vaatimuksista.
 - **B**: <!-- LEARNER -->
-
-- **A**: Tehtävä kolme, mielipide A. Pitäisikö lääkärikäyntien olla ilmaisia kaikille? Kirjoita mielipiteesi ja perustele se.
+- **A**: Tehtävä kolme, mielipide A. Koulutus kannattaa aina, sillä se avaa uusia mahdollisuuksia. Kirjoita mielipiteesi ja perustele se.
 - **B**: <!-- LEARNER -->
-
-- **A**: Tehtävä kolme, mielipide B. Onko koulutus aina kannattavaa? Kirjoita mielipiteesi ja perustele se.
+- **A**: Tehtävä kolme, mielipide B. Työkokemus on tärkeämpää kuin koulutus. Kirjoita mielipiteesi ja perustele se.
 - **B**: <!-- LEARNER -->
 
 **EN Full sample dialogue:**
-- **A**: Task one, postcard to a friend. You are on vacation and writing a postcard to your friend. Tell about the weather, what you have done on your holiday, and what the atmosphere is like. Send your regards.
+- **A**: Task one, message to a friend. You've found an interesting course and want to tell your friend Tiina about it. Write her a message describing what the course is like, why it interests you, and suggesting that she could also participate.
 - **B**: <!-- LEARNER -->
-
-- **A**: Task two, letter to a volunteer organization. You want to become a volunteer at a local organization. Write a formal letter telling about yourself and your background, explaining why you want to volunteer, and stating when you are available. Also ask what kind of help they need.
+- **A**: Task two, application to an adult education course. You want to enroll in a Finnish language course at an adult education center. Write a formal application to the education secretary describing your current language level, explaining why you want to participate in the course, and asking about the schedule, price, and requirements.
 - **B**: <!-- LEARNER -->
-
-- **A**: Task three, opinion A. Should doctor visits be free for everyone? Write your opinion and justify it.
+- **A**: Task three, opinion A. Education is always worthwhile because it opens up new opportunities. Write your opinion and justify it.
 - **B**: <!-- LEARNER -->
-
-- **A**: Task three, opinion B. Is education always worthwhile? Write your opinion and justify it.
+- **A**: Task three, opinion B. Work experience is more important than education. Write your opinion and justify it.
 - **B**: <!-- LEARNER -->

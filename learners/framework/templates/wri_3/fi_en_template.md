@@ -1,31 +1,25 @@
-#### wri_3 — Kirjoittaminen: Terveys ja kuluttaja-asiat
+#### wri_3 — Kirjoittaminen: Terveys ja hyvinvointi
 **Learner role:** B
-**Non-learner gender:** female
-**FI Konteksti:** Kirjoita erilaisia tekstejä terveyteen ja kuluttaja-asioihin liittyvistä aiheista.
-**EN Context:** Write various texts on health and consumer affairs topics.
+**Non-learner gender:** male
+**FI Konteksti:** Kirjoita erilaisia tekstejä terveyteen ja hyvinvointiin liittyvistä aiheista.
+**EN Context:** Write various texts on health and well-being topics.
 
 **FI Koko mallidialogi:**
-- **A**: Tehtävä yksi, viesti työkaveille. Olet sairas etkä pääse töihin tänään. Kirjoita viesti työkaveillesi, jossa kerrot tilanteestasi ja pyydät heitä välittämään viestin esimiehellesi. Mainitse myös, onko sinulla keskeneräisiä työtehtäviä, jotka pitää hoitaa.
+- **A**: Tehtävä yksi, viesti kollegalle. Olet sairaslomalla etkä pääse töihin. Kirjoita kollegallesi Antille viesti, jossa kerrot tilanteestasi, pyydät häntä hoitamaan kiireellisimmät tehtäväsi ja arvioit milloin palaat töihin.
 - **B**: <!-- LEARNER -->
-
-- **A**: Tehtävä kaksi, sähköposti verkkokauppaan. Tilasit tuotteen verkkokaupasta, mutta se on viallinen. Kirjoita verkkokaupan asiakaspalveluun virallinen sähköposti, jossa kerrot mitä tilasit ja milloin, kuvaat vian tarkasti ja kerrot mitä vaadit hyvitykseksi. Liitä mukaan tilausnumerosi.
+- **A**: Tehtävä kaksi, palaute terveyskeskukseen. Kävit äskettäin terveyskeskuksessa. Kirjoita virallinen palaute terveyskeskuksen palvelusta. Kerro mikä toimi hyvin vastaanotolla, mikä ei toiminut ja miten palvelua voisi parantaa. Mainitse myös käyntisi ajankohta.
 - **B**: <!-- LEARNER -->
-
-- **A**: Tehtävä kolme, mielipide A. Onko Suomessa tarpeeksi liikuntamahdollisuuksia kaikille? Kirjoita mielipiteesi ja perustele se.
+- **A**: Tehtävä kolme, mielipide A. Liikunta on paras lääke useimpiin vaivoihin. Kirjoita mielipiteesi ja perustele se.
 - **B**: <!-- LEARNER -->
-
-- **A**: Tehtävä kolme, mielipide B. Ovatko elintarvikkeet Suomessa liian kalliita? Kirjoita mielipiteesi ja perustele se.
+- **A**: Tehtävä kolme, mielipide B. Lepo ja ravinto ovat tärkeämpiä kuin liikunta. Kirjoita mielipiteesi ja perustele se.
 - **B**: <!-- LEARNER -->
 
 **EN Full sample dialogue:**
-- **A**: Task one, message to coworkers. You are sick and cannot come to work today. Write a message to your coworkers explaining your situation and asking them to pass the message to your supervisor. Also mention if you have any unfinished tasks that need to be handled.
+- **A**: Task one, message to a colleague. You are on sick leave and cannot come to work. Write a message to your colleague Antti explaining your situation, asking him to handle your most urgent tasks, and estimating when you will return to work.
 - **B**: <!-- LEARNER -->
-
-- **A**: Task two, email to an online store. You ordered a product from an online store but it is defective. Write a formal email to the store's customer service describing what you ordered and when, explaining the defect in detail, and stating what compensation you require. Include your order number.
+- **A**: Task two, feedback to a health center. You recently visited a health center. Write formal feedback about the health center's service. Describe what worked well during the visit, what did not work, and how the service could be improved. Also mention the date of your visit.
 - **B**: <!-- LEARNER -->
-
-- **A**: Task three, opinion A. Are there enough sports and exercise opportunities for everyone in Finland? Write your opinion and justify it.
+- **A**: Task three, opinion A. Exercise is the best medicine for most ailments. Write your opinion and justify it.
 - **B**: <!-- LEARNER -->
-
-- **A**: Task three, opinion B. Are food prices in Finland too high? Write your opinion and justify it.
+- **A**: Task three, opinion B. Rest and nutrition are more important than exercise. Write your opinion and justify it.
 - **B**: <!-- LEARNER -->

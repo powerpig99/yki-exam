@@ -1,39 +1,43 @@
-#### dia_01 — Calling about a rental apartment ad
+#### dia_01 — Signing a new rental lease with landlord
 **Learner role:** B
 **Non-learner gender:** female
-**FI Konteksti:** Soitat vuokra-asuntoilmoituksesta ja kysyt asunnon yksityiskohdista, vuokrasta ja näyttöajasta.
-**EN Context:** You call about a rental apartment ad and ask about the apartment details, rent, and viewing time.
+**FI Konteksti:** Tapaat vuokranantajan allekirjoittamaan vuokrasopimuksen ja keskustelet vakuudesta, säännöistä ja muuttopäivästä.
+**EN Context:** You meet the landlord to sign a rental lease and discuss the deposit, rules, and move-in date.
 
 **FI Koko mallidialogi:**
-- **A**: Hei, täällä Laura Mäkelä, Vuokramaailma-välityksestä. Miten voin auttaa?
-- **B**: <!-- LEARNER: introduce self, say calling about the two-room apartment ad on Oikotie, ask if still available -->
-- **A**: Joo, se kaksio Sörnäisissä on vielä vapaana. Neljäkymmentäseitsemän neliötä kolmannessa kerroksessa.
-- **B**: <!-- LEARNER: ask about the monthly rent and what is included -->
-- **A**: Vuokra on tuhatyksitoista euroa kuussa. Vesimaksu ja netti sisältyy, sähkö tulee erikseen. Vakuusmaksu on kahden kuukauden vuokra.
-- **B**: <!-- LEARNER: ask about the condition — when was the apartment last renovated -->
-- **A**: Kylpyhuone remontoitiin viime vuonna ja parketit hiottiin samalla. Keittiö on alkuperäinen mutta hyväkuntoinen.
-- **B**: <!-- LEARNER: ask about storage space and laundry facilities in the building -->
-- **A**: Kellarikerroksessa on oma varasto jokaiselle asunnolle ja pesutupa, joka varataan netissä. Pihalla on pari autopaikkaa mutta ne on kaikki varattuja.
-- **B**: <!-- LEARNER: ask when you could come see the apartment -->
-- **A**: Meillä on yleinen näyttö ensi tiistaina kello viideltä. Tuokaa mukaan henkilöllisyystodistus ja palkkatodistus.
-- **B**: <!-- LEARNER: say Tuesday works, ask about the lease type — fixed-term or open-ended -->
-- **A**: Sopimus on toistaiseksi voimassa oleva. Vuokralaisen irtisanomisaika on yksi kuukausi ja vuokranantajan kolme kuukautta.
-- **B**: <!-- LEARNER: confirm attending the showing on Tuesday, thank Laura, say goodbye -->
-- **A**: Kiitos soitosta! Nähdään tiistaina. Osoite on Sörnäisten rantatie kaksitoista B. Hei hei!
+- **A**: Tervetuloa, {NIMI}! Kiva kun pääsit tulemaan. Mä oon Laura, vuokranantaja. Istutaanko keittiön pöydän ääreen niin käydään sopimus läpi?
+- **B**: <!-- LEARNER: greet Laura, say happy to be here, agree to go through the contract -->
+- **A**: Hyvä. Tässä on vuokrasopimus. Vuokra on yhdeksänsataaneljäkymmentä euroa kuussa, ja siihen sisältyy vesimaksu. Sähkö ja netti tulee sun nimiin erikseen.
+- **B**: <!-- LEARNER: ask about the deposit — how much it is and when it needs to be paid -->
+- **A**: Vakuusmaksu on kahden kuukauden vuokra eli tuhatyhdeksänsataakahdeksankymmentä euroa. Se pitää maksaa ennen avainten luovutusta. Mä palautan sen kokonaan kun sä muutat pois, jos asunto on hyvässä kunnossa.
+- **B**: <!-- LEARNER: say understood, ask about house rules — pets, smoking, quiet hours -->
+- **A**: Taloyhtiössä on hiljaisuus kello kymmenestä illalla seitsemään aamulla. Tupakointi on kielletty parvekkeella ja sisätiloissa. Lemmikkieläimet on sallittuja mutta niistä pitää ilmoittaa isännöitsijälle.
+- **B**: <!-- LEARNER: ask about laundry room and sauna booking system -->
+- **A**: Pesutupa ja sauna varataan sovelluksella, se on nimeltään TaloVaraus. Mä annan sulle tunnukset kun muutat sisään. Saunavuorot on tiistaisin ja perjantaisin.
+- **B**: <!-- LEARNER: ask about the move-in date — could it be the first of next month -->
+- **A**: Joo, sopimus alkaa ensi kuun ensimmäinen päivä. Mä voin antaa avaimet jo edellisenä päivänä illalla niin pääset rauhassa järjestelemään.
+- **B**: <!-- LEARNER: say that sounds great, ask if there is a storage unit included -->
+- **A**: Kellarikerroksessa on oma varastokomero, numero kaksitoista. Siellä mahtuu hyvin polkupyörät ja muut tavarat. Autopaikka pitää varata erikseen taloyhtiöltä, ne maksaa viisikymmentä euroa kuussa.
+- **B**: <!-- LEARNER: ask about the notice period for ending the lease -->
+- **A**: Sopimus on toistaiseksi voimassa oleva. Sun irtisanomisaika on yksi kuukausi ja mun kolme kuukautta. Se on ihan normaali käytäntö Suomessa.
+- **B**: <!-- LEARNER: say everything sounds good, ready to sign the contract -->
+- **A**: Mahtavaa! Tässä on kaksi kappaletta, allekirjoita molemmat. Toinen jää sulle ja toinen mulle. Tervetuloa taloon, {NIMI}!
 
 **EN Full sample dialogue:**
-- **A**: Hi, this is Laura Mäkelä from Vuokramaailma rental agency. How can I help?
-- **B**: <!-- LEARNER: introduce self, say calling about the two-room apartment ad on Oikotie, ask if still available -->
-- **A**: Yes, the two-room apartment in Sörnäinen is still available. 47 square meters on the third floor.
-- **B**: <!-- LEARNER: ask about the monthly rent and what is included -->
-- **A**: The rent is 1011 euros per month. Water and internet are included, electricity is separate. The deposit is two months' rent.
-- **B**: <!-- LEARNER: ask about the condition — when was the apartment last renovated -->
-- **A**: The bathroom was renovated last year and the parquet floors were sanded at the same time. The kitchen is original but in good condition.
-- **B**: <!-- LEARNER: ask about storage space and laundry facilities in the building -->
-- **A**: There's a private storage unit for each apartment in the basement and a laundry room that's booked online. There are a couple of parking spaces in the yard but they're all reserved.
-- **B**: <!-- LEARNER: ask when you could come see the apartment -->
-- **A**: We have a general showing next Tuesday at 5 PM. Bring an ID and a salary certificate.
-- **B**: <!-- LEARNER: say Tuesday works, ask about the lease type — fixed-term or open-ended -->
-- **A**: The lease is open-ended. The tenant's notice period is one month and the landlord's is three months.
-- **B**: <!-- LEARNER: confirm attending the showing on Tuesday, thank Laura, say goodbye -->
-- **A**: Thanks for calling! See you on Tuesday. The address is Sörnäisten rantatie 12 B. Bye bye!
+- **A**: Welcome, {NAME}! Nice that you could make it. I'm Laura, the landlord. Shall we sit at the kitchen table and go through the contract?
+- **B**: <!-- LEARNER: greet Laura, say happy to be here, agree to go through the contract -->
+- **A**: Good. Here is the rental contract. The rent is 940 euros per month, and water is included. Electricity and internet go under your name separately.
+- **B**: <!-- LEARNER: ask about the deposit — how much it is and when it needs to be paid -->
+- **A**: The deposit is two months' rent, so 1,980 euros. It must be paid before the key handover. I'll return it in full when you move out, if the apartment is in good condition.
+- **B**: <!-- LEARNER: say understood, ask about house rules — pets, smoking, quiet hours -->
+- **A**: The building has quiet hours from 10 PM to 7 AM. Smoking is prohibited on the balcony and indoors. Pets are allowed but you need to notify the property manager.
+- **B**: <!-- LEARNER: ask about laundry room and sauna booking system -->
+- **A**: The laundry room and sauna are booked through an app called TaloVaraus. I'll give you the login when you move in. Sauna slots are on Tuesdays and Fridays.
+- **B**: <!-- LEARNER: ask about the move-in date — could it be the first of next month -->
+- **A**: Yes, the contract starts on the first of next month. I can give you the keys the evening before so you can settle in at your own pace.
+- **B**: <!-- LEARNER: say that sounds great, ask if there is a storage unit included -->
+- **A**: There's a private storage room in the basement, number 12. There's plenty of space for bikes and other stuff. A parking spot has to be reserved separately from the housing company, they cost 50 euros per month.
+- **B**: <!-- LEARNER: ask about the notice period for ending the lease -->
+- **A**: The lease is open-ended. Your notice period is one month and mine is three months. That's the standard practice in Finland.
+- **B**: <!-- LEARNER: say everything sounds good, ready to sign the contract -->
+- **A**: Wonderful! Here are two copies, sign both. One stays with you and one with me. Welcome to the building, {NAME}!

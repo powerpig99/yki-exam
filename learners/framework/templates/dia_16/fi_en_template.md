@@ -1,43 +1,49 @@
-#### dia_16 — Buying train tickets for family trip
-**Learner role:** B
-**Non-learner gender:** female
-**FI Konteksti:** Soitat VR:n asiakaspalveluun ja kysyt perheloman junalipuista, aikatauluista, hinnoista ja perhealennuksesta.
-**EN Context:** You call VR customer service and ask about train tickets for a family holiday, timetables, prices, and family discount.
+#### dia_16 — Buying a used car from a private seller
+**Learner role:** A
+**Non-learner gender:** male
+**FI Konteksti:** Tapaat yksityismyyjän ja keskustelette käytetyn auton kunnosta, koeajosta, papereista ja hinnasta.
+**EN Context:** You meet a private seller and discuss the used car's condition, test drive, paperwork, and price.
 
 **FI Koko mallidialogi:**
-- **A**: VR:n asiakaspalvelu, Minna puhelimessa. Miten voin auttaa?
-- **B**: <!-- LEARNER: greet, say planning a family trip to Tampere, ask about train schedules for Saturday morning -->
-- **A**: Lauantaisin Helsingistä Tampereelle lähtee junia kello kahdeksan nolla nolla, yhdeksän nolla nolla ja kymmenen kolmekymmentä. Matka kestää noin tunti neljäkymmentäviisi minuuttia.
-- **B**: <!-- LEARNER: say the nine o'clock train works best, ask about ticket prices for two adults and two children -->
-- **A**: Peruslippu aikuiselle on kaksikymmentäkuusi euroa suuntaan. Lapset neljästä kuuteen vuotta matkustavat ilmaiseksi aikuisen kanssa ilman omaa paikkaa. Seitsemästä kuuteentoista vuotiaat saavat viisikymmentä prosenttia alennusta.
-- **B**: <!-- LEARNER: say children are 8 and 11, ask what total price would be for the family one way -->
-- **A**: Kaksi aikuislippua on yhteensä viisikymmentäkaksi euroa ja kaksi lapsenlippua kolmetoista euroa per kappale eli yhteensä kaksikymmentäkuusi euroa. Kokonaishinta suuntaan on seitsemänkymmentäkahdeksan euroa.
-- **B**: <!-- LEARNER: ask about return tickets — is there a discount for buying round trip -->
-- **A**: Meno-paluulipussa ei ole automaattista alennusta, mutta säästölipuilla voi saada halvemman hinnan. Säästölippu aikuiselle Tampereelle voi olla jopa kahdeksan euroa, mutta ne on sidottuja tiettyyn junaan eikä niitä voi vaihtaa.
-- **B**: <!-- LEARNER: ask if there are family compartments or reserved seats available -->
-- **A**: Kyllä. Perheosastossa on neljän hengen istuinryhmä pöydän ympärillä. Paikanvaraus maksaa neljä euroa viisikymmentä senttiä per paikka. Perheen kanssa se on kätevä vaihtoehto.
-- **B**: <!-- LEARNER: say want to reserve the family compartment, ask about luggage — can bring stroller -->
-- **A**: Totta kai. Rattaat saa tuoda ilmaiseksi junaan. Junassa on oma tila rattaille ja isoille matkatavaroille vaununpäässä. Lastenvaunupaikka on lähellä perheosastoa.
-- **B**: <!-- LEARNER: ask about catering on the train — is there a restaurant car -->
-- **A**: Kyllä, InterCity-junissa on ravintolavaunu. Siellä saa kahvia, välipaloja ja lämmintä ruokaa. Lasten aterialla on oma menu noin kuusi euroa.
-- **B**: <!-- LEARNER: thank for all the info, say will book tickets online, ask if can pay with MobilePay -->
-- **A**: Verkkokaupassa voi maksaa kortilla, verkkopankissa tai MobilePaylla. Liput tulee VR:n sovellukseen. Hyvää matkaa perheelle!
+- **A**: <!-- LEARNER: greet, say saw the car ad on Tori.fi, say came to look at the Volkswagen Golf -->
+- **B**: Hei! Mä olen Pekka. Tervetuloa katsomaan. Auto on tuossa pihassa. Tää on vuoden kaksituhattakaksikymmentä malli ja mittarissa on satakaksikymmentätuhatta kilometriä.
+- **A**: <!-- LEARNER: ask about the car's general condition — any problems or repairs -->
+- **B**: Auto on hyväkuntoinen. Jakohihna vaihdettiin satatuhatta kilometriä kohdalla ja jarrupalat on uudet. Renkaat on viime syksyn talvirenkaat, niin ne kestää vielä tämän talven.
+- **A**: <!-- LEARNER: ask about the inspection — when was the last one and when is the next due -->
+- **B**: Katsastus käytiin viime lokakuussa ja seuraava on lokakuussa kaksituhattakaksikymmentäkuusi. Katsastus meni läpi ilman huomautuksia. Mä voin näyttää katsastustodistuksen.
+- **A**: <!-- LEARNER: ask if the car has had any accidents or body damage -->
+- **B**: Ei mitään isompaa. Takalokasuojassa on pieni naarmu parkkipaikalta, mutta se on kosmeettinen. Rakenteellisia vaurioita ei ole. Mä voin näyttää huoltohistorian.
+- **A**: <!-- LEARNER: say would like to see the service history, ask if can do a test drive -->
+- **B**: Totta kai. Tässä on huoltokirja, kaikki huollot on tehty merkkihuollossa. Koeajo sopii hyvin. Mä tulen mukaan, ja ajetaan tuossa lähikaduilla kierros.
+- **A**: <!-- LEARNER: after test drive — say car drives well, engine sounds smooth, ask about the asking price -->
+- **B**: Mä pyydän siitä yhdeksäntuhattaviisisataa euroa. Samaa mallia myydään netissä kymmenestätuhannesta kahteentoista tuhanteen euroon, niin mun mielestä hinta on reilu.
+- **A**: <!-- LEARNER: say price is a bit high, offer eight thousand five hundred, mention still need to buy summer tires -->
+- **B**: Hmm, kahdeksantuhattaviisisataa on vähän liian vähän. Mä voin tulla vastaan ja myydä yhdeksällätuhannella eurolla. Siihen sisältyy talvirenkaat vanteilla ja laturijohto.
+- **A**: <!-- LEARNER: accept nine thousand, ask about the paperwork — what needs to be done for ownership transfer -->
+- **B**: Kauppakirjan mä teen kahtena kappaleena. Omistajan vaihto pitää ilmoittaa Traficomiin seitsemän päivän sisällä verkossa. Mä näytän miten se tehdään. Vakuutuksen pitää olla voimassa ennen kuin ajat pois.
+- **A**: <!-- LEARNER: say will arrange insurance today, ask when can pick up the car -->
+- **B**: Voit hakea auton heti kun vakuutus on kunnossa. Mä suosittelen, että maksat tilisiirrolla, niin jää kuitti molemmille. Mun tilinumero on kauppakirjassa.
+- **A**: <!-- LEARNER: agree, say will transfer money today, thank Pekka, say nice doing business -->
+- **B**: Kiitos samoin! Mä laitan kauppakirjan valmiiksi. Ilmoita mulle, kun maksu näkyy tilillä, niin voit tulla hakemaan auton. Onnea uuden auton kanssa!
 
 **EN Full sample dialogue:**
-- **A**: VR customer service, Minna speaking. How can I help?
-- **B**: <!-- LEARNER: greet, say planning a family trip to Tampere, ask about train schedules for Saturday morning -->
-- **A**: On Saturdays, trains from Helsinki to Tampere depart at eight, nine, and ten thirty. The journey takes about one hour and forty-five minutes.
-- **B**: <!-- LEARNER: say the nine o'clock train works best, ask about ticket prices for two adults and two children -->
-- **A**: A standard ticket for an adult is 26 euros one way. Children aged four to six travel for free with an adult without their own seat. Children aged seven to sixteen get a fifty percent discount.
-- **B**: <!-- LEARNER: say children are 8 and 11, ask what total price would be for the family one way -->
-- **A**: Two adult tickets total 52 euros and two children's tickets are 13 euros each, so 26 euros in total. The total price one way is 78 euros.
-- **B**: <!-- LEARNER: ask about return tickets — is there a discount for buying round trip -->
-- **A**: There's no automatic discount for round-trip tickets, but saver tickets can offer a cheaper price. A saver ticket for an adult to Tampere can be as low as 8 euros, but they are tied to a specific train and cannot be changed.
-- **B**: <!-- LEARNER: ask if there are family compartments or reserved seats available -->
-- **A**: Yes. The family section has a four-person seating group around a table. Seat reservation costs 4 euros 50 cents per seat. It's a convenient option for families.
-- **B**: <!-- LEARNER: say want to reserve the family compartment, ask about luggage — can bring stroller -->
-- **A**: Of course. Strollers can be brought on the train for free. The train has a dedicated space for strollers and large luggage at the end of the carriage. The stroller area is near the family section.
-- **B**: <!-- LEARNER: ask about catering on the train — is there a restaurant car -->
-- **A**: Yes, InterCity trains have a restaurant car. They serve coffee, snacks, and hot food. The children's meal has its own menu for about 6 euros.
-- **B**: <!-- LEARNER: thank for all the info, say will book tickets online, ask if can pay with MobilePay -->
-- **A**: In the online shop you can pay by card, online banking, or MobilePay. Tickets go to the VR app. Have a great trip with the family!
+- **A**: <!-- LEARNER: greet, say saw the car ad on Tori.fi, say came to look at the Volkswagen Golf -->
+- **B**: Hi! I'm Pekka. Welcome to have a look. The car is right there in the yard. It's a 2020 model with 120,000 kilometers on the clock.
+- **A**: <!-- LEARNER: ask about the car's general condition — any problems or repairs -->
+- **B**: The car is in good condition. The timing belt was changed at 100,000 kilometers and the brake pads are new. The tires are last autumn's winter tires, so they'll last this winter.
+- **A**: <!-- LEARNER: ask about the inspection — when was the last one and when is the next due -->
+- **B**: The inspection was done last October and the next one is in October 2026. It passed without any remarks. I can show you the inspection certificate.
+- **A**: <!-- LEARNER: ask if the car has had any accidents or body damage -->
+- **B**: Nothing major. The rear fender has a small scratch from a parking lot, but it's cosmetic. No structural damage. I can show you the service history.
+- **A**: <!-- LEARNER: say would like to see the service history, ask if can do a test drive -->
+- **B**: Of course. Here's the service book, all maintenance has been done at authorized service. A test drive works well. I'll come along and we'll drive a loop around the nearby streets.
+- **A**: <!-- LEARNER: after test drive — say car drives well, engine sounds smooth, ask about the asking price -->
+- **B**: I'm asking 9,500 euros for it. The same model sells online for 10,000 to 12,000 euros, so I think the price is fair.
+- **A**: <!-- LEARNER: say price is a bit high, offer eight thousand five hundred, mention still need to buy summer tires -->
+- **B**: Hmm, 8,500 is a bit too low. I can meet you halfway and sell for 9,000 euros. That includes the winter tires on rims and the charger cable.
+- **A**: <!-- LEARNER: accept nine thousand, ask about the paperwork — what needs to be done for ownership transfer -->
+- **B**: I'll prepare the sales contract in two copies. The ownership transfer must be reported to Traficom within seven days online. I'll show you how it's done. Insurance must be in effect before you drive away.
+- **A**: <!-- LEARNER: say will arrange insurance today, ask when can pick up the car -->
+- **B**: You can pick up the car as soon as the insurance is in order. I recommend paying by bank transfer so both of us have a receipt. My account number is in the sales contract.
+- **A**: <!-- LEARNER: agree, say will transfer money today, thank Pekka, say nice doing business -->
+- **B**: Thank you as well! I'll prepare the sales contract. Let me know when the payment shows on my account and you can come pick up the car. Good luck with the new car!

@@ -1,45 +1,47 @@
-#### dia_17 — Calling car repair shop about winter tires
-**Learner role:** A
+#### dia_17 — Booking flights and accommodation for family vacation to Tallinn
+**Learner role:** B
 **Non-learner gender:** female
-**FI Konteksti:** Soitat autokorjaamolle ja kysyt talvirenkaiden vaihdosta, hinnoista ja ajanvarauksesta.
-**EN Context:** You call a car repair shop and ask about winter tire change, prices, and booking an appointment.
+**FI Konteksti:** Soitat matkatoimistoon ja tiedustelet perheloman lentoja ja majoitusta Tallinnaan.
+**EN Context:** You call a travel agency and inquire about flights and accommodation for a family vacation to Tallinn.
 
 **FI Koko mallidialogi:**
-- **A**: <!-- LEARNER: greet, say calling about winter tire change, ask if they have available appointments this week -->
-- **B**: Hei! Täällä Katja, Rengasmaailmasta. Tällä viikolla on vielä aikoja torstaille ja perjantaille. Mikä auto sulla on?
-- **A**: <!-- LEARNER: say have a Volkswagen Golf 2019 model, ask how long tire change takes -->
-- **B**: Golf on hyvin yleinen auto, joten siihen löytyy osat helposti. Renkaanvaihto kestää noin kolmekymmentä minuuttia, jos sulla on omat renkaat. Ilman omia renkaita menee hieman pidempään.
-- **A**: <!-- LEARNER: say have own winter tires stored at home, ask about the price for tire change -->
-- **B**: Jos sulla on omat renkaat valmiina, renkaanvaihto maksaa neljäkymmentäviisi euroa sisältäen tasapainotuksen. Ilman tasapainotusta hinta on kolmekymmentäviisi euroa.
-- **A**: <!-- LEARNER: ask if they also check tire condition — tread depth and overall condition -->
-- **B**: Kyllä. Me tarkastetaan aina renkaiden kunto vaihdon yhteydessä. Jos urasyvyys on alle kolme millimetriä, renkaat pitää vaihtaa uusiin. Mä kerron tulokset heti vaihdon jälkeen.
-- **A**: <!-- LEARNER: ask about new winter tire prices in case current ones are too worn -->
-- **B**: Uudet talvirenkaat Golfiin maksaa noin kolmesataakuusikymmentä euroa nelille renkaalle. Nastarenkaat on noin neljäsataakaksikymmentä euroa. Kitkarenkaat on suositumpia kaupunkiajoon.
-- **A**: <!-- LEARNER: say prefer studless tires, ask when winter tires are mandatory -->
-- **B**: Talvirenkaat on pakolliset marraskuun ensimmäisestä maaliskuun kolmanteenkymmenenteenensimmäiseen. Suosittelen vaihtamaan jo lokakuun lopussa, koska silloin on vähemmän ruuhkaa.
-- **A**: <!-- LEARNER: ask if they offer tire storage service for summer tires -->
-- **B**: Kyllä tarjotaan. Rengashotelli maksaa seitsemänkymmentäviisi euroa kaudelta. Siihen sisältyy säilytys, pesu ja seuraavan kauden vaihto. Monet asiakkaat käyttää tätä palvelua.
-- **A**: <!-- LEARNER: say interested in that, book appointment for Thursday, ask what time -->
-- **B**: Torstaille sopii kello kymmenen aamulla. Tuothan renkaat mukaan autossa tai tarvittaessa me haetaan ne varastolta. Osoite on Mekaanikontie viisi, Vantaa. Tervetuloa!
-- **A**: <!-- LEARNER: confirm Thursday at ten, thank for the information -->
-- **B**: Selvä, mä merkitsen varauksen. Muista tuoda renkaat ja rengasavain mukaan. Nähdään torstaina!
+- **A**: Hei, Aurinkomatkailun asiakaspalvelu, Katja puhelimessa. Miten voin auttaa?
+- **B**: <!-- LEARNER: greet, say planning a family trip to Tallinn in July, ask about available packages -->
+- **A**: Tallinna on suosittu kesäkohde. Heinäkuussa meillä on sekä lento- että laivapaketteja. Perheen koko ja päivämäärät vaikuttaa hintaan. Montako henkeä perheeseen kuuluu?
+- **B**: <!-- LEARNER: say two adults and two children aged six and ten, want to travel from July 14th to 18th -->
+- **A**: Selvä. Helsinki-Tallinna-lennot on nopeita, vain puoli tuntia. Menopaluu kahdelle aikuiselle ja kahdelle lapselle maksaa yhteensä noin viisisataakuusikymmentä euroa. Lapset saa kolmekymmentä prosenttia alennusta.
+- **B**: <!-- LEARNER: ask about ferry option — would it be cheaper -->
+- **A**: Laivalla on halvempaa. Meno-paluu Eckerö Linella kahdelle aikuiselle ja kahdelle lapselle on noin satakahdeksankymmentä euroa. Matka kestää kaksi tuntia. Lapsille on laivassa leikkihuone.
+- **B**: <!-- LEARNER: say ferry sounds good with kids, ask about hotels — what options are there -->
+- **A**: Mä suosittelen hotellia vanhassakaupungissa. Kolmen tähden perhehuone neljälle hengelle maksaa noin satakaksikymmentä euroa yöltä. Neljä yötä on yhteensä neljäsatakahdeksankymmentä euroa. Aamiainen sisältyy hintaan.
+- **B**: <!-- LEARNER: ask if there are apartments instead — prefer a kitchen for making breakfast for kids -->
+- **A**: On. Lomahuoneistoja löytyy hyvin. Kaksio vanhassakaupungissa on noin kahdeksankymmentäviisi euroa yöltä eli kolmesataaneljäkymmentä euroa neljältä yöltä. Silloin voi tehdä ruokaa itse.
+- **B**: <!-- LEARNER: say the apartment sounds better, ask what there is to do in Tallinn with children -->
+- **A**: Tallinnassa on paljon perheille. Vanhankaupungin kierros, Kadriorg-puisto, Lennusadam-merimuseo ja Tallinna eläintarha. Kadriorg-puistossa on ilmainen leikkipuisto. Museolippu perheelle maksaa noin neljäkymmentä euroa.
+- **B**: <!-- LEARNER: say those sound great, ask about travel insurance — is it included or separate -->
+- **A**: Matkavakuutus ei sisälly pakettiin. Mä suosittelen perhematkavakuutusta, joka maksaa noin neljäkymmentäviisi euroa viikolta ja kattaa sairastumiset, matkatavaroiden katoamisen ja peruutukset.
+- **B**: <!-- LEARNER: say want to book the ferry and apartment, ask about total cost and how to pay -->
+- **A**: Laiva satakahdeksankymmentä euroa ja majoitus kolmesataaneljäkymmentä euroa eli yhteensä viisisataakaksikymmentä euroa. Maksu onnistuu verkossa kortilla tai laskulla. Vahvistus tulee sähköpostiin.
+- **B**: <!-- LEARNER: say will pay by card, thank Katja, say looking forward to the trip -->
+- **A**: Mahtavaa! Mä lähetän varausvahvistuksen ja maksulinkin sähköpostiin tänään. Hyvää perhelomaa Tallinnaan. Hei hei!
 
 **EN Full sample dialogue:**
-- **A**: <!-- LEARNER: greet, say calling about winter tire change, ask if they have available appointments this week -->
-- **B**: Hi! Katja here, from Rengasmaailma. This week we still have slots on Thursday and Friday. What car do you have?
-- **A**: <!-- LEARNER: say have a Volkswagen Golf 2019 model, ask how long tire change takes -->
-- **B**: Golf is a very common car, so parts are easy to find. Tire change takes about thirty minutes if you have your own tires. Without your own tires it takes a bit longer.
-- **A**: <!-- LEARNER: say have own winter tires stored at home, ask about the price for tire change -->
-- **B**: If you have your own tires ready, tire change costs 45 euros including balancing. Without balancing the price is 35 euros.
-- **A**: <!-- LEARNER: ask if they also check tire condition — tread depth and overall condition -->
-- **B**: Yes. We always check tire condition during the change. If the tread depth is under three millimeters, the tires need to be replaced with new ones. I'll let you know the results right after the change.
-- **A**: <!-- LEARNER: ask about new winter tire prices in case current ones are too worn -->
-- **B**: New winter tires for a Golf cost about 360 euros for four tires. Studded tires are about 420 euros. Studless friction tires are more popular for city driving.
-- **A**: <!-- LEARNER: say prefer studless tires, ask when winter tires are mandatory -->
-- **B**: Winter tires are mandatory from November 1st to March 31st. I recommend changing already at the end of October, because there's less rush then.
-- **A**: <!-- LEARNER: ask if they offer tire storage service for summer tires -->
-- **B**: Yes, we do. Tire hotel costs 75 euros per season. It includes storage, washing, and the next season's change. Many customers use this service.
-- **A**: <!-- LEARNER: say interested in that, book appointment for Thursday, ask what time -->
-- **B**: Thursday at ten in the morning works. Bring the tires with you in the car, or if needed we can pick them up from storage. The address is Mekaanikontie 5, Vantaa. Welcome!
-- **A**: <!-- LEARNER: confirm Thursday at ten, thank for the information -->
-- **B**: Alright, I'll mark the reservation. Remember to bring the tires and a wheel wrench. See you on Thursday!
+- **A**: Hi, Aurinko Travel customer service, Katja speaking. How can I help?
+- **B**: <!-- LEARNER: greet, say planning a family trip to Tallinn in July, ask about available packages -->
+- **A**: Tallinn is a popular summer destination. In July we have both flight and ferry packages. The family size and dates affect the price. How many people are in the family?
+- **B**: <!-- LEARNER: say two adults and two children aged six and ten, want to travel from July 14th to 18th -->
+- **A**: Alright. Helsinki-Tallinn flights are quick, only half an hour. A round trip for two adults and two children costs a total of about 560 euros. Children get a 30 percent discount.
+- **B**: <!-- LEARNER: ask about ferry option — would it be cheaper -->
+- **A**: The ferry is cheaper. A round trip on Eckerö Line for two adults and two children is about 180 euros. The trip takes two hours. There's a playroom for children on the ship.
+- **B**: <!-- LEARNER: say ferry sounds good with kids, ask about hotels — what options are there -->
+- **A**: I recommend a hotel in the old town. A three-star family room for four people costs about 120 euros per night. Four nights is a total of 480 euros. Breakfast is included in the price.
+- **B**: <!-- LEARNER: ask if there are apartments instead — prefer a kitchen for making breakfast for kids -->
+- **A**: Yes. Holiday apartments are widely available. A two-room apartment in the old town is about 85 euros per night, so 340 euros for four nights. Then you can cook meals yourself.
+- **B**: <!-- LEARNER: say the apartment sounds better, ask what there is to do in Tallinn with children -->
+- **A**: Tallinn has a lot for families. An old town tour, Kadriorg Park, Lennusadam Maritime Museum, and Tallinn Zoo. Kadriorg Park has a free playground. A family museum ticket costs about 40 euros.
+- **B**: <!-- LEARNER: say those sound great, ask about travel insurance — is it included or separate -->
+- **A**: Travel insurance is not included in the package. I recommend family travel insurance, which costs about 45 euros per week and covers illness, lost luggage, and cancellations.
+- **B**: <!-- LEARNER: say want to book the ferry and apartment, ask about total cost and how to pay -->
+- **A**: The ferry is 180 euros and the accommodation is 340 euros, so 520 euros in total. Payment works online by card or by invoice. Confirmation comes by email.
+- **B**: <!-- LEARNER: say will pay by card, thank Katja, say looking forward to the trip -->
+- **A**: Wonderful! I'll send the booking confirmation and payment link by email today. Have a great family vacation in Tallinn. Bye bye!

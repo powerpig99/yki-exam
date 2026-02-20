@@ -1,61 +1,61 @@
-#### mie_5 — Mielipide: Eläimet, ympäristö ja hyvinvointi
+#### mie_5 — Mielipide: Teknologia ja kulttuuri
 **Learner role:** B
 **Non-learner gender:** female
-**FI Konteksti:** Sinun pitää kertoa mielipiteesi eri aiheista, jotka liittyvät eläimiin, ympäristöön, mediaan ja hyvinvointiin. Haastattelija esittää väittämiä ja kysymyksiä.
-**EN Context:** You need to share your opinion on various topics related to animals, the environment, media, and well-being. The interviewer presents statements and questions.
+**FI Konteksti:** Sinun pitää kertoa mielipiteesi eri aiheista, jotka liittyvät teknologiaan ja kulttuuriin. Leena esittää väittämiä ja kysymyksiä.
+**EN Context:** You need to share your opinion on various topics related to technology and culture. Leena presents statements and questions.
 
 **FI Koko mallidialogi:**
-- **A**: Aloitetaan ensimmäisestä aiheesta. Pitäisikö eläinkokeita kieltää kokonaan? Mitä mieltä olet eläinkokeista ja niiden vaihtoehdoista?
+- **A**: Aloitetaan ensimmäisestä aiheesta. Sosiaalinen media vaikuttaa nuoriin negatiivisesti. Oletko samaa mieltä vai eri mieltä? Miten sosiaalinen media vaikuttaa nuoriin?
 - **B**: <!-- LEARNER -->
 
-- **A**: Seuraava aihe. Onko lemmikkieläinten pitäminen kaupungissa järkevää? Mitä mieltä olet lemmikeistä kaupunkiympäristössä?
+- **A**: Seuraava aihe. Tekoäly koulutuksessa, onko se hyöty vai haitta? Miten teknologia pitäisi hyödyntää oppimisessa?
 - **B**: <!-- LEARNER -->
 
-- **A**: Entä tämä väite. Kierrätys on riittävää Suomessa. Oletko samaa mieltä vai eri mieltä? Mitä voisi tehdä paremmin?
+- **A**: Entä tämä. Pitäisikö verkkopankkipalveluiden olla helpompia vanhuksille? Miten digitaaliset palvelut voisi tehdä saavutettavammiksi?
 - **B**: <!-- LEARNER -->
 
-- **A**: Pitäisikö alkoholin myyntiä rajoittaa enemmän Suomessa? Mitä mieltä olet alkoholin saatavuudesta ja alkoholipolitiikasta?
+- **A**: Televisiolupamaksut, pitäisikö ne poistaa? Miten julkinen media pitäisi rahoittaa?
 - **B**: <!-- LEARNER -->
 
-- **A**: Onko yksityisautoilu tulevaisuudessa mahdollista? Mitä mieltä olet yksityisautoilun tulevaisuudesta ja vaihtoehdoista?
+- **A**: Yksinäisyys on kasvava ongelma Suomessa. Miten sitä voitaisiin ratkaista? Mitä yhteiskunta voi tehdä?
 - **B**: <!-- LEARNER -->
 
-- **A**: Pitäisikö vanhempien saada valita lapsensa koulu? Mitä mieltä olet kouluvalinnan vapaudesta?
+- **A**: Nollatuntisopimukset, ovatko ne hyvä vai huono asia? Miten työntekijöiden oikeuksia pitäisi suojella?
 - **B**: <!-- LEARNER -->
 
-- **A**: Onko uutisointi nykyään luotettavaa? Mitä mieltä olet median luotettavuudesta ja uutisten laadusta?
+- **A**: Kiire hallitsee nykyelämää. Miten elämää voisi hidastaa? Mikä aiheuttaa sinulle kiirettä?
 - **B**: <!-- LEARNER -->
 
-- **A**: Pitäisikö vanhusten hoito järjestää kotona vai laitoksessa? Mitä mieltä olet vanhusten hoitomuodoista?
+- **A**: Alkoholikulttuuri Suomessa, pitäisikö sitä muuttaa? Miten suomalainen alkoholikulttuuri eroaa muista maista?
 - **B**: <!-- LEARNER -->
 
-- **A**: Viimeinen aihe. Liikunta on paras lääke stressiin. Oletko samaa mieltä vai eri mieltä? Miten itse hoidat stressiä?
+- **A**: Viimeinen aihe. Ikääntyvä väestö on haaste monissa maissa. Kuka hoitaa vanhukset tulevaisuudessa? Miten vanhusten hoito pitäisi järjestää?
 - **B**: <!-- LEARNER -->
 
 **EN Full sample dialogue:**
-- **A**: Let's start with the first topic. Should animal testing be completely banned? What do you think about animal testing and its alternatives?
+- **A**: Let's start with the first topic. Social media affects young people negatively. Do you agree or disagree? How does social media affect youth?
 - **B**: <!-- LEARNER -->
 
-- **A**: Next topic. Is keeping pets in the city sensible? What do you think about pets in an urban environment?
+- **A**: Next topic. AI in education, is it a benefit or a harm? How should technology be used in learning?
 - **B**: <!-- LEARNER -->
 
-- **A**: How about this claim. Recycling is sufficient in Finland. Do you agree or disagree? What could be done better?
+- **A**: How about this. Should online banking services be easier for the elderly? How could digital services be made more accessible?
 - **B**: <!-- LEARNER -->
 
-- **A**: Should alcohol sales be restricted more in Finland? What do you think about alcohol availability and alcohol policy?
+- **A**: TV license fees, should they be abolished? How should public media be funded?
 - **B**: <!-- LEARNER -->
 
-- **A**: Is private car ownership possible in the future? What do you think about the future of private driving and alternatives?
+- **A**: Loneliness is a growing problem in Finland. How could it be solved? What can society do?
 - **B**: <!-- LEARNER -->
 
-- **A**: Should parents be allowed to choose their child's school? What do you think about freedom of school choice?
+- **A**: Zero-hour contracts, are they a good or bad thing? How should workers' rights be protected?
 - **B**: <!-- LEARNER -->
 
-- **A**: Is news reporting reliable nowadays? What do you think about the reliability of media and the quality of news?
+- **A**: Busyness dominates modern life. How could life be slowed down? What makes you feel rushed?
 - **B**: <!-- LEARNER -->
 
-- **A**: Should elderly care be organized at home or in institutions? What do you think about forms of elderly care?
+- **A**: Alcohol culture in Finland, should it be changed? How does Finnish alcohol culture differ from other countries?
 - **B**: <!-- LEARNER -->
 
-- **A**: Last topic. Exercise is the best medicine for stress. Do you agree or disagree? How do you personally manage stress?
+- **A**: Last topic. An aging population is a challenge in many countries. Who will care for the elderly in the future? How should elderly care be organized?
 - **B**: <!-- LEARNER -->

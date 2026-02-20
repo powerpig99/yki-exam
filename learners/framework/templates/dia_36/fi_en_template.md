@@ -1,43 +1,45 @@
-#### dia_36 — Registering for running event
-**Learner role:** B
-**Non-learner gender:** female
-**FI Konteksti:** Soitat juoksutapahtuman järjestäjälle ja kysyt reitistä, ilmoittautumisesta ja sarjoista.
-**EN Context:** You call the running event organizer and ask about the route, registration, and categories.
+#### dia_36 — Visiting vet with pet — vaccination schedule and health check
+**Learner role:** A
+**Non-learner gender:** male
+**FI Konteksti:** Viet lemmikkisi eläinlääkäriin rokotukseen ja terveystarkastukseen.
+**EN Context:** You take your pet to the vet for a vaccination and health check.
 
 **FI Koko mallidialogi:**
-- **A**: Espoon Rantamaraton, Minna puhelimessa. Miten voin auttaa?
-- **B**: <!-- LEARNER: greet, say you're interested in participating in the run, ask what distances are available -->
-- **A**: Meillä on kolme matkaa. Kymppi eli kymmenen kilometriä, puolimaraton kaksikymmentäyksi kilometriä ja täysmaraton neljäkymmentäkaksi kilometriä. Lisäksi on lasten kilometri alle kaksitoistavuotiaille.
-- **B**: <!-- LEARNER: say you'd like to sign up for the 10 km, ask when the event takes place and what the route is like -->
-- **A**: Kymppi juostaan lauantaina kesäkuun seitsemäntenä. Lähtö on kello kymmeneltä Otaniemen rantareitiltä. Reitti kulkee merenrantaa pitkin, ja se on suurimmaksi osaksi tasaista asfalttia.
-- **B**: <!-- LEARNER: ask about registration — how do you sign up and what does it cost -->
-- **A**: Ilmoittautuminen on netissä meidän sivuilla. Ennakkoilmoittautuminen kympille maksaa kaksikymmentäviisi euroa ja se on auki toukokuun loppuun asti. Tapahtumapäivänä paikan päällä se maksaa kolmekymmentäviisi euroa.
-- **B**: <!-- LEARNER: ask what the registration fee includes and if there are separate age categories -->
-- **A**: Hintaan sisältyy juoksunumero, ajanotto sirulla, juomapisteet reitin varrella, maaliintulojuoma ja banaani sekä osallistumistodistus. Tulokset lasketaan ikäsarjoittain, erikseen miehille ja naisille.
-- **B**: <!-- LEARNER: ask if there's a time limit for the 10 km and about the start area — parking and changing rooms -->
-- **A**: Aikaraja on puolitoista tuntia, eli reippaalla kävelylläkin pärjää. Parkkipaikkoja on Otaniemen kampuksella, mutta suosittelemme metroa. Pukuhuoneet ja tavarasäilytys on lähtöalueella koulun liikuntahallissa.
-- **B**: <!-- LEARNER: ask if you can pick up your race number the day before or only on event day -->
-- **A**: Numeroiden jako on perjantaina kesäkuun kuudentena kello neljästätoista kahdeksaantoista ja lauantaiaamuna kello kahdeksasta yhdeksään kolmeenkymmeneen. Suosittelemme perjantaita, niin aamulla ei tuu kiire. Yhteislämmittely alkaa yhdeksän neljäkymmentäviisi lavalla.
-- **B**: <!-- LEARNER: say this sounds great, confirm — register online for the 10 km, pay 25 euros, race is June 7 at 10 AM -->
-- **A**: Juuri niin! Ilmoittautumislinkki on espoonrantamaraton.fi. Maksu onnistuu kortilla tai verkkopankissa. Saat vahvistuksen sähköpostiin.
-- **B**: <!-- LEARNER: thank Minna, say you'll register tonight, say goodbye -->
-- **A**: Hienoa, tervetuloa juoksemaan! Hyvää harjoittelua ja nähdään kesäkuussa. Hei hei!
+- **A**: <!-- LEARNER: greet, say you have an appointment for your dog's annual vaccination and check-up -->
+- **B**: Hei, tervetuloa! Mä oon Pekka, eläinlääkäri. Mikä sun koiran nimi on ja mikä rotu?
+- **A**: <!-- LEARNER: give the dog's name (any common pet name) and breed, say the dog is four years old -->
+- **B**: Selvä, mä katson ensin koiran rokotuskirjan. Viime vuoden rokotukset on tehty. Nyt on aika antaa vuosirokote, jossa on penikkatauti, parvoviirus ja kennelkauha. Onko koiralla ollut jotain terveysongelmia viime vuonna?
+- **A**: <!-- LEARNER: say the dog has been mostly healthy but has been scratching a lot lately, especially around the ears -->
+- **B**: Okei, mä tutkin korvat samalla. Annas mä katon. Joo, tässä on punaisuutta ja jonkin verran korvavahaa. Se voi olla korvatulehdus tai allergia. Mä otan näytteen ja tutkin mikroskoopilla.
+- **A**: <!-- LEARNER: ask what causes ear infections in dogs and if it's serious -->
+- **B**: Usein syy on kosteus, allergia tai hiivat. Se ei oo vakavaa, mutta pitää hoitaa, ettei parane. Mä annan korvatipat, joita laitetaan kaksi kertaa päivässä viikon ajan.
+- **A**: <!-- LEARNER: ask about the vaccination — does the dog need all the shots at once or can they be spread out -->
+- **B**: Yhdistelmärokote annetaan yhtenä pistoksena, niin koiralle tulee vähemmän stressiä. Rabiesta eli vesikauhurokotetta ei tarvita vuosittain Suomessa, ellei matkaile ulkomaille. Viimeisin rabies on voimassa kolme vuotta.
+- **A**: <!-- LEARNER: say you're planning a trip to Sweden in summer with the dog, ask what vaccinations or documents are needed -->
+- **B**: EU:n alueella tarvitaan lemmikkipassi, voimassa oleva rabiesrokote ja tunnistusmikrosiru. Koirallasi on mikrosiru, hyvä. Rabies pitää olla annettu vähintään kaksikymmentäyksi päivää ennen matkaa. Mä voin antaa sen tänään.
+- **A**: <!-- LEARNER: say yes please, ask about the cost of today's visit — check-up, vaccinations, and ear treatment -->
+- **B**: Perustutkimus on viisikymmentä euroa. Yhdistelmärokote on neljäkymmentäviisi euroa ja rabiesrokote kolmekymmentäviisi euroa. Korvatipat on viisitoista euroa. Yhteensä sataneljäkymmentäviisi euroa.
+- **A**: <!-- LEARNER: ask if the dog needs to come back for a follow-up on the ear problem, also ask about tick prevention for summer -->
+- **B**: Joo, tuokaa takaisin kahden viikon päästä, niin mä tarkistan, onko korvatulehdus parantunut. Seurantakäynti on kaksikymmentäviisi euroa. Ja hyvä kysymys punkeista. Puutiaisia on paljon kesällä ja ne voi levittää borrelioosia. Mä suosittelen kuukausittaista punkkitablettia. Kolmen kuukauden pakkaus maksaa neljäkymmentäviisi euroa.
+- **A**: <!-- LEARNER: say you'll take the tick medication too, thank Pekka, ask when the follow-up should be booked -->
+- **B**: Mä varaan ajan kahden viikon päähän suoraan. Saat tekstiviestivahvistuksen. Koiralle hyvää paranemista ja hyvää päivänjatkoa, {NIMI}! Hei hei!
 
 **EN Full sample dialogue:**
-- **A**: Espoo Coastal Marathon, Minna speaking. How can I help?
-- **B**: <!-- LEARNER: greet, say you're interested in participating in the run, ask what distances are available -->
-- **A**: We have 3 distances. The 10K, half marathon at 21 kilometers, and full marathon at 42 kilometers. Plus there's a children's kilometer for under 12-year-olds.
-- **B**: <!-- LEARNER: say you'd like to sign up for the 10 km, ask when the event takes place and what the route is like -->
-- **A**: The 10K is run on Saturday June 7th. The start is at 10 AM from the Otaniemi coastal route. The route follows the seaside, and it's mostly flat asphalt.
-- **B**: <!-- LEARNER: ask about registration — how do you sign up and what does it cost -->
-- **A**: Registration is online on our website. Early registration for the 10K costs 25 euros and is open until the end of May. On-site registration on event day costs 35 euros.
-- **B**: <!-- LEARNER: ask what the registration fee includes and if there are separate age categories -->
-- **A**: The price includes a race number, chip timing, water stations along the route, a finish-line drink and banana, and a participation certificate. Results are calculated by age group, separately for men and women.
-- **B**: <!-- LEARNER: ask if there's a time limit for the 10 km and about the start area — parking and changing rooms -->
-- **A**: The time limit is 1.5 hours, so even a brisk walk would make it. There's parking at the Otaniemi campus, but we recommend the metro. Changing rooms and luggage storage are at the start area in the school sports hall.
-- **B**: <!-- LEARNER: ask if you can pick up your race number the day before or only on event day -->
-- **A**: Number pickup is on Friday June 6th from 2 to 6 PM and Saturday morning from 8 to 9:30 AM. We recommend Friday so there's no rush in the morning. A group warm-up starts at 9:45 on the stage.
-- **B**: <!-- LEARNER: say this sounds great, confirm — register online for the 10 km, pay 25 euros, race is June 7 at 10 AM -->
-- **A**: Exactly! The registration link is espoonrantamaraton.fi. Payment works by card or online bank. You'll receive a confirmation by email.
-- **B**: <!-- LEARNER: thank Minna, say you'll register tonight, say goodbye -->
-- **A**: Great, welcome to run! Good training and see you in June. Bye bye!
+- **A**: <!-- LEARNER: greet, say you have an appointment for your dog's annual vaccination and check-up -->
+- **B**: Hi, welcome! I'm Pekka, the veterinarian. What's your dog's name and breed?
+- **A**: <!-- LEARNER: give the dog's name (any common pet name) and breed, say the dog is four years old -->
+- **B**: Alright, let me check the dog's vaccination record first. Last year's vaccinations are done. Now it's time for the annual vaccine, which covers distemper, parvovirus, and kennel cough. Has the dog had any health issues in the past year?
+- **A**: <!-- LEARNER: say the dog has been mostly healthy but has been scratching a lot lately, especially around the ears -->
+- **B**: Okay, I'll examine the ears too. Let me take a look. Yes, there's redness and some earwax here. It could be an ear infection or allergy. I'll take a sample and examine it under the microscope.
+- **A**: <!-- LEARNER: ask what causes ear infections in dogs and if it's serious -->
+- **B**: Often the cause is moisture, allergies, or yeast. It's not serious, but it needs to be treated so it doesn't get worse. I'll give you ear drops to apply twice a day for a week.
+- **A**: <!-- LEARNER: ask about the vaccination — does the dog need all the shots at once or can they be spread out -->
+- **B**: The combination vaccine is given as a single injection, so it's less stressful for the dog. Rabies vaccination is not required annually in Finland unless you travel abroad. The most recent rabies is valid for 3 years.
+- **A**: <!-- LEARNER: say you're planning a trip to Sweden in summer with the dog, ask what vaccinations or documents are needed -->
+- **B**: Within the EU you need a pet passport, a valid rabies vaccine, and an identification microchip. Your dog has a microchip, good. The rabies vaccine needs to be given at least 21 days before travel. I can give it today.
+- **A**: <!-- LEARNER: say yes please, ask about the cost of today's visit — check-up, vaccinations, and ear treatment -->
+- **B**: The basic examination is 50 euros. The combination vaccine is 45 euros and the rabies vaccine is 35 euros. Ear drops are 15 euros. A total of 145 euros.
+- **A**: <!-- LEARNER: ask if the dog needs to come back for a follow-up on the ear problem, also ask about tick prevention for summer -->
+- **B**: Yes, bring them back in 2 weeks so I can check if the ear infection has healed. The follow-up visit is 25 euros. And good question about ticks. There are a lot of ticks in summer and they can spread Lyme disease. I recommend a monthly tick tablet. A 3-month package costs 45 euros.
+- **A**: <!-- LEARNER: say you'll take the tick medication too, thank Pekka, ask when the follow-up should be booked -->
+- **B**: I'll book an appointment 2 weeks from now directly. You'll get a text confirmation. Wishing the dog a good recovery and have a nice rest of the day, {NAME}! Bye bye!

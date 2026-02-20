@@ -1,31 +1,25 @@
-#### wri_1 — Kirjoittaminen: Arkielämä ja työ
+#### wri_1 — Kirjoittaminen: Arkielämä ja ystävät
 **Learner role:** B
-**Non-learner gender:** female
-**FI Konteksti:** Kirjoita erilaisia tekstejä arkielämään ja työhön liittyvistä aiheista.
-**EN Context:** Write various texts on daily life and work topics.
+**Non-learner gender:** male
+**FI Konteksti:** Kirjoita erilaisia tekstejä arkielämään ja ystäviin liittyvistä aiheista.
+**EN Context:** Write various texts on everyday life and friends topics.
 
 **FI Koko mallidialogi:**
-- **A**: Tehtävä yksi, viesti ystävälle. Sinun piti tavata ystäväsi tänään, mutta et pääse tulemaan. Kirjoita hänelle viesti, jossa kerrot miksi et pääse, pahoittelet tilannetta ja ehdotat uutta aikaa tapaamiselle.
+- **A**: Tehtävä yksi, viesti ystävälle. Olet muuttanut uuteen asuntoon ja haluat järjestää tupaantuliaiset. Kirjoita ystävällesi Eerolle viesti, jossa kutsut hänet juhliin. Kerro milloin ja missä juhlat ovat, mitä ohjelmaa on ja mitä hänen kannattaa tuoda mukanaan.
 - **B**: <!-- LEARNER -->
-
-- **A**: Tehtävä kaksi, sähköposti isännöitsijälle. Haluat tehdä kylpyhuoneremontin asunnossasi. Kirjoita isännöitsijälle virallinen sähköposti, jossa kerrot kylpyhuoneen nykyisestä kunnosta, kuvaat suunnitellut muutokset ja ehdotat aikataulua remontille. Pyydä lupaa remontin aloittamiseen.
+- **A**: Tehtävä kaksi, valitus isännöitsijälle. Yläkerran naapurisi pitää kovaa meteliä joka ilta myöhään yöhön asti. Olet yrittänyt puhua naapurin kanssa, mutta tilanne ei ole muuttunut. Kirjoita taloyhtiön isännöitsijälle virallinen valitus, jossa kuvaat meluongelman tarkasti, kerrot miten se vaikuttaa arkeesi ja vaadit toimenpiteitä asian ratkaisemiseksi.
 - **B**: <!-- LEARNER -->
-
-- **A**: Tehtävä kolme, mielipide A. Onko etätyö hyvä vai huono asia? Kirjoita mielipiteesi ja perustele se.
+- **A**: Tehtävä kolme, mielipide A. Kotiruoka on parempaa kuin ravintolaruoka. Kirjoita mielipiteesi ja perustele se.
 - **B**: <!-- LEARNER -->
-
-- **A**: Tehtävä kolme, mielipide B. Pitäisikö kauppojen saada olla auki joka päivä, myös sunnuntaisin ja pyhinä? Kirjoita mielipiteesi ja perustele se.
+- **A**: Tehtävä kolme, mielipide B. Ravintolaruoka on parempaa kuin kotiruoka. Kirjoita mielipiteesi ja perustele se.
 - **B**: <!-- LEARNER -->
 
 **EN Full sample dialogue:**
-- **A**: Task one, message to a friend. You were supposed to meet your friend today but you can't make it. Write a message explaining why you can't come, apologize for the situation, and suggest a new time to meet.
+- **A**: Task one, message to a friend. You've moved to a new apartment and want to throw a housewarming party. Write a message to your friend Eero inviting him to the party. Tell him when and where the party is, what the program will be, and what he should bring along.
 - **B**: <!-- LEARNER -->
-
-- **A**: Task two, email to the building manager. You want to renovate the bathroom in your apartment. Write a formal email to the building manager describing the current condition of the bathroom, explaining the planned changes, and proposing a timeline for the renovation. Ask for permission to start the work.
+- **A**: Task two, complaint to the property manager. Your upstairs neighbor makes loud noise every evening late into the night. You have tried talking to the neighbor but the situation hasn't changed. Write a formal complaint to the property manager describing the noise problem in detail, explaining how it affects your daily life, and demanding action to resolve the issue.
 - **B**: <!-- LEARNER -->
-
-- **A**: Task three, opinion A. Is remote work a good or bad thing? Write your opinion and justify it.
+- **A**: Task three, opinion A. Home-cooked food is better than restaurant food. Write your opinion and justify it.
 - **B**: <!-- LEARNER -->
-
-- **A**: Task three, opinion B. Should shops be allowed to stay open every day, including Sundays and holidays? Write your opinion and justify it.
+- **A**: Task three, opinion B. Restaurant food is better than home-cooked food. Write your opinion and justify it.
 - **B**: <!-- LEARNER -->

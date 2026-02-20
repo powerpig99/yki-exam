@@ -1,43 +1,45 @@
-#### dia_22 — Planning weekend outing with friend
-**Learner role:** B
-**Non-learner gender:** female
-**FI Konteksti:** Kaveri soittaa ja ehdottaa viikonloppusuunnitelmia, ja te sovitte yhdessä ajasta, paikasta ja aktiviteetista.
-**EN Context:** A friend calls and suggests weekend plans, and you agree together on a time, place, and activity.
+#### dia_22 — Joining a gym — membership options, group classes, trial period
+**Learner role:** A
+**Non-learner gender:** male
+**FI Konteksti:** Käyt kuntosalilla ja kysyt jäsenyydestä, ryhmäliikuntatunneista ja tutustumisjaksosta.
+**EN Context:** You visit a gym and ask about membership, group fitness classes, and a trial period.
 
 **FI Koko mallidialogi:**
-- **A**: Moi! Mä mietin, että tehtäis jotain kivaa tänä viikonloppuna. Onko sulla vapaata?
-- **B**: <!-- LEARNER: greet, say free on Saturday, ask what friend has in mind -->
-- **A**: Mä ajattelin, että voitais mennä johonkin ulkoilmatapahtumaan tai retkelle. Nuuksiossa on hyvät reitit ja sää näyttäis olevan aurinkoinen.
-- **B**: <!-- LEARNER: say Nuuksio sounds nice, suggest going for a hike, ask which trail friend recommends -->
-- **A**: Haukkalammen kierros on helppo ja kaunis, noin viisi kilometriä. Se sopii hyvin, vaikka ei olis tottunut retkeilijä. Reitti lähtee Haltian luontokeskukselta.
-- **B**: <!-- LEARNER: say that's a good distance, ask how to get there — drive or public transport -->
-- **A**: Bussilla pääsee suoraan Kampista Haltian luontokeskukselle. Bussi numero kaksisataaviisikymmentäviisi lähtee kello yhdeksän kolmekymmentäviisi aamulla. Matka kestää noin tunnin.
-- **B**: <!-- LEARNER: suggest driving instead since it's faster, offer to pick friend up, ask where friend lives -->
-- **A**: Mä asun Leppävaarassa. Autolla matka on noin kolmekymmentä minuuttia. Pysäköinti Haltialla maksaa kuusi euroa päivältä.
-- **B**: <!-- LEARNER: say can pick up at nine, ask what to bring — food, water, anything special -->
-- **A**: Eväät ja juomapullo kannattaa ottaa mukaan. Retkeilyalueella ei oo kioskia. Kunnon kengät on tärkeimmät, koska reitti on osittain kivikkoinen.
-- **B**: <!-- LEARNER: suggest having a picnic by the lake after the hike, say will bring sandwiches and coffee -->
-- **A**: Hyvä idea! Mä tuon mukaan hedelmää ja keksejä. Haukkalammen rannalla on tulentekopaikka ja puupenkki, niin siellä voidaan syödä rauhassa.
-- **B**: <!-- LEARNER: ask if friend wants to do something else after the hike — maybe stop somewhere on the way back -->
-- **A**: Espoon keskustassa on uusi kahvila nimeltä Kahvipuu. Se sai hyviä arvosteluja. Voitais pysähtyä siellä paluumatkalla.
-- **B**: <!-- LEARNER: say sounds like a perfect day, confirm Saturday at nine, say looking forward to it -->
-- **A**: Sovittu! Mä lähetän sulle Haltian osoitteen ja reittikartan viestillä. Laita kerroksiset vaatteet, koska metsässä voi olla viileämpää. Nähdään lauantaina!
+- **A**: <!-- LEARNER: greet, say interested in joining the gym, ask about membership options -->
+- **B**: Tervetuloa! Mä olen Antti. Meillä on kolme jäsenyyttä: perusjäsenyys kolmekymmentäyhdeksän euroa kuussa, joka sisältää kuntosalin ja saunan. Premium on viisikymmentäneljä euroa kuussa, ja siihen kuuluu myös ryhmäliikunta ja uima-allas. VIP on kuusikymmentäyhdeksän euroa kuussa, ja siinä on kaikki plus henkilökohtainen harjoitusohjelma.
+- **A**: <!-- LEARNER: ask about the group fitness classes — what kinds are available and how often -->
+- **B**: Meillä on yli kolmekymmentä ryhmätuntia viikossa. Suosituimpia on jooga, spinning, bodypump ja zumba. Tunnit on aamuisin kello seitsemän, iltapäivisin kello neljätoista ja iltaisin kello kahdeksantoista ja kaksikymmentä.
+- **A**: <!-- LEARNER: say interested in the premium membership, ask if need to book group classes in advance -->
+- **B**: Kyllä. Tunnit varataan meidän sovelluksessa. Suositut tunnit täyttyy nopeasti, joten kannattaa varata päivää ennen. Peruutus onnistuu tunnin ennen tunnin alkua.
+- **A**: <!-- LEARNER: ask if there is a trial period — want to try before committing -->
+- **B**: Totta kai. Meillä on viikon ilmainen kokeilujakso. Sä saat käyttää kuntosalia, ryhmätunteja ja saunan. Lisäksi tarjotaan yksi ilmainen ohjattu harjoitus, jossa käydään laitteet läpi.
+- **A**: <!-- LEARNER: say that sounds great, ask about opening hours and if gym is open on weekends -->
+- **B**: Arkisin auki kuudesta kahteenkymmeneenkahteen ja viikonloppuisin kahdeksasta kaksikymmeneen. Juhlapyhinä aukioloajat on lyhennetyt, ne näkyy sovelluksessa.
+- **A**: <!-- LEARNER: ask about the contract — is there a commitment period and what is the cancellation policy -->
+- **B**: Kuukausijäsenyydessä ei ole sitoutumisaikaa. Irtisanomisaika on yksi kuukausi. Jos otat vuosijäsenyyden, saat kaksi kuukautta ilmaiseksi eli kymmenen kuukautta hinnalla viisisataaneljäkymmentä euroa premium-jäsenyydelle.
+- **A**: <!-- LEARNER: ask if family members can use the same membership or is there a family discount -->
+- **B**: Perhejäsenyydessä toinen aikuinen saa kolmekymmentä prosenttia alennusta eli kolmekymmentäkahdeksan euroa kuussa premium-jäsenyydestä. Lapset alle kuusitoista pääsee uima-altaalle ilmaiseksi aikuisen kanssa.
+- **A**: <!-- LEARNER: say want to start with the free trial week, ask what is needed to sign up -->
+- **B**: Tarvitset henkilöllisyystodistuksen ja sähköpostiosoitteen. Mä teen tilin sulle heti ja saat sovelluksen kirjautumistiedot sähköpostiin. Kokeilujakso alkaa tänään.
+- **A**: <!-- LEARNER: thank Antti, say excited to start, ask where the changing rooms are -->
+- **B**: Pukuhuoneet on tuossa oikealla. Kaapissa on kolikkolukko, mutta sä voit myös tuoda oman riippulukon. Pyyhkeitä saa lainata vastaanotosta. Nauti treeneistä ja tervetuloa seuraan!
 
 **EN Full sample dialogue:**
-- **A**: Hey! I was thinking we could do something fun this weekend. Are you free?
-- **B**: <!-- LEARNER: greet, say free on Saturday, ask what friend has in mind -->
-- **A**: I was thinking we could go to some outdoor event or on a hike. Nuuksio has nice trails and the weather looks like it will be sunny.
-- **B**: <!-- LEARNER: say Nuuksio sounds nice, suggest going for a hike, ask which trail friend recommends -->
-- **A**: The Haukkalampi loop is easy and beautiful, about five kilometers. It works well even if you're not an experienced hiker. The trail starts from the Haltia nature center.
-- **B**: <!-- LEARNER: say that's a good distance, ask how to get there — drive or public transport -->
-- **A**: You can take a bus directly from Kamppi to the Haltia nature center. Bus number 255 departs at nine thirty-five in the morning. The trip takes about an hour.
-- **B**: <!-- LEARNER: suggest driving instead since it's faster, offer to pick friend up, ask where friend lives -->
-- **A**: I live in Leppävaara. By car the trip is about thirty minutes. Parking at Haltia costs 6 euros per day.
-- **B**: <!-- LEARNER: say can pick up at nine, ask what to bring — food, water, anything special -->
-- **A**: It's worth bringing packed lunch and a water bottle. There's no kiosk in the hiking area. Good shoes are the most important thing, because the trail is partly rocky.
-- **B**: <!-- LEARNER: suggest having a picnic by the lake after the hike, say will bring sandwiches and coffee -->
-- **A**: Good idea! I'll bring fruit and cookies. On the shore of Haukkalampi there's a fire pit and a wooden bench, so we can eat there in peace.
-- **B**: <!-- LEARNER: ask if friend wants to do something else after the hike — maybe stop somewhere on the way back -->
-- **A**: In Espoo center there's a new cafe called Kahvipuu. It got good reviews. We could stop there on the way back.
-- **B**: <!-- LEARNER: say sounds like a perfect day, confirm Saturday at nine, say looking forward to it -->
-- **A**: Agreed! I'll send you Haltia's address and a route map by message. Wear layered clothing, because it can be cooler in the forest. See you on Saturday!
+- **A**: <!-- LEARNER: greet, say interested in joining the gym, ask about membership options -->
+- **B**: Welcome! I'm Antti. We have three memberships: basic at 39 euros per month, which includes the gym and sauna. Premium is 54 euros per month, and it also includes group fitness and the swimming pool. VIP is 69 euros per month, and it includes everything plus a personal training program.
+- **A**: <!-- LEARNER: ask about the group fitness classes — what kinds are available and how often -->
+- **B**: We have over 30 group classes per week. The most popular ones are yoga, spinning, bodypump, and zumba. Classes are in the mornings at seven, afternoons at two, and evenings at six and eight.
+- **A**: <!-- LEARNER: say interested in the premium membership, ask if need to book group classes in advance -->
+- **B**: Yes. Classes are booked through our app. Popular classes fill up quickly, so it's worth booking the day before. Cancellation is possible up to one hour before the class starts.
+- **A**: <!-- LEARNER: ask if there is a trial period — want to try before committing -->
+- **B**: Of course. We have a free one-week trial period. You can use the gym, group classes, and the sauna. We also offer one free guided session where the equipment is gone through.
+- **A**: <!-- LEARNER: say that sounds great, ask about opening hours and if gym is open on weekends -->
+- **B**: Weekdays open from six to ten PM and weekends from eight to eight PM. On public holidays the hours are reduced, and they're shown in the app.
+- **A**: <!-- LEARNER: ask about the contract — is there a commitment period and what is the cancellation policy -->
+- **B**: The monthly membership has no commitment period. The notice period is one month. If you take an annual membership, you get two months free, so ten months at the price of 540 euros for a premium membership.
+- **A**: <!-- LEARNER: ask if family members can use the same membership or is there a family discount -->
+- **B**: With a family membership, the second adult gets a 30 percent discount, so 38 euros per month for a premium membership. Children under 16 can use the swimming pool for free with an adult.
+- **A**: <!-- LEARNER: say want to start with the free trial week, ask what is needed to sign up -->
+- **B**: You need an ID and an email address. I'll create an account for you right away and you'll get the app login details by email. The trial period starts today.
+- **A**: <!-- LEARNER: thank Antti, say excited to start, ask where the changing rooms are -->
+- **B**: The changing rooms are right there on the right. The lockers have coin locks, but you can also bring your own padlock. Towels can be borrowed from reception. Enjoy your workout and welcome to the club!

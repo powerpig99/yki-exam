@@ -1,39 +1,45 @@
-#### dia_30 — Calling dentist for check-up
-**Learner role:** B
-**Non-learner gender:** female
-**FI Konteksti:** Soitat hammaslääkäriin varataksesi tarkastusajan ja kysyt odotusajasta sekä hinnoista.
-**EN Context:** You call the dentist to book a check-up and ask about waiting times and fees.
+#### dia_30 — Emergency room visit — child sprained ankle during sports
+**Learner role:** A
+**Non-learner gender:** male
+**FI Konteksti:** Tuot lapsesi päivystykseen, koska lapsi nyrjäytti nilkkansa urheilussa.
+**EN Context:** You bring your child to the emergency room after they sprained their ankle during sports.
 
 **FI Koko mallidialogi:**
-- **A**: Hammashoitola Hymyhammas, Mari puhelimessa. Miten voin auttaa?
-- **B**: <!-- LEARNER: greet, say you'd like to book a dental check-up, you're a new customer who recently moved to the area -->
-- **A**: Tervetuloa! Uudelle asiakkaalle tehdään ensimmäisellä käynnillä perusteellisempi tarkastus, johon kuuluu röntgenkuvat ja ienkartoitus. Se kestää noin neljäkymmentäviisi minuuttia.
-- **B**: <!-- LEARNER: ask how much the first visit costs and if cleaning is included -->
-- **A**: Ensikäynti on yhdeksänkymmentäviisi euroa, siihen sisältyy tarkastus, panoraamaröntgen ja hoitosuunnitelma. Puhdistus on erillinen, kuusikymmentäviisi euroa, ja se tehdään yleensä seuraavalla käynnillä.
-- **B**: <!-- LEARNER: ask about the earliest available appointment -->
-- **A**: Meillä on aikoja kolmen viikon päähän. Lähin vapaa aika olis perjantaina maaliskuun neljästoista kello neljätoista kolmekymmentä. Sopiiko se?
-- **B**: <!-- LEARNER: say afternoon works well, ask if there's anything earlier — maybe a cancellation slot -->
-- **A**: Mä laitan sut peruutuslistalle, niin jos joku peruuttaa ajan, soitetaan sulle. Muuten se perjantai on lähin.
-- **B**: <!-- LEARNER: agree to take the Friday appointment and the cancellation list, ask about payment methods -->
-- **A**: Meillä käy kortti, käteinen ja mobiilimaksu. Kelakorvaus lasketaan suoraan kassalla, jos sulla on Kela-kortti mukana. Kela korvaa tällä hetkellä kahdeksan euroa yksityisestä käynnistä.
-- **B**: <!-- LEARNER: say you'll take the private appointment, ask what to bring -->
-- **A**: Ota mukaan henkilöllisyystodistus ja Kela-kortti. Jos sulla on aikaisempia röntgenkuvia toiselta hammaslääkäriltä, ne voi pyytää siirtoon OmaKannan kautta.
-- **B**: <!-- LEARNER: thank Mari, confirm the appointment for Friday March 14 at 2:30, say goodbye -->
-- **A**: Hienoa, mä laitan ajan varausjärjestelmään. Saat tekstiviestivahvistuksen. Muista, että peruutus pitää tehdä viimeistään kaksikymmentäneljä tuntia ennen aikaa. Tervetuloa, hei hei!
+- **A**: <!-- LEARNER: greet, say your child hurt their ankle during football practice an hour ago, the ankle is very swollen -->
+- **B**: Hei, mä oon Eero, päivystävä lääkäri. Näytäs mä katson. Mikä sun lapsen nimi on ja minkä ikäinen hän on?
+- **A**: <!-- LEARNER: give the child's first name (any common Finnish name), say they are eleven years old, the ankle twisted when they were running -->
+- **B**: Okei. Mä tunnustelen nilkkaa varovasti. Sattuuko tähän kohtaan? Entä tähän?
+- **A**: <!-- LEARNER: say the child says it hurts a lot on the outside of the ankle, ask if it could be broken -->
+- **B**: Se on mahdollista. Nilkka on turvonnut ja siinä on mustelmaa. Mä lähetän röntgeniin varmuuden vuoksi, niin nähdään onko luussa murtumaa.
+- **A**: <!-- LEARNER: ask how long the X-ray takes and if you can stay with the child -->
+- **B**: Röntgen kestää vaan muutaman minuutin. Sä voit olla mukana koko ajan. Tulokset näkyy noin viidentoista minuutin päästä, sitten tuun kertomaan.
+- **A**: <!-- LEARNER: say okay, ask what to do meanwhile — should you keep the ankle elevated and cold -->
+- **B**: Juuri niin. Pidä nilkka kohotettuna ja tässä on kylmäpakkaus. Kolmen koon sääntö: kylmä, koho, kompressio. Mä annan myös kipulääkettä, parasetamolia painon mukaan.
+- **A**: <!-- LEARNER: after a while, ask about the X-ray results — is it broken or just a sprain -->
+- **B**: Hyviä uutisia, murtumaa ei näy. Se on nivelsidevamma eli nyrjähdys. Nilkka paranee yleensä kahdessa neljässä viikossa.
+- **A**: <!-- LEARNER: ask about treatment — does the child need a cast or a support -->
+- **B**: Kipsin sijaan laitetaan tukiside ja annetaan kyynärsauvat. Nilkkaa ei saa rasittaa ensimmäiseen viikkoon. Sen jälkeen varovasti painoa ja liikkumista lisäämällä.
+- **A**: <!-- LEARNER: ask about pain management at home and when to come back for a check-up -->
+- **B**: Kipuun voi antaa parasetamolia tai ibuprofeenia kolme kertaa päivässä. Kylmähoitoa kaksikymmentä minuuttia kerrallaan useita kertoja päivässä. Kontrollikäynti on viikon päästä terveyskeskuksessa. Mä kirjoitan lähetteen. Alle kahdeksantoistavuotiailta ei peritä päivystysmaksua, joten tää käynti on maksuton.
+- **A**: <!-- LEARNER: thank Eero, say you're relieved it's not a fracture, say goodbye -->
+- **B**: Ole hyvä! Jos nilkka pahenee tai tulee voimakasta kipua öisin, niin tulkaa uudelleen päivystykseen. Hyvää paranemista ja hei hei!
 
 **EN Full sample dialogue:**
-- **A**: Hymyhammas dental clinic, Mari speaking. How can I help?
-- **B**: <!-- LEARNER: greet, say you'd like to book a dental check-up, you're a new customer who recently moved to the area -->
-- **A**: Welcome! For a new customer, the first visit includes a more thorough examination with X-rays and a gum assessment. It takes about 45 minutes.
-- **B**: <!-- LEARNER: ask how much the first visit costs and if cleaning is included -->
-- **A**: The first visit is 95 euros, which includes the examination, panoramic X-ray, and treatment plan. Cleaning is separate at 65 euros and is usually done at the next visit.
-- **B**: <!-- LEARNER: ask about the earliest available appointment -->
-- **A**: We have slots available 3 weeks from now. The nearest opening would be Friday March 14th at 2:30 PM. Does that work?
-- **B**: <!-- LEARNER: say afternoon works well, ask if there's anything earlier — maybe a cancellation slot -->
-- **A**: I'll put you on the cancellation list, so if someone cancels, we'll call you. Otherwise that Friday is the earliest.
-- **B**: <!-- LEARNER: agree to take the Friday appointment and the cancellation list, ask about payment methods -->
-- **A**: We accept card, cash, and mobile payment. Kela reimbursement is calculated directly at the register if you bring your Kela card. Kela currently reimburses 8 euros for a private visit.
-- **B**: <!-- LEARNER: say you'll take the private appointment, ask what to bring -->
-- **A**: Bring your ID and Kela card. If you have earlier X-rays from another dentist, you can request a transfer through OmaKanta.
-- **B**: <!-- LEARNER: thank Mari, confirm the appointment for Friday March 14 at 2:30, say goodbye -->
-- **A**: Great, I'll put the appointment in the booking system. You'll receive a text message confirmation. Remember, cancellation must be done at least 24 hours before. Welcome, bye bye!
+- **A**: <!-- LEARNER: greet, say your child hurt their ankle during football practice an hour ago, the ankle is very swollen -->
+- **B**: Hi, I'm Eero, the on-call doctor. Let me take a look. What's your child's name and how old are they?
+- **A**: <!-- LEARNER: give the child's first name (any common Finnish name), say they are eleven years old, the ankle twisted when they were running -->
+- **B**: Okay. I'll feel the ankle carefully. Does it hurt here? And here?
+- **A**: <!-- LEARNER: say the child says it hurts a lot on the outside of the ankle, ask if it could be broken -->
+- **B**: It's possible. The ankle is swollen and there's bruising. I'll send you for an X-ray just to be safe, so we can see if there's a fracture.
+- **A**: <!-- LEARNER: ask how long the X-ray takes and if you can stay with the child -->
+- **B**: The X-ray only takes a few minutes. You can stay with them the whole time. Results will be ready in about 15 minutes, then I'll come tell you.
+- **A**: <!-- LEARNER: say okay, ask what to do meanwhile — should you keep the ankle elevated and cold -->
+- **B**: Exactly. Keep the ankle elevated and here's an ice pack. The RICE rule: rest, ice, compression, elevation. I'll also give pain medication, paracetamol based on weight.
+- **A**: <!-- LEARNER: after a while, ask about the X-ray results — is it broken or just a sprain -->
+- **B**: Good news, there's no fracture visible. It's a ligament injury, a sprain. The ankle usually heals in 2 to 4 weeks.
+- **A**: <!-- LEARNER: ask about treatment — does the child need a cast or a support -->
+- **B**: Instead of a cast, we'll put on a support bandage and give crutches. The ankle shouldn't bear weight for the first week. After that, gradually increasing weight and movement.
+- **A**: <!-- LEARNER: ask about pain management at home and when to come back for a check-up -->
+- **B**: For pain you can give paracetamol or ibuprofen 3 times a day. Ice treatment 20 minutes at a time several times a day. The follow-up appointment is in a week at the health center. I'll write a referral. No emergency room fee is charged for under 18-year-olds, so this visit is free.
+- **A**: <!-- LEARNER: thank Eero, say you're relieved it's not a fracture, say goodbye -->
+- **B**: You're welcome! If the ankle gets worse or there's severe pain at night, come back to the emergency room. Get well soon and bye bye!

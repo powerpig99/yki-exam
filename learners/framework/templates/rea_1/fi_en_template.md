@@ -5,111 +5,111 @@
 **EN Context:** React to various everyday services and errands situations.
 
 **FI Koko mallidialogi:**
-- **A**: Tilanne 1: Olet kirjastossa. Haluat varata kokoustilan ensi viikoksi. Kysy kirjaston työntekijältä, miten voit varata tilan ja mitä se maksaa.
+- **A**: Tilanne 1: Olet postissa. Haluat lähettää paketin Kiinaan. Kysy virkailijalta, paljonko se maksaa, kauanko se kestää ja mitä tullilomakkeita tarvitaan.
 - **B**: <!-- LEARNER -->
 
-- **A**: Tilanne 2: Olet lääkärissä. Sinulla on ollut päänsärkyä jo kaksi viikkoa eikä se mene pois särkylääkkeellä. Kerro lääkärille oireistasi.
+- **A**: Tilanne 2: Olet apteekissa. Sinulla on kova päänsärky eikä mikään auta. Kysy apteekkarilta, mitä hän suosittelee ja miten lääkettä otetaan.
 - **B**: <!-- LEARNER -->
 
-- **A**: Tilanne 3: Olet bussipysäkillä. Et ole varma, meneekö bussi keskusasemalle. Kysy kuljettajalta, onko tämä oikea bussi ja missä sinun pitäisi jäädä pois.
+- **A**: Tilanne 3: Olet pankissa. Haluat avata säästötilin teini-ikäiselle lapsellesi. Kysy virkailijalta, miten se onnistuu ja millainen korko tilissä on.
 - **B**: <!-- LEARNER -->
 
-- **A**: Tilanne 4: Olet kaupassa ja huomaat, että hyllyssä oleva tuote on vanhentunut. Mene kassalle ja kerro asiasta. Pyydä myös hyvitystä.
+- **A**: Tilanne 4: Naapurisi pyytää sinua katsomaan hänen asuntoaan, kun hän on lomalla kaksi viikkoa. Reagoi pyyntöön ja kysy, mitä sinun pitää tehdä.
 - **B**: <!-- LEARNER -->
 
-- **A**: Tilanne 5: Naapurisi katsoo televisiota kovalla äänellä joka ilta. Et pysty nukkumaan. Pyydä naapuria hiljentämään televisiota kohteliaasti.
+- **A**: Tilanne 5: Olet ruokakaupassa etkä löydä gluteenittomia tuotteita. Kysy myyjältä, missä ne ovat ja onko valikoimassa gluteenitonta leipää.
 - **B**: <!-- LEARNER -->
 
-- **A**: Tilanne 6: Postinkantaja tuo sinulle painavan paketin ovelle asti. Kiitä häntä ja vaihda muutama sana.
+- **A**: Tilanne 6: Soitat ravintolaan. Sinulla on pöytävaraus kello seitsemäksi, mutta haluaisit siirtää sen kello kahdeksaksi. Pyydä muutosta ja varmista, että pöytä on kolmelle hengelle.
 - **B**: <!-- LEARNER -->
 
-- **A**: Tilanne 7: Olet apteekissa. Sinulla on flunssa ja haluat ostaa itsehoitolääkettä. Kysy apteekkarilta, mitä hän suosittelee ja miten lääkettä otetaan.
+- **A**: Tilanne 7: Olet kirjastossa. Haluat lainata äänikirjoja, mutta et ole ennen lainannut niitä. Kysy kirjaston työntekijältä, miten äänikirjoja lainataan ja tarvitaanko erillinen sovellus.
 - **B**: <!-- LEARNER -->
 
-- **A**: Tilanne 8: Työkaveri kysyy, tuletko perjantain kokoukseen. Et pääse, koska sinulla on hammaslääkäriaika. Kerro asiasta ja ehdota vaihtoehtoista aikaa.
+- **A**: Tilanne 8: Olet kaupassa ja haluamasi tuote on loppunut. Myyjä kertoo, ettei sitä saa enää. Kysy, onko vastaavaa tuotetta tai milloin kauppa saa uuden erän.
 - **B**: <!-- LEARNER -->
 
-- **A**: Tilanne 9: Olet kauppakeskuksessa ja etsit asiakaspalvelupistettä. Kysy infotiskiltä, missä se sijaitsee ja mihin aikaan se on auki.
+- **A**: Tilanne 9: Taloyhtiössäsi on vapaita autopaikkoja. Soita huoltoyhtiöön ja kysy, miten voit vuokrata parkkipaikan ja paljonko se maksaa kuukaudessa.
 - **B**: <!-- LEARNER -->
 
-- **A**: Tilanne 10: Unohdit ystäväsi syntymäpäivän eilen. Soita hänelle, pyydä anteeksi ja ehdota juhlistamista myöhemmin.
+- **A**: Tilanne 10: Olet optikolla. Näkösi on huonontunut ja tarvitset uudet silmälasit. Kerro tilanteesta ja kysy, miten näöntarkastus varataan ja paljonko lasit maksavat.
 - **B**: <!-- LEARNER -->
 
-- **A**: Tilanne 11: Olet kampaajalla. Haluat lyhyemmän leikkauksen kuin viime kerralla. Selitä kampaajalle, millaisen hiusmallin haluat.
+- **A**: Tilanne 11: Soitat muuttofirmaan. Olet muuttamassa kaksiosta kolmioon samassa kaupungissa. Kysy hinta-arviota ja sitä, onko muuttopäiväksi vapaata ensi lauantaina.
 - **B**: <!-- LEARNER -->
 
-- **A**: Tilanne 12: Olet ravintolassa. Sinulla on ruoka-allergia eikä ruokalistassa ole merkintöjä allergeeneista. Kerro tarjoilijalle allergiasta ja kysy, mitkä ruoat sopivat sinulle.
+- **A**: Tilanne 12: Olet suutarilla. Kenkiesi pohja on irronnut. Kysy, voiko sen korjata, kauanko korjaus kestää ja paljonko se maksaa.
 - **B**: <!-- LEARNER -->
 
-- **A**: Tilanne 13: Olet pankissa. Haluat vaihtaa pankkikorttisi tunnusluvun. Kysy pankkivirkailijalta, miten se onnistuu ja kauanko se kestää.
+- **A**: Tilanne 13: Puhelinoperaattorisi soittaa ja tarjoaa sinulle kalliimpaa liittymää, jossa on enemmän dataa. Et halua vaihtaa. Kieltäydy kohteliaasti ja perustele.
 - **B**: <!-- LEARNER -->
 
-- **A**: Tilanne 14: Pesukoneesi vuotaa vettä. Viet sen korjaamoon. Selitä korjaajalle, mikä on vialla ja milloin ongelma alkoi.
+- **A**: Tilanne 14: Olet hotellissa. Kysy vastaanotosta, mihin aikaan aamiainen tarjoillaan, missä kerroksessa kuntosali on ja onko hotellissa saunaa.
 - **B**: <!-- LEARNER -->
 
-- **A**: Tilanne 15: Haluat kokeilla uutta kuntosalia. Mene vastaanottoon ja kysy, onko heillä tutustumisjäsenyyttä ja mitä se sisältää.
+- **A**: Tilanne 15: Olet leipomossa. Haluat ostaa kakun, mutta sinulla on pähkinäallergia. Kysy, onko kakuissa pähkinää ja mikä kakku sopii sinulle.
 - **B**: <!-- LEARNER -->
 
-- **A**: Tilanne 16: Olet matkalla kokoukseen ja myöhästyt viisi minuuttia. Soita kollegallesi ja kerro, että olet pian paikalla.
+- **A**: Tilanne 16: Soitat vakuutusyhtiöön. Haluat ottaa kotivakuutuksen vuokra-asuntoosi. Kysy, mitä vakuutus kattaa ja paljonko se maksaa vuodessa.
 - **B**: <!-- LEARNER -->
 
-- **A**: Tilanne 17: Olet hotellissa ja haluat tietää, mihin aikaan huone pitää luovuttaa. Kysy vastaanotosta ja kysy myös, voiko lähtöaikaa siirtää myöhemmäksi.
+- **A**: Tilanne 17: Olet huoltoasemalla. Autosi on likainen ja haluat pestä sen. Kysy, millaisia autopesuvaihtoehtoja on tarjolla ja paljonko ne maksavat.
 - **B**: <!-- LEARNER -->
 
-- **A**: Tilanne 18: Olet taksissa ja huomaat, että kuljettaja ajaa pidempää reittiä. Kerro kuljettajalle asiasta ja pyydä selitystä.
+- **A**: Tilanne 18: Palautat kirjastoon kirjan, joka on myöhässä kaksi viikkoa. Kysy, paljonko myöhästymismaksu on ja miten sen voi maksaa.
 - **B**: <!-- LEARNER -->
 
 **EN Full sample dialogue:**
-- **A**: Situation 1: You are at the library. You want to reserve a meeting room for next week. Ask the library staff how to book the room and what it costs.
+- **A**: Situation 1: You are at the post office. You want to send a package to China. Ask the clerk how much it costs, how long it takes, and what customs forms are needed.
 - **B**: <!-- LEARNER -->
 
-- **A**: Situation 2: You are at the doctor's office. You have had a headache for two weeks and it won't go away with painkillers. Tell the doctor about your symptoms.
+- **A**: Situation 2: You are at the pharmacy. You have a bad headache and nothing helps. Ask the pharmacist what they recommend and how to take the medicine.
 - **B**: <!-- LEARNER -->
 
-- **A**: Situation 3: You are at a bus stop. You are not sure if the bus goes to the central station. Ask the driver if this is the right bus and where you should get off.
+- **A**: Situation 3: You are at the bank. You want to open a savings account for your teenage child. Ask the clerk how to do it and what kind of interest rate the account has.
 - **B**: <!-- LEARNER -->
 
-- **A**: Situation 4: You are in a store and notice that a product on the shelf has expired. Go to the cashier and tell them about it. Also ask for compensation.
+- **A**: Situation 4: Your neighbor asks you to watch their apartment while they are on holiday for two weeks. React to the request and ask what you need to do.
 - **B**: <!-- LEARNER -->
 
-- **A**: Situation 5: Your neighbor watches television at high volume every evening. You cannot sleep. Ask the neighbor politely to turn the television down.
+- **A**: Situation 5: You are at the grocery store and cannot find gluten-free products. Ask the shop assistant where they are and whether there is gluten-free bread in the selection.
 - **B**: <!-- LEARNER -->
 
-- **A**: Situation 6: The postal carrier brings a heavy package to your door. Thank them and exchange a few words.
+- **A**: Situation 6: You are calling a restaurant. You have a table reservation for 7 o'clock but would like to change it to 8 o'clock. Ask for the change and confirm that the table is for three people.
 - **B**: <!-- LEARNER -->
 
-- **A**: Situation 7: You are at the pharmacy. You have a cold and want to buy over-the-counter medicine. Ask the pharmacist what they recommend and how to take the medicine.
+- **A**: Situation 7: You are at the library. You want to borrow audiobooks but have never borrowed them before. Ask the library staff how to borrow audiobooks and whether a separate app is needed.
 - **B**: <!-- LEARNER -->
 
-- **A**: Situation 8: A coworker asks if you are coming to Friday's meeting. You cannot attend because you have a dentist appointment. Tell them about it and suggest an alternative time.
+- **A**: Situation 8: You are at a store and the product you want is sold out. The clerk says it is no longer available. Ask if there is a similar product or when the store will get a new batch.
 - **B**: <!-- LEARNER -->
 
-- **A**: Situation 9: You are at a shopping center and looking for the customer service desk. Ask the info desk where it is located and what time it is open.
+- **A**: Situation 9: Your housing company has available parking spots. Call the maintenance company and ask how to rent a parking spot and how much it costs per month.
 - **B**: <!-- LEARNER -->
 
-- **A**: Situation 10: You forgot your friend's birthday yesterday. Call them, apologize, and suggest celebrating later.
+- **A**: Situation 10: You are at the optician. Your eyesight has gotten worse and you need new glasses. Describe the situation and ask how to book an eye exam and how much glasses cost.
 - **B**: <!-- LEARNER -->
 
-- **A**: Situation 11: You are at the hairdresser. You want a shorter cut than last time. Explain to the hairdresser what kind of hairstyle you want.
+- **A**: Situation 11: You are calling a moving company. You are moving from a two-room apartment to a three-room apartment in the same city. Ask for a price estimate and whether next Saturday is available for the move.
 - **B**: <!-- LEARNER -->
 
-- **A**: Situation 12: You are at a restaurant. You have a food allergy and the menu has no allergen labels. Tell the waiter about your allergy and ask which dishes are suitable for you.
+- **A**: Situation 12: You are at a shoe repair shop. The sole of your shoe has come off. Ask if it can be fixed, how long the repair takes, and how much it costs.
 - **B**: <!-- LEARNER -->
 
-- **A**: Situation 13: You are at the bank. You want to change your bank card PIN code. Ask the bank teller how to do it and how long it takes.
+- **A**: Situation 13: Your phone operator calls and offers you a more expensive plan with more data. You do not want to switch. Decline politely and give your reason.
 - **B**: <!-- LEARNER -->
 
-- **A**: Situation 14: Your washing machine leaks water. You take it to a repair shop. Explain to the repair person what is wrong and when the problem started.
+- **A**: Situation 14: You are at a hotel. Ask the reception what time breakfast is served, which floor the gym is on, and whether the hotel has a sauna.
 - **B**: <!-- LEARNER -->
 
-- **A**: Situation 15: You want to try a new gym. Go to the reception and ask if they have a trial membership and what it includes.
+- **A**: Situation 15: You are at a bakery. You want to buy a cake but you have a nut allergy. Ask if the cakes contain nuts and which cake is suitable for you.
 - **B**: <!-- LEARNER -->
 
-- **A**: Situation 16: You are on your way to a meeting and will be five minutes late. Call your colleague and tell them you will be there soon.
+- **A**: Situation 16: You are calling an insurance company. You want to get home contents insurance for your rental apartment. Ask what the insurance covers and how much it costs per year.
 - **B**: <!-- LEARNER -->
 
-- **A**: Situation 17: You are at a hotel and want to know the check-out time. Ask at reception and also ask if the check-out time can be extended.
+- **A**: Situation 17: You are at a gas station. Your car is dirty and you want to wash it. Ask what kind of car wash options are available and how much they cost.
 - **B**: <!-- LEARNER -->
 
-- **A**: Situation 18: You are in a taxi and notice that the driver is taking a longer route. Tell the driver about it and ask for an explanation.
+- **A**: Situation 18: You are returning a book to the library that is two weeks overdue. Ask how much the late fee is and how to pay it.
 - **B**: <!-- LEARNER -->

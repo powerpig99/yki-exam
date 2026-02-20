@@ -1,115 +1,115 @@
 #### rea_2 — Reagointi: Työ ja viranomaisasiointi
 **Learner role:** B
-**Non-learner gender:** female
+**Non-learner gender:** male
 **FI Konteksti:** Reagoi erilaisiin työhön ja viranomaisasiointiin liittyviin tilanteisiin.
 **EN Context:** React to various work and authority-related situations.
 
 **FI Koko mallidialogi:**
-- **A**: Tilanne 1: Sinulla on aika TE-toimistossa, mutta et muista tarkkaa aikaa. Soita ja tarkista ajanvarauksesi.
+- **A**: Tilanne 1: Pomosi pyytää sinua tekemään ylitöitä lauantaina. Et pääse, koska sinulla on tärkeä perhejuhla. Kieltäydy kohteliaasti ja selitä syy.
 - **B**: <!-- LEARNER -->
 
-- **A**: Tilanne 2: Olet pankissa ja haluat avata säästötilin. Kysy virkailijalta, mikä on tilin vähimmäissaldo ja millainen korko siinä on.
+- **A**: Tilanne 2: Työkaveri pyytää apua esityksen tekemisessä. Hänellä on palaveri huomenna eikä esitys ole valmis. Tarjoudu auttamaan ja kysy, mitä voit tehdä.
 - **B**: <!-- LEARNER -->
 
-- **A**: Tilanne 3: Jätit Kelan hakemuksen myöhässä. Mene Kelan toimistoon ja selitä virkailijalle, miksi hakemus myöhästyi ja kysy, voiko asian vielä korjata.
+- **A**: Tilanne 3: Henkilöstöhallinto kysyy sinulta kesäloman suunnitelmia. Kerro, milloin haluat pitää lomaa ja kauanko.
 - **B**: <!-- LEARNER -->
 
-- **A**: Tilanne 4: Olet työpaikan ruokalassa. Sinulla on laktoosi-intoleranssi. Kerro ruokalan työntekijälle ja kysy, mitkä ruoat sopivat sinulle.
+- **A**: Tilanne 4: Olet Migrissä. Haluat tietää, kauanko kansalaisuushakemuksen käsittely kestää ja mitä asiakirjoja tarvitaan. Kysy virkailijalta.
 - **B**: <!-- LEARNER -->
 
-- **A**: Tilanne 5: Haluat tietää, montako lomapäivää sinulla on vielä jäljellä tänä vuonna. Kysy asiasta henkilöstöhallinnolta.
+- **A**: Tilanne 5: Olet digi- ja väestötietovirastossa. Haluat hakea suomalaista henkilökorttia. Kysy virkailijalta, mitä asiakirjoja tarvitset ja kauanko kortin saaminen kestää.
 - **B**: <!-- LEARNER -->
 
-- **A**: Tilanne 6: Myöhästyit kokouksesta kymmenen minuuttia, koska bussi oli myöhässä. Pyydä anteeksi ja selitä syy.
+- **A**: Tilanne 6: Soitat verotoimistoon. Haluat tietää veronpalautuksesi tilanteen. Kerro nimesi ja kysy, milloin palautus maksetaan.
 - **B**: <!-- LEARNER -->
 
-- **A**: Tilanne 7: Et pääse kirjautumaan sähköpostiisi töissä. Salasanasi ei toimi. Soita tukeen ja pyydä apua salasanan vaihtamisessa.
+- **A**: Tilanne 7: Olet TE-toimistossa. Haluat tietää, mitä uudelleenkoulutuskursseja on tarjolla omalle alallesi. Kysy virkailijalta vaihtoehdoista ja hakuajoista.
 - **B**: <!-- LEARNER -->
 
-- **A**: Tilanne 8: Postinkantaja tulee ovellesi paketin kanssa, mutta olet lähdössä töihin. Kerro, minne hän voi jättää paketin.
+- **A**: Tilanne 8: Pomosi kysyy mielipidettäsi uudesta toimiston pohjaratkaisusta. Avokonttorin sijaan ehdotetaan hiljaisia työtiloja. Kerro mielipiteesi ja perustele.
 - **B**: <!-- LEARNER -->
 
-- **A**: Tilanne 9: Olet katsastusasemalla. Autosi kojelaudassa palaa varoitusvalo. Selitä katsastajalle, mikä valo palaa ja mitä olet jo kokeillut.
+- **A**: Tilanne 9: Työkaveri kutsuu sinut afterwork-illanviettoon perjantaina. Sinulle sopii. Suostu ja kysy, mihin mennään ja mihin aikaan.
 - **B**: <!-- LEARNER -->
 
-- **A**: Tilanne 10: Olet matkustamassa ulkomaille ja haluat tietää, korvaako vakuutus kadonneen matkalaukun. Soita vakuutusyhtiöösi ja kysy.
+- **A**: Tilanne 10: Olet Kelassa. Haluat tietää, korvaako Kela hammashoitoa ja paljonko korvaus on. Kysy virkailijalta.
 - **B**: <!-- LEARNER -->
 
-- **A**: Tilanne 11: Olet kadottanut kulkukorttisi työpaikalla. Mene henkilöstöhallintoon ja ilmoita asiasta. Kysy, miten saat uuden kortin.
+- **A**: Tilanne 11: Soitat työpaikan IT-tukeen. Et pääse kirjautumaan tietokoneellesi, koska järjestelmä sanoo, että tilisi on lukittu. Selitä ongelma ja pyydä apua.
 - **B**: <!-- LEARNER -->
 
-- **A**: Tilanne 12: Työkaveri pyytää sinua tekemään hänen työvuoronsa ensi lauantaina. Sinulle sopii. Sovi asiasta ja kysy tarkemmat tiedot.
+- **A**: Tilanne 12: Työkaveri pyytää sinua vaihtamaan työvuoroja. Hän haluaa sun keskiviikon vuoron ja tarjoaa omaa perjantaivuoroaan tilalle. Reagoi ja sovi asiasta.
 - **B**: <!-- LEARNER -->
 
-- **A**: Tilanne 13: Olet apteekissa ja sinulle on määrätty lääke, joka on kallis. Kysy apteekkarilta, onko edullisempaa rinnakkaislääkettä saatavilla.
+- **A**: Tilanne 13: Olet poliisiasemalla. Löysit lompakon kadulta ja haluat palauttaa sen. Kerro, mistä löysit sen ja anna tiedot.
 - **B**: <!-- LEARNER -->
 
-- **A**: Tilanne 14: Olet palauttanut kirjastoon kirjan myöhässä. Soita kirjastoon ja kysy, paljonko myöhästymismaksu on ja miten sen voi maksaa.
+- **A**: Tilanne 14: Pomosi kysyy, miksi projekti on aikataulusta jäljessä. Selitä syyt ja ehdota, miten tilanteen voi korjata.
 - **B**: <!-- LEARNER -->
 
-- **A**: Tilanne 15: Sinun pitää korjata nimesi digi- ja väestötietovirastossa. Soita varataksesi aika ja kysy, mitä asiakirjoja tarvitset.
+- **A**: Tilanne 15: Haluat, että työnantaja arvioi työpisteesi ergonomian. Selällesi tulee kipuja pitkän istumisen jälkeen. Pyydä ergonomiatarkastusta ja kerro oireistasi.
 - **B**: <!-- LEARNER -->
 
-- **A**: Tilanne 16: Työkaveri auttoi sinua ymmärtämään veroilmoituksen. Kiitä häntä ja kysy vielä yksi lisäkysymys.
+- **A**: Tilanne 16: Soitat verotoimistoon. Sinulla on tuloja ulkomailta ja et tiedä, miten ne ilmoitetaan veroilmoituksessa. Kysy neuvoa.
 - **B**: <!-- LEARNER -->
 
-- **A**: Tilanne 17: Olit työhaastattelussa viime viikolla. Et ole kuullut tuloksesta. Soita haastattelijalle ja kysy kohteliaasti, milloin päätös tehdään.
+- **A**: Tilanne 17: Henkilöstöhallinto pyytää sinua päivittämään hätäyhteystietosi. Kysy, mitä tietoja tarvitaan ja miten ne voi päivittää.
 - **B**: <!-- LEARNER -->
 
-- **A**: Tilanne 18: Unohdit kulkukorttisi kotiin etkä pääse työpaikan ovesta sisään. Kerro asiasta vahtimestarille ja pyydä apua.
+- **A**: Tilanne 18: Olet TE-toimistossa. Sinulla on ulkomailla suoritettu tutkinto ja haluat tietää, miten se tunnustetaan Suomessa. Kysy virkailijalta prosessista.
 - **B**: <!-- LEARNER -->
 
 **EN Full sample dialogue:**
-- **A**: Situation 1: You have an appointment at the TE office but you don't remember the exact time. Call and check your appointment.
+- **A**: Situation 1: Your boss asks you to work overtime on Saturday. You cannot because you have an important family celebration. Decline politely and explain the reason.
 - **B**: <!-- LEARNER -->
 
-- **A**: Situation 2: You are at the bank and want to open a savings account. Ask the clerk what the minimum balance is and what interest rate it has.
+- **A**: Situation 2: A colleague asks for help making a presentation. They have a meeting tomorrow and the presentation is not ready. Offer to help and ask what you can do.
 - **B**: <!-- LEARNER -->
 
-- **A**: Situation 3: You submitted a Kela application late. Go to the Kela office and explain to the clerk why the application was late and ask if the matter can still be fixed.
+- **A**: Situation 3: HR asks about your summer vacation plans. Tell them when you want to take your holiday and for how long.
 - **B**: <!-- LEARNER -->
 
-- **A**: Situation 4: You are at the workplace cafeteria. You have lactose intolerance. Tell the cafeteria staff and ask which dishes are suitable for you.
+- **A**: Situation 4: You are at the Finnish Immigration Service. You want to know how long the citizenship application processing takes and what documents are needed. Ask the official.
 - **B**: <!-- LEARNER -->
 
-- **A**: Situation 5: You want to know how many vacation days you have left this year. Ask HR about it.
+- **A**: Situation 5: You are at the Digital and Population Data Services Agency. You want to apply for a Finnish ID card. Ask the official what documents you need and how long it takes to get the card.
 - **B**: <!-- LEARNER -->
 
-- **A**: Situation 6: You were ten minutes late to a meeting because the bus was delayed. Apologize and explain the reason.
+- **A**: Situation 6: You are calling the tax office. You want to know the status of your tax refund. Give your name and ask when the refund will be paid.
 - **B**: <!-- LEARNER -->
 
-- **A**: Situation 7: You cannot log into your work email. Your password does not work. Call IT support and ask for help resetting the password.
+- **A**: Situation 7: You are at the TE office. You want to know what retraining courses are available in your field. Ask the official about options and application deadlines.
 - **B**: <!-- LEARNER -->
 
-- **A**: Situation 8: The postal carrier comes to your door with a package but you are leaving for work. Tell them where they can leave the package.
+- **A**: Situation 8: Your boss asks your opinion about a new office layout. Instead of an open office, quiet workspaces are proposed. Give your opinion and justify it.
 - **B**: <!-- LEARNER -->
 
-- **A**: Situation 9: You are at the car inspection station. A warning light is on in your dashboard. Explain to the inspector which light is on and what you have already tried.
+- **A**: Situation 9: A colleague invites you to after-work drinks on Friday. It suits you. Accept and ask where you are going and what time.
 - **B**: <!-- LEARNER -->
 
-- **A**: Situation 10: You are traveling abroad and want to know if your insurance covers lost luggage. Call your insurance company and ask.
+- **A**: Situation 10: You are at Kela. You want to know if Kela reimburses dental care and how much the reimbursement is. Ask the official.
 - **B**: <!-- LEARNER -->
 
-- **A**: Situation 11: You have lost your access card at work. Go to HR and report it. Ask how to get a new card.
+- **A**: Situation 11: You are calling the workplace IT helpdesk. You cannot log into your computer because the system says your account is locked. Explain the problem and ask for help.
 - **B**: <!-- LEARNER -->
 
-- **A**: Situation 12: A coworker asks you to cover their shift next Saturday. It works for you. Agree to it and ask for the details.
+- **A**: Situation 12: A colleague asks you to swap shifts. They want your Wednesday shift and offer their Friday shift instead. React and agree on the arrangement.
 - **B**: <!-- LEARNER -->
 
-- **A**: Situation 13: You are at the pharmacy and you have been prescribed an expensive medicine. Ask the pharmacist if a cheaper generic version is available.
+- **A**: Situation 13: You are at a police station. You found a wallet on the street and want to return it. Tell them where you found it and give the details.
 - **B**: <!-- LEARNER -->
 
-- **A**: Situation 14: You returned a library book late. Call the library and ask how much the late fee is and how to pay it.
+- **A**: Situation 14: Your boss asks why the project is behind schedule. Explain the reasons and suggest how to fix the situation.
 - **B**: <!-- LEARNER -->
 
-- **A**: Situation 15: You need to correct your name at the Digital and Population Data Services Agency. Call to book an appointment and ask what documents you need.
+- **A**: Situation 15: You want your employer to evaluate the ergonomics of your workstation. Your back hurts after sitting for a long time. Request an ergonomics assessment and describe your symptoms.
 - **B**: <!-- LEARNER -->
 
-- **A**: Situation 16: A coworker helped you understand the tax return. Thank them and ask one more follow-up question.
+- **A**: Situation 16: You are calling the tax office. You have income from abroad and do not know how to report it on the tax return. Ask for advice.
 - **B**: <!-- LEARNER -->
 
-- **A**: Situation 17: You had a job interview last week. You haven't heard the result. Call the interviewer and politely ask when the decision will be made.
+- **A**: Situation 17: HR asks you to update your emergency contact information. Ask what details are needed and how to update them.
 - **B**: <!-- LEARNER -->
 
-- **A**: Situation 18: You forgot your access badge at home and cannot get through the workplace door. Tell the security guard and ask for help.
+- **A**: Situation 18: You are at the TE office. You have a degree from abroad and want to know how it is recognized in Finland. Ask the official about the process.
 - **B**: <!-- LEARNER -->

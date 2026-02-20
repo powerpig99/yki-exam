@@ -1,39 +1,47 @@
-#### dia_09 — Calling verotoimisto about tax card and deductions
+#### dia_09 — Reporting stolen phone at the police station
 **Learner role:** B
 **Non-learner gender:** female
-**FI Konteksti:** Soitat verotoimistoon kysyäksesi verokortin muuttamisesta ja vähennyksistä.
-**EN Context:** You call the tax office to ask about changing your tax card and deductions.
+**FI Konteksti:** Teet rikosilmoituksen varastetusta puhelimesta poliisilaitoksella.
+**EN Context:** You file a police report about a stolen phone at the police station.
 
 **FI Koko mallidialogi:**
-- **A**: Hei, Verohallinto, Leena Järvinen puhelimessa. Miten voin auttaa?
-- **B**: <!-- LEARNER: introduce self, say your tax rate seems too high after starting a new job, want to adjust the tax card -->
-- **A**: Selvä, uuden verokortin voi tilata OmaVero-palvelussa osoitteessa vero.fi. Haluatteko tietää myös vähennyksistä?
-- **B**: <!-- LEARNER: say yes, ask what common deductions can lower the tax rate -->
-- **A**: Yleisimmät ovat työmatkakulut, asuntolainan korot ja kotitalousvähennys. Työmatkakuluissa omavastuu on kahdeksansataaneljäkymmentä euroa vuodessa, eli vasta sen ylittävä osa vähennetään.
-- **B**: <!-- LEARNER: say you commute by bus with a 74 euro monthly pass, calculate it's 888 euros per year — ask if the 48 euros above the deductible can be deducted -->
-- **A**: Juuri näin, pieni vähennys mutta kannattaa ilmoittaa. Kotitalousvähennys kattaa siivouspalvelut ja remontit, neljäkymmentä prosenttia työn osuudesta, enintään kaksituhattakahdeksansataaneljäkymmentä euroa vuodessa.
-- **B**: <!-- LEARNER: ask if deductions are claimed now on the tax card or later in the tax return -->
-- **A**: Voitte tehdä molemmat. Lisätkää arvio vähennyksistä verokorttiin OmaVerossa niin ennakonpidätys pienenee heti. Lopullinen vähennys tehdään veroilmoituksessa keväällä.
-- **B**: <!-- LEARNER: ask if the new tax card is sent automatically to the employer or do you need to do it yourself -->
-- **A**: Teidän pitää itse lähettää uusi verokortti työnantajalle tai antaa lupa sähköiseen noutoon OmaVerossa.
-- **B**: <!-- LEARNER: ask about the pre-filled tax return — when does it arrive and what to check -->
-- **A**: Esitäytetty veroilmoitus tulee OmaVeroon maaliskuussa. Tarkistakaa tulot, vähennykset ja pankkitiedot. Määräaika on toukokuun alussa. Jos ette tarkista ja on virheitä, voitte joutua maksamaan jäännösveroa korkoineen.
-- **B**: <!-- LEARNER: thank Leena, say you will update the tax card in OmaVero today, say goodbye -->
-- **A**: Hyvä, muistakaa lähettää uusi verokortti työnantajalle. Hyvää päivän jatkoa!
+- **A**: Hei, poliisilaitos, ylikonstaapeli Leena Mäkinen. Miten voin auttaa?
+- **B**: <!-- LEARNER: greet, say your phone was stolen and you want to file a report -->
+- **A**: Ikävä kuulla. Milloin ja missä puhelin katosi?
+- **B**: <!-- LEARNER: say it was stolen today around noon at the central railway station, you left it on a bench for a moment -->
+- **A**: Selvä. Minkämerkkinen ja -mallinen puhelin oli ja minkä värinen?
+- **B**: <!-- LEARNER: describe the phone — brand, model, color, any case or distinguishing features -->
+- **A**: Kiitos. Onko teillä puhelimen IMEI-numero? Se löytyy myyntipakkauksesta tai operaattorin sopimuksesta.
+- **B**: <!-- LEARNER: say you have the IMEI number written down at home, ask if you can send it later -->
+- **A**: Kyllä, voitte lähettää sen sähköpostilla tai tuoda tänne. IMEI-numero auttaa tunnistamaan puhelimen jos se löytyy. Mä annan teille ilmoituksen viitenumeron.
+- **B**: <!-- LEARNER: ask if you should also notify the phone operator to block the SIM card -->
+- **A**: Ehdottomasti, soittakaa operaattorille mahdollisimman pian ja pyytäkää sulkemaan liittymä. Se estää puheluiden ja datan käytön teidän laskuunne.
+- **B**: <!-- LEARNER: ask if there is any chance of getting the phone back -->
+- **A**: Rehellisesti sanottuna varastetut puhelimet löytyvät harvoin. Mutta rikosilmoitus on tärkeä vakuutuskorvausta varten. Onko teillä kotivakuutus?
+- **B**: <!-- LEARNER: say yes, you have home insurance, ask what documents the insurance company needs -->
+- **A**: Vakuutusyhtiö tarvitsee rikosilmoituksen numeron, puhelimen ostokuitin ja arvion puhelimen arvosta. Ilmoituksen numero on RV-nolla neljä seitsemän kaksi yksi.
+- **B**: <!-- LEARNER: repeat the number to confirm, ask if there is anything else you should do -->
+- **A**: Vaihtakaa kaikki salasanat heti, varsinkin verkkopankki ja sähköposti. Jos puhelimessa on paikannustoiminto, koettakaa paikantaa tai tyhjentää se etänä.
+- **B**: <!-- LEARNER: thank Leena, say you will do everything she suggested, say goodbye -->
+- **A**: Tsemppiä, {NIMI}. Jos puhelimesta tulee tietoa, mä otan teihin yhteyttä. Hyvää päivän jatkoa!
 
 **EN Full sample dialogue:**
-- **A**: Hi, Tax Administration, Leena Järvinen speaking. How can I help?
-- **B**: <!-- LEARNER: introduce self, say your tax rate seems too high after starting a new job, want to adjust the tax card -->
-- **A**: I see, a new tax card can be ordered in the OmaVero service at vero.fi. Would you also like to know about deductions?
-- **B**: <!-- LEARNER: say yes, ask what common deductions can lower the tax rate -->
-- **A**: The most common are commuting costs, mortgage interest, and household deduction. For commuting, the deductible is 840 euros per year, so only the amount exceeding that is deducted.
-- **B**: <!-- LEARNER: say you commute by bus with a 74 euro monthly pass, calculate it's 888 euros per year — ask if the 48 euros above the deductible can be deducted -->
-- **A**: Exactly, a small deduction but still worth reporting. The household deduction covers cleaning and renovation services, 40 percent of the labor portion, up to 2840 euros per year.
-- **B**: <!-- LEARNER: ask if deductions are claimed now on the tax card or later in the tax return -->
-- **A**: You can do both. Add an estimate of deductions to the tax card in OmaVero and your withholding rate decreases right away. The final deduction is done in the spring tax return.
-- **B**: <!-- LEARNER: ask if the new tax card is sent automatically to the employer or do you need to do it yourself -->
-- **A**: You need to send the new tax card to your employer yourself or give permission for electronic retrieval in OmaVero.
-- **B**: <!-- LEARNER: ask about the pre-filled tax return — when does it arrive and what to check -->
-- **A**: The pre-filled tax return appears in OmaVero in March. Check the income, deductions, and bank details. The deadline is early May. If you don't check and there are errors, you may end up paying back taxes with interest.
-- **B**: <!-- LEARNER: thank Leena, say you will update the tax card in OmaVero today, say goodbye -->
-- **A**: Good, remember to send the new tax card to your employer. Have a good day!
+- **A**: Hi, police station, senior constable Leena Mäkinen. How can I help?
+- **B**: <!-- LEARNER: greet, say your phone was stolen and you want to file a report -->
+- **A**: Sorry to hear that. When and where did the phone go missing?
+- **B**: <!-- LEARNER: say it was stolen today around noon at the central railway station, you left it on a bench for a moment -->
+- **A**: I see. What brand and model was the phone and what color?
+- **B**: <!-- LEARNER: describe the phone — brand, model, color, any case or distinguishing features -->
+- **A**: Thank you. Do you have the phone's IMEI number? It can be found on the sales packaging or the operator's contract.
+- **B**: <!-- LEARNER: say you have the IMEI number written down at home, ask if you can send it later -->
+- **A**: Yes, you can send it by email or bring it here. The IMEI number helps identify the phone if it's found. I'll give you the report reference number.
+- **B**: <!-- LEARNER: ask if you should also notify the phone operator to block the SIM card -->
+- **A**: Absolutely, call your operator as soon as possible and ask them to block the subscription. That prevents calls and data usage on your bill.
+- **B**: <!-- LEARNER: ask if there is any chance of getting the phone back -->
+- **A**: Honestly, stolen phones are rarely found. But the police report is important for insurance claims. Do you have home insurance?
+- **B**: <!-- LEARNER: say yes, you have home insurance, ask what documents the insurance company needs -->
+- **A**: The insurance company needs the police report number, the phone's purchase receipt, and an estimate of the phone's value. The report number is RV-04721.
+- **B**: <!-- LEARNER: repeat the number to confirm, ask if there is anything else you should do -->
+- **A**: Change all your passwords immediately, especially online banking and email. If the phone had a Find My Device feature, try to locate or wipe it remotely.
+- **B**: <!-- LEARNER: thank Leena, say you will do everything she suggested, say goodbye -->
+- **A**: Good luck, {NAME}. If we get any information about the phone, I'll contact you. Have a good day!

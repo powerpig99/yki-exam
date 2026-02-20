@@ -1,43 +1,45 @@
-#### dia_20 — Suomi.fi identification issue
-**Learner role:** B
-**Non-learner gender:** female
-**FI Konteksti:** Soitat Suomi.fi-asiakaspalveluun, koska et pääse kirjautumaan sisään, ja kysyt vaihtoehtoisista tunnistautumistavoista.
-**EN Context:** You call Suomi.fi customer service because you cannot log in and ask about alternative identification methods.
+#### dia_20 — Returning a damaged online order and requesting refund
+**Learner role:** A
+**Non-learner gender:** male
+**FI Konteksti:** Soitat verkkokaupan asiakaspalveluun ja palautat vaurioituneen tuotteen sekä pyydät hyvitystä.
+**EN Context:** You call an online store's customer service to return a damaged product and request a refund.
 
 **FI Koko mallidialogi:**
-- **A**: Suomi.fi-asiakaspalvelu, Mari puhelimessa. Miten voin auttaa?
-- **B**: <!-- LEARNER: greet, explain can't log into Suomi.fi, tried bank credentials but keeps getting an error message -->
-- **A**: Ikävä kuulla. Minkä pankin tunnuksia sä käytät?
-- **B**: <!-- LEARNER: say using Nordea online banking credentials, worked fine before but now getting "authentication failed" error -->
-- **A**: Selvä. Onko Nordean verkkopankkitunnukset voimassa? Joskus tunnukset pitää uusia pankissa, jos ne on vanhentunut.
-- **B**: <!-- LEARNER: say not sure, haven't checked recently, ask how to find out if they've expired -->
-- **A**: Helpoiten tarkistat kirjautumalla Nordean omaan verkkopankkiin. Jos se toimii, tunnukset on kunnossa ja ongelma on muualla. Jos se ei toimi, ota yhteyttä Nordeaan.
-- **B**: <!-- LEARNER: say just tried and Nordea's own site works fine, so the problem must be on Suomi.fi side -->
-- **A**: Okei. Silloin ongelma voi olla Suomi.fi-tunnistautumisen ja Nordean välisessä yhteydessä. Mä suosittelen kokeilemaan toista tunnistautumistapaa.
-- **B**: <!-- LEARNER: ask what other identification methods are available besides bank credentials -->
-- **A**: Suomi.fi:hin voi tunnistautua verkkopankkitunnuksilla, mobiilivarmenteella tai sähköisellä henkilökortilla. Mobiilivarmenteen saa operaattorilta ja henkilökortti haetaan poliisilta.
-- **B**: <!-- LEARNER: ask how mobile certificate works and how to get one -->
-- **A**: Mobiilivarmenteen voi tilata omalta puhelinoperaattorilta. Se vaatii uuden SIM-kortin. Aktivointi kestää noin viisi arkipäivää. Hinta vaihtelee operaattorin mukaan, mutta se on yleensä ilmainen.
-- **B**: <!-- LEARNER: ask if there's a quicker solution — need to access Kela services today, ask about visiting Kela office in person -->
-- **A**: Jos asia on kiireellinen, voit käydä Kelan toimistossa paikan päällä henkilökortin kanssa. Ajanvarauksen voi tehdä Kelan puhelinpalvelussa numerossa nolla kaksisataa yhdeksänkymmentäviisi viisisataa. Tai voit mennä suoraan ilman ajanvarausta. Lähin toimisto löytyy kela.fi-sivulta.
-- **B**: <!-- LEARNER: thank for all the help, say will try mobile certificate and visit Kela office today -->
-- **A**: Ole hyvä! Kokeile myös tyhjentää selaimen evästeet ja välimuisti ennen seuraavaa kirjautumisyritystä. Se ratkaisee ongelman yllättävän usein. Onnea ja hyvää päivää!
+- **A**: <!-- LEARNER: greet, say ordered a coffee machine online and it arrived damaged, want to return it -->
+- **B**: Hei! Mä olen Eero, Verkkokauppa.fi:n asiakaspalvelusta. Ikävä kuulla. Voitko antaa tilausnumeron?
+- **A**: <!-- LEARNER: give order number, describe the damage — glass carafe was cracked and there are scratches on the body -->
+- **B**: Selvä, mä näen tilauksen. Tuote lähti meiltä kunnossa, joten vaurio on todennäköisesti syntynyt kuljetuksessa. Oletko ottanut valokuvia vahingoista?
+- **A**: <!-- LEARNER: confirm, took photos right when opened the package, ask what to do next -->
+- **B**: Hyvä. Lähetä valokuvat meidän reklamaatiolomakkeen kautta verkossa. Osoite on verkkokauppa.fi/reklamaatio. Liitä kuvat ja tilausnumero. Mä käsittelen sen heti.
+- **A**: <!-- LEARNER: ask about refund — want money back rather than a replacement -->
+- **B**: Se onnistuu. Kuluttajansuojalain mukaan sulla on oikeus valita korjauksen, vaihdon tai hyvityksen väliltä. Koska tuote on vaurioitunut kuljetuksessa, hyvitys on suoraviivaista.
+- **A**: <!-- LEARNER: ask how long the refund takes and where the money goes -->
+- **B**: Hyvitys maksetaan alkuperäisellä maksutavalla viiden arkipäivän sisällä siitä, kun me saadaan palautus. Jos maksoit kortilla, rahat tulee samalle kortille.
+- **A**: <!-- LEARNER: ask about returning the product — how to send it back and who pays the shipping -->
+- **B**: Mä lähetän palautustarran sähköpostiin. Pakkaa tuote alkuperäiseen laatikkoon ja vie se mihin tahansa Postin palvelupisteeseen tai pakettiautomaattiin. Palautuskulut on meidän vastuulla.
+- **A**: <!-- LEARNER: ask if need to return all parts — the carafe is cracked, is it safe to pack -->
+- **B**: Pakkaa rikkinäinen karahvi varovasti paperiin, ettei se aiheuta vahinkoa. Palauta kaikki osat, myös suodatin ja johto. Merkitse pakettiin hauras.
+- **A**: <!-- LEARNER: say will pack and send it today, ask if should wait for the return label before going to the post office -->
+- **B**: Kyllä. Palautustarra tulee sähköpostiin kymmenen minuutin sisällä. Tulosta se tai näytä QR-koodi puhelimesta automaatilla. Pakettiautomatti lukee koodin suoraan.
+- **A**: <!-- LEARNER: thank Eero, say appreciate the fast help, say goodbye -->
+- **B**: Kiitos kun otit yhteyttä! Pahoittelut vaivasta. Mä lähetän vahvistuksen, kun palautus on vastaanotettu ja hyvitys maksettu. Hyvää päivää!
 
 **EN Full sample dialogue:**
-- **A**: Suomi.fi customer service, Mari speaking. How can I help?
-- **B**: <!-- LEARNER: greet, explain can't log into Suomi.fi, tried bank credentials but keeps getting an error message -->
-- **A**: Sorry to hear that. Which bank's credentials are you using?
-- **B**: <!-- LEARNER: say using Nordea online banking credentials, worked fine before but now getting "authentication failed" error -->
-- **A**: Alright. Are the Nordea online banking credentials still valid? Sometimes the credentials need to be renewed at the bank if they have expired.
-- **B**: <!-- LEARNER: say not sure, haven't checked recently, ask how to find out if they've expired -->
-- **A**: The easiest way to check is to log into Nordea's own online bank. If that works, the credentials are fine and the problem is elsewhere. If it doesn't work, contact Nordea.
-- **B**: <!-- LEARNER: say just tried and Nordea's own site works fine, so the problem must be on Suomi.fi side -->
-- **A**: Okay. Then the problem might be in the connection between Suomi.fi authentication and Nordea. I recommend trying a different identification method.
-- **B**: <!-- LEARNER: ask what other identification methods are available besides bank credentials -->
-- **A**: You can identify yourself on Suomi.fi with online banking credentials, a mobile certificate, or an electronic ID card. The mobile certificate is obtained from your operator and the ID card is applied for at the police station.
-- **B**: <!-- LEARNER: ask how mobile certificate works and how to get one -->
-- **A**: You can order a mobile certificate from your phone operator. It requires a new SIM card. Activation takes about five business days. The price varies by operator, but it's usually free.
-- **B**: <!-- LEARNER: ask if there's a quicker solution — need to access Kela services today, ask about visiting Kela office in person -->
-- **A**: If it's urgent, you can visit a Kela office in person with your ID card. You can book an appointment through Kela's phone service at 0200 295 500. Or you can go directly without an appointment. The nearest office can be found on the kela.fi website.
-- **B**: <!-- LEARNER: thank for all the help, say will try mobile certificate and visit Kela office today -->
-- **A**: You're welcome! Also try clearing your browser cookies and cache before the next login attempt. That solves the problem surprisingly often. Good luck and have a nice day!
+- **A**: <!-- LEARNER: greet, say ordered a coffee machine online and it arrived damaged, want to return it -->
+- **B**: Hi! I'm Eero from Verkkokauppa.fi customer service. Sorry to hear that. Can you give me the order number?
+- **A**: <!-- LEARNER: give order number, describe the damage — glass carafe was cracked and there are scratches on the body -->
+- **B**: Alright, I can see the order. The product left us in good condition, so the damage likely occurred during shipping. Have you taken photos of the damage?
+- **A**: <!-- LEARNER: confirm, took photos right when opened the package, ask what to do next -->
+- **B**: Good. Send the photos through our complaint form online. The address is verkkokauppa.fi/reklamaatio. Attach the photos and order number. I'll process it right away.
+- **A**: <!-- LEARNER: ask about refund — want money back rather than a replacement -->
+- **B**: That works. According to the Consumer Protection Act, you have the right to choose between repair, replacement, or refund. Since the product was damaged in transit, a refund is straightforward.
+- **A**: <!-- LEARNER: ask how long the refund takes and where the money goes -->
+- **B**: The refund is paid using the original payment method within five business days of us receiving the return. If you paid by card, the money goes back to the same card.
+- **A**: <!-- LEARNER: ask about returning the product — how to send it back and who pays the shipping -->
+- **B**: I'll send a return label to your email. Pack the product in the original box and take it to any Posti service point or parcel locker. Return shipping costs are our responsibility.
+- **A**: <!-- LEARNER: ask if need to return all parts — the carafe is cracked, is it safe to pack -->
+- **B**: Pack the broken carafe carefully in paper so it doesn't cause damage. Return all parts, including the filter and the cord. Mark the package as fragile.
+- **A**: <!-- LEARNER: say will pack and send it today, ask if should wait for the return label before going to the post office -->
+- **B**: Yes. The return label will arrive in your email within ten minutes. Print it or show the QR code from your phone at the machine. The parcel locker reads the code directly.
+- **A**: <!-- LEARNER: thank Eero, say appreciate the fast help, say goodbye -->
+- **B**: Thank you for contacting us! Sorry for the inconvenience. I'll send confirmation when the return is received and the refund is paid. Have a good day!

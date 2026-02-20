@@ -1,41 +1,43 @@
-#### dia_31 — Restaurant reservation for family dinner
-**Learner role:** A
+#### dia_31 — Booking hairdresser — explaining desired haircut and color
+**Learner role:** B
 **Non-learner gender:** female
-**FI Konteksti:** Soitat ravintolaan varataksesi pöydän perhejuhlaan ja kysyt allergioista ja menusta.
-**EN Context:** You call a restaurant to book a table for a family celebration and ask about allergies and the menu.
+**FI Konteksti:** Varaat ajan kampaajalle ja kerrot, millaisen leikkauksen ja värin haluat.
+**EN Context:** You book an appointment at the hairdresser and explain the haircut and color you want.
 
 **FI Koko mallidialogi:**
-- **A**: <!-- LEARNER: greet, say you'd like to reserve a table for eight people next Saturday evening around 6 PM, mention two children aged 5 and 8 -->
-- **B**: Hei, tervetuloa varaamaan! Kahdeksalle hengelle meillä on iso pöytä ikkunan vieressä. Kuudelta onnistuu, pöytävaraus on kolmeksi tunniksi.
-- **A**: <!-- LEARNER: say that's perfect, mention one guest has a gluten allergy and one is lactose intolerant, ask if the kitchen can accommodate -->
-- **B**: Ehdottomasti. Meillä on gluteenittomia vaihtoehtoja joka kategoriassa ja laktoosittomat versiot onnistuu myös. Mä merkitsen nää varauksen tietoihin.
-- **A**: <!-- LEARNER: ask about the children's menu — what do they offer for kids -->
-- **B**: Lasten annokset on kahdeksan euroa viisikymmentä senttiä. Valikoimassa on lihapullia perunamuusin kanssa, kalapuikkoja ja lasten pastaa. Lapsille on myös omat mehut ja jälkiruuat.
-- **A**: <!-- LEARNER: ask about the regular menu — is there a set menu option -->
-- **B**: Meillä on kolmen ruokalajin illallismenu neljäkymmentäkaksi euroa henkilöltä. Pääruokavaihtoehdot on grillattua lohta, paistettua ankanrintaa tai kasvisrisottoa. Kaikista saa gluteenittoman version.
-- **A**: <!-- LEARNER: say the set menu sounds good, ask if you can bring your own cake for the celebration -->
-- **B**: Oman kakun saa tuoda ilman lisämaksua. Meiltä saa myös tilata suklaakakun koko pöydälle kolmellakymmenelläviidellä eurolla, mutta se pitää tilata kolme päivää etukäteen.
-- **A**: <!-- LEARNER: say you'll bring your own cake, ask about the deposit or cancellation policy -->
-- **B**: Isommissa varauksissa meillä on kymmenen euron ennakkomaksu henkilöltä. Peruutus on ilmaista neljäkymmentäkahdeksan tuntia ennen. Sen jälkeen ennakkomaksua ei palauteta.
-- **A**: <!-- LEARNER: confirm the reservation — 8 people, Saturday at 6 PM, set menu with allergy notes, bringing own cake -->
-- **B**: Täydellisesti. Mä laitan varauksen nimellesi. Saat vahvistuksen sähköpostiin. Tervetuloa lauantaina!
-- **A**: <!-- LEARNER: thank Laura, say you look forward to it, say goodbye -->
-- **B**: Kiitos varauksesta! Nähdään lauantaina, hei hei!
+- **A**: Kampaamo Hiushuone, Laura hei! Miten voin auttaa?
+- **B**: <!-- LEARNER: greet, say you'd like to book a haircut and color appointment, ask about available times this week -->
+- **A**: Meillä on vapaata torstaina kello kahdentoista ja perjantaina kello neljäntoista. Leikkaus ja värjäys yhteensä kestää noin kaksi tuntia. Kumpi päivä sopisi paremmin?
+- **B**: <!-- LEARNER: say Thursday at noon works, ask about the price for a cut and color -->
+- **A**: Leikkaus on neljäkymmentäviisi euroa ja koko päävärjäys alkaa kahdeksastakymmenestäviidestä eurosta. Jos haluat raitoja tai balayage-tekniikkaa, hinta on sadastakahteenkymmeneen euroon. Mitä sä ajattelit?
+- **B**: <!-- LEARNER: say you want to change your hair color — you currently have dark brown and want to go lighter, maybe warm honey blonde -->
+- **A**: Okei, tummasta vaaleampaan meneminen vaatii vaalennuskäsittelyn ensin. Se nostaa hintaa, koska tarvitaan vaalennus ja sävy päälle. Kokonaishinta olis noin sataneljäkymmentä euroa leikkauksen kanssa.
+- **B**: <!-- LEARNER: ask how damaging the lightening process is and if there's a way to protect the hair -->
+- **A**: Mä käytän ammattituotteita, jotka suojaavat hiuksia vaalennuksen aikana. Lisäksi mä suosittelen tehohoitoa käsittelyn jälkeen, se on viisitoista euroa. Se palauttaa kosteutta ja kiiltoa.
+- **B**: <!-- LEARNER: say you'll take the treatment too, explain the haircut — you want about five centimeters shorter with layers around the face -->
+- **A**: Hyvä valinta. Kerrokset kehystää kasvoja ja antaa liikettä. Haluatko otsatukan vai ei?
+- **B**: <!-- LEARNER: say no bangs, you want to keep it long enough to tie back in a ponytail, also ask what products to use at home to maintain the color -->
+- **A**: Joo, mä jätän pituutta niin, että poninhäntä onnistuu. Kotihoidosta: värjätyille hiuksille kannattaa käyttää sulfaatitonta shampoota ja hoitoainetta. Mä myyn sulle oikean sarjan, jos haluat. Sävyä ylläpitävä shampoo maksaa kaksikymmentäneljä euroa.
+- **B**: <!-- LEARNER: say you'll decide about the products at the appointment, confirm Thursday at noon, ask if there's anything to do before coming -->
+- **A**: Älä pese hiuksia samana aamuna, vaan tuu hieman likaisilla hiuksilla. Se suojaa päänahkaa vaalennuksen aikana. Muuten vaan tuu rohkeasti!
+- **B**: <!-- LEARNER: thank Laura, say you look forward to the new look, say goodbye -->
+- **A**: Kiitos varauksesta, {NIMI}! Nähdään torstaina. Hei hei!
 
 **EN Full sample dialogue:**
-- **A**: <!-- LEARNER: greet, say you'd like to reserve a table for eight people next Saturday evening around 6 PM, mention two children aged 5 and 8 -->
-- **B**: Hi, welcome to make a reservation! For 8 people we have a large table by the window. 6 PM works, the table reservation is for 3 hours.
-- **A**: <!-- LEARNER: say that's perfect, mention one guest has a gluten allergy and one is lactose intolerant, ask if the kitchen can accommodate -->
-- **B**: Absolutely. We have gluten-free options in every category and lactose-free versions are also possible. I'll note these in the reservation.
-- **A**: <!-- LEARNER: ask about the children's menu — what do they offer for kids -->
-- **B**: Children's portions are 8.50 euros. The selection includes meatballs with mashed potatoes, fish sticks, and kids' pasta. Kids also get their own juices and desserts.
-- **A**: <!-- LEARNER: ask about the regular menu — is there a set menu option -->
-- **B**: We have a 3-course dinner menu for 42 euros per person. The main course options are grilled salmon, pan-fried duck breast, or vegetable risotto. All are available in a gluten-free version.
-- **A**: <!-- LEARNER: say the set menu sounds good, ask if you can bring your own cake for the celebration -->
-- **B**: You can bring your own cake at no extra charge. We can also order a chocolate cake for the whole table for 35 euros, but it needs to be ordered 3 days in advance.
-- **A**: <!-- LEARNER: say you'll bring your own cake, ask about the deposit or cancellation policy -->
-- **B**: For larger reservations, we have a 10-euro deposit per person. Cancellation is free up to 48 hours before. After that, the deposit is non-refundable.
-- **A**: <!-- LEARNER: confirm the reservation — 8 people, Saturday at 6 PM, set menu with allergy notes, bringing own cake -->
-- **B**: Perfect. I'll put the reservation under your name. You'll receive a confirmation by email. Welcome on Saturday!
-- **A**: <!-- LEARNER: thank Laura, say you look forward to it, say goodbye -->
-- **B**: Thanks for the reservation! See you Saturday, bye bye!
+- **A**: Hiushuone salon, Laura speaking! How can I help?
+- **B**: <!-- LEARNER: greet, say you'd like to book a haircut and color appointment, ask about available times this week -->
+- **A**: We have openings Thursday at noon and Friday at 2 PM. A cut and color together takes about 2 hours. Which day works better?
+- **B**: <!-- LEARNER: say Thursday at noon works, ask about the price for a cut and color -->
+- **A**: A cut is 45 euros and a full head color starts from 85 euros. If you want highlights or balayage technique, the price is up to 120 euros. What were you thinking?
+- **B**: <!-- LEARNER: say you want to change your hair color — you currently have dark brown and want to go lighter, maybe warm honey blonde -->
+- **A**: Okay, going from dark to lighter requires a lightening treatment first. That increases the price because you need bleaching and then a toner on top. The total would be about 140 euros including the cut.
+- **B**: <!-- LEARNER: ask how damaging the lightening process is and if there's a way to protect the hair -->
+- **A**: I use professional products that protect the hair during lightening. I also recommend a deep treatment after the process, it's 15 euros. It restores moisture and shine.
+- **B**: <!-- LEARNER: say you'll take the treatment too, explain the haircut — you want about five centimeters shorter with layers around the face -->
+- **A**: Good choice. Layers frame the face and give movement. Do you want bangs or not?
+- **B**: <!-- LEARNER: say no bangs, you want to keep it long enough to tie back in a ponytail, also ask what products to use at home to maintain the color -->
+- **A**: Yes, I'll leave enough length so a ponytail works. For home care: colored hair should use sulfate-free shampoo and conditioner. I can sell you the right product line if you want. A color-maintaining shampoo costs 24 euros.
+- **B**: <!-- LEARNER: say you'll decide about the products at the appointment, confirm Thursday at noon, ask if there's anything to do before coming -->
+- **A**: Don't wash your hair that morning, come with slightly dirty hair. It protects your scalp during the lightening process. Otherwise, just come!
+- **B**: <!-- LEARNER: thank Laura, say you look forward to the new look, say goodbye -->
+- **A**: Thanks for the booking, {NAME}! See you Thursday. Bye bye!

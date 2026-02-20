@@ -1,31 +1,25 @@
-#### wri_2 — Kirjoittaminen: Asuminen ja palvelut
+#### wri_2 — Kirjoittaminen: Palvelut ja asiointi
 **Learner role:** B
 **Non-learner gender:** female
-**FI Konteksti:** Kirjoita erilaisia tekstejä asumiseen ja palveluihin liittyvistä aiheista.
-**EN Context:** Write various texts on housing and services topics.
+**FI Konteksti:** Kirjoita erilaisia tekstejä palveluihin ja asiointiin liittyvistä aiheista.
+**EN Context:** Write various texts on services and errands topics.
 
 **FI Koko mallidialogi:**
-- **A**: Tehtävä yksi, viesti naapurille. Piditte juhlat asunnossanne viikonloppuna ja ne olivat liian äänekkäät. Kirjoita naapurillenne viesti, jossa pyydätte anteeksi melua, kerrotte miksi piditte juhlat ja lupaatte, ettei häiriö toistu.
+- **A**: Tehtävä yksi, viesti ystävälle. Olet myöhässä tapaamisesta ystäväsi Lauran kanssa. Kirjoita hänelle viesti, jossa kerrot miksi myöhästyt, arvioit kuinka paljon myöhästyt ja ehdotat mitä hän voi tehdä sillä aikaa kun odottaa.
 - **B**: <!-- LEARNER -->
-
-- **A**: Tehtävä kaksi, sähköposti kurssin järjestäjälle. Olet kiinnostunut osallistumaan suomen kielen kurssille. Kirjoita kurssin järjestäjälle virallinen sähköposti, jossa kysyt kurssin aikataulusta, hinnasta ja vaatimustasosta. Kerro myös oma kielitaitosi taso ja kysy, sopiiko kurssi sinulle.
+- **A**: Tehtävä kaksi, reklamaatio verkkokauppaan. Tilasit tuotteen verkkokaupasta kaksi viikkoa sitten, mutta se saapui rikkinäisenä. Kirjoita verkkokaupan asiakaspalveluun virallinen sähköposti, jossa kerrot tilausnumerosi, kuvaat vian tarkasti ja vaadit joko uutta tuotetta tai rahojen palautusta. Mainitse myös milloin ja miten otit tuotteen vastaan.
 - **B**: <!-- LEARNER -->
-
-- **A**: Tehtävä kolme, mielipide A. Oma asunto vai vuokra-asunto, kumpi on parempi vaihtoehto? Kirjoita mielipiteesi ja perustele se.
+- **A**: Tehtävä kolme, mielipide A. Kauppojen pitäisi olla auki myös sunnuntaisin. Kirjoita mielipiteesi ja perustele se.
 - **B**: <!-- LEARNER -->
-
-- **A**: Tehtävä kolme, mielipide B. Julkinen liikenne vai oma auto, kumpi on parempi tapa liikkua? Kirjoita mielipiteesi ja perustele se.
+- **A**: Tehtävä kolme, mielipide B. Sunnuntai on lepopäivä eikä kauppojen pitäisi olla auki silloin. Kirjoita mielipiteesi ja perustele se.
 - **B**: <!-- LEARNER -->
 
 **EN Full sample dialogue:**
-- **A**: Task one, message to a neighbor. You had a party at your apartment over the weekend and it was too loud. Write a message to your neighbor apologizing for the noise, explaining why you had the party, and promising it won't happen again.
+- **A**: Task one, message to a friend. You are running late for a meeting with your friend Laura. Write her a message explaining why you are late, estimating how much you will be delayed, and suggesting what she can do while waiting.
 - **B**: <!-- LEARNER -->
-
-- **A**: Task two, email to a course organizer. You are interested in attending a Finnish language course. Write a formal email to the course organizer asking about the schedule, price, and required level. Also mention your current language skills and ask whether the course is suitable for you.
+- **A**: Task two, complaint to an online store. You ordered a product from an online store two weeks ago but it arrived broken. Write a formal email to the store's customer service stating your order number, describing the defect in detail, and demanding either a replacement product or a full refund. Also mention when and how you received the product.
 - **B**: <!-- LEARNER -->
-
-- **A**: Task three, opinion A. Owning an apartment or renting, which is a better option? Write your opinion and justify it.
+- **A**: Task three, opinion A. Shops should be open on Sundays too. Write your opinion and justify it.
 - **B**: <!-- LEARNER -->
-
-- **A**: Task three, opinion B. Public transport or a personal car, which is a better way to get around? Write your opinion and justify it.
+- **A**: Task three, opinion B. Sunday is a day of rest and shops should not be open then. Write your opinion and justify it.
 - **B**: <!-- LEARNER -->

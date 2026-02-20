@@ -1,45 +1,43 @@
-#### dia_35 — Booking nature cabin for family weekend
-**Learner role:** A
+#### dia_35 — Signing up for neighborhood beach cleanup volunteer event
+**Learner role:** B
 **Non-learner gender:** female
-**FI Konteksti:** Varaat luontomökin perheelle viikonlopuksi ja kysyt varustelusta, hinnasta ja aktiviteeteista.
-**EN Context:** You book a nature cabin for a family weekend and ask about amenities, price, and activities.
+**FI Konteksti:** Ilmoittaudut asuinalueen rannansiivoustalkoisiin ja kysyt käytännön järjestelyistä.
+**EN Context:** You sign up for a neighborhood beach cleanup volunteer event and ask about practical arrangements.
 
 **FI Koko mallidialogi:**
-- **A**: <!-- LEARNER: greet, say you're looking for a cabin for a family weekend in two weeks, two adults and two children, preferably by a lake with a sauna -->
-- **B**: Hei, tervetuloa! Meillä on Koivuranta-mökki, joka on neljälle hengelle suoraan järven rannalla. Siinä on oma sauna ja laituri. Se ois vapaa ensi viikonloppuna perjantaista sunnuntaihin.
-- **A**: <!-- LEARNER: ask what the cabin includes — electricity, running water, kitchen -->
-- **B**: Joo, mökissä on sähköt, juokseva vesi ja täysin varusteltu keittiö. Siinä on jääkaappi, liesi, uuni ja astiat neljälle. Lisäksi on takka ja ulkogrilli. Liinavaatteet ja pyyhkeet kuuluu hintaan.
-- **A**: <!-- LEARNER: ask about the price for two nights, Friday to Sunday -->
-- **B**: Kaksi yötä maksaa kaksisataaneljäkymmentä euroa. Siihen sisältyy mökki, sauna, liinavaatteet ja polttopuut. Loppusiivous on erikseen viisikymmentä euroa, tai voitte siivota itse.
-- **A**: <!-- LEARNER: say you'll do the cleaning yourselves, ask about activities — what's there to do in the area -->
-- **B**: Järvellä voi soutaa ja kalastaa, meiltä saa vuokrata soutuveneen kymmenellä eurolla päivältä. Lähellä on luontopolku, joka on viiden kilometrin lenkki metsässä. Marjoja ja sieniä saa poimia vapaasti.
-- **A**: <!-- LEARNER: ask about swimming — is the lake good for swimming, is there a beach -->
-- **B**: Rannassa on hiekkapohja ja vesi on puhdasta. Laiturista pääsee hyppäämään. Kesällä veden lämpötila on noin kaksikymmentä astetta. Lähin kauppa on kymmenen kilometrin päässä, eli suosittelemme, että ostatte ruuat etukäteen.
-- **A**: <!-- LEARNER: ask about check-in and check-out times -->
-- **B**: Sisäänkirjautuminen on perjantaina kello neljätoista jälkeen ja uloskirjautuminen sunnuntaina kello kaksitoista mennessä. Avaimet haetaan vastaanotosta päärakennuksesta.
-- **A**: <!-- LEARNER: say you'd like to book the cabin, ask how to pay — do you need a deposit -->
-- **B**: Varaus vahvistetaan viidenkymmenenprosentin ennakkomaksulla, eli satakaksikymmentä euroa. Loput maksetaan saapuessa. Peruutusehdot on seitsemän päivää ennen tuloa ilman kuluja.
-- **A**: <!-- LEARNER: confirm the booking — Koivuranta cabin, two nights, self-cleaning, ask to receive confirmation by email -->
-- **B**: Hienoa, mä laitan varauksen ja lähetän vahvistuksen sähköpostiin. Tervetuloa nauttimaan luonnosta!
-- **A**: <!-- LEARNER: thank Hanna, say you look forward to it, say goodbye -->
-- **B**: Kiitos ja nähdään perjantaina! Hei hei!
+- **A**: Hei, Lauttasaaren asukasyhdistys, Hanna puhelimessa! Miten voin auttaa?
+- **B**: <!-- LEARNER: greet, say you saw the poster about the beach cleanup event and would like to volunteer, ask when and where it takes place -->
+- **A**: Mahtavaa, kiitos kiinnostuksesta! Talkoot on lauantaina toukokuun kymmenentenä kello kymmenestä neljääntoista. Kokoonnumme Lauttasaaren uimarannan parkkipaikalla.
+- **B**: <!-- LEARNER: ask how many volunteers are needed and if you can bring your family — spouse and two children -->
+- **A**: Tavoite on neljäkymmentä vapaaehtoista ja meillä on nyt kaksikymmentäkahdeksan ilmoittautunutta. Perhe on ehdottomasti tervetullut! Lapsille on oma lyhyempi alue, jossa on turvallista kerätä roskia.
+- **B**: <!-- LEARNER: ask what equipment to bring — do you need your own gloves and bags -->
+- **A**: Mä suosittelen omia kumisaappaita ja vedenpitäviä hansikkaita, koska rannassa voi olla kosteaa. Roskapussit, kerääjät ja huomioliivit me tarjotaan paikan päällä. Juomaa ja pientä purtavaa on myös tarjolla.
+- **B**: <!-- LEARNER: ask how the cleanup is organized — do you work in groups or individually -->
+- **A**: Me jaetaan ranta neljään lohkoon ja joka lohkossa on ryhmänvetäjä. Aloitetaan yhteisellä infolla kympiltä ja sitten mennään ryhmiin. Kahvitauko on puolenpäivän aikaan.
+- **B**: <!-- LEARNER: ask what kind of trash is typically found on the beach — is it dangerous -->
+- **A**: Enimmäkseen muoviroskaa, pullonkorkkeja, tupakantumppeja ja käärepapereita. Joskus löytyy myös lasinsirpaleita ja metalliroskaa. Siksi tukevat hansikkaat on tärkeät. Jos löytää jotain vaarallista, ei koske vaan kutsuu ryhmänvetäjän.
+- **B**: <!-- LEARNER: ask if there are any goals — how much trash was collected last year, and if there's a social event afterwards -->
+- **A**: Viime vuonna kerättiin kolmesataaviisikymmentä kiloa roskaa neljässä tunnissa, se oli ennätys! Tänä vuonna tavoite on neljäsataa kiloa. Talkoiden jälkeen on makkaranpaistoa ja kahvia rannalla kiitokseksi vapaaehtoisille. Jokainen osallistuja saa myös pienen kiitoslahjan.
+- **B**: <!-- LEARNER: say you'd like to sign up the whole family — give the number of people, ask if there's a registration form -->
+- **A**: Mä kirjaan teidät. Sun nimi ja puhelinnumero, niin laitan ilmoittautumislistaan. Saat tekstiviestillä kartan kokoontumispaikasta ja muistutuksen perjantai-iltana.
+- **B**: <!-- LEARNER: give name and phone number, thank Hanna, say you look forward to helping, say goodbye -->
+- **A**: Kiitos, {NIMI}! Hienoa, että osallistutte koko perheenä. Nähdään lauantaina kympiltä rannalla. Hei hei!
 
 **EN Full sample dialogue:**
-- **A**: <!-- LEARNER: greet, say you're looking for a cabin for a family weekend in two weeks, two adults and two children, preferably by a lake with a sauna -->
-- **B**: Hi, welcome! We have the Koivuranta cabin, which is for 4 people right on the lakefront. It has its own sauna and dock. It would be available next weekend from Friday to Sunday.
-- **A**: <!-- LEARNER: ask what the cabin includes — electricity, running water, kitchen -->
-- **B**: Yes, the cabin has electricity, running water, and a fully equipped kitchen. It has a fridge, stove, oven, and dishes for 4. Plus there's a fireplace and an outdoor grill. Bed linens and towels are included in the price.
-- **A**: <!-- LEARNER: ask about the price for two nights, Friday to Sunday -->
-- **B**: Two nights cost 240 euros. That includes the cabin, sauna, bed linens, and firewood. Final cleaning is separate at 50 euros, or you can clean yourselves.
-- **A**: <!-- LEARNER: say you'll do the cleaning yourselves, ask about activities — what's there to do in the area -->
-- **B**: You can row and fish on the lake, we rent out a rowing boat for 10 euros per day. Nearby there's a nature trail, a 5-kilometer loop through the forest. You can pick berries and mushrooms freely.
-- **A**: <!-- LEARNER: ask about swimming — is the lake good for swimming, is there a beach -->
-- **B**: The shore has a sandy bottom and the water is clean. You can jump in from the dock. In summer the water temperature is about 20 degrees. The nearest shop is 10 kilometers away, so we recommend buying food before arrival.
-- **A**: <!-- LEARNER: ask about check-in and check-out times -->
-- **B**: Check-in is Friday after 2 PM and check-out is Sunday by 12 noon. Keys are picked up from the reception in the main building.
-- **A**: <!-- LEARNER: say you'd like to book the cabin, ask how to pay — do you need a deposit -->
-- **B**: The booking is confirmed with a 50% deposit, so 120 euros. The rest is paid on arrival. Cancellation terms are 7 days before arrival at no charge.
-- **A**: <!-- LEARNER: confirm the booking — Koivuranta cabin, two nights, self-cleaning, ask to receive confirmation by email -->
-- **B**: Great, I'll put in the booking and send the confirmation by email. Welcome to enjoy nature!
-- **A**: <!-- LEARNER: thank Hanna, say you look forward to it, say goodbye -->
-- **B**: Thanks and see you on Friday! Bye bye!
+- **A**: Hi, Lauttasaari residents' association, Hanna speaking! How can I help?
+- **B**: <!-- LEARNER: greet, say you saw the poster about the beach cleanup event and would like to volunteer, ask when and where it takes place -->
+- **A**: Wonderful, thanks for your interest! The cleanup event is Saturday May 10th from 10 AM to 2 PM. We'll gather at the Lauttasaari beach parking lot.
+- **B**: <!-- LEARNER: ask how many volunteers are needed and if you can bring your family — spouse and two children -->
+- **A**: The goal is 40 volunteers and we currently have 28 signed up. Family is absolutely welcome! Children have their own shorter area where it's safe to collect trash.
+- **B**: <!-- LEARNER: ask what equipment to bring — do you need your own gloves and bags -->
+- **A**: I recommend your own rubber boots and waterproof gloves since the beach can be damp. Trash bags, litter pickers, and high-visibility vests we provide on site. Drinks and snacks are also available.
+- **B**: <!-- LEARNER: ask how the cleanup is organized — do you work in groups or individually -->
+- **A**: We divide the beach into 4 sections and each section has a group leader. We start with a group briefing at 10 and then split into groups. Coffee break is around noon.
+- **B**: <!-- LEARNER: ask what kind of trash is typically found on the beach — is it dangerous -->
+- **A**: Mostly plastic waste, bottle caps, cigarette butts, and wrappers. Sometimes glass shards and metal trash are found too. That's why sturdy gloves are important. If you find something dangerous, don't touch it and call the group leader.
+- **B**: <!-- LEARNER: ask if there are any goals — how much trash was collected last year, and if there's a social event afterwards -->
+- **A**: Last year 350 kilos of trash were collected in 4 hours, that was a record! This year the goal is 400 kilos. After the cleanup there's sausage grilling and coffee on the beach as a thank-you. Every participant also gets a small gift.
+- **B**: <!-- LEARNER: say you'd like to sign up the whole family — give the number of people, ask if there's a registration form -->
+- **A**: I'll register you. Your name and phone number, and I'll add you to the sign-up list. You'll get a text with a map of the meeting point and a reminder on Friday evening.
+- **B**: <!-- LEARNER: give name and phone number, thank Hanna, say you look forward to helping, say goodbye -->
+- **A**: Thanks, {NAME}! Great that you're participating as a whole family. See you Saturday at 10 at the beach. Bye bye!

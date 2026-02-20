@@ -1,61 +1,61 @@
-#### mie_4 — Mielipide: Perhe, terveys ja ympäristö
+#### mie_4 — Mielipide: Terveys ja hyvinvointi
 **Learner role:** B
-**Non-learner gender:** female
-**FI Konteksti:** Sinun pitää kertoa mielipiteesi eri aiheista, jotka liittyvät perhe-elämään, terveyteen ja ympäristöön. Haastattelija esittää väittämiä ja kysymyksiä.
-**EN Context:** You need to share your opinion on various topics related to family life, health, and the environment. The interviewer presents statements and questions.
+**Non-learner gender:** male
+**FI Konteksti:** Sinun pitää kertoa mielipiteesi eri aiheista, jotka liittyvät terveyteen ja hyvinvointiin. Kari esittää väittämiä ja kysymyksiä.
+**EN Context:** You need to share your opinion on various topics related to health and wellbeing. Kari presents statements and questions.
 
 **FI Koko mallidialogi:**
-- **A**: Aloitetaan ensimmäisestä aiheesta. Ovatko perheessä rahat yhteiset vai erilliset? Mitä mieltä olet perheen raha-asioista ja kuka päättää rahankäytöstä?
+- **A**: Aloitetaan ensimmäisestä aiheesta. Pitäisikö lääkärikäyntien olla kokonaan ilmaisia? Mitä mieltä olet ja miten se vaikuttaisi terveydenhuoltoon?
 - **B**: <!-- LEARNER -->
 
-- **A**: Seuraava aihe. Lääkkeitä mainostetaan liikaa ja ihmiset käyttävät liikaa lääkkeitä. Oletko samaa mieltä vai eri mieltä?
+- **A**: Seuraava aihe. Julkinen vai yksityinen terveydenhuolto, kumpi on parempi? Mitä kokemuksia sinulla on molemmista?
 - **B**: <!-- LEARNER -->
 
-- **A**: Entä tämä väite. Miehillä ja naisilla pitäisi olla eri kotityöt. Oletko samaa mieltä? Miten kotityöt pitäisi jakaa?
+- **A**: Entä tämä. Onko Suomessa tarpeeksi liikuntamahdollisuuksia? Pitäisikö kaupunkien tarjota enemmän liikuntapalveluja?
 - **B**: <!-- LEARNER -->
 
-- **A**: Onko ympäristönsuojelu yksilön vai valtion vastuulla? Mitä mieltä olet siitä, kenen pitäisi tehdä enemmän ympäristön hyväksi?
+- **A**: Onko nykypäivän muoti mautonta? Mitä mieltä olet nykymuodista ja miten itse pukeutuisit?
 - **B**: <!-- LEARNER -->
 
-- **A**: Onko vapaaehtoistoiminta tärkeää yhteiskunnalle? Mitä mieltä olet vapaaehtoistyöstä ja oletko itse osallistunut siihen?
+- **A**: Tupakan myyntikiellot kaupoissa, onko se hyvä idea? Miten tupakointia pitäisi rajoittaa?
 - **B**: <!-- LEARNER -->
 
-- **A**: Pitäisikö koululaisten saada enemmän kotitehtäviä? Mitä mieltä olet koulutehtävien määrästä?
+- **A**: Mitä on terveellinen elämä? Miten sinä huolehdit omasta terveydestäsi ja mitä voisit tehdä paremmin?
 - **B**: <!-- LEARNER -->
 
-- **A**: Onko teknologia parantanut vai heikentänyt ihmissuhteita? Mitä mieltä olet teknologian vaikutuksesta sosiaaliseen elämään?
+- **A**: Työpukeutuminen, pitäisikö sen olla muodollista vai rentoa? Miten pukeutuminen vaikuttaa työpaikan ilmapiiriin?
 - **B**: <!-- LEARNER -->
 
-- **A**: Pitäisikö julkisen terveydenhuollon olla kokonaan ilmaista? Mitä mieltä olet terveydenhuollon maksullisuudesta?
+- **A**: Ostoskeskuksia Suomessa, onko niitä tarpeeksi? Käytkö itse mieluummin ostoskeskuksessa vai pienissä kaupoissa?
 - **B**: <!-- LEARNER -->
 
-- **A**: Viimeinen aihe. Onko hyvä asia, että Suomessa on paljon maahanmuuttajia? Mitä mieltä olet monikulttuurisuudesta?
+- **A**: Viimeinen aihe. Perheen raha-asiat, pitäisikö puolisoilla olla yhteiset vai erilliset tilit? Miten perheen talous pitäisi hoitaa?
 - **B**: <!-- LEARNER -->
 
 **EN Full sample dialogue:**
-- **A**: Let's start with the first topic. Should family finances be joint or separate? What do you think about family money matters and who decides about spending?
+- **A**: Let's start with the first topic. Should doctor visits be completely free? What do you think and how would it affect healthcare?
 - **B**: <!-- LEARNER -->
 
-- **A**: Next topic. Medicines are advertised too much and people use too many medicines. Do you agree or disagree?
+- **A**: Next topic. Public or private healthcare, which is better? What experiences do you have with both?
 - **B**: <!-- LEARNER -->
 
-- **A**: How about this claim. Men and women should have different household chores. Do you agree? How should household chores be divided?
+- **A**: How about this. Are there enough sports opportunities in Finland? Should cities offer more exercise services?
 - **B**: <!-- LEARNER -->
 
-- **A**: Is environmental protection the responsibility of the individual or the state? What do you think about who should do more for the environment?
+- **A**: Is contemporary fashion tasteless? What do you think about modern fashion and how would you dress yourself?
 - **B**: <!-- LEARNER -->
 
-- **A**: Is volunteering important for society? What do you think about voluntary work and have you participated in it yourself?
+- **A**: Cigarette display bans in stores, is it a good idea? How should smoking be restricted?
 - **B**: <!-- LEARNER -->
 
-- **A**: Should school children get more homework? What do you think about the amount of school assignments?
+- **A**: What is a healthy life? How do you take care of your own health and what could you do better?
 - **B**: <!-- LEARNER -->
 
-- **A**: Has technology improved or weakened human relationships? What do you think about the effect of technology on social life?
+- **A**: Work dress code, should it be formal or casual? How does clothing affect the workplace atmosphere?
 - **B**: <!-- LEARNER -->
 
-- **A**: Should public healthcare be completely free? What do you think about healthcare costs?
+- **A**: Shopping centers in Finland, are there enough of them? Do you prefer going to a shopping center or small shops?
 - **B**: <!-- LEARNER -->
 
-- **A**: Last topic. Is it a good thing that there are many immigrants in Finland? What do you think about multiculturalism?
+- **A**: Last topic. Family finances, should partners have joint or separate accounts? How should a family's finances be managed?
 - **B**: <!-- LEARNER -->

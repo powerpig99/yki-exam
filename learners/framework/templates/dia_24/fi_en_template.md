@@ -1,43 +1,49 @@
-#### dia_24 — Discussing summer cottage rental
-**Learner role:** B
-**Non-learner gender:** female
-**FI Konteksti:** Soitat mökkivuokraamoon ja kysyt kesämökin vuokraamisesta, sijainnista, varusteista ja saatavuudesta.
-**EN Context:** You call a cottage rental agency and ask about renting a summer cottage, location, amenities, and availability.
+#### dia_24 — Planning a multicultural potluck dinner with Finnish friend
+**Learner role:** A
+**Non-learner gender:** male
+**FI Konteksti:** Suunnittelet kaverin kanssa kansainvälistä yhteistä illallista, jossa jokainen tuo oman ruokalajin.
+**EN Context:** You plan a multicultural potluck dinner with a friend where everyone brings their own dish.
 
 **FI Koko mallidialogi:**
-- **A**: Järvi-Suomen Mökkivuokraus, Päivi puhelimessa. Miten voin auttaa?
-- **B**: <!-- LEARNER: greet, say looking for a summer cottage for a week in July, ask what's available -->
-- **A**: Hei! Meillä on useita mökkejä vapaana heinäkuussa. Haluatko mökin järven rannalla vai metsän keskellä? Ja kuinka monelle hengelle?
-- **B**: <!-- LEARNER: say want lakeside cottage for family of four, prefer Saimaa area, ask about options -->
-- **A**: Saimaan alueella meillä on kolme vaihtoehtoa. Puukkoniemen mökki Savonlinnassa on neljälle hengelle, kaksi makuuhuonetta ja oma ranta. Vuokra on kahdeksansataaneljäkymmentä euroa viikossa.
-- **B**: <!-- LEARNER: ask what amenities the cottage has — sauna, electricity, running water -->
-- **A**: Mökissä on sähköt, juokseva vesi, sisävessa ja puulämmitteinen sauna. Keittiössä on liesi, jääkaappi ja astianpesukone. Rantasaunasta pääsee suoraan uimaan.
-- **B**: <!-- LEARNER: ask if there's a rowboat or canoe included, and if fishing is possible from the shore -->
-- **A**: Soutuvene kuuluu hintaan. Kanootin voi vuokrata erikseen viisikymmentä euroa viikossa. Kalastus onnistuu hyvin, mutta kalastuslupa täytyy ostaa erikseen verkossa. Viikon lupa maksaa seitsemän euroa.
-- **B**: <!-- LEARNER: ask about the second option — is it cheaper or different in some way -->
-- **A**: Toinen vaihtoehto on Rantalan mökki Punkaharjulla. Se on hieman pienempi, yksi makuuhuone ja parvisänky. Hinta on kuusisataakaksikymmentä euroa viikossa. Siinäkin on sauna ja oma ranta.
-- **B**: <!-- LEARNER: say the first cottage sounds better for a family, ask about availability — is the last week of July still free -->
-- **A**: Mä tarkistan. Viikko kolmekymmentäyksi eli heinäkuun kaksikymmentäkahdeksas elokuun kolmanteen on vielä vapaana Puukkoniemessä. Se on suosittu viikko, joten suosittelen varaamaan pian.
-- **B**: <!-- LEARNER: ask about check-in/check-out times, how to get keys, and cancellation policy -->
-- **A**: Sisäänkirjautuminen on lauantaina kello kuusitoista ja uloskirjautuminen seuraavana lauantaina kello kahdeltatoista. Avaimet haetaan toimistoltamme tai lukkolaatikosta mökin ovella. Varaus on peruttavissa ilmaiseksi kolmekymmentä päivää ennen tulopäivää, sen jälkeen peritään viisikymmentä prosenttia vuokrasta.
-- **B**: <!-- LEARNER: say want to book the Puukkoniemi cottage for week 31, ask how to confirm the booking -->
-- **A**: Mahtavaa! Mä lähetän varausvahvistuksen ja maksulinkin sähköpostiisi. Ennakkomaksu on kolmekymmentä prosenttia eli kaksisataaviisikymmentäkaksi euroa, ja loput maksetaan kaksi viikkoa ennen tuloa. Hyvää kesää ja tervetuloa Saimaalle!
+- **A**: <!-- LEARNER: greet, say had an idea — suggest organizing a potluck dinner where everyone brings food from different cuisines -->
+- **B**: Hei {NIMI}! Vau, se on mahtava idea. Mä rakastan eri maiden ruokia. Milloin sä ajattelit järjestää sen?
+- **A**: <!-- LEARNER: suggest next Saturday evening, ask if Jukka's apartment would work as the venue since it has a big kitchen -->
+- **B**: Lauantai sopii mulle. Mun kämppä on ihan hyvä, olohuone on iso ja keittiössä mahtuu kokkaamaan. Montako ihmistä kutsutaan?
+- **A**: <!-- LEARNER: suggest inviting six to eight people total, ask Jukka who he would like to invite -->
+- **B**: Mä kutsun Mikaelin ja Sofian, ne on mun naapureita. Mikael on kreikkalaistaustainen ja se tekee tosi hyvää musakaa. Sofia tykkää leipoa, joten hän voi tuoda jälkiruoan.
+- **A**: <!-- LEARNER: say will invite a couple of colleagues from work, ask what Jukka himself plans to cook -->
+- **B**: Mä teen karjalanpiirakoita ja munavoisekotusta. Se on klassinen suomalainen tarjottava. Mä voin myös keittää perunoita lisukkeeksi, jos tarvitaan jotain yksinkertasta.
+- **A**: <!-- LEARNER: say that sounds delicious, ask about drinks — should everyone bring their own or organize together -->
+- **B**: Mä ehdotan, että mä hoidan juomat. Mä ostan alkoholitonta siideriä ja mehua kaupasta. Jos joku haluaa tuoda viiniä tai olutta, se on ihan okei mutta vapaaehtoista.
+- **A**: <!-- LEARNER: ask about dietary restrictions — should check with guests about allergies and vegetarians -->
+- **B**: Totta, hyvä pointti. Mä laitan viestiryhmään kysymyksen allergioista ja ruokavalioista. Olisi hyvä, jos ainakin kaksi ruokaa on kasvisruokia. Tietääkseni Mikael on laktoosi-intolerantti.
+- **A**: <!-- LEARNER: say will make a vegetarian dish, ask about tableware — should everyone bring their own plates or does Jukka have enough -->
+- **B**: Mulla on astioita noin kuudelle. Jos tulee enemmän väkeä, mä ostan kartonkilautasia ja -mukeja. Ruokailuvälineitä mulla on kyllä tarpeeksi.
+- **A**: <!-- LEARNER: offer to bring extra plates and napkins, ask what time guests should arrive -->
+- **B**: Sano ihmisille, että ne tulee kello kuuden ja puoli seitsemän välillä. Sitten on aikaa laittaa ruoat esille ja jutella ennen kuin aletaan syömään.
+- **A**: <!-- LEARNER: say will send a group message with details, suggest each person briefly presents their dish and its origin -->
+- **B**: Se on loistava idea. Jokainen kertoo lyhyesti, mikä ruoka se on ja mistä se tulee. Siitä tulee tosi mukava ilta. Mä laitan spotifystä taustamusiikkia. Nähdään lauantaina!
+- **A**: <!-- LEARNER: say looking forward to it, thank Jukka for hosting, say goodbye -->
+- **B**: Kiitos kun keksit tämän! Tästä tulee hauska ilta. Muista laittaa viestit kutsuvieraille. Moi moi!
 
 **EN Full sample dialogue:**
-- **A**: Lake District Cottage Rentals, Päivi speaking. How can I help?
-- **B**: <!-- LEARNER: greet, say looking for a summer cottage for a week in July, ask what's available -->
-- **A**: Hi! We have several cottages available in July. Would you like a cottage on the lakeside or in the middle of the forest? And for how many people?
-- **B**: <!-- LEARNER: say want lakeside cottage for family of four, prefer Saimaa area, ask about options -->
-- **A**: In the Saimaa area we have three options. The Puukkoniemi cottage in Savonlinna is for four people, two bedrooms and its own beach. The rent is 840 euros per week.
-- **B**: <!-- LEARNER: ask what amenities the cottage has — sauna, electricity, running water -->
-- **A**: The cottage has electricity, running water, an indoor toilet, and a wood-heated sauna. The kitchen has a stove, refrigerator, and dishwasher. From the lakeside sauna you can go directly for a swim.
-- **B**: <!-- LEARNER: ask if there's a rowboat or canoe included, and if fishing is possible from the shore -->
-- **A**: A rowboat is included in the price. A canoe can be rented separately for 50 euros per week. Fishing is easily done, but a fishing permit must be bought separately online. A weekly permit costs 7 euros.
-- **B**: <!-- LEARNER: ask about the second option — is it cheaper or different in some way -->
-- **A**: The second option is the Rantala cottage in Punkaharju. It's slightly smaller, one bedroom and a loft bed. The price is 620 euros per week. It also has a sauna and its own beach.
-- **B**: <!-- LEARNER: say the first cottage sounds better for a family, ask about availability — is the last week of July still free -->
-- **A**: Let me check. Week 31, meaning July 28th to August 3rd, is still available at Puukkoniemi. It's a popular week, so I recommend booking soon.
-- **B**: <!-- LEARNER: ask about check-in/check-out times, how to get keys, and cancellation policy -->
-- **A**: Check-in is on Saturday at four in the afternoon and check-out is the following Saturday at noon. Keys are picked up from our office or from a lockbox at the cottage door. The booking can be cancelled free of charge thirty days before the arrival date, after that fifty percent of the rent is charged.
-- **B**: <!-- LEARNER: say want to book the Puukkoniemi cottage for week 31, ask how to confirm the booking -->
-- **A**: Wonderful! I'll send the booking confirmation and payment link to your email. The advance payment is thirty percent, so 252 euros, and the rest is paid two weeks before arrival. Have a great summer and welcome to Saimaa!
+- **A**: <!-- LEARNER: greet, say had an idea — suggest organizing a potluck dinner where everyone brings food from different cuisines -->
+- **B**: Hi {NAME}! Wow, that's a great idea. I love food from different countries. When were you thinking of organizing it?
+- **A**: <!-- LEARNER: suggest next Saturday evening, ask if Jukka's apartment would work as the venue since it has a big kitchen -->
+- **B**: Saturday works for me. My apartment is fine, the living room is big and there's room to cook in the kitchen. How many people should we invite?
+- **A**: <!-- LEARNER: suggest inviting six to eight people total, ask Jukka who he would like to invite -->
+- **B**: I'll invite Mikael and Sofia, they're my neighbors. Mikael has a Greek background and he makes really good moussaka. Sofia likes to bake, so she can bring dessert.
+- **A**: <!-- LEARNER: say will invite a couple of colleagues from work, ask what Jukka himself plans to cook -->
+- **B**: I'll make Karelian pies and egg butter spread. That's a classic Finnish dish to serve. I can also boil potatoes as a side if something simple is needed.
+- **A**: <!-- LEARNER: say that sounds delicious, ask about drinks — should everyone bring their own or organize together -->
+- **B**: I suggest I take care of the drinks. I'll buy non-alcoholic cider and juice from the store. If someone wants to bring wine or beer, that's totally fine but optional.
+- **A**: <!-- LEARNER: ask about dietary restrictions — should check with guests about allergies and vegetarians -->
+- **B**: Right, good point. I'll put a question about allergies and diets in the group chat. It would be good if at least two dishes are vegetarian. As far as I know, Mikael is lactose intolerant.
+- **A**: <!-- LEARNER: say will make a vegetarian dish, ask about tableware — should everyone bring their own plates or does Jukka have enough -->
+- **B**: I have dishes for about six people. If more people come, I'll buy paper plates and cups. I have enough cutlery though.
+- **A**: <!-- LEARNER: offer to bring extra plates and napkins, ask what time guests should arrive -->
+- **B**: Tell people to come between six and half past six. That way there's time to set out the food and chat before we start eating.
+- **A**: <!-- LEARNER: say will send a group message with details, suggest each person briefly presents their dish and its origin -->
+- **B**: That's a brilliant idea. Everyone tells briefly what the dish is and where it comes from. It will be a really nice evening. I'll put on some background music from Spotify. See you on Saturday!
+- **A**: <!-- LEARNER: say looking forward to it, thank Jukka for hosting, say goodbye -->
+- **B**: Thanks for coming up with this! It's going to be a fun evening. Remember to send messages to the guests. Bye bye!

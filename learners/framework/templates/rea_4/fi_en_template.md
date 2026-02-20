@@ -1,115 +1,115 @@
-#### rea_4 — Reagointi: Sosiaalinen elämä ja yhteisö
+#### rea_4 — Reagointi: Sosiaalinen elämä ja perhe
 **Learner role:** B
-**Non-learner gender:** female
-**FI Konteksti:** Reagoi erilaisiin sosiaaliseen elämään ja yhteisöön liittyviin tilanteisiin.
-**EN Context:** React to various social and community situations.
+**Non-learner gender:** male
+**FI Konteksti:** Reagoi erilaisiin sosiaaliseen elämään ja perheeseen liittyviin tilanteisiin.
+**EN Context:** React to various social life and family situations.
 
 **FI Koko mallidialogi:**
-- **A**: Tilanne 1: Taloyhtiön kokous on ensi viikolla. Kutsu naapurisi kokoukseen ja kerro, mistä aiheista siellä keskustellaan.
+- **A**: Tilanne 1: Ystäväsi kutsuu sinut saunaillalle ensi lauantaina. Olet innoissasi. Suostu ja kysy, mitä sinun pitää tuoda mukaan.
 - **B**: <!-- LEARNER -->
 
-- **A**: Tilanne 2: Haluat löytää hyvän ravintolan illalliselle. Kysy kollegaltasi suositusta ja kerro, millaista ruokaa etsit.
+- **A**: Tilanne 2: Unohdit ystäväsi syntymäpäivän eilen. Soita hänelle, pyydä anteeksi ja ehdota, miten voisitte juhlia yhdessä myöhemmin.
 - **B**: <!-- LEARNER -->
 
-- **A**: Tilanne 3: Työkaverit kutsuvat sinut after work -drinkeille perjantaina. Et pääse mukaan. Kieltäydy kohteliaasti ja selitä miksi.
+- **A**: Tilanne 3: Naapurisi kysyy, mitä aiot tehdä viikonloppuna. Juttele hänen kanssaan ja kerro suunnitelmistasi.
 - **B**: <!-- LEARNER -->
 
-- **A**: Tilanne 4: Olet urheilukaupassa ja tarvitset talvijuoksukengät. Kysy myyjältä, mitkä kengät sopivat liukkaille keleille ja paljonko ne maksavat.
+- **A**: Tilanne 4: Teini-ikäinen lapsesi pyytää lupaa yöpyä kaverin luona perjantai-iltana. Reagoi pyyntöön ja kysy tarkempia tietoja.
 - **B**: <!-- LEARNER -->
 
-- **A**: Tilanne 5: Kävit hyvässä alennusmyynnissä elektroniikkaliikkeessä. Kerro ystävällesi tarjouksista ja suosittele kauppaa.
+- **A**: Tilanne 5: Ystäväsi suosittelee sinulle suomalaista dekkaria. Reagoi suositukseen ja kerro, millaisia kirjoja itse luet.
 - **B**: <!-- LEARNER -->
 
-- **A**: Tilanne 6: Olet eläinlääkärissä kissasi kanssa. Kysy eläinlääkäriltä, mitä rokotuksia kissasi tarvitsee ja milloin seuraava rokotus on.
+- **A**: Tilanne 6: Haluat kutsua työkaverin illalliselle kotiisi ensi viikolla. Kutsu hänet ja kerro, milloin ja mitä aiot laittaa ruoaksi.
 - **B**: <!-- LEARNER -->
 
-- **A**: Tilanne 7: Taloyhtiösi hissi on todella hidas ja se häiritsee arkeasi. Tee valitus huoltoyhtiölle ja pyydä, että hissi tarkistetaan.
+- **A**: Tilanne 7: Lapsesi pyytää apua suomen kielen läksyissä. Reagoi ja kysy, mitä tehtävää hän tekee ja missä hän tarvitsee apua.
 - **B**: <!-- LEARNER -->
 
-- **A**: Tilanne 8: Opettaja auttoi lastasi läksyissä koulun jälkeen. Kiitä opettajaa ja kysy, miten lapsen opiskelu sujuu.
+- **A**: Tilanne 8: Ystäväsi ehdottaa, että menette yhdessä konserttiin ensi kuussa. Reagoi innostuneesti ja kysy, kenen konsertti on ja paljonko liput maksavat.
 - **B**: <!-- LEARNER -->
 
-- **A**: Tilanne 9: Haluat varata perheen lomamatkan. Mene matkatoimistoon ja kysy perhelomapaketeista, hinnoista ja kohteista.
+- **A**: Tilanne 9: Naapurisi tulee valittamaan, että asunnostasi kuuluu liikaa meteliä. Pyydä anteeksi ja selitä, mistä ääni johtuu.
 - **B**: <!-- LEARNER -->
 
-- **A**: Tilanne 10: Sovitte ystäväsi kanssa tapaamisen viikonlopuksi, mutta sinun pitää muuttaa suunnitelmia. Soita ystävällesi ja ehdota uutta aikaa.
+- **A**: Tilanne 10: Lapsesi koulu soittaa ja kertoo, että lapsesi on myöhästynyt tänään. Selitä syy ja lupaa, ettei se toistu.
 - **B**: <!-- LEARNER -->
 
-- **A**: Tilanne 11: Olet uimahallissa ja haluat tietää saunan aukioloajat. Kysy vastaanotosta ja kysy myös, pitääkö varata aika etukäteen.
+- **A**: Tilanne 11: Ystäväsi kysyy kiinalaisen uudenvuoden perinteistä. Kerro, miten sitä juhlitaan ja miksi se on tärkeä juhla.
 - **B**: <!-- LEARNER -->
 
-- **A**: Tilanne 12: Menet lääkäriin, mutta olet unohtanut, kenen nimellä aika on varattu. Selitä vastaanottohenkilölle tilanne ja pyydä apua.
+- **A**: Tilanne 12: Työkaveri kutsuu sinut tupaantuliaisjuhliin ensi lauantaina. Et pääse. Kieltäydy kohteliaasti ja selitä miksi.
 - **B**: <!-- LEARNER -->
 
-- **A**: Tilanne 13: Kokouksen asialista on pitkä ja monimutkainen. Pyydä kollegaasi selittämään pääkohdat etukäteen, jotta pysyt perässä.
+- **A**: Tilanne 13: Puolisosi ehdottaa, että kokeilette uutta ravintolaa viikonloppuna. Suostu ja ehdota, millaista ravintolaa voisitte kokeilla.
 - **B**: <!-- LEARNER -->
 
-- **A**: Tilanne 14: Naapuri lainasi sinulle lumikolan talvella. Palauta se ja kiitä häntä. Vaihda muutama sana.
+- **A**: Tilanne 14: Ystäväsi suunnittelee matkaa Kiinaan ja haluaa neuvoja. Kerro, mitä paikkoja kannattaa käydä katsomassa ja anna käytännön vinkkejä.
 - **B**: <!-- LEARNER -->
 
-- **A**: Tilanne 15: Olet kierrätyspisteellä ja sinulla on vanha televisio. Et tiedä, mihin astiaan se kuuluu. Kysy kierrätyspisteen työntekijältä.
+- **A**: Tilanne 15: Naapurisi keräsi postisi, kun olit lomalla. Kiitä häntä ja kerro lyhyesti lomamatkastasi.
 - **B**: <!-- LEARNER -->
 
-- **A**: Tilanne 16: Lapsellasi on lääkeallergia. Kerro asiasta kouluterveydenhoitajalle ja varmista, että tieto on kirjattu.
+- **A**: Tilanne 16: Lapsesi haluaa lopettaa harrastuksensa. Keskustele puolisosi kanssa asiasta ja kerro mielipiteesi.
 - **B**: <!-- LEARNER -->
 
-- **A**: Tilanne 17: Haluat aloittaa kitaransoiton. Mene musiikkikauppaan ja kysy kitaratuntien hinnoista, aikatauluista ja tasosta.
+- **A**: Tilanne 17: Ystäväsi kysyy, tiedätkö hyviä vaellusreittejä lähialueella. Suosittele reittiä ja kerro, miksi se on hyvä.
 - **B**: <!-- LEARNER -->
 
-- **A**: Tilanne 18: Internetyhteytesi on ollut todella hidas viime viikot. Soita palveluntarjoajalle, valita hitaudesta ja vaadi parannusta.
+- **A**: Tilanne 18: Naapurisi kommentoi säätä rappukäytävässä. Reagoi ja vaihda muutama sana säästä ja suunnitelmistasi.
 - **B**: <!-- LEARNER -->
 
 **EN Full sample dialogue:**
-- **A**: Situation 1: The housing company meeting is next week. Invite your neighbor to the meeting and tell them what topics will be discussed.
+- **A**: Situation 1: Your friend invites you to a sauna evening next Saturday. You are excited. Accept and ask what you should bring along.
 - **B**: <!-- LEARNER -->
 
-- **A**: Situation 2: You want to find a good restaurant for dinner. Ask your colleague for a recommendation and tell them what kind of food you are looking for.
+- **A**: Situation 2: You forgot your friend's birthday yesterday. Call them, apologize, and suggest how you could celebrate together later.
 - **B**: <!-- LEARNER -->
 
-- **A**: Situation 3: Coworkers invite you for after-work drinks on Friday. You cannot make it. Decline politely and explain why.
+- **A**: Situation 3: Your neighbor asks what you plan to do this weekend. Chat with them and tell about your plans.
 - **B**: <!-- LEARNER -->
 
-- **A**: Situation 4: You are at a sports store and need winter running shoes. Ask the seller which shoes work on slippery conditions and how much they cost.
+- **A**: Situation 4: Your teenage child asks permission to sleep over at a friend's house on Friday evening. React to the request and ask for more details.
 - **B**: <!-- LEARNER -->
 
-- **A**: Situation 5: You visited a good sale at an electronics store. Tell your friend about the offers and recommend the store.
+- **A**: Situation 5: Your friend recommends a Finnish crime novel to you. React to the recommendation and tell what kind of books you read yourself.
 - **B**: <!-- LEARNER -->
 
-- **A**: Situation 6: You are at the veterinarian with your cat. Ask the vet what vaccinations your cat needs and when the next vaccination is due.
+- **A**: Situation 6: You want to invite a colleague over for dinner at your home next week. Invite them and tell when it would be and what you plan to cook.
 - **B**: <!-- LEARNER -->
 
-- **A**: Situation 7: The elevator in your housing company is very slow and it bothers your daily routine. Make a complaint to the maintenance company and ask for the elevator to be inspected.
+- **A**: Situation 7: Your child asks for help with Finnish language homework. React and ask what assignment they are working on and where they need help.
 - **B**: <!-- LEARNER -->
 
-- **A**: Situation 8: A teacher helped your child with homework after school. Thank the teacher and ask how the child's studies are going.
+- **A**: Situation 8: Your friend suggests going to a concert together next month. React enthusiastically and ask whose concert it is and how much tickets cost.
 - **B**: <!-- LEARNER -->
 
-- **A**: Situation 9: You want to book a family vacation. Go to a travel agency and ask about family package deals, prices, and destinations.
+- **A**: Situation 9: Your neighbor comes to complain that there is too much noise from your apartment. Apologize and explain what the noise is from.
 - **B**: <!-- LEARNER -->
 
-- **A**: Situation 10: You agreed to meet a friend on the weekend but you need to change plans. Call your friend and suggest a new time.
+- **A**: Situation 10: Your child's school calls and says your child was late today. Explain the reason and promise it will not happen again.
 - **B**: <!-- LEARNER -->
 
-- **A**: Situation 11: You are at the swimming hall and want to know the sauna opening times. Ask at the reception and also ask if you need to book in advance.
+- **A**: Situation 11: Your friend asks about Chinese New Year traditions. Tell how it is celebrated and why it is an important holiday.
 - **B**: <!-- LEARNER -->
 
-- **A**: Situation 12: You go to the doctor but you have forgotten the name under which the appointment was booked. Explain the situation to the receptionist and ask for help.
+- **A**: Situation 12: A colleague invites you to a housewarming party next Saturday. You cannot make it. Decline politely and explain why.
 - **B**: <!-- LEARNER -->
 
-- **A**: Situation 13: The meeting agenda is long and complicated. Ask your colleague to explain the main points beforehand so you can keep up.
+- **A**: Situation 13: Your spouse suggests trying a new restaurant on the weekend. Agree and suggest what kind of restaurant you could try.
 - **B**: <!-- LEARNER -->
 
-- **A**: Situation 14: A neighbor lent you a snow shovel in winter. Return it and thank them. Exchange a few words.
+- **A**: Situation 14: Your friend is planning a trip to China and wants advice. Tell what places are worth visiting and give practical tips.
 - **B**: <!-- LEARNER -->
 
-- **A**: Situation 15: You are at a recycling point with an old television. You don't know which bin it belongs in. Ask the recycling point worker.
+- **A**: Situation 15: Your neighbor collected your mail while you were on vacation. Thank them and tell briefly about your trip.
 - **B**: <!-- LEARNER -->
 
-- **A**: Situation 16: Your child has a medicine allergy. Tell the school nurse about it and make sure the information is recorded.
+- **A**: Situation 16: Your child wants to quit their hobby. Discuss the matter with your spouse and share your opinion.
 - **B**: <!-- LEARNER -->
 
-- **A**: Situation 17: You want to start playing guitar. Go to a music store and ask about guitar lesson prices, schedules, and levels.
+- **A**: Situation 17: Your friend asks if you know good hiking trails in the nearby area. Recommend a trail and tell why it is good.
 - **B**: <!-- LEARNER -->
 
-- **A**: Situation 18: Your internet connection has been very slow in recent weeks. Call the provider, complain about the slowness, and demand improvement.
+- **A**: Situation 18: Your neighbor comments on the weather in the stairwell. React and exchange a few words about the weather and your plans.
 - **B**: <!-- LEARNER -->

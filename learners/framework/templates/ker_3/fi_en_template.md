@@ -1,67 +1,67 @@
-#### ker_3 — Kertominen: Työ, oppiminen ja elämänkokemukset
+#### ker_3 — Kertominen: Työ ja oppiminen
 **Learner role:** B
-**Non-learner gender:** female
-**FI Konteksti:** Kymmenen aihepiiriä, joissa kerrotaan työelämästä, oppimisesta, kulttuurista ja elämänkokemuksista.
-**EN Context:** Ten topic areas where you talk about working life, learning, culture, and life experiences.
+**Non-learner gender:** male
+**FI Konteksti:** Kymmenen aihepiiriä, joissa kerrotaan työstä ja oppimisesta. Jukka esittää aiheet ja sinä kerrot vapaasti.
+**EN Context:** Ten topic areas where you talk about work and learning. Jukka presents the topics and you speak freely.
 
 **FI Koko mallidialogi:**
-- **A**: Aihe 1: Kerro lapsuusmuistosta, joka on sinulle tärkeä. Miksi juuri tämä muisto on jäänyt mieleesi?
+- **A**: Aihe yksi: Kerro työstäsi. Mitä teet työksesi ja mikä työssäsi on parasta?
 - **B**: <!-- LEARNER -->
 
-- **A**: Aihe 2: Miten opit parhaiten uusia asioita? Kerro esimerkkejä siitä, miten olet oppinut jotain uutta.
+- **A**: Aihe kaksi: Kerro koulukokemuksistasi. Millainen oppilas olit ja mikä oli kivaa tai vaikeaa koulussa?
 - **B**: <!-- LEARNER -->
 
-- **A**: Aihe 3: Kerro kokemuksistasi työelämästä. Millaisia töitä olet tehnyt ja mikä on ollut parasta?
+- **A**: Aihe kolme: Kerro suomen kielen opiskelustasi. Miten olet opiskellut suomea ja mikä on ollut helppoa tai vaikeaa?
 - **B**: <!-- LEARNER -->
 
-- **A**: Aihe 4: Millainen on hyvä esimies? Kuvaile, millaista johtamista arvostat ja millaisia kokemuksia sinulla on.
+- **A**: Aihe neljä: Kerro työpäivästäsi. Millainen on tyypillinen työpäiväsi alusta loppuun?
 - **B**: <!-- LEARNER -->
 
-- **A**: Aihe 5: Kerro suomalaisesta saunakulttuurista. Millaisia kokemuksia sinulla on saunomisesta?
+- **A**: Aihe viisi: Kerro ajanhallinnastasi. Miten suunnittelet päiväsi ja ehditkö tehdä kaiken?
 - **B**: <!-- LEARNER -->
 
-- **A**: Aihe 6: Miten säästät rahaa arjessa? Kerro vinkkejä ja omia tapojasi säästää.
+- **A**: Aihe kuusi: Kerro tärkeästä työprojektista. Millainen projekti se oli ja mitä opit siitä?
 - **B**: <!-- LEARNER -->
 
-- **A**: Aihe 7: Kerro lempiruoastasi ja miten sitä tehdään. Miksi pidät tästä ruoasta erityisesti?
+- **A**: Aihe seitsemän: Kerro puhelimen käytöstäsi. Millainen oli ensimmäinen puhelimesi ja miten käyttö on muuttunut?
 - **B**: <!-- LEARNER -->
 
-- **A**: Aihe 8: Millainen on sinulle hyvä päivä? Kuvaile täydellinen päivä alusta loppuun.
+- **A**: Aihe kahdeksan: Kerro eläkkeelle jäämisestä. Mitä tekisit eläkkeellä ja millaista elämää haluaisit elää?
 - **B**: <!-- LEARNER -->
 
-- **A**: Aihe 9: Kerro kokemuksistasi Suomen talvesta. Miten selviät talvesta ja mitä pidät siinä?
+- **A**: Aihe yhdeksän: Kerro miehistä ja naisista kotona. Miten kotityöt jaetaan ja onko se muuttunut?
 - **B**: <!-- LEARNER -->
 
-- **A**: Aihe 10: Miten teknologia on muuttanut arkeasi? Kerro esimerkkejä hyvistä ja huonoista muutoksista.
+- **A**: Aihe kymmenen: Kerro vierailuista. Miten vierailet toisten luona ja miten vastaanotat vieraita?
 - **B**: <!-- LEARNER -->
 
 **EN Full sample dialogue:**
-- **A**: Topic 1: Tell about a childhood memory that is important to you. Why has this particular memory stayed with you?
+- **A**: Topic 1: Tell about your work. What do you do for a living and what is the best thing about your work?
 - **B**: <!-- LEARNER -->
 
-- **A**: Topic 2: How do you learn new things best? Give examples of how you have learned something new.
+- **A**: Topic 2: Tell about your school experiences. What kind of student were you and what was fun or difficult at school?
 - **B**: <!-- LEARNER -->
 
-- **A**: Topic 3: Tell about your experiences in working life. What kinds of jobs have you done and what has been the best part?
+- **A**: Topic 3: Tell about studying Finnish. How have you studied Finnish and what has been easy or difficult?
 - **B**: <!-- LEARNER -->
 
-- **A**: Topic 4: What is a good boss like? Describe what kind of leadership you value and what experiences you have had.
+- **A**: Topic 4: Tell about your workday. What is a typical workday like from start to finish?
 - **B**: <!-- LEARNER -->
 
-- **A**: Topic 5: Tell about Finnish sauna culture. What kind of experiences do you have with sauna?
+- **A**: Topic 5: Tell about your time management. How do you plan your days and do you manage to do everything?
 - **B**: <!-- LEARNER -->
 
-- **A**: Topic 6: How do you save money in everyday life? Share tips and your own ways to save.
+- **A**: Topic 6: Tell about an important work project. What kind of project was it and what did you learn from it?
 - **B**: <!-- LEARNER -->
 
-- **A**: Topic 7: Tell about your favorite dish and how it is made. Why do you especially like this food?
+- **A**: Topic 7: Tell about your phone usage. What was your first phone like and how has your usage changed?
 - **B**: <!-- LEARNER -->
 
-- **A**: Topic 8: What is a good day like for you? Describe a perfect day from start to finish.
+- **A**: Topic 8: Tell about retirement. What would you do in retirement and what kind of life would you like to live?
 - **B**: <!-- LEARNER -->
 
-- **A**: Topic 9: Tell about your experiences with Finnish winter. How do you manage through the winter and what do you like about it?
+- **A**: Topic 9: Tell about men and women at home. How are household chores divided and has it changed?
 - **B**: <!-- LEARNER -->
 
-- **A**: Topic 10: How has technology changed your everyday life? Give examples of good and bad changes.
+- **A**: Topic 10: Tell about visiting people. How do you visit others and how do you receive guests?
 - **B**: <!-- LEARNER -->

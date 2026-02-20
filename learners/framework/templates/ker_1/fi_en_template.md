@@ -1,67 +1,67 @@
-#### ker_1 — Kertominen: Henkilökohtainen elämä ja ihmissuhteet
+#### ker_1 — Kertominen: Henkilökohtainen elämä
 **Learner role:** B
-**Non-learner gender:** female
-**FI Konteksti:** Kymmenen aihepiiriä, joissa kerrotaan omasta elämästä, ihmissuhteista ja arjen kokemuksista.
-**EN Context:** Ten topic areas where you talk about your personal life, relationships, and everyday experiences.
+**Non-learner gender:** male
+**FI Konteksti:** Kymmenen aihepiiriä, joissa kerrotaan henkilökohtaisesta elämästä. Antti esittää aiheet ja sinä kerrot vapaasti.
+**EN Context:** Ten topic areas where you talk about your personal life. Antti presents the topics and you speak freely.
 
 **FI Koko mallidialogi:**
-- **A**: Aihe 1: Kerro, kuka on sinulle tärkeä ihminen ja miksi. Millainen hän on ja mitä teette yhdessä?
+- **A**: Aihe yksi: Kerro perheestäsi. Millainen perhe sinulla on ja mitä teette yhdessä?
 - **B**: <!-- LEARNER -->
 
-- **A**: Aihe 2: Minkälaisia kokemuksia sinulla on koulusta? Kerro, millainen oppilas olit ja mikä oli kivaa tai vaikeaa.
+- **A**: Aihe kaksi: Kerro tärkeästä henkilöstä elämässäsi. Kuka hän on ja miksi hän on sinulle tärkeä?
 - **B**: <!-- LEARNER -->
 
-- **A**: Aihe 3: Mitä teet, kun olet stressaantunut? Miten rentoudut ja mikä auttaa sinua parhaiten?
+- **A**: Aihe kolme: Kerro lapsuusmuistoistasi. Millaisia muistoja sinulla on ja mikä muisto on erityinen?
 - **B**: <!-- LEARNER -->
 
-- **A**: Aihe 4: Kerro puhelimen käytöstäsi. Millainen oli ensimmäinen puhelimesi ja miten puhelimen käyttö on muuttunut?
+- **A**: Aihe neljä: Kerro harrastuksistasi. Mitä harrastat ja miten aloitit harrastuksesi?
 - **B**: <!-- LEARNER -->
 
-- **A**: Aihe 5: Millainen ajankäyttäjä olet? Miten suunnittelet päiväsi ja ehditkö tehdä kaiken haluamasi?
+- **A**: Aihe viisi: Kerro parhaasta juhlastasi. Millainen juhla se oli ja miksi se oli paras?
 - **B**: <!-- LEARNER -->
 
-- **A**: Aihe 6: Kerro kotimaasi ilmastosta. Millainen sää on eri vuodenaikoina ja mikä vuodenaika on sinun suosikkisi?
+- **A**: Aihe kuusi: Kerro ystävyyssuhteistasi Suomessa. Miten olet saanut ystäviä ja mitä teette yhdessä?
 - **B**: <!-- LEARNER -->
 
-- **A**: Aihe 7: Kerro tilanteesta, kun olit sairas tai kävit lääkärissä. Mitä tapahtui ja miten sinua hoidettiin?
+- **A**: Aihe seitsemän: Kerro viikonloppurutiineistasi. Miten vietät tyypillisen viikonlopun?
 - **B**: <!-- LEARNER -->
 
-- **A**: Aihe 8: Millaisia ovat miesten ja naisten roolit kotona sinun kokemuksesi mukaan? Miten kotityöt jaetaan?
+- **A**: Aihe kahdeksan: Kerro unelmastasi. Millainen unelma sinulla on ja miten aiot toteuttaa sen?
 - **B**: <!-- LEARNER -->
 
-- **A**: Aihe 9: Kerro vierailukulttuurista. Miten vierailet toisten luona ja miten vastaanotat vieraita omassa kodissasi?
+- **A**: Aihe yhdeksän: Kerro kodistasi. Millainen koti sinulla on ja mikä siinä on parasta?
 - **B**: <!-- LEARNER -->
 
-- **A**: Aihe 10: Mitä tekisit eläkkeellä? Millaista elämää haluaisit elää, kun jäät eläkkeelle?
+- **A**: Aihe kymmenen: Kerro sosiaalisesta elämästäsi. Miten pidät yhteyttä ihmisiin ja mitä teette yhdessä?
 - **B**: <!-- LEARNER -->
 
 **EN Full sample dialogue:**
-- **A**: Topic 1: Tell about a person who is important to you and why. What is this person like and what do you do together?
+- **A**: Topic 1: Tell about your family. What kind of family do you have and what do you do together?
 - **B**: <!-- LEARNER -->
 
-- **A**: Topic 2: What kind of experiences do you have from school? Tell about what kind of student you were and what was fun or difficult.
+- **A**: Topic 2: Tell about an important person in your life. Who is this person and why are they important to you?
 - **B**: <!-- LEARNER -->
 
-- **A**: Topic 3: What do you do when you are stressed? How do you relax and what helps you the most?
+- **A**: Topic 3: Tell about your childhood memories. What kind of memories do you have and which one is special?
 - **B**: <!-- LEARNER -->
 
-- **A**: Topic 4: Tell about your phone use. What was your first phone like and how has phone use changed?
+- **A**: Topic 4: Tell about your hobbies. What do you do as a hobby and how did you start?
 - **B**: <!-- LEARNER -->
 
-- **A**: Topic 5: What kind of time manager are you? How do you plan your days and do you have time to do everything you want?
+- **A**: Topic 5: Tell about your best party. What kind of party was it and why was it the best?
 - **B**: <!-- LEARNER -->
 
-- **A**: Topic 6: Tell about the climate in your home country. What is the weather like in different seasons and which season is your favorite?
+- **A**: Topic 6: Tell about your friendships in Finland. How have you made friends and what do you do together?
 - **B**: <!-- LEARNER -->
 
-- **A**: Topic 7: Tell about a situation when you were sick or visited the doctor. What happened and how were you treated?
+- **A**: Topic 7: Tell about your weekend routines. How do you spend a typical weekend?
 - **B**: <!-- LEARNER -->
 
-- **A**: Topic 8: What are men's and women's roles at home in your experience? How are household chores divided?
+- **A**: Topic 8: Tell about your dream. What kind of dream do you have and how do you plan to achieve it?
 - **B**: <!-- LEARNER -->
 
-- **A**: Topic 9: Tell about visiting culture. How do you visit other people and how do you receive guests in your own home?
+- **A**: Topic 9: Tell about your home. What kind of home do you have and what is the best thing about it?
 - **B**: <!-- LEARNER -->
 
-- **A**: Topic 10: What would you do in retirement? What kind of life would you like to live when you retire?
+- **A**: Topic 10: Tell about your social life. How do you keep in touch with people and what do you do together?
 - **B**: <!-- LEARNER -->

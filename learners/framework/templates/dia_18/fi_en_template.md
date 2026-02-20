@@ -1,43 +1,45 @@
-#### dia_18 — Reporting fender bender to insurance company
-**Learner role:** B
-**Non-learner gender:** female
-**FI Konteksti:** Soitat vakuutusyhtiöösi ja ilmoitat pienestä kolarista parkkipaikalla sekä kysyt korvausmenettelystä.
-**EN Context:** You call your insurance company to report a minor fender bender in a parking lot and ask about the claims process.
+#### dia_18 — Disputing a parking ticket at city services office
+**Learner role:** A
+**Non-learner gender:** male
+**FI Konteksti:** Asioit kaupungin palvelupisteessä ja kiistät pysäköintivirhemaksun.
+**EN Context:** You visit the city services office and dispute a parking ticket.
 
 **FI Koko mallidialogi:**
-- **A**: If vakuutus, vahinkoilmoitukset, Riikka puhelimessa. Miten voin auttaa?
-- **B**: <!-- LEARNER: greet, say need to report a car accident that happened today in a parking lot -->
-- **A**: Selvä. Ensin mä tarvitsen sun vakuutusnumeron ja rekisteritunnuksen.
-- **B**: <!-- LEARNER: give made-up policy number and license plate, ask what other info is needed -->
-- **A**: Kiitos. Nyt mä tarvitsen tarkemman kuvauksen tapahtuneesta. Missä ja milloin kolari tapahtui?
-- **B**: <!-- LEARNER: describe accident — was reversing in supermarket parking lot, didn't see the car behind, bumped into it at low speed -->
-- **A**: Selvä. Oliko kukaan loukkaantunut ja otitteko kuvat vahingoista?
-- **B**: <!-- LEARNER: say no one was injured, both cars have minor damage — scratches and dent on bumper, confirm took photos and exchanged contact info with other driver -->
-- **A**: Mahtavaa, se helpottaa käsittelyä paljon. Nyt meidän pitää arvioida vahingot. Sun pitää tuoda auto katsottavaksi meidän sopimuskorjaamolle viikon sisällä.
-- **B**: <!-- LEARNER: ask which repair shop to go to and if there's a deductible -->
-- **A**: Lähin sopimuskorjaamo on Fixus Itäkeskuksessa. Omavastuu on kaksisataa euroa kaskovakuutuksessa. Jos toinen osapuoli on syyllinen, omavastuuta ei peritä sinulta.
-- **B**: <!-- LEARNER: ask how long the claims process takes and when car will be fixed -->
-- **A**: Vahinkoilmoituksen käsittely kestää noin viisi arkipäivää. Sen jälkeen korjaamo ottaa yhteyttä ja sopii korjausajan. Korjaus kestää tyypillisesti yhdestä kolmeen arkipäivää.
-- **B**: <!-- LEARNER: ask if get a courtesy car while own car is being repaired -->
-- **A**: Kaskovakuutukseesi kuuluu sijaisauto korjauksen ajaksi. Se on ilmainen enintään kolmeksi päiväksi. Korjaamo järjestää sen sulle automaattisesti.
-- **B**: <!-- LEARNER: thank, ask if need to do anything else right now -->
-- **A**: Lähetä valokuvat ja toisen osapuolen tiedot meidän verkkopalveluun osoitteessa if.fi. Mä lähetän sulle vahinkotunnuksen tekstiviestillä. Se on kaikki tässä vaiheessa. Hyvää päivää!
+- **A**: <!-- LEARNER: greet, say received a parking fine and want to dispute it, show the ticket -->
+- **B**: Hei, mä olen Kari, pysäköinninvalvonnasta. Katsotaanpa. Tämä virhemaksu on kirjoitettu torstaina kahdeksannentenatoista huhtikuuta kello neljätoista kolmekymmentäkaksi Mannerheimintien neljässäkymmenessäkahdessa.
+- **A**: <!-- LEARNER: confirm the date and place, but say had a valid parking disc displayed on the dashboard -->
+- **B**: Valvoja merkitsi, ettei autossa ollut näkyvää pysäköintikiekkoa. Onko sinulla valokuva tilanteesta tai jotain muuta todistetta?
+- **A**: <!-- LEARNER: say took a photo of the dashboard with the parking disc before leaving the car, show it on phone -->
+- **B**: Okei, mä näen kuvan. Siinä on kiekko kojelaudalla. Mutta kello on asetettu kolmeentoista, ja maksimi pysäköintiaika tuolla alueella on kaksi tuntia. Valvojan mukaan auto oli siellä vielä kello neljätoista kolmekymmentäkaksi.
+- **A**: <!-- LEARNER: say came back to the car at two fifteen, there was traffic and it took time, argue it was only fifteen minutes over -->
+- **B**: Ymmärrän, mutta aikaraja on ehdoton. Viidentoista minuutin ylitys on silti ylitys. Virhemaksu on kuusikymmentä euroa.
+- **A**: <!-- LEARNER: ask if there is any way to reduce the fine or get a warning instead -->
+- **B**: Pysäköintivirhemaksu on kiinteä summa, sitä ei voi alentaa. Mutta sä voit tehdä kirjallisen oikaisuvaatimuksen neljäntoista päivän sisällä. Jos perustelu on hyvä, maksu voidaan poistaa.
+- **A**: <!-- LEARNER: ask how to submit the correction request and what information is needed -->
+- **B**: Oikaisuvaatimus tehdään verkossa osoitteessa helsinki.fi/pysakointi. Tarvitset virhemaksun numeron, auton rekisterinumeron ja perustelut. Liitä valokuva mukaan todisteeksi.
+- **A**: <!-- LEARNER: ask how long the process takes and if need to pay the fine while waiting -->
+- **B**: Käsittelyaika on noin kolmesta neljään viikkoa. Maksua ei tarvitse maksaa ennen kuin päätös on tehty. Jos oikaisuvaatimus hylätään, maksuaikaa on kolmekymmentä päivää päätöksestä.
+- **A**: <!-- LEARNER: say will submit the request today, ask if there is anything else to know -->
+- **B**: Muista, että jos maksu jää maksamatta eikä oikaisuvaatimusta ole tehty, se menee perintään ja korotus on kaksikymmentä euroa. Pidä kuitista kopio itsellä.
+- **A**: <!-- LEARNER: thank Kari for the clear explanation, say goodbye -->
+- **B**: Ole hyvä! Onnea oikaisuvaatimuksen kanssa. Jos sulla on kysyttävää, soita pysäköinninvalvonnan numeroon. Hyvää päivänjatkoa!
 
 **EN Full sample dialogue:**
-- **A**: If Insurance, damage reports, Riikka speaking. How can I help?
-- **B**: <!-- LEARNER: greet, say need to report a car accident that happened today in a parking lot -->
-- **A**: Alright. First I need your insurance policy number and license plate number.
-- **B**: <!-- LEARNER: give made-up policy number and license plate, ask what other info is needed -->
-- **A**: Thanks. Now I need a more detailed description of what happened. Where and when did the collision occur?
-- **B**: <!-- LEARNER: describe accident — was reversing in supermarket parking lot, didn't see the car behind, bumped into it at low speed -->
-- **A**: Alright. Was anyone injured, and did you take photos of the damage?
-- **B**: <!-- LEARNER: say no one was injured, both cars have minor damage — scratches and dent on bumper, confirm took photos and exchanged contact info with other driver -->
-- **A**: Excellent, that makes processing much easier. Now we need to assess the damage. You need to bring the car for inspection at our partner repair shop within a week.
-- **B**: <!-- LEARNER: ask which repair shop to go to and if there's a deductible -->
-- **A**: The nearest partner repair shop is Fixus in Itäkeskus. The deductible is 200 euros with comprehensive insurance. If the other party is at fault, the deductible is not charged to you.
-- **B**: <!-- LEARNER: ask how long the claims process takes and when car will be fixed -->
-- **A**: Processing the damage report takes about five business days. After that the repair shop will contact you and agree on a repair time. Repair typically takes one to three business days.
-- **B**: <!-- LEARNER: ask if get a courtesy car while own car is being repaired -->
-- **A**: Your comprehensive insurance includes a courtesy car during repair. It's free for up to three days. The repair shop arranges it for you automatically.
-- **B**: <!-- LEARNER: thank, ask if need to do anything else right now -->
-- **A**: Upload the photos and the other party's details to our online service at if.fi. I'll send you a claim reference number by text message. That's everything for now. Have a good day!
+- **A**: <!-- LEARNER: greet, say received a parking fine and want to dispute it, show the ticket -->
+- **B**: Hi, I'm Kari from parking enforcement. Let's have a look. This fine was issued on Thursday, April 18th at 14:32 at Mannerheimintie 42.
+- **A**: <!-- LEARNER: confirm the date and place, but say had a valid parking disc displayed on the dashboard -->
+- **B**: The inspector noted that there was no visible parking disc in the car. Do you have a photo of the situation or any other evidence?
+- **A**: <!-- LEARNER: say took a photo of the dashboard with the parking disc before leaving the car, show it on phone -->
+- **B**: Okay, I can see the photo. There's a disc on the dashboard. But the time is set to one o'clock, and the maximum parking time in that area is two hours. According to the inspector, the car was still there at 14:32.
+- **A**: <!-- LEARNER: say came back to the car at two fifteen, there was traffic and it took time, argue it was only fifteen minutes over -->
+- **B**: I understand, but the time limit is absolute. A fifteen-minute overstay is still an overstay. The fine is 60 euros.
+- **A**: <!-- LEARNER: ask if there is any way to reduce the fine or get a warning instead -->
+- **B**: The parking fine is a fixed amount, it cannot be reduced. But you can submit a written correction request within 14 days. If the justification is good, the fine can be removed.
+- **A**: <!-- LEARNER: ask how to submit the correction request and what information is needed -->
+- **B**: The correction request is made online at helsinki.fi/pysakointi. You'll need the fine number, car registration number, and your justification. Attach the photo as evidence.
+- **A**: <!-- LEARNER: ask how long the process takes and if need to pay the fine while waiting -->
+- **B**: Processing time is about three to four weeks. You don't need to pay before the decision is made. If the correction request is denied, you have 30 days from the decision to pay.
+- **A**: <!-- LEARNER: say will submit the request today, ask if there is anything else to know -->
+- **B**: Remember that if the fine goes unpaid and no correction request has been made, it goes to collection and the surcharge is 20 euros. Keep a copy of the receipt for yourself.
+- **A**: <!-- LEARNER: thank Kari for the clear explanation, say goodbye -->
+- **B**: You're welcome! Good luck with the correction request. If you have questions, call the parking enforcement number. Have a good day!

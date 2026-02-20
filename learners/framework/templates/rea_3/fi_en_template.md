@@ -1,115 +1,115 @@
-#### rea_3 — Reagointi: Kauppa ja arki
+#### rea_3 — Reagointi: Kauppa ja kuluttaja-asiat
 **Learner role:** B
 **Non-learner gender:** female
-**FI Konteksti:** Reagoi erilaisiin kauppaan ja arkeen liittyviin tilanteisiin.
-**EN Context:** React to various shopping and daily life situations.
+**FI Konteksti:** Reagoi erilaisiin kauppaan ja kuluttaja-asioihin liittyviin tilanteisiin.
+**EN Context:** React to various shopping and consumer situations.
 
 **FI Koko mallidialogi:**
-- **A**: Tilanne 1: Olet kaupan kassalla. Haluat tarkistaa S-Etukorttisi bonussaldon. Kysy kassahenkilöltä, miten näet saldon ja paljonko bonusta on kertynyt.
+- **A**: Tilanne 1: Olet huonekaluliikkeessä. Haluat ostaa sohvan. Kysy myyjältä, kauanko toimitus kestää ja sisältyykö kokoaminen hintaan.
 - **B**: <!-- LEARNER -->
 
-- **A**: Tilanne 2: Tilasit tuotteen netistä, mutta se ei sovi. Menet postin noutopisteeseen palauttamaan sen. Selitä tilanne ja kysy, miten palautus toimii.
+- **A**: Tilanne 2: Tilasit netistä takin, mutta se on väärän värinen. Soitat asiakaspalveluun. Selitä ongelma ja kysy, miten vaihto onnistuu.
 - **B**: <!-- LEARNER -->
 
-- **A**: Tilanne 3: Lähdet kahden viikon lomalle. Pyydä naapuria kastelemaan kukkia poissaolosi aikana. Selitä, mitä pitää tehdä ja miten hän pääsee sisälle.
+- **A**: Tilanne 3: Olet elektroniikkaliikkeessä. Vertailet kahta kannettavaa tietokonetta. Kysy myyjältä, kumpi on parempi työhön ja miksi.
 - **B**: <!-- LEARNER -->
 
-- **A**: Tilanne 4: Asuntosi lämmitys on rikki keskellä talvea. Sisällä on kylmä. Soita vuokranantajalle, valita asiasta ja vaadi korjausta.
+- **A**: Tilanne 4: Olet kassalla. Kassatyöntekijä kertoo kaupan kanta-asiakaskortista. Kysy, mitä etuja kortti tarjoaa ja maksaako se jotain.
 - **B**: <!-- LEARNER -->
 
-- **A**: Tilanne 5: Haluat aloittaa liikunnan ja olet kiinnostunut aloittelijoiden ryhmäliikunnasta. Kysy ohjaajalta aikatauluista ja siitä, tarvitseeko sinun varata paikka etukäteen.
+- **A**: Tilanne 5: Olet vaatekaupassa. Löydät kivan paidan, mutta se on liian pieni. Kysy myyjältä, onko isompaa kokoa ja voiko tuotteen tilata toisesta myymälästä.
 - **B**: <!-- LEARNER -->
 
-- **A**: Tilanne 6: Autosi pitää outoa ääntä moottorista. Viet sen korjaamolle. Selitä mekaanikolla, millainen ääni on ja milloin se alkoi.
+- **A**: Tilanne 6: Soitat putkimiehelle. Keittiön hana vuotaa ja vesi tippuu koko ajan. Kerro ongelmasta ja kysy hinta-arviota korjaukselle.
 - **B**: <!-- LEARNER -->
 
-- **A**: Tilanne 7: Lapsesi koulusta tulee viesti vanhempainillasta. Et ole varma päivämäärästä. Soita koulun kansliaan ja tarkista ajankohta.
+- **A**: Tilanne 7: Olet autohuollossa. Autosi pitää käydä vuosikatsastuksessa. Kysy, mitä katsastuksessa tarkistetaan, kauanko se kestää ja paljonko se maksaa.
 - **B**: <!-- LEARNER -->
 
-- **A**: Tilanne 8: Ystäväsi suositteli sinulle hyvää ravintolaa ja kävit siellä. Tapaat ystäväsi ja kiität suosituksesta. Kerro kokemuksestasi.
+- **A**: Tilanne 8: Ostit netistä kengät, mutta ne ovat väärän kokoiset. Haluat palauttaa ne. Soita kauppaan ja kysy, miten palautus toimii ja milloin saat rahat takaisin.
 - **B**: <!-- LEARNER -->
 
-- **A**: Tilanne 9: Sinun pitää siirtää hammaslääkäriaikasi, koska sinulla on työkokous samaan aikaan. Soita vastaanotolla ja pyydä uutta aikaa.
+- **A**: Tilanne 9: Olet rautakaupassa. Haluat maalata olohuoneen seinät. Kysy myyjältä, paljonko maalia tarvitaan ja millaista maalia hän suosittelee sisäseinille.
 - **B**: <!-- LEARNER -->
 
-- **A**: Tilanne 10: Olet lentokentällä ja tullivirkailija kysyy, mitä paketissasi on. Selitä paketin sisältö ja kerro, kenelle se on tarkoitettu.
+- **A**: Tilanne 10: Puhelimesi näyttö on haljennut. Menet korjaamoon ja kysyt, paljonko näytön vaihto maksaa ja kauanko korjaus kestää.
 - **B**: <!-- LEARNER -->
 
-- **A**: Tilanne 11: Olet Alkossa. Olet järjestämässä illallista ja haluat viinisuosituksen. Kysy myyjältä, mikä viini sopii kala-ateriaan.
+- **A**: Tilanne 11: Soitat muuttofirmaan. Sinulla on haurasta tavaraa, kuten lasitaidetta ja antiikkihuonekaluja. Kysy, miten ne vakuutetaan muuton ajaksi.
 - **B**: <!-- LEARNER -->
 
-- **A**: Tilanne 12: Sait pysäköintisakon, koska pysäköintiautomaatti oli rikki etkä voinut ostaa lippua. Selitä asia pysäköinninvalvojalle ja pyydä sakon peruuttamista.
+- **A**: Tilanne 12: Olet polkupyöräliikkeessä. Haluat vaihtaa pyörääsi talvirenkaat. Kysy, millaisia talvirenkaita on saatavilla ja paljonko vaihto maksaa.
 - **B**: <!-- LEARNER -->
 
-- **A**: Tilanne 13: Olet R-kioskilla ja tarvitset prepaid-liittymän. Kysy myyjältä, mitä vaihtoehtoja on tarjolla ja paljonko ne maksavat.
+- **A**: Tilanne 13: Soitat sähkömiehelle. Keittiössäsi on liian vähän pistorasioita ja tarvitset lisää. Kysy, onko asennus mahdollinen ja paljonko se maksaa.
 - **B**: <!-- LEARNER -->
 
-- **A**: Tilanne 14: Matkalaukkusi ei saapunut lennon mukana. Mene lentoyhtiön palvelupisteelle, valita asiasta ja kysy, miten laukku löydetään.
+- **A**: Tilanne 14: Olet puutarhaliikkeessä. Asut kerrostaloasunnossa ja sinulla on parveke. Kysy myyjältä, mitkä kasvit sopivat parvekkeelle ja miten niitä hoidetaan.
 - **B**: <!-- LEARNER -->
 
-- **A**: Tilanne 15: Olet huonekalukaupassa ja olet kiinnostunut sohvasta. Kysy myyjältä toimitusvaihtoehdoista, toimitusajasta ja hinnasta.
+- **A**: Tilanne 15: Eilen toimitettiin sinulle uusi jääkaappi, mutta se pitää kovaa ääntä. Soita kauppaan ja tee reklamaatio. Selitä ongelma ja vaadi korjausta tai vaihtoa.
 - **B**: <!-- LEARNER -->
 
-- **A**: Tilanne 16: Siivouspalvelu on siivonnut asuntosi erinomaisesti. Kiitä heitä ja kerro, mitä erityisesti pidit heidän työssään.
+- **A**: Tilanne 16: Olet autovaraosaliikkeessä. Tarvitset uudet tuulilasinpyyhkijöiden sulat autollesi. Kerro myyjälle auton merkki ja vuosimalli ja kysy oikeaa kokoa.
 - **B**: <!-- LEARNER -->
 
-- **A**: Tilanne 17: Olet uimahallin vastaanotossa. Haluat tietää, milloin lasten uimarata on käytössä. Kysy aikataulusta ja siitä, tarvitaanko ilmoittautuminen.
+- **A**: Tilanne 17: Olet ostanut keittiökoneen vuosi sitten ja takuu on päättymässä. Kysy myyjältä, voiko takuuta pidentää ja paljonko lisätakuu maksaa.
 - **B**: <!-- LEARNER -->
 
-- **A**: Tilanne 18: Autossasi on pieni naarmu parkkipaikalta. Soita vakuutusyhtiöösi, kerro vahingosta ja kysy, miten korvaus haetaan.
+- **A**: Tilanne 18: Olet rautakaupassa. Haluat ripustaa hyllyjä seinälle. Kysy myyjältä, mitä työkaluja tarvitset ja miten kiinnitys tehdään betoniseinään.
 - **B**: <!-- LEARNER -->
 
 **EN Full sample dialogue:**
-- **A**: Situation 1: You are at the store checkout. You want to check your S-Etukortti bonus balance. Ask the cashier how to see the balance and how much bonus has accumulated.
+- **A**: Situation 1: You are at a furniture store. You want to buy a sofa. Ask the salesperson how long delivery takes and whether assembly is included in the price.
 - **B**: <!-- LEARNER -->
 
-- **A**: Situation 2: You ordered a product online but it doesn't fit. You go to the post office pickup point to return it. Explain the situation and ask how the return works.
+- **A**: Situation 2: You ordered a jacket online but it is the wrong color. You call customer service. Explain the problem and ask how to exchange it.
 - **B**: <!-- LEARNER -->
 
-- **A**: Situation 3: You are leaving for a two-week vacation. Ask your neighbor to water your plants while you are away. Explain what needs to be done and how they can get in.
+- **A**: Situation 3: You are at an electronics store. You are comparing two laptops. Ask the salesperson which one is better for work and why.
 - **B**: <!-- LEARNER -->
 
-- **A**: Situation 4: Your apartment heating is broken in the middle of winter. It is cold inside. Call the landlord, complain about the situation, and demand a repair.
+- **A**: Situation 4: You are at the checkout. The cashier tells you about the store loyalty card. Ask what benefits the card offers and whether it costs anything.
 - **B**: <!-- LEARNER -->
 
-- **A**: Situation 5: You want to start exercising and are interested in beginner group fitness. Ask the instructor about schedules and whether you need to book a spot in advance.
+- **A**: Situation 5: You are at a clothing store. You find a nice shirt but it is too small. Ask the salesperson if a larger size is available and whether the item can be ordered from another store.
 - **B**: <!-- LEARNER -->
 
-- **A**: Situation 6: Your car is making a strange noise from the engine. You take it to the repair shop. Explain to the mechanic what kind of noise it is and when it started.
+- **A**: Situation 6: You call a plumber. The kitchen faucet is leaking and water keeps dripping. Describe the problem and ask for a price estimate for the repair.
 - **B**: <!-- LEARNER -->
 
-- **A**: Situation 7: You receive a message from your child's school about a parent-teacher evening. You are not sure of the date. Call the school office and check the time.
+- **A**: Situation 7: You are at a car service. Your car needs its annual inspection. Ask what is checked during the inspection, how long it takes, and how much it costs.
 - **B**: <!-- LEARNER -->
 
-- **A**: Situation 8: Your friend recommended a good restaurant and you went there. You meet your friend and thank them for the recommendation. Tell about your experience.
+- **A**: Situation 8: You bought shoes online but they are the wrong size. You want to return them. Call the shop and ask how the return process works and when you will get your money back.
 - **B**: <!-- LEARNER -->
 
-- **A**: Situation 9: You need to reschedule your dentist appointment because you have a work meeting at the same time. Call the reception and ask for a new time.
+- **A**: Situation 9: You are at a home improvement store. You want to paint the living room walls. Ask the salesperson how much paint is needed and what kind of paint they recommend for interior walls.
 - **B**: <!-- LEARNER -->
 
-- **A**: Situation 10: You are at the airport and a customs officer asks what is in your package. Explain the contents of the package and tell who it is intended for.
+- **A**: Situation 10: Your phone screen is cracked. You go to a repair shop and ask how much the screen replacement costs and how long the repair takes.
 - **B**: <!-- LEARNER -->
 
-- **A**: Situation 11: You are at Alko. You are preparing a dinner and want a wine recommendation. Ask the staff which wine goes well with a fish meal.
+- **A**: Situation 11: You call a moving company. You have fragile items like glass art and antique furniture. Ask how they are insured during the move.
 - **B**: <!-- LEARNER -->
 
-- **A**: Situation 12: You received a parking fine because the parking machine was broken and you could not buy a ticket. Explain the situation to the parking attendant and ask for the fine to be cancelled.
+- **A**: Situation 12: You are at a bicycle shop. You want to get winter tires for your bike. Ask what kind of winter tires are available and how much the change costs.
 - **B**: <!-- LEARNER -->
 
-- **A**: Situation 13: You are at R-kioski and need a prepaid SIM card. Ask the seller what options are available and how much they cost.
+- **A**: Situation 13: You call an electrician. Your kitchen has too few power outlets and you need more. Ask if the installation is possible and how much it costs.
 - **B**: <!-- LEARNER -->
 
-- **A**: Situation 14: Your suitcase did not arrive with your flight. Go to the airline service desk, complain about it, and ask how the luggage will be found.
+- **A**: Situation 14: You are at a garden center. You live in an apartment building and have a balcony. Ask the salesperson which plants are suitable for a balcony and how to take care of them.
 - **B**: <!-- LEARNER -->
 
-- **A**: Situation 15: You are at a furniture store and interested in a sofa. Ask the seller about delivery options, delivery time, and price.
+- **A**: Situation 15: Yesterday a new refrigerator was delivered to you but it makes a loud noise. Call the store and make a complaint. Explain the problem and demand a repair or replacement.
 - **B**: <!-- LEARNER -->
 
-- **A**: Situation 16: A cleaning service has cleaned your apartment excellently. Thank them and tell what you especially liked about their work.
+- **A**: Situation 16: You are at an auto parts store. You need new windshield wiper blades for your car. Tell the salesperson the car brand and year model and ask for the right size.
 - **B**: <!-- LEARNER -->
 
-- **A**: Situation 17: You are at the swimming pool reception. You want to know when the children's lane is in use. Ask about the schedule and whether registration is needed.
+- **A**: Situation 17: You bought a kitchen appliance a year ago and the warranty is about to expire. Ask the salesperson if the warranty can be extended and how much extended warranty costs.
 - **B**: <!-- LEARNER -->
 
-- **A**: Situation 18: Your car has a small scratch from a parking lot. Call your insurance company, tell about the damage, and ask how to apply for compensation.
+- **A**: Situation 18: You are at a hardware store. You want to hang shelves on the wall. Ask the salesperson what tools you need and how to mount them on a concrete wall.
 - **B**: <!-- LEARNER -->

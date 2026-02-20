@@ -1,6 +1,6 @@
 # YKI Keskitaso (Levels 3-4 / B1-B2) — Comprehensive Topic & Test Reference
 
-Last updated: 2026-02-19
+Last updated: 2026-02-20
 
 ---
 
@@ -485,6 +485,9 @@ Source: [OPH — Selecting the right test](https://www.oph.fi/en/education-and-q
 - Calling sports club about practice times, location, fees
 - Purchase washing machine at a shop (features, price, warranty, delivery)
 - Report lost airline luggage (describe bag, contents, flight details, contact info)
+- Visit to maternity clinic (neuvola) to discuss child's health and vaccinations
+- Renting an apartment with a real estate agent
+- Discussing a found bicycle with a neighbor
 
 ### Speaking — Reagointi / Tilannetehtävät (from actual tests)
 - Discuss weather with acquaintance
@@ -499,6 +502,9 @@ Source: [OPH — Selecting the right test](https://www.oph.fi/en/education-and-q
 - Ask colleague to return to work (from break/absence)
 - Decline a newspaper subscription offer politely
 - Decline being called to work on a day off
+- Apologize to boss for missing a bus and being late
+- Thank a mentor on a radio dedication show
+- Tell a colleague their lunch break is too long
 
 ### Speaking — Kertominen (from actual tests)
 - Describe important person in your life and why they matter
@@ -512,6 +518,10 @@ Source: [OPH — Selecting the right test](https://www.oph.fi/en/education-and-q
 - How often you visit people / receive visitors, what you offer
 - Retirement / retired life — what would you do
 - Your daily time management style
+- "A Great Party" — describe a great party you attended or organized
+- "My Home" — describe your current home and living situation
+- "My Social Life" — describe your social activities and friendships
+- "The Most Important Celebration of the Year" — describe and explain
 
 ### Speaking — Mielipide (from actual tests)
 - Family finances: joint/separate accounts, children's allowance, who decides spending
@@ -527,6 +537,9 @@ Source: [OPH — Selecting the right test](https://www.oph.fi/en/education-and-q
 - Public transport vs own car — which is better for daily commute?
 - Is domestic travel less practical than travel abroad from Finland?
 - School/home responsibilities for children — who should do what?
+- Is exercise the best medicine?
+- Should children be paid for doing chores?
+- Smartphone addiction — societal impact
 
 ### Writing — Task 1 Short Messages (from actual tests)
 - Cancel meeting with friend (give reason)
@@ -535,6 +548,8 @@ Source: [OPH — Selecting the right test](https://www.oph.fi/en/education-and-q
 - Write postcard from vacation
 - Message about unexpected work trip
 - Email to friend about being sick and needing to cancel plans
+- Invite a friend to a housewarming party or new hobby club
+- Write about a trip to a foreign city
 
 ### Writing — Task 2 Formal (from actual tests)
 - Email to isännöitsijä requesting bathroom renovation (condition, changes, timeline, contact)
@@ -547,6 +562,9 @@ Source: [OPH — Selecting the right test](https://www.oph.fi/en/education-and-q
 - Course registration email (ask about schedule, price, level)
 - Apply for an open position (cover letter)
 - Join a project for lonely individuals (volunteer/participant application)
+- Write to police regarding noise disturbances from young motorists
+- Complain to train company about service delays to claim compensation
+- Write to Red Cross (SPR) to volunteer for a project
 
 ### Writing — Task 3 Mielipide (from actual tests)
 - Own apartment vs rental
@@ -1031,6 +1049,13 @@ Topics that appear in actual tests but aren't always in textbooks:
 - Noise complaints
 - Product returns and consumer rights
 - Insurance claims
+- Billing dispute with electricity company about unusually high bill
+- Subscription cancellation (gym membership due to move/injury)
+- Parent-teacher meeting about child's Finnish language studies
+- Library e-book borrowing rules and late return fines
+- Asking neighbor about where/how to vote in municipal elections
+- Encountering friend unexpectedly on the street — small talk
+- Thanking someone for a gift (movie ticket) and discussing plans
 
 ---
 
@@ -1044,6 +1069,9 @@ Topics that appear in actual tests but aren't always in textbooks:
 - Practice phone conversation format (can't see the other person)
 - **Fill the entire 2 minutes for mielipide opinion** — keep talking even if you run out of prepared points; add examples, rephrase, or address counterarguments
 - Listening is reported as the hardest section by most test-takers — it uses natural speech speed with slang and colloquial forms
+- **"Cascade failure" prevention:** If you miss a question in listening, immediately pivot to the next — don't dwell
+- **Sound quality gap:** Test recordings use "sloppy" natural speech with elided vowels and regional accents — practice with podcasts and radio, not just textbook audio
+- **Kielistudio chaos:** 20+ candidates speak simultaneously — practice speaking with background noise (e.g., radio playing) to simulate
 
 ### Writing
 - Write as much as possible — too much is better than too little
@@ -1233,9 +1261,11 @@ Essential vocabulary for content generation and practice, organized by OPH theme
 - sairausloma → sick leave, sairauslomatodistus → sick leave certificate
 - terveyskeskus → health center, työterveys → occupational health, vointi → condition
 - terveellinen → healthy, liikunta → exercise, hyvinvointi → well-being
+- päivystys → emergency services, ajanvaraus → appointment booking, rokotus → vaccination
+- neuvola → child health clinic, terveydenhoitaja → public health nurse, huimaus → dizziness
 
 ### G) Work (Työ ja koulutus)
-- työsopimus → employment contract, työvuoro → shift, palkka → salary
+- työsopimus → employment contract, työvuoro → shift, palkka → salary, lomaraha → holiday bonus
 - työhaastattelu → job interview, työhakemus → job application, ansioluettelo → CV
 - osaaminen → competence, määräaikainen → fixed-term, irtisanoutua → resign
 - esimies → supervisor, etätyö → remote work, työaika → working hours
@@ -1249,8 +1279,10 @@ Essential vocabulary for content generation and practice, organized by OPH theme
 ### I) Society (Yhteiskunta)
 - viranomainen → authority, hakemus → application, kansalaisuus → citizenship
 - oikeus → right, velvollisuus → obligation, verotus → taxation
-- äänestys → voting, uutiset → news, tasa-arvo → equality
+- äänestys/äänestäminen → voting, uutiset → news, tasa-arvo → equality
 - lastenhoito → childcare, kotitalous → household
+- mielenosoitus → protest/demonstration, ympäristönsuojelu → environmental protection
+- huoltomies → maintenance man, lomake → form, maksulinkki → payment link
 
 ### Functional Phrase Clusters (High-Frequency Exam Moves)
 

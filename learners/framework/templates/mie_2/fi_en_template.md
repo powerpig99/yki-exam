@@ -1,61 +1,61 @@
-#### mie_2 — Mielipide: Yhteiskunta ja tasa-arvo
+#### mie_2 — Mielipide: Yhteiskunta ja koulutus
 **Learner role:** B
-**Non-learner gender:** female
-**FI Konteksti:** Sinun pitää kertoa mielipiteesi eri aiheista, jotka liittyvät yhteiskuntaan, tasa-arvoon ja palveluihin. Haastattelija esittää väittämiä ja kysymyksiä.
-**EN Context:** You need to share your opinion on various topics related to society, equality, and services. The interviewer presents statements and questions.
+**Non-learner gender:** male
+**FI Konteksti:** Sinun pitää kertoa mielipiteesi eri aiheista, jotka liittyvät yhteiskuntaan ja koulutukseen. Pekka esittää väittämiä ja kysymyksiä.
+**EN Context:** You need to share your opinion on various topics related to society and education. Pekka presents statements and questions.
 
 **FI Koko mallidialogi:**
-- **A**: Aloitetaan ensimmäisestä aiheesta. Onko Suomessa tarpeeksi kauppakeskuksia? Mitä mieltä olet kauppakeskusten määrästä ja niiden merkityksestä?
+- **A**: Aloitetaan ensimmäisestä aiheesta. Koulutus kannattaa aina. Oletko samaa mieltä vai eri mieltä? Mikä on koulutuksen merkitys elämässä?
 - **B**: <!-- LEARNER -->
 
-- **A**: Seuraava aihe. Pitäisikö pyöräily- ja kävelyreittejä lisätä autoilun vähentämiseksi? Mitä mieltä olet liikennejärjestelyistä?
+- **A**: Seuraava aihe. Ovatko naiset ja miehet tasa-arvoisia työelämässä? Miten tasa-arvo näkyy sinun kokemuksessasi?
 - **B**: <!-- LEARNER -->
 
-- **A**: Entä tämä väite. Miehet ja naiset ovat tasa-arvoisia työelämässä. Oletko samaa mieltä vai eri mieltä? Millaisia kokemuksia sinulla on?
+- **A**: Entä tämä. Lapset kotihoidossa vai päiväkodissa, kumpi on parempi? Mitä hyötyjä ja haittoja näet molemmissa?
 - **B**: <!-- LEARNER -->
 
-- **A**: Mikä on paras lastenhoitomuoto, koti vai päiväkoti? Mitä mieltä olet lasten päivähoidosta?
+- **A**: Pitäisikö lasten saada taskurahaa kotitöistä? Miten lasten pitäisi oppia rahan käyttöä?
 - **B**: <!-- LEARNER -->
 
-- **A**: Kiire on nykyajan suuri ongelma. Oletko samaa mieltä? Miten kiirettä voisi vähentää?
+- **A**: Lisääntyykö rikollisuus maailmassa? Oletko samaa mieltä vai eri mieltä ja miksi?
 - **B**: <!-- LEARNER -->
 
-- **A**: Ovatko elintarvikkeet Suomessa liian kalliita? Mitä mieltä olet ruoan hinnasta Suomessa?
+- **A**: Raha ei ole tärkein asia elämässä. Mitä mieltä olet? Mikä on tärkeämpää kuin raha?
 - **B**: <!-- LEARNER -->
 
-- **A**: Pitäisikö tupakkatuotteiden näkyvyyttä kaupoissa rajoittaa? Mitä mieltä olet tupakointiin liittyvistä rajoituksista?
+- **A**: Etätyön hyvät ja huonot puolet. Onko etätyö mielestäsi hyvä vai huono asia työelämälle?
 - **B**: <!-- LEARNER -->
 
-- **A**: Kesämökki on paras paikka viettää aikaa. Oletko samaa mieltä vai eri mieltä? Mitä mieltä olet mökkikulttuurista?
+- **A**: Onko liikunta paras lääke? Mitä mieltä olet liikunnan merkityksestä terveydelle?
 - **B**: <!-- LEARNER -->
 
-- **A**: Viimeinen aihe. Miten sosiaalinen media vaikuttaa elämäämme? Onko vaikutus enimmäkseen hyvä vai huono?
+- **A**: Viimeinen aihe. Älypuhelinriippuvuus on yhteiskunnallinen ongelma. Oletko samaa mieltä? Miten puhelimen käyttöä pitäisi rajoittaa?
 - **B**: <!-- LEARNER -->
 
 **EN Full sample dialogue:**
-- **A**: Let's start with the first topic. Are there enough shopping centers in Finland? What do you think about the number of shopping centers and their importance?
+- **A**: Let's start with the first topic. Education is always worthwhile. Do you agree or disagree? What is the importance of education in life?
 - **B**: <!-- LEARNER -->
 
-- **A**: Next topic. Should cycling and walking routes be increased to reduce driving? What do you think about traffic arrangements?
+- **A**: Next topic. Are women and men equal in working life? How does equality show in your experience?
 - **B**: <!-- LEARNER -->
 
-- **A**: How about this claim. Men and women are equal in working life. Do you agree or disagree? What kind of experiences do you have?
+- **A**: How about this. Children in home care or daycare, which is better? What benefits and drawbacks do you see in both?
 - **B**: <!-- LEARNER -->
 
-- **A**: What is the best form of childcare, home or daycare? What do you think about children's daycare?
+- **A**: Should children get pocket money for doing chores? How should children learn to use money?
 - **B**: <!-- LEARNER -->
 
-- **A**: Busyness is a big problem of modern times. Do you agree? How could busyness be reduced?
+- **A**: Is crime increasing globally? Do you agree or disagree and why?
 - **B**: <!-- LEARNER -->
 
-- **A**: Are food products too expensive in Finland? What do you think about the price of food in Finland?
+- **A**: Money is not the most important thing in life. What do you think? What is more important than money?
 - **B**: <!-- LEARNER -->
 
-- **A**: Should the visibility of tobacco products in shops be restricted? What do you think about smoking-related restrictions?
+- **A**: The pros and cons of remote work. Do you think remote work is a good or bad thing for working life?
 - **B**: <!-- LEARNER -->
 
-- **A**: A summer cottage is the best place to spend time. Do you agree or disagree? What do you think about cottage culture?
+- **A**: Is exercise the best medicine? What do you think about the importance of exercise for health?
 - **B**: <!-- LEARNER -->
 
-- **A**: Last topic. How does social media affect our lives? Is the effect mostly good or bad?
+- **A**: Last topic. Smartphone addiction is a societal problem. Do you agree? How should phone use be limited?
 - **B**: <!-- LEARNER -->

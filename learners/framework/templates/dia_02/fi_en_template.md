@@ -1,37 +1,41 @@
-#### dia_02 — Taloyhtiö board meeting issue — renovation plans and parking
+#### dia_02 — Complaining about broken heating to the property manager
 **Learner role:** A
-**Non-learner gender:** female
-**FI Konteksti:** Osallistut taloyhtiön hallituksen kokoukseen ja keskustelet tulevista remonteista ja pysäköintijärjestelyistä.
-**EN Context:** You attend a housing company board meeting and discuss upcoming renovations and parking arrangements.
+**Non-learner gender:** male
+**FI Konteksti:** Soitat isännöitsijälle ja valitat asunnon rikkinäisestä lämmityksestä.
+**EN Context:** You call the property manager to complain about broken heating in your apartment.
 
 **FI Koko mallidialogi:**
-- **A**: <!-- LEARNER: open the meeting, say you want to discuss the pipe renovation plan and the parking problem -->
-- **B**: Joo, hyvä että otit nämä esille. Isännöitsijä sai kolme tarjousta putkistoremontista. Halvin on kolmesataatuhatta ja kallein neljäsataakaksikymmentätuhatta euroa.
-- **A**: <!-- LEARNER: ask how the renovation would be financed and how long it would take -->
-- **B**: Rahoitus hoidettaisiin taloyhtiölainalla neliöiden mukaan. Arvio on kolme kuukautta per rappukäytävä. Asukkaiden pitää muuttaa pois kolmeksi viikoksi kylpyhuoneremontin ajaksi.
-- **A**: <!-- LEARNER: express concern about elderly residents, ask if there is moving help available for them -->
-- **B**: Me voidaan järjestää muuttoapua. Isännöitsijä on jo keskustellut paikallisen muuttofirman kanssa. Taloyhtiö järjestää myös väliaikaisasuntoja.
-- **A**: <!-- LEARNER: move to parking topic — say residents have complained about visitors taking resident parking spots -->
-- **B**: Niin, varsinkin iltaisin on ollut ongelmia. Yks vaihtoehto on puomijärjestelmä, joka maksaa noin viisituhatta euroa asennettuna.
-- **A**: <!-- LEARNER: suggest also looking into electric car charging stations at the same time -->
-- **B**: Se on hyvä ajatus. Voidaan hakea ARA:n avustusta energiaremontteihin. Mä selvitän molemmat ja laitan ne yhtiökokouksen listalle.
-- **A**: <!-- LEARNER: ask when the annual meeting is and what kind of vote is needed -->
-- **B**: Yhtiökokous on huhtikuun kolmannella viikolla. Tarvitaan enemmistöpäätös molemmista. Mä pyydän isännöitsijää valmistelemaan materiaalit.
-- **A**: <!-- LEARNER: suggest sending a notice to all residents about the upcoming topics, thank Sanna -->
-- **B**: Hyvä idea, mä hoidan tiedotteen ensi viikolla. Kiitos {NIMI}, hyvä kokous!
+- **A**: <!-- LEARNER: greet, introduce self as a resident at the building address, say calling about a heating problem -->
+- **B**: Hei, täällä Antti Korhonen, isännöitsijätoimisto Kiinteistöhuolto Oy. Kerro tarkemmin, mikä tilanne on?
+- **A**: <!-- LEARNER: explain that radiators in the bedroom and living room have been cold for three days, the apartment temperature is only 16 degrees -->
+- **B**: Okei, se kuulostaa vakavalta. Onko patterien termostaatit auki? Joskus ne jumittuu kiinni-asentoon.
+- **A**: <!-- LEARNER: say yes, checked the thermostats and they are fully open, also tried bleeding the radiators but no change -->
+- **B**: Selvä, sä oot tehny ihan oikeat toimenpiteet. Mä laitan huoltoyhtiölle kiireellisen työmääräyksen. Putkimies tulee viimeistään huomenna aamupäivällä.
+- **A**: <!-- LEARNER: ask if there is anything else you can do in the meantime — it is very cold at night -->
+- **B**: Mä ymmärrän. Huoltoyhtiöltä voi kysyä sähkölämmitintä lainaan siksi aikaa. Mä soitan niille heti ja pyydän tuomaan yhden sulle.
+- **A**: <!-- LEARNER: thank Antti, ask who will pay the extra electricity cost from the heater -->
+- **B**: Taloyhtiö korvaa sähkökustannukset tällaisissa tapauksissa. Pidä lasku tallessa niin hyvitetään se seuraavassa vastikkeessa.
+- **A**: <!-- LEARNER: ask how long the repair usually takes and if this is a wider problem in the building -->
+- **B**: Yleensä patteriongelma korjautuu parissa tunnissa. Mutta mä tarkistan onko muiltakin asukkailta tullut ilmoituksia. Jos ongelma on koko talossa, voi olla kyse kaukolämpöhäiriöstä.
+- **A**: <!-- LEARNER: ask if Antti will inform you about what was wrong after the repair -->
+- **B**: Totta kai. Mä pyydän putkimiestä raportoimaan ja laitan sulle viestiä heti kun tiedän enemmän. Onko sun sähköposti paras tapa tavoittaa?
+- **A**: <!-- LEARNER: confirm email is best, give thanks again, say goodbye -->
+- **B**: Selvä, {NIMI}. Mä hoidan tän eteenpäin. Pahoittelut häiriöstä. Hei hei!
 
 **EN Full sample dialogue:**
-- **A**: <!-- LEARNER: open the meeting, say you want to discuss the pipe renovation plan and the parking problem -->
-- **B**: Yes, good that you brought these up. The property manager received three quotes for the pipe renovation. The cheapest is 300,000 and the most expensive 420,000 euros.
-- **A**: <!-- LEARNER: ask how the renovation would be financed and how long it would take -->
-- **B**: Financing would be through a housing company loan divided by square meters. The estimate is three months per stairwell. Residents need to move out for three weeks during the bathroom renovation.
-- **A**: <!-- LEARNER: express concern about elderly residents, ask if there is moving help available for them -->
-- **B**: We can arrange moving help. The property manager has already discussed with a local moving company. The housing company will also arrange temporary apartments.
-- **A**: <!-- LEARNER: move to parking topic — say residents have complained about visitors taking resident parking spots -->
-- **B**: Yes, especially in the evenings it has been a problem. One option is a barrier system, which costs about 5000 euros installed.
-- **A**: <!-- LEARNER: suggest also looking into electric car charging stations at the same time -->
-- **B**: That's a good idea. We can apply for ARA subsidies for energy renovations. I'll look into both and add them to the annual meeting agenda.
-- **A**: <!-- LEARNER: ask when the annual meeting is and what kind of vote is needed -->
-- **B**: The annual meeting is the third week of April. We need a majority decision on both. I'll ask the property manager to prepare materials.
-- **A**: <!-- LEARNER: suggest sending a notice to all residents about the upcoming topics, thank Sanna -->
-- **B**: Good idea, I'll take care of the notice next week. Thanks {NAME}, good meeting!
+- **A**: <!-- LEARNER: greet, introduce self as a resident at the building address, say calling about a heating problem -->
+- **B**: Hi, this is Antti Korhonen from property management company Kiinteistöhuolto Oy. Tell me more, what's the situation?
+- **A**: <!-- LEARNER: explain that radiators in the bedroom and living room have been cold for three days, the apartment temperature is only 16 degrees -->
+- **B**: Okay, that sounds serious. Are the radiator thermostats open? Sometimes they get stuck in the closed position.
+- **A**: <!-- LEARNER: say yes, checked the thermostats and they are fully open, also tried bleeding the radiators but no change -->
+- **B**: Alright, you've done the right things. I'll put in an urgent work order for the maintenance company. A plumber will come by tomorrow morning at the latest.
+- **A**: <!-- LEARNER: ask if there is anything else you can do in the meantime — it is very cold at night -->
+- **B**: I understand. You can ask the maintenance company for a portable electric heater to borrow in the meantime. I'll call them right away and ask them to bring one to you.
+- **A**: <!-- LEARNER: thank Antti, ask who will pay the extra electricity cost from the heater -->
+- **B**: The housing company will cover the electricity costs in cases like this. Keep the bill and it will be credited in your next maintenance charge.
+- **A**: <!-- LEARNER: ask how long the repair usually takes and if this is a wider problem in the building -->
+- **B**: Usually a radiator problem is fixed in a couple of hours. But I'll check if other residents have also reported issues. If the problem is building-wide, it could be a district heating disruption.
+- **A**: <!-- LEARNER: ask if Antti will inform you about what was wrong after the repair -->
+- **B**: Of course. I'll ask the plumber to report back and I'll message you as soon as I know more. Is your email the best way to reach you?
+- **A**: <!-- LEARNER: confirm email is best, give thanks again, say goodbye -->
+- **B**: Alright, {NAME}. I'll take care of this. Sorry for the inconvenience. Bye bye!

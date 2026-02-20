@@ -1,41 +1,43 @@
-#### dia_27 — Noise complaint to neighbor
-**Learner role:** A
+#### dia_27 — Complaining to dry cleaner about damage to expensive coat
+**Learner role:** B
 **Non-learner gender:** female
-**FI Konteksti:** Puhut naapurille yöllisestä melusta ja yrität löytää yhteisen ratkaisun.
-**EN Context:** You talk to your neighbor about nighttime noise and try to find a solution together.
+**FI Konteksti:** Reklamoit pesulaan kalliiseen takkiin tulleesta vauriosta.
+**EN Context:** You complain to the dry cleaner about damage to your expensive coat.
 
 **FI Koko mallidialogi:**
-- **A**: <!-- LEARNER: greet neighbor politely, say you'd like to talk about something, ask if this is a good time -->
-- **B**: Hei, joo totta kai. Tuleeko jotain ongelmaa?
-- **A**: <!-- LEARNER: explain that there's been loud music from their apartment late at night, especially last Friday and Saturday until past midnight -->
-- **B**: Ai, anteeksi. Meillä oli viikonloppuna ystäviä kylässä ja ilta venyi vähän pitkäksi. En tajunnut, että se kuuluu noin hyvin.
-- **A**: <!-- LEARNER: say you understand having guests, but the bass from the music makes your walls vibrate and it's hard to sleep -->
-- **B**: Voi harmi. Nää vanhat talot on kyllä sellasia, että äänet kuuluu helposti. Mä en oo tajunnut, että basso menee noin läpi.
-- **A**: <!-- LEARNER: ask if they could keep music lower after 10 PM on weekdays and 11 PM on weekends, mention the building's noise rules -->
-- **B**: Joo, se on ihan reilua. Mä tiedän, että taloyhtiön järjestyssäännöissä on se hiljasuusaika kymmenestä iltapäivällä seitsemään aamulla. Mä lupaan pitää tarkemmin huolta siitä.
-- **A**: <!-- LEARNER: thank them, suggest that if they're planning a party they could let you know in advance -->
-- **B**: Hyvä idea. Mä voin laittaa sulle viestiä etukäteen, niin tiedät varautua. Ja jos melu häiritsee, niin tuu vaan koputtelemaan ovelle, niin mä hiljennän heti.
-- **A**: <!-- LEARNER: appreciate their attitude, say you don't want to be difficult, you just need to sleep because of early work mornings -->
-- **B**: Ei se oo mitenkään vaikeeta. Mäkin herään aikaisin arkisin, niin ymmärrän hyvin. Mä laitan bluetoothkuulokkeet illalla, niin basso ei tuu seinien läpi.
-- **A**: <!-- LEARNER: say that sounds like a great solution, mention you sometimes also make noise when vacuuming on weekend mornings and apologize for that -->
-- **B**: Haha, joo mä oon kuullut imurin, mutta se ei oo häirinnyt. Päivisin äänet on ihan normaalia elämää. Kunhan yöllä on rauhallista, niin kaikki on hyvin.
-- **A**: <!-- LEARNER: agree, say it's nice to have a reasonable neighbor, wish good evening -->
-- **B**: Samoin, kiitos kun tulit juttelemaan suoraan. Se on paljon parempi kuin se, että tekisi valituksen isännöitsijälle. Hyvää iltaa!
+- **A**: Pikapesu-pesula, Katja hei. Miten voin auttaa?
+- **B**: <!-- LEARNER: greet, say you picked up your wool coat yesterday and noticed a large stain and the fabric looks damaged near the collar -->
+- **A**: Voi ei, ikävä kuulla. Onko sulla kuitti mukana ja muistatko milloin toit takin meille?
+- **B**: <!-- LEARNER: say you brought it in last Monday, show the receipt, say the coat was in perfect condition before cleaning -->
+- **A**: Mä katson. Joo, tässä on merkintynä villakangastakki, normaali kemiallinen pesu. Näytätkö mulle, missä kohtaa vaurio on?
+- **B**: <!-- LEARNER: show the collar area, point out the discoloration and that the fabric feels rough and shrunken, say the coat cost four hundred euros -->
+- **A**: Mä näen kyllä. Se näyttää siltä, että pesuaine on reagoinut kankaan kanssa. Tää ei ois pitänyt tapahtua normaalissa pesussa. Mä pahoittelen todella paljon.
+- **B**: <!-- LEARNER: ask what they can do about it — can the damage be fixed or do you get compensation -->
+- **A**: Mä voin ensin kokeilla erikoiskäsittelyä, jolla saadaan joskus värivirheet korjattua. Se kestää pari päivää. Jos se ei auta, niin tehdään korvausselvitys.
+- **B**: <!-- LEARNER: ask what the compensation process looks like and how much they typically cover -->
+- **A**: Pesuloilla on vastuuvakuutus tällaisia tapauksia varten. Meidän vakuutus kattaa vaatteen käyvän arvon. Uutta vaatetta emme voi korvata, mutta käyvän arvon perusteella korvataan. Tarvitaan alkuperäinen ostokuitti tai muu todiste hinnasta.
+- **B**: <!-- LEARNER: say you have the original receipt from the clothing store, ask how long the process takes and whether to try the special treatment first -->
+- **A**: Hyvä. Mä suosittelen, että kokeillaan ensin erikoiskäsittely, se on sulle ilmainen. Jos se ei toimi, jatketaan suoraan vakuutukseen, joka kestää yleensä kaksi neljä viikkoa. Mä teen reklamaatiolipukkeen tässä nyt ja laitan kuvat vauriosta liitteeksi. Mä soitan sulle keskiviikkona tuloksesta.
+- **B**: <!-- LEARNER: agree, ask Katja to be careful with the treatment so it doesn't cause more damage -->
+- **A**: Ehdottomasti, mä käsittelen sen itse käsin. Tässä on reklamaatiolipuke, laita siihen allekirjoitus ja puhelinnumero.
+- **B**: <!-- LEARNER: sign the form, thank Katja, say you expect to hear from her Wednesday, say goodbye -->
+- **A**: Kiitos ymmärryksestä, {NIMI}. Mä soitan sulle heti kun tiedän enemmän. Anteeksi tästä ja hei hei!
 
 **EN Full sample dialogue:**
-- **A**: <!-- LEARNER: greet neighbor politely, say you'd like to talk about something, ask if this is a good time -->
-- **B**: Hi, yeah of course. Is there some problem?
-- **A**: <!-- LEARNER: explain that there's been loud music from their apartment late at night, especially last Friday and Saturday until past midnight -->
-- **B**: Oh, sorry. We had friends over on the weekend and the evening went on a bit too long. I didn't realize it was that loud.
-- **A**: <!-- LEARNER: say you understand having guests, but the bass from the music makes your walls vibrate and it's hard to sleep -->
-- **B**: Oh no. These old buildings are like that, sounds carry easily. I didn't realize the bass goes through that much.
-- **A**: <!-- LEARNER: ask if they could keep music lower after 10 PM on weekdays and 11 PM on weekends, mention the building's noise rules -->
-- **B**: Yeah, that's totally fair. I know the housing company's rules have a quiet period from 10 PM to 7 AM. I promise to be more careful about that.
-- **A**: <!-- LEARNER: thank them, suggest that if they're planning a party they could let you know in advance -->
-- **B**: Good idea. I can message you in advance so you know to prepare. And if the noise bothers you, just come knock on my door and I'll turn it down right away.
-- **A**: <!-- LEARNER: appreciate their attitude, say you don't want to be difficult, you just need to sleep because of early work mornings -->
-- **B**: It's no trouble at all. I also get up early on weekdays, so I totally understand. I'll put on Bluetooth headphones in the evening so the bass doesn't come through the walls.
-- **A**: <!-- LEARNER: say that sounds like a great solution, mention you sometimes also make noise when vacuuming on weekend mornings and apologize for that -->
-- **B**: Haha, yeah I've heard the vacuum, but it hasn't bothered me. During the day sounds are just normal life. As long as it's quiet at night, everything's fine.
-- **A**: <!-- LEARNER: agree, say it's nice to have a reasonable neighbor, wish good evening -->
-- **B**: Likewise, thanks for coming to talk directly. That's much better than making a complaint to the property manager. Good evening!
+- **A**: Pikapesu dry cleaner, Katja speaking. How can I help?
+- **B**: <!-- LEARNER: greet, say you picked up your wool coat yesterday and noticed a large stain and the fabric looks damaged near the collar -->
+- **A**: Oh no, sorry to hear that. Do you have the receipt with you, and do you remember when you brought the coat in?
+- **B**: <!-- LEARNER: say you brought it in last Monday, show the receipt, say the coat was in perfect condition before cleaning -->
+- **A**: Let me check. Yes, it's listed as a wool coat, standard dry cleaning. Can you show me where the damage is?
+- **B**: <!-- LEARNER: show the collar area, point out the discoloration and that the fabric feels rough and shrunken, say the coat cost four hundred euros -->
+- **A**: I can see it. It looks like the cleaning agent reacted with the fabric. This shouldn't have happened in a normal wash. I'm really sorry.
+- **B**: <!-- LEARNER: ask what they can do about it — can the damage be fixed or do you get compensation -->
+- **A**: I can first try a special treatment that sometimes corrects color issues. It takes a couple of days. If that doesn't help, we'll start a compensation claim.
+- **B**: <!-- LEARNER: ask what the compensation process looks like and how much they typically cover -->
+- **A**: Dry cleaners have liability insurance for cases like this. Our insurance covers the current value of the garment. We can't replace it as new, but compensation is based on current value. We'll need the original purchase receipt or other proof of price.
+- **B**: <!-- LEARNER: say you have the original receipt from the clothing store, ask how long the process takes and whether to try the special treatment first -->
+- **A**: Good. I recommend trying the special treatment first, it's free for you. If it doesn't work, we'll go straight to insurance, which usually takes 2 to 4 weeks. I'll fill in the complaint form right now and attach photos of the damage. I'll call you Wednesday about the result.
+- **B**: <!-- LEARNER: agree, ask Katja to be careful with the treatment so it doesn't cause more damage -->
+- **A**: Absolutely, I'll treat it by hand myself. Here's the complaint form, put your signature and phone number on it.
+- **B**: <!-- LEARNER: sign the form, thank Katja, say you expect to hear from her Wednesday, say goodbye -->
+- **A**: Thanks for your understanding, {NAME}. I'll call you as soon as I know more. Sorry about this and bye bye!

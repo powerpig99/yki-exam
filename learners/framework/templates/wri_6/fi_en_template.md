@@ -1,31 +1,25 @@
-#### wri_6 — Kirjoittaminen: Ystävät ja asumisympäristö
+#### wri_6 — Kirjoittaminen: Perhe ja yhteisö
 **Learner role:** B
 **Non-learner gender:** female
-**FI Konteksti:** Kirjoita erilaisia tekstejä ystäviin ja asumisympäristöön liittyvistä aiheista.
-**EN Context:** Write various texts on friends and living environment topics.
+**FI Konteksti:** Kirjoita erilaisia tekstejä perheeseen ja yhteisöön liittyvistä aiheista.
+**EN Context:** Write various texts on family and community topics.
 
 **FI Koko mallidialogi:**
-- **A**: Tehtävä yksi, viesti ystävälle. Haluat ehdottaa ystävällesi yhteistä aktiviteettia viikonlopuksi. Kirjoita hänelle viesti, jossa ehdotat mitä voisitte tehdä yhdessä, kerrot miksi se olisi hauskaa ja ehdotat aikaa ja paikkaa.
+- **A**: Tehtävä yksi, viesti naapurille. Naapurisi Hanna auttoi sinua muutossa viime viikonloppuna. Kirjoita hänelle viesti, jossa kiität avusta, kerrot miten muutto sujui ja ehdotat, että kutsuisit hänet kahville kiitokseksi.
 - **B**: <!-- LEARNER -->
-
-- **A**: Tehtävä kaksi, sähköposti taloyhtiön hallitukselle. Taloyhtiösi piha-alue on huonossa kunnossa. Kirjoita taloyhtiön hallitukselle virallinen sähköposti, jossa kuvaat ongelmat tarkasti, selität miten ne vaikuttavat asukkaiden arkeen ja ehdotat konkreettisia parannustoimia.
+- **A**: Tehtävä kaksi, viesti koululle. Lapsesi on sairas eikä voi tulla kouluun tällä viikolla. Kirjoita opettajalle virallinen viesti, jossa kerrot poissaolon syyn, arvioit kuinka monta päivää lapsi on poissa ja pyydät lähettämään kotiin tehtävät ja läksyt, jotta lapsi ei jää jälkeen opinnoissa.
 - **B**: <!-- LEARNER -->
-
-- **A**: Tehtävä kolme, mielipide A. Miten sosiaalinen media vaikuttaa elämäämme? Onko se enemmän hyödyllistä vai haitallista? Kirjoita mielipiteesi ja perustele se.
+- **A**: Tehtävä kolme, mielipide A. Lapset oppivat vastuullisuutta tekemällä kotitöitä. Kirjoita mielipiteesi ja perustele se.
 - **B**: <!-- LEARNER -->
-
-- **A**: Tehtävä kolme, mielipide B. Pitäisikö pyöräily- ja kävelyreittejä lisätä kaupungeissa autoilun vähentämiseksi? Kirjoita mielipiteesi ja perustele se.
+- **A**: Tehtävä kolme, mielipide B. Lasten pitäisi keskittyä kouluun eikä kotitöihin. Kirjoita mielipiteesi ja perustele se.
 - **B**: <!-- LEARNER -->
 
 **EN Full sample dialogue:**
-- **A**: Task one, message to a friend. You want to suggest a shared activity for the weekend. Write a message to your friend proposing what you could do together, explaining why it would be fun, and suggesting a time and place.
+- **A**: Task one, message to a neighbor. Your neighbor Hanna helped you move last weekend. Write her a message thanking her for the help, telling how the move went, and suggesting that you would like to invite her over for coffee as a thank-you.
 - **B**: <!-- LEARNER -->
-
-- **A**: Task two, email to the housing company board. The yard area of your housing company is in poor condition. Write a formal email to the board describing the problems in detail, explaining how they affect residents' daily life, and proposing specific improvements.
+- **A**: Task two, message to school. Your child is sick and cannot come to school this week. Write a formal message to the teacher explaining the reason for the absence, estimating how many days the child will be away, and requesting that homework and assignments be sent home so the child does not fall behind in studies.
 - **B**: <!-- LEARNER -->
-
-- **A**: Task three, opinion A. How does social media affect our lives? Is it more beneficial or harmful? Write your opinion and justify it.
+- **A**: Task three, opinion A. Children learn responsibility by doing household chores. Write your opinion and justify it.
 - **B**: <!-- LEARNER -->
-
-- **A**: Task three, opinion B. Should cycling and walking routes be expanded in cities to reduce car traffic? Write your opinion and justify it.
+- **A**: Task three, opinion B. Children should focus on school rather than household chores. Write your opinion and justify it.
 - **B**: <!-- LEARNER -->

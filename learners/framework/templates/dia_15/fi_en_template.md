@@ -1,41 +1,43 @@
-#### dia_15 — Calling school about child's absence
-**Learner role:** A
+#### dia_15 — Calling school nurse about child's food allergy and lunch arrangements
+**Learner role:** B
 **Non-learner gender:** female
-**FI Konteksti:** Soitat lapsesi kouluun ja ilmoitat lapsen poissaolosta sairauden takia sekä kysyt läksyistä ja kokeista.
-**EN Context:** You call your child's school to report an absence due to illness and ask about homework and exams.
+**FI Konteksti:** Soitat koulun terveydenhoitajalle ja keskustelet lapsesi ruoka-allergiasta ja kouluruokailun järjestelyistä.
+**EN Context:** You call the school nurse and discuss your child's food allergy and school lunch arrangements.
 
 **FI Koko mallidialogi:**
-- **A**: <!-- LEARNER: greet, introduce self as parent, say child is sick today and cannot come to school -->
-- **B**: Hei! Mä olen Hanna, koulun sihteeri. Ikävä kuulla. Mikä lapsellasi on?
-- **A**: <!-- LEARNER: explain child has high fever and sore throat, doctor said it could be strep, needs to stay home at least three days -->
-- **B**: Selvä, mä merkitsen poissaolon järjestelmään. Kolmen päivän poissaoloon riittää vanhemman ilmoitus Wilmassa. Jos poissaolo jatkuu yli kolme päivää, tarvitaan lääkärintodistus.
-- **A**: <!-- LEARNER: ask how to submit the absence in Wilma, say not sure about the process -->
-- **B**: Menet Wilmaan ja valitset poissaoloilmoitukset. Siellä on lomake, johon kirjoitat syyn ja päivämäärät. Luokanvalvoja hyväksyy ilmoituksen.
-- **A**: <!-- LEARNER: thank, ask about homework child will miss — are there assignments due this week -->
-- **B**: Tällä viikolla on matikan tehtävät sivut neljäkymmentäkuusi ja neljäkymmentäseitsemän ja äidinkielen lukupäiväkirja pitää palauttaa perjantaihin mennessä. Mä pyydän opettajia laittamaan tarkat ohjeet Wilmaan.
-- **A**: <!-- LEARNER: ask if there are any exams this week that child will miss -->
-- **B**: Huomenna keskiviikkona on englannin sanakoe. Jos lapsi on vielä poissa, sanakoe siirtyy automaattisesti seuraavalle viikolle. Luokanvalvoja järjestää uuden ajan.
-- **A**: <!-- LEARNER: say that's a relief, ask if child can follow lessons from home somehow -->
-- **B**: Kyllä. Opettajat laittavat tehtävät ja materiaalit Wilmaan joka päivä. Jotkut opettajat käyttävät myös Google Classroomia. Tunnukset löytyvät Wilmasta.
-- **A**: <!-- LEARNER: ask if school nurse should be informed or if child needs anything when returning -->
-- **B**: Hyvä kysymys. Jos lapsella on antibioottikuuri, ilmoita siitä terveydenhoitajalle Wilmassa. Lapsi voi palata kouluun, kun hän on ollut kuumeeton vuorokauden.
-- **A**: <!-- LEARNER: thank for all the information, say will submit absence in Wilma right away -->
-- **B**: Ole hyvä! Toivottavasti lapsi paranee pian. Jos sinulla on lisäkysymyksiä, soita tai laita viesti Wilmaan. Pikaista paranemista!
+- **A**: Koulun terveydenhuolto, Hanna puhelimessa. Miten voin auttaa?
+- **B**: <!-- LEARNER: greet, introduce self as parent, say child is starting first grade in August and has a serious nut allergy -->
+- **A**: Hei! Kiitos kun soitit ajoissa. Pähkinäallergia on tärkeä asia. Onko allergia lääkärin diagnosoima ja onko teillä todistus siitä?
+- **B**: <!-- LEARNER: confirm, say doctor diagnosed it two years ago, have a certificate from allergist, ask where to send it -->
+- **A**: Hyvä. Todistuksen voi tuoda kouluun tai lähettää sähköpostilla osoitteeseen terveydenhoitaja@koulu.fi. Mä välitän tiedon keittiöön ja luokanopettajalle.
+- **B**: <!-- LEARNER: ask what the school kitchen can offer — is there a separate nut-free menu -->
+- **A**: Meidän koulukeittiö tekee erikoisruokavaliot joka päivä. Pähkinättömät annokset valmistetaan erikseen, ja ne tarjoillaan omalta linjastolta. Kaikki raaka-aineet on tarkistettu.
+- **B**: <!-- LEARNER: ask about snacks and birthday treats in class — how are those handled -->
+- **A**: Meidän koulussa on pähkinätön linja. Vanhempia pyydetään tuomaan vain pähkinättömiä herkkuja luokkaan. Opettaja tarkistaa aina etukäteen, mitä luokkaan tuodaan.
+- **B**: <!-- LEARNER: ask if child needs to carry an adrenaline pen at school and who is responsible -->
+- **A**: Kyllä, adrenaliinikyniä pidetään kahdessa paikassa: yksi lapsen repussa ja toinen terveydenhoitajan huoneessa. Kaikki opettajat koulutetaan käyttämään kynää lukuvuoden alussa.
+- **B**: <!-- LEARNER: ask about the emergency plan — what happens if child has a reaction at school -->
+- **A**: Meillä on kirjallinen toimintasuunnitelma jokaiselle allergialapselle. Se on luokan seinällä ja opettajanhuoneessa. Suunnitelma sisältää ohjeet: ensin annetaan adrenaliini, sitten soitetaan hätänumeroon.
+- **B**: <!-- LEARNER: feel reassured, ask if there is a meeting before school starts to go through everything -->
+- **A**: On. Elokuun alussa on tapaaminen, jossa on mukana terveydenhoitaja, luokanopettaja ja keittiön edustaja. Siinä käydään läpi kaikki käytännön asiat. Mä otan sinuun yhteyttä heinäkuussa.
+- **B**: <!-- LEARNER: thank Hanna, say feel much better now, say goodbye -->
+- **A**: Ole hyvä! Lapsesi on hyvissä käsissä. Soita milloin vaan, jos tulee lisäkysymyksiä. Mukavaa kevättä ja nähdään elokuussa!
 
 **EN Full sample dialogue:**
-- **A**: <!-- LEARNER: greet, introduce self as parent, say child is sick today and cannot come to school -->
-- **B**: Hi! I'm Hanna, the school secretary. Sorry to hear that. What's wrong with your child?
-- **A**: <!-- LEARNER: explain child has high fever and sore throat, doctor said it could be strep, needs to stay home at least three days -->
-- **B**: Alright, I'll record the absence in the system. For a three-day absence, a parent's notification in Wilma is sufficient. If the absence continues beyond three days, a doctor's certificate is needed.
-- **A**: <!-- LEARNER: ask how to submit the absence in Wilma, say not sure about the process -->
-- **B**: Go to Wilma and select absence notifications. There's a form where you write the reason and dates. The homeroom teacher will approve the notification.
-- **A**: <!-- LEARNER: thank, ask about homework child will miss — are there assignments due this week -->
-- **B**: This week there are math assignments on pages 46 and 47, and the Finnish language reading diary must be submitted by Friday. I'll ask the teachers to put the exact instructions on Wilma.
-- **A**: <!-- LEARNER: ask if there are any exams this week that child will miss -->
-- **B**: Tomorrow, Wednesday, there's an English vocabulary test. If the child is still absent, the test will automatically be moved to the following week. The homeroom teacher will arrange a new time.
-- **A**: <!-- LEARNER: say that's a relief, ask if child can follow lessons from home somehow -->
-- **B**: Yes. The teachers post assignments and materials on Wilma every day. Some teachers also use Google Classroom. The login credentials can be found on Wilma.
-- **A**: <!-- LEARNER: ask if school nurse should be informed or if child needs anything when returning -->
-- **B**: Good question. If the child is on antibiotics, notify the school nurse through Wilma. The child can return to school once they have been fever-free for twenty-four hours.
-- **A**: <!-- LEARNER: thank for all the information, say will submit absence in Wilma right away -->
-- **B**: You're welcome! Hopefully the child recovers soon. If you have more questions, call or send a message through Wilma. Wishing a speedy recovery!
+- **A**: School healthcare, Hanna speaking. How can I help?
+- **B**: <!-- LEARNER: greet, introduce self as parent, say child is starting first grade in August and has a serious nut allergy -->
+- **A**: Hi! Thank you for calling early. A nut allergy is an important matter. Has the allergy been diagnosed by a doctor and do you have a certificate for it?
+- **B**: <!-- LEARNER: confirm, say doctor diagnosed it two years ago, have a certificate from allergist, ask where to send it -->
+- **A**: Good. You can bring the certificate to the school or send it by email to terveydenhoitaja@koulu.fi. I'll pass the information to the kitchen and the classroom teacher.
+- **B**: <!-- LEARNER: ask what the school kitchen can offer — is there a separate nut-free menu -->
+- **A**: Our school kitchen prepares special diets every day. Nut-free portions are made separately and served from their own serving line. All ingredients are checked.
+- **B**: <!-- LEARNER: ask about snacks and birthday treats in class — how are those handled -->
+- **A**: Our school has a nut-free policy. Parents are asked to bring only nut-free treats to class. The teacher always checks in advance what is brought to the classroom.
+- **B**: <!-- LEARNER: ask if child needs to carry an adrenaline pen at school and who is responsible -->
+- **A**: Yes, adrenaline pens are kept in two places: one in the child's backpack and another in the nurse's office. All teachers are trained to use the pen at the beginning of the school year.
+- **B**: <!-- LEARNER: ask about the emergency plan — what happens if child has a reaction at school -->
+- **A**: We have a written action plan for every child with allergies. It's on the classroom wall and in the teachers' room. The plan includes instructions: first give adrenaline, then call the emergency number.
+- **B**: <!-- LEARNER: feel reassured, ask if there is a meeting before school starts to go through everything -->
+- **A**: Yes. At the beginning of August there's a meeting with the school nurse, classroom teacher, and a kitchen representative. It covers all practical matters. I'll contact you in July.
+- **B**: <!-- LEARNER: thank Hanna, say feel much better now, say goodbye -->
+- **A**: You're welcome! Your child is in good hands. Call anytime if you have more questions. Have a nice spring and see you in August!
