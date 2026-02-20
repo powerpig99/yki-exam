@@ -41,7 +41,7 @@ YKI_exam/
 │   │       ├── mie_01/ … mie_05/
 │   │       └── wri_01/ … wri_07/
 │   └── linh/                   # Sample learner: profile, plan, dialogues/
-└── dialog_practice/            # Supplementary practice materials
+└── .gitignore
 ```
 
 ## Pipeline Scripts
