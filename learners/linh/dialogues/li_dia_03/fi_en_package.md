@@ -1,40 +1,39 @@
-#### li_dia_03 — Naapurin kanssa
+#### li_dia_03 — Reporting water leak to maintenance company
 **Learner role:** B
-**FI Konteksti:** Naapuri tulee puhumaan rakennuksessa havaitusta vesivuodosta.
-**EN Context:** Your neighbor comes to talk about a water leak found in the building.
+**Non-learner gender:** female
+**FI Konteksti:** Soitat huoltoyhtiöön ilmoittaaksesi vesivuodosta asunnossasi ja sovit korjausajasta.
+**EN Context:** You call the maintenance company to report a water leak in your apartment and arrange a repair time.
 
 **FI Koko mallidialogi:**
-- **A**: Hei, mä olen Antti alakerran asunnosta. Onko sulla hetki aikaa? Mä huomasin jotain huolestuttavaa.
-- **B**: Hei Antti! Joo totta kai, tule sisään. Mikä on hätätilanne?
-- **A**: No ei varsinaisesti hätätilanne, mutta mä löysin kosteutta mun kylpyhuoneen katosta. Mä luulen, että vuoto tulee teidän asunnosta tai putkista siinä välissä.
-- **B**: Ai ei, se kuulostaa ikävältä. Mä en ole huomannut mitään vuotoa meidän kylpyhuoneessa. Milloin sä huomasit sen?
-- **A**: Eilen illalla. Katossa oli tumma läikkä ja se tuntui kostealta, kun mä koskin siihen. Aamulla se oli levinnyt vähän isommaksi.
-- **B**: Voi harmi. Mun täytyy heti tarkistaa meidän kylpyhuone. Haluatko tulla katsomaan, että löydetään mistä se tulee?
-- **A**: Joo, se olisi hyvä. Mutta mun mielestä meidän pitäis ilmoittaa myös taloyhtiön huoltoyhtiöön. Niillä on kamera, jolla ne voi tarkistaa putket.
-- **B**: Se on järkevää. Onko sulla huoltoyhtiön numero? Mulla on se jossain, mutta mä en löydä sitä nyt.
-- **A**: Joo, mulla on se puhelimessa. Numero on taloyhtiön ilmoitustaululla, mutta mä soitin niille viime kuussa toisesta asiasta. Mä voin soittaa nyt heti.
-- **B**: Kiitos, se olisi todella hyvä. Mä pelkään, että tämä pahenee, jos me odotetaan liian kauan.
-- **A**: Niin, kosteusvaurio leviää nopeasti. Mä soitan nyt ja pyydän kiireellisen tarkastuksen. Onko sulle sopivaa, että huoltomies tulee huomenna?
-- **B**: Huomenna sopii hyvin. Mä oon kotona aamulla, koska mun mies vie tytön päiväkotiin. Iltapäivällä mä olen töissä.
-- **A**: Okei, mä pyydän aamupäiväistä aikaa. Sitä ennen, voitko tarkistaa, onko teidän kylpyhuoneen lattia märkä jossakin kohdassa?
-- **B**: Mä käyn katsomassa heti. Jos mä löydän jotain, mä laitan sulle viestiä. Kiitos Antti, että tulit kertomaan tästä.
-- **A**: Eipä kestä. Taloyhtiön asukkaiden pitää auttaa toisiaan tällaisissa tilanteissa. Pidetään yhteyttä ja mä ilmoitan, mitä huoltoyhtiö sanoo.
-- **B**: Joo, kiitos paljon. Toivottavasti tämä saadaan korjattua nopeasti ennen kuin syntyy isompia vahinkoja.
+- **A**: Hei, Kiinteistöhuolto Oy, Tiina puhelimessa. Miten voin auttaa?
+- **B**: Hei, mä olen Päivi Nguyen, mä asun Leppäväärässä, Lintulahdenkatu kaksikymmentä A, kolme. Mulla on vuoto keittiön lavuaarin alla.
+- **A**: Selvä, minkälainen vuoto se on? Tuleeko vettä paljon vai tippuuko se hitaasti?
+- **B**: Vettä tippuu tasaisesti putkiliitoksesta. Mä olen laittanut ämpärin alle, mutta se pitää korjata.
+- **A**: Kuulostaa siltä, että liitos on löystynyt. Sulkuventtiili on yleensä tiskipöydän alla vasemmalla. Kääntäkää se kiinni myötäpäivään niin vesi lakkaa tulemasta.
+- **B**: Löysin venttiilin ja käänsin sen kiinni, vesi lakkasi. Milloin joku voi tulla korjaamaan sen?
+- **A**: Hyvä. Meillä on vapaata huomenna iltapäivällä kello kahden ja neljän välillä. Huoltomies käyttää yleisavainta mutta olkaa mielellään paikalla.
+- **B**: Mä olen kotona huomenna, mun mies vie tytön päiväkotiin aamulla ja mä jään kotiin. Kauanko korjaus kestää ja kuka maksaa?
+- **A**: Liitoksen korjaus vie noin puoli tuntia. Putkiston korjaus kuuluu taloyhtiölle, joten teille ei tule kustannuksia.
+- **B**: Pitääkö mun avata venttiili itse korjauksen jälkeen vai hoitaako huoltomies sen?
+- **A**: Huoltomies hoitaa sen. Älkää avatkaa venttiiliä itse ennen kuin korjaus on tehty.
+- **B**: Selvä. Alla olevassa kaapissa on pieni vesitahra. Mitä mun pitää tehdä mahdollisen kosteusvaurion kanssa?
+- **A**: Ottakaa valokuvia vahingoista ja ilmoittakaa isännöitsijälle. Isännöitsijä on Reijo Lahtinen, puhelin nolla viisi nolla nolla yhdeksän kahdeksan seitsemän kuusi. Hän hoitaa vakuutusasiat.
+- **B**: Nolla viisi nolla nolla, yhdeksän kahdeksan seitsemän kuusi, selvä. Kiitos Tiina, hei hei!
+- **A**: Juuri niin. Me tullaan huomenna kahden maissa. Hyvää päivän jatkoa!
 
 **EN Full sample dialogue:**
-- **A**: Hi, I'm Antti from the apartment downstairs. Do you have a moment? I noticed something worrying.
-- **B**: Hi Antti! Yes of course, come in. What's the emergency?
-- **A**: Well, not exactly an emergency, but I found moisture on my bathroom ceiling. I think the leak is coming from your apartment or from the pipes in between.
-- **B**: Oh no, that sounds bad. I haven't noticed any leak in our bathroom. When did you notice it?
-- **A**: Yesterday evening. There was a dark spot on the ceiling and it felt moist when I touched it. By morning it had spread a bit bigger.
-- **B**: Oh no. I need to check our bathroom right away. Do you want to come look so we can find where it's coming from?
-- **A**: Yes, that would be good. But I think we should also report it to the housing association's maintenance company. They have a camera that can check the pipes.
-- **B**: That makes sense. Do you have the maintenance company's number? I have it somewhere, but I can't find it right now.
-- **A**: Yes, I have it on my phone. The number is on the housing association notice board, but I called them last month about another matter. I can call right now.
-- **B**: Thanks, that would be really good. I'm afraid this will get worse if we wait too long.
-- **A**: Yes, moisture damage spreads quickly. I'll call now and request an urgent inspection. Is it okay for you if the maintenance person comes tomorrow?
-- **B**: Tomorrow works fine. I'll be at home in the morning because my husband is taking our daughter to daycare. In the afternoon I'll be at work.
-- **A**: Okay, I'll request a morning time. Before that, can you check if your bathroom floor is wet anywhere?
-- **B**: I'll go check right away. If I find anything, I'll send you a message. Thanks Antti for coming to tell me about this.
-- **A**: No problem. Building residents need to help each other in situations like this. Let's stay in touch and I'll let you know what the maintenance company says.
-- **B**: Yes, thanks a lot. Hopefully this gets fixed quickly before any bigger damage happens.
+- **A**: Hi, Kiinteistöhuolto Oy, Tiina speaking. How can I help?
+- **B**: Hi, I'm Päivi Nguyen, I live in Leppävaara at Lintulahdenkatu 20 A, apartment 3. I have a leak under the kitchen sink.
+- **A**: I see, what kind of leak is it? Is a lot of water coming or is it dripping slowly?
+- **B**: Water drips steadily from the pipe joint. I've placed a bucket underneath, but it needs to be fixed.
+- **A**: It sounds like the joint has come loose. The shut-off valve is usually under the sink on the left. Turn it clockwise to stop the water.
+- **B**: I found the valve and turned it off, the water stopped. When can someone come to fix it?
+- **A**: Good. We have availability tomorrow afternoon between 2 and 4. The maintenance worker uses a master key but please be home if possible.
+- **B**: I'll be home tomorrow, my husband is taking our daughter to daycare in the morning and I'm staying home. How long does the repair take and who pays?
+- **A**: The joint repair takes about half an hour. Pipe repairs are the housing company's responsibility, so there are no costs for you.
+- **B**: Do I need to turn the water back on myself after the repair or does the maintenance person handle it?
+- **A**: The maintenance worker will handle it. Don't open the valve yourself before the repair is done.
+- **B**: Understood. There's a small water stain on the cabinet underneath. What do I need to do about possible water damage?
+- **A**: Take photos of the damage and report to the property manager. The property manager is Reijo Lahtinen, phone 050 098 876. He handles insurance matters.
+- **B**: 050 098 876, got it. Thank you Tiina, bye bye!
+- **A**: That's right. We'll come tomorrow around 2. Have a good day!

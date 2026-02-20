@@ -18,7 +18,7 @@
 - **A**: <!-- LEARNER: ask when the annual meeting is and what kind of vote is needed -->
 - **B**: Yhtiökokous on huhtikuun kolmannella viikolla. Tarvitaan enemmistöpäätös molemmista. Mä pyydän isännöitsijää valmistelemaan materiaalit.
 - **A**: <!-- LEARNER: suggest sending a notice to all residents about the upcoming topics, thank Sanna -->
-- **B**: Hyvä idea, mä hoidan tiedotteen ensi viikolla. Kiitos Antti, hyvä kokous!
+- **B**: Hyvä idea, mä hoidan tiedotteen ensi viikolla. Kiitos {NIMI}, hyvä kokous!
 
 **EN Full sample dialogue:**
 - **A**: <!-- LEARNER: open the meeting, say you want to discuss the pipe renovation plan and the parking problem -->
@@ -34,4 +34,4 @@
 - **A**: <!-- LEARNER: ask when the annual meeting is and what kind of vote is needed -->
 - **B**: The annual meeting is the third week of April. We need a majority decision on both. I'll ask the property manager to prepare materials.
 - **A**: <!-- LEARNER: suggest sending a notice to all residents about the upcoming topics, thank Sanna -->
-- **B**: Good idea, I'll take care of the notice next week. Thanks Antti, good meeting!
+- **B**: Good idea, I'll take care of the notice next week. Thanks {NAME}, good meeting!

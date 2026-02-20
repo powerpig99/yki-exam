@@ -1,42 +1,45 @@
-#### li_dia_17 — HSL-matkakortti
-**Learner role:** B
-**FI Konteksti:** Asioit HSL:n palvelupisteessä, koska matkakorttisi ei toimi oikein ja haluat selvittää asian.
-**EN Context:** You visit an HSL service point because your travel card isn't working properly and you want to sort out the issue.
+#### li_dia_17 — Calling car repair shop about winter tires
+**Learner role:** A
+**Non-learner gender:** female
+**FI Konteksti:** Soitat autokorjaamolle ja kysyt talvirenkaiden vaihdosta, hinnoista ja ajanvarauksesta.
+**EN Context:** You call a car repair shop and ask about winter tire change, prices, and booking an appointment.
 
 **FI Koko mallidialogi:**
-- **A**: Hei, tervetuloa! Miten voin auttaa?
-- **B**: Hei! Mun matkakortti ei toiminut tänä aamuna bussissa. Lukija näytti punaista valoa ja kuljettaja sanoi, ettei kortilla ole voimassa olevaa kautta.
-- **A**: Selvä, annatko kortin, niin mä tarkistan sen. Minkä alueen kausilippu sulla pitäisi olla?
-- **B**: Mulla on Espoo-Helsinki-kausilippu, koska mä matkustan joka päivä Leppävaarasta Pasilaan. Mä latasin kauden viime viikolla sovelluksessa.
-- **A**: Okei, mä näen tässä ongelman. Kausi on ladattu sovellukseen, mutta sitä ei ole siirretty kortille. Sovelluksessa pitää erikseen painaa "siirrä kortille" ja lukea kortti puhelimella.
-- **B**: Ai, mä en tiennyt sitä. Mä luulin, että se siirtyy automaattisesti. Voitko siirtää sen nyt tässä?
-- **A**: Totta kai. Mä siirrän sen nyt. Kortti pitää lukea tässä lukijalla. Laita kortti tähän päälle, niin siirto onnistuu.
-- **B**: Selvä, kiitos. Mun kausi meni vanhaksi viime kuun lopussa ja mä ostin uuden heti. Meneekö tältä aamulta jotain hukkaan?
-- **A**: Ei mene. Kausi alkoi viime maanantaista, joten tää aamu kuuluu siihen. Nyt kortti näyttää oikein, kausi on voimassa huhtikuun loppuun asti.
-- **B**: Hyvä. Mä haluaisin myös kysyä yhdestä toisesta asiasta. Mun mies ajaa joskus autolla Pasilaan ja haluaisi liityntäpysäköintilipun. Miten se toimii?
-- **A**: Liityntäpysäköinti on ilmaista, jos on voimassa oleva HSL-kausilippu. Riittää, että näyttää matkakorttia pysäköintialueen lukijalla. Puomi aukeaa automaattisesti.
-- **B**: Selvä, eli mun miehen pitäisi myös hankkia oma matkakortti siihen?
-- **A**: Kyllä, jokaisella pitää olla oma henkilökohtainen kortti. Matkakortti on henkilökohtainen eikä sitä saa lainata. Kortin tilaaminen onnistuu netissä tai tässä pisteessä.
-- **B**: Okei, mä kerron hänelle. Vielä yksi kysymys. Mun tyttö on neljä vuotta, tarvitseeko hän matkakortin?
-- **A**: Alle seitsemänvuotiaat matkustavat ilmaiseksi aikuisen kanssa. Eli tyttäresi ei tarvitse vielä lippua. Seitsemänvuotiaana hän saa lastenlipun.
-- **B**: Hienoa, kiitos paljon kaikesta avusta! Nyt tiedän paremmin, miten toi sovellus toimii.
-- **A**: Ole hyvä! Muista jatkossa aina lukea kortti puhelimella latauksen jälkeen. Mukavaa päivää!
+- **A**: Hei! Mä soitan talvirenkaiden vaihdosta. Onko teillä vapaita aikoja tällä viikolla?
+- **B**: Hei! Täällä Katja, Rengasmaailmasta. Tällä viikolla on vielä aikoja torstaille ja perjantaille. Mikä auto sulla on?
+- **A**: Mulla on Volkswagen Golf vuosimalli kaksituhattayhdeksäntoista. Kauanko renkaanvaihto kestää?
+- **B**: Golf on hyvin yleinen auto, joten siihen löytyy osat helposti. Renkaanvaihto kestää noin kolmekymmentä minuuttia, jos sulla on omat renkaat. Ilman omia renkaita menee hieman pidempään.
+- **A**: Mulla on omat talvirenkaat kotona varastossa. Paljonko renkaanvaihto maksaa?
+- **B**: Jos sulla on omat renkaat valmiina, renkaanvaihto maksaa neljäkymmentäviisi euroa sisältäen tasapainotuksen. Ilman tasapainotusta hinta on kolmekymmentäviisi euroa.
+- **A**: Tarkistatteko te myös renkaiden kunnon vaihdon yhteydessä, esimerkiksi urasyvyyden?
+- **B**: Kyllä. Me tarkastetaan aina renkaiden kunto vaihdon yhteydessä. Jos urasyvyys on alle kolme millimetriä, renkaat pitää vaihtaa uusiin. Mä kerron tulokset heti vaihdon jälkeen.
+- **A**: Paljonko uudet talvirenkaat maksaa Golfiin, jos vanhat on liian kuluneet?
+- **B**: Uudet talvirenkaat Golfiin maksaa noin kolmesataakuusikymmentä euroa nelille renkaalle. Nastarenkaat on noin neljäsataakaksikymmentä euroa. Kitkarenkaat on suositumpia kaupunkiajoon.
+- **A**: Mä suosin kitkarenkaita. Milloin talvirenkaat on pakollisia?
+- **B**: Talvirenkaat on pakolliset marraskuun ensimmäisestä maaliskuun kolmanteenkymmenenteenensimmäiseen. Suosittelen vaihtamaan jo lokakuun lopussa, koska silloin on vähemmän ruuhkaa.
+- **A**: Onko teillä rengashotellipalvelu kesärenkaita varten?
+- **B**: Kyllä tarjotaan. Rengashotelli maksaa seitsemänkymmentäviisi euroa kaudelta. Siihen sisältyy säilytys, pesu ja seuraavan kauden vaihto. Monet asiakkaat käyttää tätä palvelua.
+- **A**: Se kiinnostaa tosi paljon. Mä ottaisin torstain ajan, mihin aikaan se sopii?
+- **B**: Torstaille sopii kello kymmenen aamulla. Tuothan renkaat mukaan autossa tai tarvittaessa me haetaan ne varastolta. Osoite on Mekaanikontie viisi, Vantaa. Tervetuloa!
+- **A**: Selvä, torstai kello kymmenen sopii hyvin. Kiitos paljon kaikesta tiedosta!
+- **B**: Selvä, mä merkitsen varauksen. Muista tuoda renkaat ja rengasavain mukaan. Nähdään torstaina!
 
 **EN Full sample dialogue:**
-- **A**: Hi, welcome! How can I help?
-- **B**: Hi! My travel card didn't work this morning on the bus. The reader showed a red light and the driver said the card doesn't have a valid season pass.
-- **A**: I see, give me the card and I'll check it. What zone season ticket should you have?
-- **B**: I have an Espoo-Helsinki season ticket, because I travel every day from Leppävaara to Pasila. I loaded the season pass last week in the app.
-- **A**: Okay, I can see the problem here. The season pass has been loaded in the app, but it hasn't been transferred to the card. In the app you need to separately press "transfer to card" and read the card with your phone.
-- **B**: Oh, I didn't know that. I thought it transfers automatically. Can you transfer it now here?
-- **A**: Of course. I'll transfer it now. The card needs to be read with this reader. Put the card on top here, and the transfer will work.
-- **B**: Sure, thanks. My season pass expired at the end of last month and I bought a new one right away. Will I lose anything from this morning?
-- **A**: No you won't. The season started from last Monday, so this morning is included. Now the card shows correctly, the season is valid until the end of April.
-- **B**: Good. I'd also like to ask about one other thing. My husband sometimes drives to Pasila and would like a park-and-ride ticket. How does that work?
-- **A**: Park-and-ride is free if you have a valid HSL season ticket. You just need to show the travel card at the parking area reader. The barrier opens automatically.
-- **B**: I see, so my husband would also need to get his own travel card for that?
-- **A**: Yes, everyone needs their own personal card. The travel card is personal and cannot be lent out. Ordering a card works online or at this service point.
-- **B**: Okay, I'll tell him. One more question. My daughter is 4 years old, does she need a travel card?
-- **A**: Children under 7 travel for free with an adult. So your daughter doesn't need a ticket yet. At 7 she'll get a children's ticket.
-- **B**: Great, thanks a lot for all the help! Now I know better how that app works.
-- **A**: You're welcome! Remember in the future to always read the card with your phone after loading. Have a nice day!
+- **A**: Hi! I'm calling about a winter tire change. Do you have any available appointments this week?
+- **B**: Hi! Katja here, from Rengasmaailma. This week we still have slots on Thursday and Friday. What car do you have?
+- **A**: I have a Volkswagen Golf, 2019 model. How long does a tire change take?
+- **B**: Golf is a very common car, so parts are easy to find. Tire change takes about thirty minutes if you have your own tires. Without your own tires it takes a bit longer.
+- **A**: I have my own winter tires stored at home. How much does the tire change cost?
+- **B**: If you have your own tires ready, tire change costs 45 euros including balancing. Without balancing the price is 35 euros.
+- **A**: Do you also check tire condition during the change, for example the tread depth?
+- **B**: Yes. We always check tire condition during the change. If the tread depth is under three millimeters, the tires need to be replaced with new ones. I'll let you know the results right after the change.
+- **A**: How much do new winter tires cost for a Golf in case the old ones are too worn?
+- **B**: New winter tires for a Golf cost about 360 euros for four tires. Studded tires are about 420 euros. Studless friction tires are more popular for city driving.
+- **A**: I prefer studless tires. When are winter tires mandatory?
+- **B**: Winter tires are mandatory from November 1st to March 31st. I recommend changing already at the end of October, because there's less rush then.
+- **A**: Do you offer a tire storage service for summer tires?
+- **B**: Yes, we do. Tire hotel costs 75 euros per season. It includes storage, washing, and the next season's change. Many customers use this service.
+- **A**: I'm very interested in that. I'd like to book Thursday — what time would work?
+- **B**: Thursday at ten in the morning works. Bring the tires with you in the car, or if needed we can pick them up from storage. The address is Mekaanikontie 5, Vantaa. Welcome!
+- **A**: Alright, Thursday at ten works perfectly. Thank you very much for all the information!
+- **B**: Alright, I'll mark the reservation. Remember to bring the tires and a wheel wrench. See you on Thursday!

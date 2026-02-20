@@ -1,48 +1,67 @@
-#### li_ker_1 — Kertominen: Henkilökohtainen elämä ja arki
+#### li_ker_1 — Kertominen: Henkilökohtainen elämä ja ihmissuhteet
 **Learner role:** B
-**FI Konteksti:** Kymmenen aihepiiriä, joissa kerrotaan omasta elämästä, arjesta ja kokemuksista.
-**EN Context:** Ten topic areas where you talk about your personal life, daily routines, and experiences.
+**Non-learner gender:** female
+**FI Konteksti:** Kymmenen aihepiiriä, joissa kerrotaan omasta elämästä, ihmissuhteista ja arjen kokemuksista.
+**EN Context:** Ten topic areas where you talk about your personal life, relationships, and everyday experiences.
 
 **FI Koko mallidialogi:**
-- **A**: Aihe 1: Kerro työstäsi. Mitä teet ja millainen työpäiväsi on?
-- **B**: Mä oon data-insinööri ja mä työskentelen teknologiafirmassa Helsingissä. Mun työ on käsitellä ja järjestää isoja datamääriä niin, että muut tiimit voivat käyttää niitä. Mä kirjoitan koodia ja rakennan tietojärjestelmiä. Työpäivä alkaa yleensä aamuyhdeksältä ja mä teen usein etätöitä kotoa. Tiimissä mulla on kollegoita monesta maasta ja me puhutaan englantia ja suomea sekaisin. Työssä parasta on ongelmanratkaisu, kun saa jonkun monimutkaisen asian toimimaan. Joskus on stressaavaa, kun on tiukkoja aikatauluja, mutta yleensä mä tykkään työstäni.
-- **A**: Aihe 2: Millainen on tavallinen arkipäiväsi? Kerro aamusta iltaan.
-- **B**: Mun päivä alkaa kuudelta, kun tytär herää. Mä teen aamupalaa ja mun mies vie tyttären päiväkotiin. Sitten mä pyöräilen asemalle ja otan junan Helsinkiin, jos mä meen toimistolle. Etätyöpäivinä mä aloitan suoraan kotoa kahvin kanssa. Lounaalla mä syön työpaikan ruokalassa tai lämmitän eväitä. Iltapäivällä mä haen tyttären päiväkodista noin neljältä. Illalla me syödään yhdessä ja mä luen tyttärelle iltasadun. Kun tytär nukkuu, mä leivon tai luen kirjaa.
-- **A**: Aihe 3: Kerro perheestäsi. Millainen perhe sinulla on?
-- **B**: Meidän perheessä on kolme henkeä. Mun mies on suomalainen ja me tavattiin Australiassa kymmenen vuotta sitten. Hän tekee töitä insinöörinä ja on tosi hyvä kokki. Meidän tytär on neljävuotias ja käy päiväkodissa. Hän puhuu suomea paremmin kuin mä ja se on ihan hauskaa. Mun miehen perhe asuu lähellä Espoossa ja me nähdään heitä usein. Mun omat vanhemmat ja veli asuvat Vietnamissa ja mä ikävöin heitä. Me soitetaan videopuheluita joka viikonloppu.
-- **A**: Aihe 4: Onko sinulla harrastuksia? Kerro niistä.
-- **B**: Mun lempiharrastus on leipominen. Mä leivon leipää ja leivonnaisia melkein joka viikko. Se on mulle rentoutumista ja mä tykkään kokeilla uusia reseptejä. Mä oon myös leipomiskerhossa, jossa me tavataan kerran kuussa. Lisäksi mä pyöräilen paljon, sekä työmatkoja että vapaa-ajalla. Kesällä mä pyöräilen järvien ympäri ja se on ihanaa. Mä käyn myös joogassa kaksi kertaa viikossa. Illalla mä luen mielelläni dekkareita, ne on mun lempikirjoja.
-- **A**: Aihe 5: Kerro muistettavasta matkasta. Minne menit ja mitä koit?
-- **B**: Viime kesänä me käytiin perheen kanssa Lapissa ja se oli uskomaton matka. Me ajettiin autolla Rovaniemelle ja yövyttiin mökissä tunturin lähellä. Luonto oli niin kaunista, että mä en löydä sanoja kuvaamaan sitä. Me käytiin vaeltamassa kansallispuistossa ja nähtiin poroja tiellä. Tytär oli ihan innoissaan ja halusi syöttää niitä. Yöllä aurinko ei laskenut ollenkaan ja se oli todella erikoista. Mä otin paljon kuvia ja lähetin niitä vanhemmilleni Vietnamiin. Se matka on mun paras muisto Suomesta.
-- **A**: Aihe 6: Millainen naapurustosi on? Viihdytkö siellä?
-- **B**: Me asutaan Leppävaarassa Espoossa ja mä tykkään siitä alueesta tosi paljon. Se on rauhallinen mutta silti lähellä kaikkea tärkeää. Kauppakeskus Sello on kävelymatkan päässä ja siellä on kauppoja ja kirjasto. Lähellä on myös hyviä puistoja, joissa mä käyn tyttären kanssa leikkimässä. Naapurit ovat ystävällisiä ja meidän taloyhtiössä on hyvä henki. Juna-asemalle on lyhyt matka ja pääsee helposti Helsinkiin. Ainoa huono puoli on, että asuntojen hinnat ovat nousseet paljon.
-- **A**: Aihe 7: Tunnetko jotakin suomalaista perinnettä? Kerro siitä.
-- **B**: Mä tykkään tosi paljon juhannuksesta. Ensimmäisenä kesänä Suomessa me mentiin mun miehen vanhempien mökille Savonlinnaan juhannukseksi. Siellä sytytettiin kokko ja grillattiin makkaraa järven rannalla. Mä istuin laiturilla ja katsoin auringonlaskua, joka kesti tunteja. Lapset uivat ja aikuiset istuivat saunassa. Se oli niin rauhallista ja kaunista, että mä ymmärsin, miksi suomalaiset rakastavat juhannusta. Nyt juhannus on myös mun lemppijuhla. Mä odotan sitä joka vuosi.
-- **A**: Aihe 8: Kerro lapsesi päiväkodista. Miten siellä menee?
-- **B**: Mun tytär käy päiväkodissa Leppävaarassa ja hän viihtyy siellä todella hyvin. Hoitajat ovat ihania ja välittävät lapsista aidosti. Päiväkodissa lapset leikkivät ulkona joka päivä, vaikka sataa tai on kylmä. Alussa mua huoletti, kun tytär ei puhunut suomea, mutta hän oppi nopeasti. Nyt hän puhuu suomea sujuvasti ja laulaa suomalaisia lastenlauluja kotona. Päiväkodissa on myös askartelua, musiikkia ja retkiä. Mä oon todella tyytyväinen suomalaiseen päivähoitoon. Se on laadukasta ja lähes ilmaista.
-- **A**: Aihe 9: Tykkäätkö laittaa ruokaa? Kerro ruoanlaittotottumuksistasi.
-- **B**: Mä rakastan ruoanlaittoa ja mä teen ruokaa joka päivä. Arjella mä yritän tehdä nopeita ja terveellisiä aterioita. Mä teen paljon aasialaista ruokaa, kuten nuudelekeittoa ja wokkia. Viikonloppuisin mä kokeilen uusia reseptejä ja teen myös suomalaista ruokaa. Mun mies on opettanut mua tekemään lohikeittoa ja karjalanpiirakoita. Mä käyn joskus hakaniemen aasialaisessa kaupassa ostamassa erikoisia mausteita ja yrttejä. Paras hetki on, kun koko perhe istuu pöydän ääressä ja syö yhdessä. Ruoka yhdistää meidän kahta kulttuuria.
-- **A**: Aihe 10: Onko elämässäsi jokin tärkeä henkilö? Kerro hänestä.
-- **B**: Mun äiti on mulle kaikkein tärkein henkilö. Hän asuu Vietnamissa ja mä ikävöin häntä paljon. Äiti opetti mua lapsena laittamaan ruokaa ja olemaan ahkera. Hän teki kovasti töitä, jotta mä pääsin hyvään kouluun. Ilman häntä mä en olisi siellä missä mä oon nyt. Vaikka me asutaan kaukana toisistamme, me puhutaan videopuhelulla joka viikko. Äiti on käynyt Suomessa kerran ja hän tykkäsi, mutta hänestä oli liian kylmä. Mä toivon, että hän tulee taas käymään ensi kesänä.
+- **A**: Aihe 1: Kerro, kuka on sinulle tärkeä ihminen ja miksi. Millainen hän on ja mitä teette yhdessä?
+- **B**: Mun mies on mulle kaikkein tärkein ihminen. Hän on rauhallinen ja kärsivällinen, ja hän auttaa mua aina suomen kielessä. Me tutustuttiin Australiassa ja nyt asutaan yhdessä Espoossa. Teemme paljon yhdessä — pyöräillään, käydään miehen vanhempien mökillä Savonlinnassa ja mies maistaa aina mun leivontakokeiluja.
+
+- **A**: Aihe 2: Minkälaisia kokemuksia sinulla on koulusta? Kerro, millainen oppilas olit ja mikä oli kivaa tai vaikeaa.
+- **B**: Olin Vietnamissa tunnollinen oppilas, matematiikka oli helppoa mutta englanti oli aluksi vaikeaa. Koulussa oli tiukat säännöt ja paljon läksyjä. Kivaa oli, kun sai hyvän numeron kokeesta. Vaikeinta olivat ulkoa opettelutehtävät, joita oli todella paljon.
+
+- **A**: Aihe 3: Mitä teet, kun olet stressaantunut? Miten rentoudut ja mikä auttaa sinua parhaiten?
+- **B**: Kun mä oon stressaantunut, leivon yleensä jotain. Leivän leivominen rauhoittaa, koska siinä täytyy keskittyä eikä ajattele muita asioita. Joskus teen joogaa tai lähen pyöräilemään Leppävaaran lähellä olevalle reitille. Myös crime-kirjan lukeminen illalla auttaa irrottautumaan työajatuksista.
+
+- **A**: Aihe 4: Kerro puhelimen käytöstäsi. Millainen oli ensimmäinen puhelimesi ja miten puhelimen käyttö on muuttunut?
+- **B**: Ensimmäinen puhelin oli yksinkertainen Nokia, jonka sain yläasteella. Silloin soiteltiin ja lähetettiin tekstiviestejä. Nyt puhelin on mukana kaikessa — töissä Teams-kokoukset, kotona WhatsApp miehen perheen kanssa ja siitä katsotaan Yle Areenaa. Käytän puhelinta myös tyttären päiväkotiviesteihin.
+
+- **A**: Aihe 5: Millainen ajankäyttäjä olet? Miten suunnittelet päiväsi ja ehditkö tehdä kaiken haluamasi?
+- **B**: Olen aika tarkka ajankäyttäjä, koska data-insinöörin työ vaatii suunnittelua. Teen viikkosuunnitelman joka sunnuntai — milloin haen tyttären päiväkodista, milloin on joogaa ja milloin leivon. Aina ei silti ehdi kaikkea, etenkin jos töissä tulee jokin kiireinen tilanne. Olen oppinut priorisoimaan ja jättämään joitain asioita seuraavalle viikolle.
+
+- **A**: Aihe 6: Kerro kotimaasi ilmastosta. Millainen sää on eri vuodenaikoina ja mikä vuodenaika on sinun suosikkisi?
+- **B**: Vietnamissa on käytännössä kaksi vuodenaikaa: kuiva kausi ja sadekausi. Ho Chi Minh Cityssä on aina lämmin, lämpötila on yleensä kolmekymmentä astetta tai enemmän. Sadekausi tuo rankkasateita, jotka tulevat nopeasti ja menevät pian ohi. Mä tykkään kuivasta kaudesta, kun taivas on sininen eikä ole liian kosteaa.
+
+- **A**: Aihe 7: Kerro tilanteesta, kun olit sairas tai kävit lääkärissä. Mitä tapahtui ja miten sinua hoidettiin?
+- **B**: Viime talvena minulla oli kova flunssa ja menin terveyskeskukseen. Ajanvaraus onnistui netissä aika helposti ja lääkäri oli mukava ja selitti asiat selkeästi. Sain reseptin ja lähdin apteekkiin, missä palvelu oli myös nopeaa. Olin tyytyväinen, vaikka jouduin odottamaan jonkin aikaa.
+
+- **A**: Aihe 8: Millaisia ovat miesten ja naisten roolit kotona sinun kokemuksesi mukaan? Miten kotityöt jaetaan?
+- **B**: Meillä kotona jaetaan kotityöt aika tasan. Mun mies laittaa ruokaa muutaman kerran viikossa ja mä siivoan ja pesen pyykit. Tyttären asioista huolehdimme molemmat. Mun mielestä on tärkeää, että molemmat osallistuvat, ettei kaikki jää vain toiselle.
+
+- **A**: Aihe 9: Kerro vierailukulttuurista. Miten vierailet toisten luona ja miten vastaanotat vieraita omassa kodissasi?
+- **B**: Vietnamilaisessa kulttuurissa vieraillaan usein ilman etukäteisilmoitusta, se on normaalia. Täällä Suomessa olen oppinut sopimaan etukäteen. Kun meillä on vieraita, teen aina jotain omatekoista — yleensä leivon jotain. Miehen vanhemmat käyvät meillä silloin tällöin ja mä pidän siitä kovasti.
+
+- **A**: Aihe 10: Mitä tekisit eläkkeellä? Millaista elämää haluaisit elää, kun jäät eläkkeelle?
+- **B**: Eläkkeellä haluaisin matkustaa enemmän — etenkin käydä Vietnamissa useammin. Myös leivontaan haluaisin käyttää enemmän aikaa, ehkä opettaa muita tai pitää pienen leivontakurssin. Olisi hienoa asua rauhallisessa paikassa lähellä luontoa mutta silti lähellä kaupunkia. Tärkeintä olisi olla terve ja nauttia elämästä perheen kanssa.
 
 **EN Full sample dialogue:**
-- **A**: Topic 1: Tell about your work. What do you do and what is your workday like?
-- **B**: I'm a data engineer and I work at a tech company in Helsinki. My job is to process and organize large amounts of data so that other teams can use them. I write code and build data systems. The workday usually starts at nine in the morning and I often work remotely from home. In my team I have colleagues from many countries and we speak English and Finnish mixed. The best part of the job is problem-solving, when you get something complicated to work. Sometimes it's stressful when there are tight deadlines, but usually I enjoy my work.
-- **A**: Topic 2: What is a typical weekday like for you? Tell from morning to evening.
-- **B**: My day starts at six when my daughter wakes up. I make breakfast and my husband takes our daughter to daycare. Then I cycle to the station and take the train to Helsinki if I go to the office. On remote work days I start directly from home with coffee. At lunch I eat at the workplace cafeteria or heat up packed lunch. In the afternoon I pick up my daughter from daycare around four. In the evening we eat together and I read a bedtime story to my daughter. When my daughter sleeps, I bake or read a book.
-- **A**: Topic 3: Tell about your family. What kind of family do you have?
-- **B**: Our family has 3 people. My husband is Finnish and we met in Australia 10 years ago. He works as an engineer and is a really good cook. Our daughter is 4 years old and goes to daycare. She speaks Finnish better than me and that's quite funny. My husband's family lives nearby in Espoo and we see them often. My own parents and brother live in Vietnam and I miss them. We make video calls every weekend.
-- **A**: Topic 4: Do you have hobbies? Tell about them.
-- **B**: My favorite hobby is baking. I bake bread and pastries almost every week. It's relaxation for me and I like trying new recipes. I'm also in a baking club where we meet once a month. In addition I cycle a lot, both for commuting and leisure. In summer I cycle around lakes and it's wonderful. I also do yoga twice a week. In the evenings I like reading crime novels, they're my favorite books.
-- **A**: Topic 5: Tell about a memorable trip. Where did you go and what did you experience?
-- **B**: Last summer we went to Lapland with the family and it was an incredible trip. We drove by car to Rovaniemi and stayed in a cabin near a fell. The nature was so beautiful that I can't find words to describe it. We went hiking in a national park and saw reindeer on the road. Our daughter was so excited and wanted to feed them. At night the sun didn't set at all and that was really special. I took many photos and sent them to my parents in Vietnam. That trip is my best memory from Finland.
-- **A**: Topic 6: What is your neighborhood like? Do you enjoy living there?
-- **B**: We live in Leppavaara in Espoo and I really like that area. It's peaceful but still close to everything important. The Sello shopping center is within walking distance and it has shops and a library. Nearby there are also nice parks where I go to play with my daughter. The neighbors are friendly and our housing company has a good spirit. The train station is a short distance away and you can easily get to Helsinki. The only downside is that apartment prices have gone up a lot.
-- **A**: Topic 7: Do you know any Finnish tradition? Tell about it.
-- **B**: I really like Midsummer. During my first summer in Finland we went to my husband's parents' cottage in Savonlinna for Midsummer. There we lit a bonfire and grilled sausages by the lake. I sat on the dock and watched the sunset that lasted for hours. The kids swam and the adults sat in the sauna. It was so peaceful and beautiful that I understood why Finns love Midsummer. Now Midsummer is also my favorite holiday. I look forward to it every year.
-- **A**: Topic 8: Tell about your child's daycare. How is it going there?
-- **B**: My daughter goes to daycare in Leppavaara and she enjoys it really well there. The caregivers are wonderful and genuinely care about the children. At daycare children play outside every day even if it rains or is cold. At first I worried because my daughter didn't speak Finnish, but she learned quickly. Now she speaks Finnish fluently and sings Finnish children's songs at home. At daycare there's also crafts, music, and excursions. I'm really satisfied with Finnish daycare. It's high quality and almost free.
-- **A**: Topic 9: Do you like cooking? Tell about your cooking habits.
-- **B**: I love cooking and I cook every day. On weekdays I try to make quick and healthy meals. I make a lot of Asian food like noodle soup and stir-fry. On weekends I try new recipes and also make Finnish food. My husband has taught me to make salmon soup and Karelian pasties. I sometimes visit the Asian store in Hakaniemi to buy special spices and herbs. The best moment is when the whole family sits at the table and eats together. Food connects our 2 cultures.
-- **A**: Topic 10: Is there an important person in your life? Tell about them.
-- **B**: My mother is the most important person for me. She lives in Vietnam and I miss her a lot. Mom taught me as a child to cook and to be hardworking. She worked very hard so that I could get into a good school. Without her I wouldn't be where I am now. Even though we live far from each other, we talk on video calls every week. Mom has visited Finland once and she liked it, but she thought it was too cold. I hope she comes to visit again next summer.
+- **A**: Topic 1: Tell about a person who is important to you and why. What is this person like and what do you do together?
+- **B**: My husband is the most important person to me. He is calm and patient, and he always helps me with Finnish. We met in Australia and now live together in Espoo. We do a lot together — cycling, visiting his parents' cottage in Savonlinna, and he always tastes my baking experiments.
+
+- **A**: Topic 2: What kind of experiences do you have from school? Tell about what kind of student you were and what was fun or difficult.
+- **B**: In Vietnam I was a diligent student — maths was easy but English was hard at first. School had strict rules and lots of homework. It felt really good when you got a good grade on a test. The hardest part was all the memorization tasks there were so many of them.
+
+- **A**: Topic 3: What do you do when you are stressed? How do you relax and what helps you the most?
+- **B**: When I'm stressed I usually bake something. Baking bread calms me down because you have to concentrate and stop thinking about other things. Sometimes I do yoga or go cycling on the route near Leppävaara. Reading a crime novel in the evening also helps me switch off from work thoughts.
+
+- **A**: Topic 4: Tell about your phone use. What was your first phone like and how has phone use changed?
+- **B**: My first phone was a simple Nokia that I got in middle school. Back then we made calls and sent text messages. Now the phone is part of everything — Teams meetings at work, WhatsApp with my husband's family at home, and we watch Yle Areena on it. I also use it for messages from my daughter's daycare.
+
+- **A**: Topic 5: What kind of time manager are you? How do you plan your days and do you have time to do everything you want?
+- **B**: I'm quite a precise time manager because working as a data engineer requires planning. I make a weekly plan every Sunday — when to pick up my daughter from daycare, when there's yoga, and when to bake. I don't always get everything done though, especially if something urgent comes up at work. I've learned to prioritize and leave some things for the following week.
+
+- **A**: Topic 6: Tell about the climate in your home country. What is the weather like in different seasons and which season is your favorite?
+- **B**: In Vietnam there are basically 2 seasons: the dry season and the rainy season. In Ho Chi Minh City it is always warm, usually 30 degrees or more. The rainy season brings heavy downpours that come quickly and pass soon. I prefer the dry season when the sky is blue and it's not too humid.
+
+- **A**: Topic 7: Tell about a situation when you were sick or visited the doctor. What happened and how were you treated?
+- **B**: Last winter I had a bad flu and went to the health centre. Booking an appointment online was quite easy and the doctor was friendly and explained things clearly. I got a prescription and went to the pharmacy where the service was also fast. I was satisfied even though I had to wait a little while.
+
+- **A**: Topic 8: What are men's and women's roles at home in your experience? How are household chores divided?
+- **B**: In our home we divide household chores pretty equally. My husband cooks a few times a week and I clean and do laundry. We both take care of our daughter's things. I think it's important that both partners participate so everything doesn't fall on just one person.
+
+- **A**: Topic 9: Tell about visiting culture. How do you visit other people and how do you receive guests in your own home?
+- **B**: In Vietnamese culture people visit each other often without advance notice, it's completely normal. Here in Finland I've learned to arrange visits beforehand. When we have guests I always make something homemade — usually I bake something. My husband's parents visit us from time to time and I really enjoy that.
+
+- **A**: Topic 10: What would you do in retirement? What kind of life would you like to live when you retire?
+- **B**: In retirement I'd want to travel more — especially visit Vietnam more often. I'd also want to spend more time baking, maybe teach others or run a small baking class. It would be lovely to live somewhere peaceful close to nature but still near the city. Most importantly I'd want to stay healthy and enjoy life with family.

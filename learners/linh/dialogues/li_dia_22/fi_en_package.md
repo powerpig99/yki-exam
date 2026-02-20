@@ -1,44 +1,43 @@
-#### li_dia_22 — Leipomiskurssi
-**Learner role:** A
-**FI Konteksti:** Soitat kansalaisopistoon kysyäksesi leipomiskursseista ja ilmoittaudut kurssille.
-**EN Context:** You call an adult education center to ask about baking courses and sign up for one.
+#### li_dia_22 — Planning weekend outing with friend
+**Learner role:** B
+**Non-learner gender:** female
+**FI Konteksti:** Kaveri soittaa ja ehdottaa viikonloppusuunnitelmia, ja te sovitte yhdessä ajasta, paikasta ja aktiviteetista.
+**EN Context:** A friend calls and suggests weekend plans, and you agree together on a time, place, and activity.
 
 **FI Koko mallidialogi:**
-- **A**: Hei, mä soitan Espoon kansalaisopistoon. Mua kiinnostaa leipomiskurssit ja mä haluaisin tietää, mitä kursseja teillä on tarjolla keväällä.
-- **B**: Hei! Mä oon Pekka, kansalaisopiston neuvonnasta. Meillä on keväällä kolme eri leipomiskurssia. Onko sulla jotain toiveita, millaista leipomista haluaisit oppia?
-- **A**: Mä leipon kotona aika paljon jo, pullaa ja kakkuja ja kaikkea. Mua kiinnostaa erityisesti suomalainen perinteinen leipominen ja ehkä myös jotain vaativampaa.
-- **B**: Hienoa. Silloin sulle sopisi hyvin meidän Suomalainen perinneleipominen -kurssi. Siellä tehdään karjalanpiirakoita, ruisleipää, korvapuusteja ja pääsiäismämmiä. Kurssi on tiistaisin kello kahdeksantoista-kaksikymmentäyksi.
-- **A**: Kuulostaa tosi kiinnostavalta! Karjalanpiirakoita mä oon aina halunnut oppia tekemään. Paljonko kurssi maksaa ja kauanko se kestää?
-- **B**: Kurssi kestää kymmenen viikkoa ja hinta on sataneljäkymmentä euroa. Siihen sisältyy opetus ja kaikki raaka-aineet. Jokainen saa ottaa omat leivonnaiset kotiin.
-- **A**: Se on hyvä hinta, kun raaka-aineet on mukana. Montako osallistujaa kurssilla on?
-- **B**: Ryhmässä on enintään kaksitoista henkilöä. Meillä on iso opetuskeittiö, jossa jokaisella on oma työskentelypiste. Kurssin opettaja on ammattikondiittori.
-- **A**: Hienoa! Pitääkö mukaansa tuoda omia työvälineitä vai onko kaikki paikan päällä?
-- **B**: Kaikki työvälineet on paikan päällä. Tuo vain esiliina ja rasiat leivonnaisten kuljettamiseen kotiin. Me annetaan myös reseptit jokaiselta kerralta.
-- **A**: Täydellistä. Mulla on neljävuotias tyttö ja mun mies hakee hänet päiväkodista tiistaisin. Millon kurssi alkaa?
-- **B**: Kurssi alkaa helmikuun neljäntenä ja viimeinen kerta on huhtikuun kahdeksannen. Pääsiäisviikolla on tauko. Hiihtolomaviikolla myös, eli yhteensä on kaksi taukoa.
-- **A**: Sopii hyvin. Mä haluaisin ilmoittautua. Miten se onnistuu?
-- **B**: Ilmoittautuminen onnistuu tässä puhelimessa tai netissä. Tarvitsen sun nimen ja sähköpostin. Laskun voi maksaa verkkomaksulla tai kolmessa erässä.
-- **A**: Ilmoitetaan tässä. Mun nimi on Tiina Virtanen ja sähköposti on tiina piste virtanen ät posti piste fi. Mä maksan verkkomaksulla.
-- **B**: Kiitos, sä oot nyt ilmoittautunut. Vahvistus tulee sähköpostiin tunnin sisällä. Siinä on myös kurssipaikan osoite ja pysäköintiohjeet.
-- **A**: Mahtavaa, kiitos paljon! Mä odotan kurssia innolla. Tuleeko muuta mieleen?
-- **B**: Meillä on myös edistyneille kakunkoristelukurssi keväällä. Jos kiinnostaa, niin se näkyy nettisivuilla. Tervetuloa kurssille!
+- **A**: Moi! Mä mietin, että tehtäis jotain kivaa tänä viikonloppuna. Onko sulla vapaata?
+- **B**: Moi! Joo, lauantai on vapaa mulla! Mitä sulla on mielessä?
+- **A**: Mä ajattelin, että voitais mennä johonkin ulkoilmatapahtumaan tai retkelle. Nuuksiossa on hyvät reitit ja sää näyttäis olevan aurinkoinen.
+- **B**: Nuuksio kuulostaa tosi hyvältä! Mennään retkeilemään. Minkä reitin sä suosittelet?
+- **A**: Haukkalammen kierros on helppo ja kaunis, noin viisi kilometriä. Se sopii hyvin, vaikka ei olis tottunut retkeilijä. Reitti lähtee Haltian luontokeskukselta.
+- **B**: Viisi kilometriä on sopiva matka. Mennäänkö autolla vai julkisilla?
+- **A**: Bussilla pääsee suoraan Kampista Haltian luontokeskukselle. Bussi numero kaksisataaviisikymmentäviisi lähtee kello yhdeksän kolmekymmentäviisi aamulla. Matka kestää noin tunnin.
+- **B**: Mennään mieluummin autolla, se on nopeampaa. Mä voin hakea sinut matkan varrelta. Missä sä asut?
+- **A**: Mä asun Leppävaarassa. Autolla matka on noin kolmekymmentä minuuttia. Pysäköinti Haltialla maksaa kuusi euroa päivältä.
+- **B**: Haetaan sut yhdeksältä, se sopii. Mitä kannattaa ottaa mukaan, tarvitaanko jotain erityistä?
+- **A**: Eväät ja juomapullo kannattaa ottaa mukaan. Retkeilyalueella ei oo kioskia. Kunnon kengät on tärkeimmät, koska reitti on osittain kivikkoinen.
+- **B**: Mä ehdotan, että syödään piknik järven rannalla retken jälkeen. Mä tuon voileivät ja termariin kahvia.
+- **A**: Hyvä idea! Mä tuon mukaan hedelmää ja keksejä. Haukkalammen rannalla on tulentekopaikka ja puupenkki, niin siellä voidaan syödä rauhassa.
+- **B**: Haluaisitko tehdä jotain muuta retken jälkeen? Ehkä pysähtyä jonnekin paluumatkalla?
+- **A**: Espoon keskustassa on uusi kahvila nimeltä Kahvipuu. Se sai hyviä arvosteluja. Voitais pysähtyä siellä paluumatkalla.
+- **B**: Kuulostaa täydelliseltä päivältä! Sovitaan sitten lauantai yhdeksäksi. Mä ootan innolla!
+- **A**: Sovittu! Mä lähetän sulle Haltian osoitteen ja reittikartan viestillä. Laita kerroksiset vaatteet, koska metsässä voi olla viileämpää. Nähdään lauantaina!
 
 **EN Full sample dialogue:**
-- **A**: Hi, I'm calling Espoo Adult Education Center. I'm interested in baking courses and I'd like to know what courses you have available in spring.
-- **B**: Hi! I'm Pekka from the adult education center's information desk. We have 3 different baking courses in spring. Do you have any wishes for what kind of baking you'd like to learn?
-- **A**: I already bake quite a lot at home, buns and cakes and everything. I'm especially interested in traditional Finnish baking and maybe something more challenging.
-- **B**: Great. Then our Traditional Finnish Baking course would suit you well. There you'll make Karelian pasties, rye bread, cinnamon rolls, and Easter mämmi. The course is on Tuesdays from 18:00 to 21:00.
-- **A**: That sounds really interesting! I've always wanted to learn how to make Karelian pasties. How much does the course cost and how long does it last?
-- **B**: The course lasts 10 weeks and the price is 140 euros. It includes instruction and all ingredients. Everyone gets to take their own baked goods home.
-- **A**: That's a good price when ingredients are included. How many participants are in the course?
-- **B**: The group has a maximum of 12 people. We have a large teaching kitchen where everyone has their own workstation. The course teacher is a professional pastry chef.
-- **A**: Great! Do you need to bring your own tools or is everything available on site?
-- **B**: All tools are on site. Just bring an apron and containers for transporting baked goods home. We also give out recipes from each session.
-- **A**: Perfect. I have a 4-year-old daughter and my husband picks her up from daycare on Tuesdays. When does the course start?
-- **B**: The course starts on February 4th and the last session is April 8th. There's a break during Easter week. Also during ski holiday week, so there are 2 breaks in total.
-- **A**: Works well. I'd like to sign up. How does that work?
-- **B**: Registration works on this phone call or online. I need your name and email. The bill can be paid by online payment or in 3 installments.
-- **A**: Let's register here. My name is Tiina Virtanen and email is tiina dot virtanen at posti dot fi. I'll pay with online payment.
-- **B**: Thank you, you're now registered. A confirmation will arrive by email within an hour. It also includes the course location address and parking instructions.
-- **A**: Wonderful, thank you so much! I'm looking forward to the course. Anything else to keep in mind?
-- **B**: We also have an advanced cake decorating course in spring. If you're interested, it's on the website. Welcome to the course!
+- **A**: Hey! I was thinking we could do something fun this weekend. Are you free?
+- **B**: Hey! Yes, Saturday is free for me! What do you have in mind?
+- **A**: I was thinking we could go to some outdoor event or on a hike. Nuuksio has nice trails and the weather looks like it will be sunny.
+- **B**: Nuuksio sounds really good! Let's go hiking. Which trail do you recommend?
+- **A**: The Haukkalampi loop is easy and beautiful, about five kilometers. It works well even if you're not an experienced hiker. The trail starts from the Haltia nature center.
+- **B**: Five kilometers is a good distance. Should we drive or take public transport?
+- **A**: You can take a bus directly from Kamppi to the Haltia nature center. Bus number 255 departs at nine thirty-five in the morning. The trip takes about an hour.
+- **B**: I'd rather drive, it's faster. I can pick you up on the way. Where do you live?
+- **A**: I live in Leppävaara. By car the trip is about thirty minutes. Parking at Haltia costs 6 euros per day.
+- **B**: We'll pick you up at nine, that works. What should we bring — do we need anything special?
+- **A**: It's worth bringing packed lunch and a water bottle. There's no kiosk in the hiking area. Good shoes are the most important thing, because the trail is partly rocky.
+- **B**: I suggest we have a picnic by the lake after the hike. I'll bring sandwiches and a thermos of coffee.
+- **A**: Good idea! I'll bring fruit and cookies. On the shore of Haukkalampi there's a fire pit and a wooden bench, so we can eat there in peace.
+- **B**: Would you like to do something else after the hike? Maybe stop somewhere on the way back?
+- **A**: In Espoo center there's a new cafe called Kahvipuu. It got good reviews. We could stop there on the way back.
+- **B**: Sounds like a perfect day! Let's say Saturday at nine then. I'm really looking forward to it!
+- **A**: Agreed! I'll send you Haltia's address and a route map by message. Wear layered clothing, because it can be cooler in the forest. See you on Saturday!

@@ -1,40 +1,45 @@
-#### li_dia_35 — Mökkielämä
-**Learner role:** B
-**FI Konteksti:** Keskustelet miehesi veljen kanssa viikonloppumökkireissusta — saunasta, marjoista ja järvestä.
-**EN Context:** You chat with your husband's brother about a weekend cottage trip — sauna, berries, and the lake.
+#### li_dia_35 — Booking nature cabin for family weekend
+**Learner role:** A
+**Non-learner gender:** female
+**FI Konteksti:** Varaat luontomökin perheelle viikonlopuksi ja kysyt varustelusta, hinnasta ja aktiviteeteista.
+**EN Context:** You book a nature cabin for a family weekend and ask about amenities, price, and activities.
 
 **FI Koko mallidialogi:**
-- **A**: No niin, me saavuttiin mökille! Miltä tuntuu olla taas täällä Savonlinnassa?
-- **B**: Ihanaa! Mä oon odottanut tätä viikonloppua koko kesän. Täällä on niin rauhallista.
-- **A**: Joo, kaupungin melu unohtuu heti. Pitäisikö laittaa sauna lämpiämään?
-- **B**: Ehdottomasti! Mä voin hakea puita liiteristä. Mun mies lupasi lämmittää saunan tänään.
-- **A**: Hyvä, kiuas lämpiää noin tunnissa. Sillä välin me voitaisiin mennä uimaan. Vesi on vielä lämmintä.
-- **B**: Joo, mä haluan ehdottomasti uida. Viime kesänä mun tytär oppi uimaan täällä. Hän on niin innoissaan järvestä.
-- **A**: Se on hienoa! Onko hänellä uimaliivit mukana?
-- **B**: Joo, mä pakasin ne heti ekana. Turvallisuus ensin! Mutta hän on jo aika rohkea vedessä.
-- **A**: Huomenna aamulla me voitaisiin mennä marjametsään. Mustikat pitäisi olla jo kypsiä.
-- **B**: Mä rakastan mustikoiden poimimista! Viime vuonna mä tein mustikkapiirakan mökillä ja kaikki sanoi, että se oli paras.
-- **A**: Mä muistan sen! Pitää kerätä tarpeeksi, niin voit tehdä uudestaan. Täällä on myös puolukoita metsässä.
-- **B**: Hyvä, mä voin tehdä puolukkahilloa talveksi. Mun mies käyttää sitä lihapullien kanssa joka viikko.
-- **A**: Perinteinen suomalainen yhdistelmä! Illalla me voitaisiin grillata makkaraa nuotiolla.
-- **B**: Täydellistä! Mä toin myös piirakoita ja salaattia. Mökki-ilta nuotion ääressä on parasta.
-- **A**: Ehdottomasti. Ja saunan jälkeen hyppäämme järveen. Se on mökkielämän paras hetki.
-- **B**: Mä oon samaa mieltä. Ensimmäisinä vuosina se tuntui hullulta, mutta nyt mä rakastan sitä. Suomalainen mökki on maailman paras paikka.
+- **A**: Hei! Mä etsin mökkiä perheen viikonlopulle kahden viikon päähän. Meillä on kaksi aikuista ja yksi lapsi, ja haluaisimme mieluummin järven rannalle saunalla.
+- **B**: Hei, tervetuloa! Meillä on Koivuranta-mökki, joka on neljälle hengelle suoraan järven rannalla. Siinä on oma sauna ja laituri. Se ois vapaa ensi viikonloppuna perjantaista sunnuntaihin.
+- **A**: Kuulostaa hyvältä! Mitä mökissä on, onko siellä sähkö, juokseva vesi ja keittiö?
+- **B**: Joo, mökissä on sähköt, juokseva vesi ja täysin varusteltu keittiö. Siinä on jääkaappi, liesi, uuni ja astiat neljälle. Lisäksi on takka ja ulkogrilli. Liinavaatteet ja pyyhkeet kuuluu hintaan.
+- **A**: Selvä, mahtavaa. Paljonko kaksi yötä perjantaista sunnuntaihin maksaa?
+- **B**: Kaksi yötä maksaa kaksisataaneljäkymmentä euroa. Siihen sisältyy mökki, sauna, liinavaatteet ja polttopuut. Loppusiivous on erikseen viisikymmentä euroa, tai voitte siivota itse.
+- **A**: Me siivotaan itse. Mitä aktiviteetteja alueella on, mitä voi tehdä?
+- **B**: Järvellä voi soutaa ja kalastaa, meiltä saa vuokrata soutuveneen kymmenellä eurolla päivältä. Lähellä on luontopolku, joka on viiden kilometrin lenkki metsässä. Marjoja ja sieniä saa poimia vapaasti.
+- **A**: Entä uiminen, onko järvi hyvä uimiseen ja onko siellä hiekkaranta?
+- **B**: Rannassa on hiekkapohja ja vesi on puhdasta. Laiturista pääsee hyppäämään. Kesällä veden lämpötila on noin kaksikymmentä astetta. Lähin kauppa on kymmenen kilometrin päässä, eli suosittelemme, että ostatte ruuat etukäteen.
+- **A**: Milloin sisään- ja uloskirjautuminen on?
+- **B**: Sisäänkirjautuminen on perjantaina kello neljätoista jälkeen ja uloskirjautuminen sunnuntaina kello kaksitoista mennessä. Avaimet haetaan vastaanotosta päärakennuksesta.
+- **A**: Haluaisin varata mökin. Miten maksaminen hoituu ja tarvitaanko ennakkomaksu?
+- **B**: Varaus vahvistetaan viidenkymmenenprosentin ennakkomaksulla, eli satakaksikymmentä euroa. Loput maksetaan saapuessa. Peruutusehdot on seitsemän päivää ennen tuloa ilman kuluja.
+- **A**: Selvä, vahvistetaan se. Koivuranta-mökki, kaksi yötä, me siivotaan itse. Voitko lähettää vahvistuksen sähköpostiin?
+- **B**: Hienoa, mä laitan varauksen ja lähetän vahvistuksen sähköpostiin. Tervetuloa nauttimaan luonnosta!
+- **A**: Kiitos paljon, Hanna, odotan innolla! Hei hei!
+- **B**: Kiitos ja nähdään perjantaina! Hei hei!
 
 **EN Full sample dialogue:**
-- **A**: Alright, we've arrived at the cottage! How does it feel to be here in Savonlinna again?
-- **B**: Wonderful! I've been looking forward to this weekend all summer. It's so peaceful here.
-- **A**: Yeah, the city noise is forgotten immediately. Should we start heating the sauna?
-- **B**: Absolutely! I can get firewood from the shed. My husband promised to heat the sauna today.
-- **A**: Good, the stove heats up in about an hour. Meanwhile we could go swimming. The water is still warm.
-- **B**: Yes, I definitely want to swim. Last summer my daughter learned to swim here. She's so excited about the lake.
-- **A**: That's great! Does she have her swim vest with her?
-- **B**: Yes, I packed that first thing. Safety first! But she's already quite brave in the water.
-- **A**: Tomorrow morning we could go to the berry forest. The blueberries should be ripe already.
-- **B**: I love picking blueberries! Last year I made a blueberry pie at the cottage and everyone said it was the best.
-- **A**: I remember that! We need to pick enough so you can make it again. There are also lingonberries in the forest here.
-- **B**: Good, I can make lingonberry jam for winter. My husband uses it with meatballs every week.
-- **A**: A traditional Finnish combination! In the evening we could grill sausages over a campfire.
-- **B**: Perfect! I also brought pies and salad. A cottage evening by the campfire is the best.
-- **A**: Absolutely. And after the sauna we'll jump in the lake. That's the best moment of cottage life.
-- **B**: I agree. In the first years it felt crazy, but now I love it. A Finnish cottage is the best place in the world.
+- **A**: Hi! I'm looking for a cabin for a family weekend in two weeks. We have two adults and one child, and we'd prefer somewhere by a lake with a sauna.
+- **B**: Hi, welcome! We have the Koivuranta cabin, which is for 4 people right on the lakefront. It has its own sauna and dock. It would be available next weekend from Friday to Sunday.
+- **A**: That sounds great! What does the cabin include — is there electricity, running water, and a kitchen?
+- **B**: Yes, the cabin has electricity, running water, and a fully equipped kitchen. It has a fridge, stove, oven, and dishes for 4. Plus there's a fireplace and an outdoor grill. Bed linens and towels are included in the price.
+- **A**: Right, wonderful. How much do two nights cost, Friday to Sunday?
+- **B**: Two nights cost 240 euros. That includes the cabin, sauna, bed linens, and firewood. Final cleaning is separate at 50 euros, or you can clean yourselves.
+- **A**: We'll do the cleaning ourselves. What activities are there in the area, what can you do?
+- **B**: You can row and fish on the lake, we rent out a rowing boat for 10 euros per day. Nearby there's a nature trail, a 5-kilometer loop through the forest. You can pick berries and mushrooms freely.
+- **A**: What about swimming — is the lake good for swimming and is there a beach?
+- **B**: The shore has a sandy bottom and the water is clean. You can jump in from the dock. In summer the water temperature is about 20 degrees. The nearest shop is 10 kilometers away, so we recommend buying food before arrival.
+- **A**: What are the check-in and check-out times?
+- **B**: Check-in is Friday after 2 PM and check-out is Sunday by 12 noon. Keys are picked up from the reception in the main building.
+- **A**: I'd like to book the cabin. How do I pay — do I need to pay a deposit?
+- **B**: The booking is confirmed with a 50% deposit, so 120 euros. The rest is paid on arrival. Cancellation terms are 7 days before arrival at no charge.
+- **A**: Sure, let's confirm it. Koivuranta cabin, two nights, we'll clean ourselves. Can you send a confirmation by email?
+- **B**: Great, I'll put in the booking and send the confirmation by email. Welcome to enjoy nature!
+- **A**: Thanks a lot, Hanna, I'm looking forward to it! Bye bye!
+- **B**: Thanks and see you on Friday! Bye bye!

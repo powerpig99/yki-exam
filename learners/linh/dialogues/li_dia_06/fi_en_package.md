@@ -1,44 +1,37 @@
-#### li_dia_06 — Säästöt ja sijoitukset
+#### li_dia_06 — Applying for a home loan — terms, down payment, rates
 **Learner role:** A
-**FI Konteksti:** Käyt selvittämässä pankissa säästämis- ja sijoitusvaihtoehtoja.
-**EN Context:** You visit the bank to ask about savings and small investment options.
+**Non-learner gender:** female
+**FI Konteksti:** Käyt pankissa keskustelemassa asuntolainasta ja kysyt ehdoista, omarahoitusosuudesta ja koroista.
+**EN Context:** You visit the bank to discuss a home loan and ask about terms, down payment, and interest rates.
 
 **FI Koko mallidialogi:**
-- **A**: Hei, mulla on tapaaminen säästöneuvontaan. Mä olen Katja.
-- **B**: Hei Katja, tervetuloa! Mä olen Pekka, sijoitusneuvoja. Mitä asioita sulla on mielessä?
-- **A**: Mä olen säästänyt jonkin verran rahaa tilille, mutta korko on niin pieni, ettei se kannata. Mä haluaisin kuulla, mitä muita vaihtoehtoja on.
-- **B**: Hyvä kysymys. Paljonko sulla on säästöissä tällä hetkellä ja onko sulla joku tavoite niille rahoille?
-- **A**: Mulla on noin kaksikymmentätuhatta euroa säästötilillä. Osa on hätätilanteita varten, mutta lopulle mä haluaisin parempaa tuottoa. Mä en tarvitse sitä rahaa lähivuosina.
-- **B**: Selvä. Silloin sijoittaminen voisi olla hyvä vaihtoehto. Aloittelijoille mä suosittelen usein rahastoja, koska ne on hajautettuja ja helppoja.
-- **A**: Mä olen kuullut indeksirahastoista. Miten ne toimii käytännössä?
-- **B**: Indeksirahasto seuraa tiettyä osakeindeksiä, esimerkiksi Euroopan tai maailman osakkeita. Kulut on pienet, yleensä nollapilkkukaksi tai kolme prosenttia vuodessa. Historiallisesti tuotto on ollut keskimäärin kuudesta seitsemään prosenttia vuodessa.
-- **A**: Se kuulostaa hyvältä. Mikä on pienin summa, jolla voi aloittaa? Mä voisin laittaa noin kaksisataa euroa kuussa.
-- **B**: Meidän rahastoissa minimi on viisikymmentä euroa kerralla tai kolmekymmentä euroa kuussa kuukausisäästämisellä. Kaksisataa euroa kuussa on hyvä summa.
-- **A**: Onko joku riski, josta mun pitäis tietää? Mun sijoitusaika olisi vähintään seitsemästä kymmeneen vuotta.
-- **B**: Osakerahastojen arvo vaihtelee ja lyhyellä aikavälillä se voi laskea. Mutta viiden vuoden tai pidemmällä tähtäimellä riski pienenee huomattavasti. Seitsemän vuotta on hyvä minimi.
-- **A**: Entä mitä mä maksan veroina, jos myyn rahasto-osuudet voitolla?
-- **B**: Suomessa sijoitusten tuotosta maksetaan kolmekymmentä prosenttia pääomaveroa. Mutta osakesäästötili voisi kiinnostaa, koska siinä vero maksetaan vasta, kun rahat nostetaan tililtä pois.
-- **A**: Osakesäästötili kuulostaa järkevältä. Voitko avata mulle sellaisen ja laittaa kuukausisäästämisen alkuun?
-- **B**: Totta kai. Mä tarvitsen vain henkilöllisyystodistuksen ja allekirjoituksen. Sijoitusprofiilin kysely pitää myös täyttää, se kestää noin viisi minuuttia.
-- **A**: Selvä, mä täytän kyselyn yhdessä teidän kanssa. Kiitos Pekka, tämä oli todella valaiseva tapaaminen!
-- **B**: Kiitos Katja! Säästämisellä on aina hyvä aloittaa. Nähdään taas puolen vuoden päästä tarkistamassa, miten sijoitukset menee.
+- **A**: Hei, mä haluaisin kysyä asuntolainasta. Me ollaan miehen kanssa ostamassa ensimmäistä omistusasuntoa.
+- **B**: Hei, tervetuloa! Onko jokin asunto jo mielessä vai oletteko alkuvaiheessa?
+- **A**: Me ollaan katsottu kaksioita Espoosta, hintahaarukka on noin kaksisataa tuhatta euroa.
+- **B**: Hyvä hintahaarukka. Omarahoitusosuus on vähintään viisi prosenttia mutta me suositellaan kymmentä viittätoista prosenttia, koska silloin marginaali on pienempi.
+- **A**: Paljonko on tämänhetkinen korko ja mikä on marginaali?
+- **B**: Kahdentoista kuukauden euribor on noin kaksi pilkku kahdeksan prosenttia ja meidän marginaali alkaa nolla pilkku kuudesta. Kokonaiskorko olisi noin kolme pilkku neljä prosenttia.
+- **A**: Mikä on tyypillisin laina-aika ja paljonko kuukausierä olisi, jos me otetaan kaksisataakolmekymmentätuhatta euroa lainaa?
+- **B**: Yleisin laina-aika on kaksikymmentäviisi vuotta. Silloin kuukausierä olisi noin tuhatyksi euroa sisältäen lyhennyksen ja korot. Vaihtuva korko on yleisempi Suomessa, kiinteä on kalliimpi mutta antaa ennakoitavuutta.
+- **A**: Mitä papereita tarvitaan lainahakemukseen?
+- **B**: Tarvitaan kolmen kuukauden palkkatodistukset, viimeisin verotuspäätös ja tiedot muista lainoista ja säästöistä. Jos olette kaksi hakijaa, molemmilta samat paperit.
+- **A**: Kauanko lainapäätös kestää, kun paperit on toimitettu?
+- **B**: Yleensä yhdestä kolmeen arkipäivää kun paperit ovat kunnossa. Lainatarjous on voimassa kolme kuukautta.
+- **A**: Kiitos Minna, mä kerään paperit ja tulen takaisin ensi viikolla.
+- **B**: Hienoa, varatkaa aika verkkopankissa. Onnea asunnonhakuun!
 
 **EN Full sample dialogue:**
-- **A**: Hi, I have an appointment for savings consultation. I'm Katja.
-- **B**: Hi Katja, welcome! I'm Pekka, an investment advisor. What's on your mind?
-- **A**: I've saved some money in an account, but the interest is so small that it's not worth it. I'd like to hear what other options there are.
-- **B**: Good question. How much do you have in savings right now and do you have a goal for that money?
-- **A**: I have about 20,000 euros in a savings account. Some is for emergencies, but for the rest I'd like better returns. I won't need that money in the coming years.
-- **B**: I see. Then investing could be a good option. For beginners I often recommend funds, because they're diversified and easy.
-- **A**: I've heard about index funds. How do they work in practice?
-- **B**: An index fund follows a specific stock index, for example European or world stocks. The costs are low, usually 0.2 or 0.3 percent per year. Historically the return has been on average 6 to 7 percent per year.
-- **A**: That sounds good. What's the smallest amount you can start with? I could put about 200 euros per month.
-- **B**: In our funds the minimum is 50 euros at a time or 30 euros per month with monthly savings. 200 euros per month is a good amount.
-- **A**: Is there any risk I should know about? My investment period would be at least 7 to 10 years.
-- **B**: Stock fund values fluctuate and in the short term they can drop. But over a 5-year or longer horizon the risk decreases significantly. 7 years is a good minimum.
-- **A**: What about taxes if I sell the fund units at a profit?
-- **B**: In Finland, you pay 30 percent capital gains tax on investment returns. But a share savings account might interest you, because with that tax is only paid when you withdraw money from the account.
-- **A**: A share savings account sounds sensible. Can you open one for me and start the monthly savings?
-- **B**: Of course. I just need an ID and a signature. The investment profile questionnaire also needs to be filled out, it takes about 5 minutes.
-- **A**: Understood, I'll fill out the questionnaire together with you. Thanks Pekka, this was a really enlightening meeting!
-- **B**: Thank you Katja! It's always good to start saving. We'll meet again in 6 months to check how the investments are doing.
+- **A**: Hi, I'd like to ask about a home loan. My husband and I are buying our first owner-occupied apartment.
+- **B**: Hi, welcome! Do you have an apartment in mind already or are you at the beginning stage?
+- **A**: We've been looking at two-room apartments in Espoo, around 200,000 euros or so.
+- **B**: Good price range. The down payment is at least 5 percent but we recommend 10 to 15 percent, because the margin will be lower.
+- **A**: What is the current interest rate and what is the margin?
+- **B**: The 12-month Euribor is about 2.8 percent and our margin starts at 0.6. So the total interest rate would be about 3.4 percent.
+- **A**: What is the most typical loan term and what would the monthly payment be if we take a 230,000 euro loan?
+- **B**: The most common term is 25 years. Then the monthly payment would be about 1100 euros including amortization and interest. A variable rate is more common in Finland; fixed is more expensive but gives predictability.
+- **A**: What documents are needed for the loan application?
+- **B**: We need salary certificates from the last 3 months, the latest tax decision, and information about other loans and savings. If there are two applicants, the same documents from both.
+- **A**: How long does the loan decision take once the documents have been submitted?
+- **B**: Usually 1 to 3 business days when the papers are in order. The loan offer is valid for three months.
+- **A**: Thank you Minna, I'll gather the documents and come back next week.
+- **B**: Great, book an appointment through online banking. Good luck with your apartment search!

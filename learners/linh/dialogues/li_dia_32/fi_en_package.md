@@ -1,42 +1,43 @@
-#### li_dia_32 — Kirjastossa
-**Learner role:** A
-**FI Konteksti:** Menet kirjastoon hankkimaan kirjastokortin ja kysyt lasten tapahtumista.
-**EN Context:** You go to the library to get a library card and ask about children's events.
+#### li_dia_32 — Library card application
+**Learner role:** B
+**Non-learner gender:** female
+**FI Konteksti:** Haet kirjastokorttia ja kysyt lainaussäännöistä, uusimisesta ja sähkökirjoista.
+**EN Context:** You apply for a library card and ask about borrowing rules, renewal, and e-books.
 
 **FI Koko mallidialogi:**
-- **A**: Hei, mä haluaisin hankkia kirjastokortin. Mä en oo koskaan ollut Helmet-kirjaston asiakas.
-- **B**: Hei, tervetuloa! Kirjastokortti on maksuton. Tarvitsen henkilöllisyystodistuksen, esimerkiksi passin tai henkilökortin.
-- **A**: Tässä on mun henkilökortti. Mä asun Leppävaarassa ja tämä Sellon kirjasto on mua lähinnä.
-- **B**: Hienoa, Sellon kirjasto on todella hyvä. Helmet-kortti toimii kaikissa pääkaupunkiseudun kirjastoissa. Täyttäkää tämä lomake.
-- **A**: Selvä. Voiko samalla kortilla lainata myös e-kirjoja ja äänikirjoja?
-- **B**: Kyllä, Helmet-kortti antaa pääsyn e-kirjapalveluihin ja musiikkikirjastoon. Kaikki toimii verkossa.
-- **A**: Mahtavaa! Mä luen paljon rikosromaaneja. Onko teillä hyvä valikoima suomenkielisiä dekkareja?
-- **B**: Meillä on erinomainen dekkarikokoelma. Suosittelen kokeilemaan vaikkapa Reijo Mäkeä tai Maria Kalevaa, jos haluatte suomalaista jännitystä.
-- **A**: Kiitos, mä katson niitä! Mulla on myös neljävuotias tytär. Onko kirjastossa tapahtumia pienille lapsille?
-- **B**: On paljon. Meillä on satutunti joka tiistai kello kymmeneltä. Se on tarkoitettu kolme-kuusivuotiaille ja se kestää noin neljäkymmentäviisi minuuttia.
-- **A**: Se kuulostaa ihanalta! Pitääkö satutunnille ilmoittautua etukäteen?
-- **B**: Ei tarvitse, sinne voi tulla vapaasti. Meillä on myös askartelupaja lauantaisin ja elokuvanäytöksiä lapsille kerran kuussa.
-- **A**: Entä onko kirjastossa jotain tilaa, jossa lapsi voi leikkiä samalla kun mä luen?
-- **B**: On, meillä on lasten osasto toisessa kerroksessa. Siellä on leikkialue, pelejä ja piirustusvälineitä. Vanhemmat voivat lukea vieressä.
-- **A**: Täydellistä. Mä tuon tyttäreni tänne ensi lauantaina. Mihin asti kirjasto on auki lauantaisin?
-- **B**: Lauantaisin kirjasto on auki kymmenestä kuuteentoista. Arkisin aukioloaika on kahdeksasta kahteenkymmeneen. Tervetuloa takaisin!
-- **A**: Kiitos todella paljon kaikista tiedoista! Me nähdään ensi viikolla.
+- **A**: Tervetuloa kirjastoon! Miten voin auttaa?
+- **B**: Hei! Mä haluaisin hankkia kirjastokortin. Mitä tarvitaan hakemiseen?
+- **A**: Kirjastokortti on ilmainen. Tarvitaan vaan henkilöllisyystodistus ja suomalainen osoite. Kortti tehdään tässä heti, samalla luon sulle tunnukset verkkokirjastoon.
+- **B**: Täällä on mun henkilökortti. Kuinka monta kirjaa saa lainata kerralla ja kuinka pitkäksi aikaa?
+- **A**: Kerralla saa lainata enintään viisikymmentä nidettä. Laina-aika on neljä viikkoa kirjoille ja kaksi viikkoa uutuuksille ja lehdille.
+- **B**: Mitä tapahtuu jos palauttaa myöhässä, onko myöhästymismaksu?
+- **A**: Myöhästymismaksu on kaksikymmentä senttiä päivältä kirjalta, enintään kuusi euroa per laina. Lasten ja nuorten lainoista ei mene myöhästymismaksua.
+- **B**: Hyvä tietää. Voiko lainoja uusia verkossa tai sovelluksessa?
+- **A**: Joo, verkkokirjastossa tai sovelluksessa. Voit uusia lainan kaksi kertaa, paitsi jos joku on varannut saman kirjan. Uusiminen pidentää laina-aikaa neljällä viikolla.
+- **B**: Entä sähkökirjat ja äänikirjat, kuuluvatko ne kirjastokorttiin?
+- **A**: Kyllä, meillä on sähkökirjoja ja äänikirjoja Ellibs-palvelun kautta. Ne toimii omalla laitteella, tabletilla tai puhelimella. Laina-aika on kaksi viikkoa ja kerralla voi lainata viisi sähkökirjaa.
+- **B**: Mahtavaa! Mitkä ovat kirjaston aukioloajat ja voiko kirjastoon tulla aukioloaikojen ulkopuolella?
+- **A**: Arkisin ollaan auki kymmenestä kahdeksaan illalla. Lauantaisin kymmenestä neljään ja sunnuntaisin kahdestatoista neljään. Omatoimiaikana pääset sisään kirjastokortilla ja pin-koodilla, voit lainata ja palauttaa automaateilla ilman henkilökuntaa.
+- **B**: Se on tosi kätevää. Toimiiko kortti myös muissa alueen kirjastoissa?
+- **A**: Kyllä, kortti on voimassa kaikissa Helmet-kirjastoissa Helsingissä, Espoossa, Vantaalla ja Kauniaisissa. Voit lainata yhdestä ja palauttaa toiseen.
+- **B**: Kiitos paljon, Sanna! Mä olen innoissani, että pääsen lainaamaan kirjoja. Hei hei!
+- **A**: Ole hyvä! Tässä on korttisi. Pin-koodi tulee tekstiviestillä. Tervetuloa lukemaan, hei hei!
 
 **EN Full sample dialogue:**
-- **A**: Hi, I'd like to get a library card. I've never been a Helmet library customer.
-- **B**: Hi, welcome! The library card is free. I need an ID, for example a passport or an identity card.
-- **A**: Here is my identity card. I live in Leppävaara and this Sello library is the closest one to me.
-- **B**: Great, Sello library is really good. The Helmet card works in all libraries in the capital region. Please fill out this form.
-- **A**: Right. Can the same card also be used to borrow e-books and audiobooks?
-- **B**: Yes, the Helmet card gives access to e-book services and the music library. Everything works online.
-- **A**: Wonderful! I read a lot of crime novels. Do you have a good selection of Finnish-language detective novels?
-- **B**: We have an excellent detective novel collection. I recommend trying for example Reijo Mäki or Maria Kaleva if you want Finnish suspense.
-- **A**: Thanks, I'll check those out! I also have a 4-year-old daughter. Does the library have events for small children?
-- **B**: There are many. We have a story hour every Tuesday at 10 o'clock. It's designed for 3 to 6-year-olds and it lasts about 45 minutes.
-- **A**: That sounds lovely! Do you need to register for the story hour in advance?
-- **B**: No need, you can come freely. We also have a craft workshop on Saturdays and movie screenings for children once a month.
-- **A**: Is there also a space in the library where my child can play while I read?
-- **B**: Yes, we have a children's section on the second floor. There's a play area, games, and drawing supplies. Parents can read nearby.
-- **A**: Perfect. I'll bring my daughter here next Saturday. What time is the library open until on Saturdays?
-- **B**: On Saturdays the library is open from 10 to 16. On weekdays the opening hours are from 8 to 20. Welcome back!
-- **A**: Thank you so much for all the information! We'll see each other next week.
+- **A**: Welcome to the library! How can I help?
+- **B**: Hi! I'd like to get a library card. What do I need for the application?
+- **A**: The library card is free. We just need an ID and a Finnish address. The card is made right here, and at the same time I'll create your online library account.
+- **B**: Here's my ID card. How many books can I borrow at a time and for how long?
+- **A**: You can borrow up to 50 items at a time. The loan period is 4 weeks for books and 2 weeks for new arrivals and magazines.
+- **B**: What happens if I return books late — is there a late fee?
+- **A**: The late fee is 20 cents per day per book, maximum 6 euros per loan. Children's and young adults' loans have no late fees.
+- **B**: Good to know. Can I renew loans online or in an app?
+- **A**: Yes, in the online library or in the app. You can renew a loan twice, unless someone has reserved the same book. Renewal extends the loan period by 4 weeks.
+- **B**: What about e-books and audiobooks — are they available with the library card?
+- **A**: Yes, we have e-books and audiobooks through the Ellibs service. They work on your own device, tablet, or phone. The loan period is 2 weeks and you can borrow 5 e-books at a time.
+- **B**: Wonderful! What are the library's opening hours and can you use the library outside regular hours?
+- **A**: On weekdays we're open from 10 to 8 PM. Saturdays from 10 to 4 and Sundays from 12 to 4. During self-service hours you can enter with your library card and pin code, and borrow and return using the machines without staff present.
+- **B**: That's very convenient. Does the card work in other libraries in the region too?
+- **A**: Yes, the card is valid in all Helmet libraries in Helsinki, Espoo, Vantaa, and Kauniainen. You can borrow from one and return to another.
+- **B**: Thanks a lot, Sanna! I'm excited to start borrowing books. Bye bye!
+- **A**: You're welcome! Here's your card. The pin code will come by text message. Welcome to read, bye bye!

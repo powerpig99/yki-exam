@@ -1,44 +1,43 @@
-#### li_dia_24 — Kirjallisuuspiiri
-**Learner role:** A
-**FI Konteksti:** Käyt kirjastossa ja kysyt kirjallisuuspiiristä, jossa luetaan dekkareja. Ilmoittaudut ryhmään.
-**EN Context:** You visit the library and ask about a book club that reads crime novels. You sign up for the group.
+#### li_dia_24 — Discussing summer cottage rental
+**Learner role:** B
+**Non-learner gender:** female
+**FI Konteksti:** Soitat mökkivuokraamoon ja kysyt kesämökin vuokraamisesta, sijainnista, varusteista ja saatavuudesta.
+**EN Context:** You call a cottage rental agency and ask about renting a summer cottage, location, amenities, and availability.
 
 **FI Koko mallidialogi:**
-- **A**: Hei! Mä näin ilmoitustaululla, että kirjastossa on dekkarilukupiiri. Mä oon iso dekkariharrastaja ja haluaisin tietää siitä lisää.
-- **B**: Hei! Joo, meillä on ollut dekkarilukupiiri jo kolme vuotta. Mä oon Jukka, kirjaston informaatikko, ja mä vetän sitä ryhmää. Millaisia dekkareita sä luet?
-- **A**: Mä luen paljon pohjoismaisia dekkareita. Mä tykkään Ilkka Remeksestä ja Leena Lehtolaisesta. Viimeksi mä luin Camilla Läckbergin uusimman.
-- **B**: Hienoa, sä sopisit ryhmään todella hyvin. Meillä on juuri painotus pohjoismaisiin dekkareihin, mutta luetaan välillä myös muita. Ryhmä kokoontuu kerran kuussa.
-- **A**: Kuulostaa täydelliseltä! Milloin ja missä ryhmä kokoontuu?
-- **B**: Joka kuun toinen torstai kello kahdeksantoista. Me kokoonnutaan kirjaston lehtisalissa ja siellä on kahvitarjoilu. Tapaaminen kestää noin puolitoista tuntia.
-- **A**: Torstai-illat sopii mulle hyvin. Montako jäsentä ryhmässä on?
-- **B**: Tällä hetkellä meillä on kahdeksan jäsentä. Ryhmässä mahtuu vielä muutama uusi, ihannemäärä on kymmenen-kaksitoista henkilöä. Meillä on todella mukava porukka.
-- **A**: Miten se käytännössä toimii? Luetteko te kaikki saman kirjan vai valitseeko jokainen oman?
-- **B**: Me luetaan kaikki sama kirja. Mä ehdotan kolme vaihtoehtoa ja ryhmä äänestää. Kirjasto hankkii riittävästi kopioita, niin kaikkien ei tarvitse ostaa omaa.
-- **A**: Se on kätevää. Keskustellaanko kirjoista jotenkin ohjatusti vai vapaasti?
-- **B**: Mä valmistelen muutaman keskustelukysymyksen joka kerta, mutta muuten keskustelu on vapaata. Puhutaan juonesta, hahmoista ja kirjoitustyylistä. Välillä vertaillaan saman kirjailijan eri teoksia.
-- **A**: Kuulostaa tosi kiinnostavalta! Mikä kirja teillä on seuraavaksi vuorossa?
-- **B**: Seuraava kirja on Maria Kalikaan uusin dekkari "Jäätynyt järvi". Se on tosi jännittävä ja tapahtumat sijoittuu Lappiin. Onko sulla tuttu kirjailija?
-- **A**: Mä oon kuullut hänestä, mutta en ole vielä lukenut. Tää on hyvä tilaisuus aloittaa. Milloin seuraava tapaaminen on?
-- **B**: Seuraava tapaaminen on maaliskuun toisena torstaina, eli kahdestoista päivä. Sulla on noin neljä viikkoa aikaa lukea kirja. Haluatko lainata sen heti?
-- **A**: Joo, mä lainaan sen nyt! Kiitos todella paljon kaikesta tiedosta. Mä odotan innolla ensimmäistä kertaa.
-- **B**: Mahtavaa, tervetuloa mukaan! Mä laitan sun sähköpostin jakelulistalle, niin saat muistutuksen ennen tapaamista. Nähdään maaliskuussa!
+- **A**: Järvi-Suomen Mökkivuokraus, Päivi puhelimessa. Miten voin auttaa?
+- **B**: Hei! Mä oon Hanna Nguyen. Me ollaan etsimässä kesämökkiä viikoksi heinäkuussa. Mitä teillä on vapaana?
+- **A**: Hei! Meillä on useita mökkejä vapaana heinäkuussa. Haluatko mökin järven rannalla vai metsän keskellä? Ja kuinka monelle hengelle?
+- **B**: Me halutaan järvimökki neljälle hengelle. Me ollaan kiinnostuneita erityisesti Saimaan alueesta. Mitä teillä on tarjolla siellä?
+- **A**: Saimaan alueella meillä on kolme vaihtoehtoa. Puukkoniemen mökki Savonlinnassa on neljälle hengelle, kaksi makuuhuonetta ja oma ranta. Vuokra on kahdeksansataaneljäkymmentä euroa viikossa.
+- **B**: Mitä varusteita mökissä on, esimerkiksi sauna, sähköt ja juokseva vesi?
+- **A**: Mökissä on sähköt, juokseva vesi, sisävessa ja puulämmitteinen sauna. Keittiössä on liesi, jääkaappi ja astianpesukone. Rantasaunasta pääsee suoraan uimaan.
+- **B**: Onko hintaan sisällytetty soutuvene, ja voiko rannalta kalastaa?
+- **A**: Soutuvene kuuluu hintaan. Kanootin voi vuokrata erikseen viisikymmentä euroa viikossa. Kalastus onnistuu hyvin, mutta kalastuslupa täytyy ostaa erikseen verkossa. Viikon lupa maksaa seitsemän euroa.
+- **B**: Mitä se toinen vaihtoehto on? Onko se halvempi tai erilainen jotenkin?
+- **A**: Toinen vaihtoehto on Rantalan mökki Punkaharjulla. Se on hieman pienempi, yksi makuuhuone ja parvisänky. Hinta on kuusisataakaksikymmentä euroa viikossa. Siinäkin on sauna ja oma ranta.
+- **B**: Ensimmäinen mökki kuulostaa paremmalta perheelle. Onko heinäkuun viimeinen viikko vielä vapaana Puukkoniemessä?
+- **A**: Mä tarkistan. Viikko kolmekymmentäyksi eli heinäkuun kaksikymmentäkahdeksas elokuun kolmanteen on vielä vapaana Puukkoniemessä. Se on suosittu viikko, joten suosittelen varaamaan pian.
+- **B**: Milloin sisään- ja uloskirjautuminen on, miten avaimet saa ja mikä on peruutuskäytäntö?
+- **A**: Sisäänkirjautuminen on lauantaina kello kuusitoista ja uloskirjautuminen seuraavana lauantaina kello kahdeltatoista. Avaimet haetaan toimistoltamme tai lukkolaatikosta mökin ovella. Varaus on peruttavissa ilmaiseksi kolmekymmentä päivää ennen tulopäivää, sen jälkeen peritään viisikymmentä prosenttia vuokrasta.
+- **B**: Hyvä, mä haluaisin varata Puukkoniemen mökin viikolle kolmekymmentäyksi. Miten vahvistus tapahtuu?
+- **A**: Mahtavaa! Mä lähetän varausvahvistuksen ja maksulinkin sähköpostiisi. Ennakkomaksu on kolmekymmentä prosenttia eli kaksisataaviisikymmentäkaksi euroa, ja loput maksetaan kaksi viikkoa ennen tuloa. Hyvää kesää ja tervetuloa Saimaalle!
 
 **EN Full sample dialogue:**
-- **A**: Hi! I saw on the notice board that the library has a crime novel book club. I'm a big crime fiction enthusiast and I'd like to know more about it.
-- **B**: Hi! Yes, we've had a crime novel book club for 3 years. I'm Jukka, the library's information specialist, and I lead the group. What kind of crime novels do you read?
-- **A**: I read a lot of Nordic crime fiction. I like Ilkka Remes and Leena Lehtolainen. Most recently I read Camilla Läckberg's latest.
-- **B**: Great, you'd fit the group really well. We have a focus specifically on Nordic crime novels, but we read other ones sometimes too. The group meets once a month.
-- **A**: Sounds perfect! When and where does the group meet?
-- **B**: Every second Thursday of the month at 18:00. We meet in the library's reading room and there's coffee served. The meeting lasts about 1.5 hours.
-- **A**: Thursday evenings work well for me. How many members are in the group?
-- **B**: Currently we have 8 members. The group has room for a few more, the ideal number is 10-12 people. We have a really nice bunch.
-- **A**: How does it work in practice? Do you all read the same book or does everyone choose their own?
-- **B**: We all read the same book. I suggest 3 options and the group votes. The library acquires enough copies, so not everyone needs to buy their own.
-- **A**: That's convenient. Are the book discussions guided in some way or free-form?
-- **B**: I prepare a few discussion questions each time, but otherwise the discussion is free. We talk about the plot, characters, and writing style. Sometimes we compare different works by the same author.
-- **A**: That sounds really interesting! What book is up next for you?
-- **B**: The next book is Maria Kalikka's latest crime novel "Jäätynyt järvi". It's really exciting and the events take place in Lapland. Is the author familiar to you?
-- **A**: I've heard of her, but I haven't read her yet. This is a good opportunity to start. When is the next meeting?
-- **B**: The next meeting is the second Thursday of March, which is the 12th. You have about 4 weeks to read the book. Would you like to borrow it right away?
-- **A**: Yes, I'll borrow it now! Thank you so much for all the information. I'm looking forward to the first time.
-- **B**: Wonderful, welcome aboard! I'll add your email to the mailing list so you'll get a reminder before the meeting. See you in March!
+- **A**: Lake District Cottage Rentals, Päivi speaking. How can I help?
+- **B**: Hi! I'm Hanna Nguyen. We're looking for a summer cottage for a week in July. What do you have available?
+- **A**: Hi! We have several cottages available in July. Would you like a cottage on the lakeside or in the middle of the forest? And for how many people?
+- **B**: We want a lakeside cottage for four people. We're especially interested in the Saimaa area. What do you have on offer there?
+- **A**: In the Saimaa area we have three options. The Puukkoniemi cottage in Savonlinna is for four people, two bedrooms and its own beach. The rent is 840 euros per week.
+- **B**: What amenities does the cottage have — for example a sauna, electricity, and running water?
+- **A**: The cottage has electricity, running water, an indoor toilet, and a wood-heated sauna. The kitchen has a stove, refrigerator, and dishwasher. From the lakeside sauna you can go directly for a swim.
+- **B**: Is a rowboat included in the price, and is it possible to fish from the shore?
+- **A**: A rowboat is included in the price. A canoe can be rented separately for 50 euros per week. Fishing is easily done, but a fishing permit must be bought separately online. A weekly permit costs 7 euros.
+- **B**: What is the second option? Is it cheaper or different in some way?
+- **A**: The second option is the Rantala cottage in Punkaharju. It's slightly smaller, one bedroom and a loft bed. The price is 620 euros per week. It also has a sauna and its own beach.
+- **B**: The first cottage sounds better for a family. Is the last week of July still free at Puukkoniemi?
+- **A**: Let me check. Week 31, meaning July 28th to August 3rd, is still available at Puukkoniemi. It's a popular week, so I recommend booking soon.
+- **B**: When is check-in and check-out, how do you get the keys, and what is the cancellation policy?
+- **A**: Check-in is on Saturday at four in the afternoon and check-out is the following Saturday at noon. Keys are picked up from our office or from a lockbox at the cottage door. The booking can be cancelled free of charge thirty days before the arrival date, after that fifty percent of the rent is charged.
+- **B**: Good, I'd like to book the Puukkoniemi cottage for week 31. How does the booking confirmation work?
+- **A**: Wonderful! I'll send the booking confirmation and payment link to your email. The advance payment is thirty percent, so 252 euros, and the rest is paid two weeks before arrival. Have a great summer and welcome to Saimaa!

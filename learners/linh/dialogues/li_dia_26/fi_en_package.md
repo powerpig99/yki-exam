@@ -1,44 +1,39 @@
-#### li_dia_26 — Pyörävarkaus
-**Learner role:** A
-**FI Konteksti:** Menet poliisilaitokselle ilmoittamaan varastetusta polkupyörästä.
-**EN Context:** You go to the police station to report a stolen bicycle.
+#### li_dia_26 — Calling plumber about blocked drain
+**Learner role:** B
+**Non-learner gender:** female
+**FI Konteksti:** Soitat putkimiehelle tukkeutuneen viemärin takia ja sovit käynnistä sekä kustannuksista.
+**EN Context:** You call a plumber about a blocked drain and arrange a visit and discuss costs.
 
 **FI Koko mallidialogi:**
-- **A**: Hei, mä tulisin tekemään rikosilmoitusta. Mun polkupyörä varastettiin eilen illalla.
-- **B**: Hei, ikävä kuulla. Istukaa alas, niin täytetään ilmoitus. Mikä teidän nimenne on?
-- **A**: Mun nimi on Sanna Korhonen. Mä asun Leppävaarassa Ratakadulla.
-- **B**: Selvä. Missä ja milloin pyörä katosi?
-- **A**: Mä jätin sen Leppävaaran aseman pyörätelineeseen eilen noin kello viideltä. Kun mä tulin takaisin kello yhdeksältä, pyörä oli poissa.
-- **B**: Oliko pyörä lukittu?
-- **A**: Joo, siinä oli runkolukko ja ketjulukko. Ketjulukko oli katkaistu ja jätetty maahan.
-- **B**: Okei, mä kirjaan sen ylös. Minkälainen pyörä se oli?
-- **A**: Se on musta Helkama-naistenpyörä, seitsemän vaihdetta. Mä ostin sen viime keväänä ja se maksoi kuusisataaviisikymmentä euroa.
-- **B**: Onko teillä rungon sarjanumero tai kuvaa pyörästä?
-- **A**: Mulla on kuva pyörästä puhelimessa. Sarjanumero löytyy takuutodistuksesta, mä voin lähettää sen sähköpostilla.
-- **B**: Hyvä, lähettäkää se tähän osoitteeseen. Oliko pyörässä jotain erityistä, mistä sen tunnistaa?
-- **A**: Joo, takalokasuojassa on punainen heijastintarra ja satulassa pieni repeämä vasemmalla puolella.
-- **B**: Selvä, nuo yksityiskohdat auttavat paljon. Ilmoitus menee nyt järjestelmään. Tässä on ilmoitusnumero.
-- **A**: Kiitos. Pitääkö mun ilmoittaa tästä myös vakuutusyhtiölle?
-- **B**: Kyllä, ottakaa yhteyttä vakuutusyhtiöön ja antakaa heille tämä ilmoitusnumero. He tarvitsevat myös kuitin pyörästä.
-- **A**: Selvä, mä hoidan sen heti. Onko mitään mahdollisuutta, että pyörä löytyy?
-- **B**: Pyörävarkauksissa löytöprosentti on valitettavasti aika pieni. Mutta jos pyörä löytyy, me ollaan teihin yhteydessä. Kannattaa myös seurata nettikirpputoreja.
+- **A**: LVI-Palvelu Minna Korhonen, hei. Miten voin auttaa?
+- **B**: Hei, mun nimi on Linh ja mä soitan Leppävaarasta. Meidän keittiön viemäri on täysin tukossa ja vesi ei mene alas ollenkaan, eilen illasta asti.
+- **A**: Okei, kuulostaa tukokselta. Ootko kokeillut imukuppia tai mitään puhdistusainetta?
+- **B**: Joo, mä kokeilin imukuppia ja viemärinavaajaa, mutta mikään ei auttanut. Vesi seisoo tiskialtaassa ihan liikkumatta.
+- **A**: Joo, silloin se on todennäköisesti isompi tukos putkistossa. Mun täytyy tulla kattomaan paikan päälle. Sopiiko huomenna aamupäivällä kympiltä?
+- **B**: Huominen aamupäivä sopii hyvin. Kuinka kauan käynti kestää ja paljonko se maksaa?
+- **A**: Tukoksen avaus kestää puolesta tunnista tuntiin. Käyntimaksu on kuusikymmentäviisi euroa, ja siihen päälle työn hinta. Normaali viemärin avaus on noin satakaksikymmentä euroa kokonaisuudessaan.
+- **B**: Sisältääkö hinta arvonlisäveron? Ja voiko kotitalousvähennystä käyttää tähän?
+- **A**: Joo, kaikki hinnat on arvonlisäverollisia. Kotitalousvähennyksessä saat vähentää neljäkymmentä prosenttia työn osuudesta verotuksessa. Se ei koske materiaaleja eikä käyntimaksua.
+- **B**: Hyvä tietää, kiitos. Mä vahvistan ajan huomiselle kympille. Osoite on Turuntie kaksikymmentäneljä B, kolmas kerros, Leppävaara.
+- **A**: Hyvä, mä kirjaan sen. Mulla on omat työkalut mukana, niin sun ei tarvii huolehtia mistään. Laita vaan tiskiallas tyhjäksi.
+- **B**: Pitääkö mun ilmoittaa asiasta isännöitsijälle etukäteen?
+- **A**: Jos se on taloyhtiön putkistossa, niin kannattaa ilmoittaa isännöitsijälle. Mutta ensin katon onko se sun asunnon puolella vai yhteisessä putkistossa. Sen jälkeen tiedetään kuka maksaa.
+- **B**: Selvä, kiitos Minna. Mä tyhjennän tiskialtaan valmiiksi. Nähdään huomenna kympiltä!
+- **A**: Kiitos soitosta, Linh. Nähdään huomenna kympiltä. Hei hei!
 
 **EN Full sample dialogue:**
-- **A**: Hi, I'd like to file a police report. My bicycle was stolen last night.
-- **B**: Hi, sorry to hear that. Please sit down and we'll fill out the report. What is your name?
-- **A**: My name is Sanna Korhonen. I live in Leppävaara on Ratakatu.
-- **B**: Right. Where and when did the bicycle go missing?
-- **A**: I left it at the Leppävaara station bike rack yesterday at about 5 o'clock. When I came back at 9 o'clock, the bike was gone.
-- **B**: Was the bicycle locked?
-- **A**: Yes, it had a frame lock and a chain lock. The chain lock was cut and left on the ground.
-- **B**: Okay, I'll write that down. What kind of bicycle was it?
-- **A**: It's a black Helkama women's bike, 7 speeds. I bought it last spring and it cost 650 €.
-- **B**: Do you have the frame serial number or a photo of the bike?
-- **A**: I have a photo of the bike on my phone. The serial number is on the warranty certificate, I can send it by email.
-- **B**: Good, send it to this address. Was there anything special about the bike that makes it identifiable?
-- **A**: Yes, the rear fender has a red reflective sticker and the saddle has a small tear on the left side.
-- **B**: Right, those details help a lot. The report is now going into the system. Here is the report number.
-- **A**: Thanks. Do I need to report this to the insurance company as well?
-- **B**: Yes, contact your insurance company and give them this report number. They will also need the receipt for the bike.
-- **A**: Right, I'll take care of that right away. Is there any chance that the bike will be found?
-- **B**: The recovery rate for bicycle thefts is unfortunately quite low. But if the bike is found, we will contact you. It's also worth monitoring online flea markets.
+- **A**: LVI-Palvelu, Minna Korhonen speaking, hello. How can I help?
+- **B**: Hi, my name is Linh and I'm calling from Leppävaara. Our kitchen drain is completely blocked and the water won't go down at all, since yesterday evening.
+- **A**: Okay, sounds like a blockage. Have you tried a plunger or any drain cleaner?
+- **B**: Yes, I tried a plunger and drain cleaner, but nothing helped. The water just sits in the sink without moving at all.
+- **A**: Yeah, then it's probably a bigger blockage in the pipes. I need to come and take a look on site. Would tomorrow morning at 10 work?
+- **B**: Tomorrow morning works well. How long will the visit take and how much does it cost?
+- **A**: Clearing a blockage takes 30 minutes to an hour. The call-out fee is 65 euros, plus the work on top of that. A normal drain clearing is about 120 euros total.
+- **B**: Does the price include VAT? And can the household deduction be used for this?
+- **A**: Yes, all prices include VAT. With the household deduction, you can deduct 40% of the labor cost on your taxes. It doesn't cover materials or the call-out fee.
+- **B**: Good to know, thank you. I'll confirm the time for tomorrow at 10. The address is Turuntie 24 B, third floor, Leppävaara.
+- **A**: Good, I'll note that down. I'll bring my own tools, so you don't need to worry about anything. Just clear the sink area.
+- **B**: Should I inform the building maintenance company or the property manager beforehand?
+- **A**: If it's in the building's shared plumbing, it's worth notifying the property manager. But first I'll check whether it's on your apartment's side or in the shared pipes. After that we'll know who pays.
+- **B**: Right, thanks Minna. I'll clear the sink area in advance. See you tomorrow at 10!
+- **A**: Thanks for calling, Linh. See you tomorrow at 10. Bye bye!

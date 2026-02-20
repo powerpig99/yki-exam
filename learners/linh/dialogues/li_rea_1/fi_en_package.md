@@ -1,80 +1,115 @@
-#### li_rea_1 — Reagointi: Arjen tilanteet ja palvelut
+#### li_rea_1 — Reagointi: Arkipalvelut ja asiointi
 **Learner role:** B
-**FI Konteksti:** Reagoi erilaisiin arkielämän tilanteisiin ystävien, naapureiden, kollegojen ja palveluntarjoajien kanssa.
-**EN Context:** React to various everyday situations with friends, neighbors, colleagues, and service providers.
+**Non-learner gender:** female
+**FI Konteksti:** Reagoi erilaisiin arkipalveluihin ja asiointiin liittyviin tilanteisiin.
+**EN Context:** React to various everyday services and errands situations.
 
 **FI Koko mallidialogi:**
-- **A**: Tilanne 1: Ystäväsi soittaa ja peruuttaa lounastapaamisen viime hetkellä. Hän sanoo, että hänelle tuli kiireellinen työ. Reagoi tilanteeseen.
-- **B**: Voi harmi, mä olin jo matkalla ravintolaan. Mutta mä ymmärrän, työkiireet on työkiireitä. Siirretään se ensi viikolle, sopiiko sulle tiistai? Mä varaan pöydän valmiiksi.
-- **A**: Tilanne 2: Naapurisi koputtaa ovellesi ja pyytää lainaamaan tikkaita. Hän sanoo, että hänen pitää vaihtaa lamppu kattoon. Reagoi tilanteeseen.
-- **B**: Joo totta kai, mulla on tikkaat varastossa. Mä käyn hakemassa ne. Ne on aika korkeat, niin ole varovainen. Palauta ne sitten, kun oot valmis, mä en tarvitse niitä tällä viikolla.
-- **A**: Tilanne 3: Päiväkodista soitetaan ja kerrotaan, että tyttärelläsi on kuumetta. He pyytävät hakemaan hänet mahdollisimman pian. Reagoi tilanteeseen.
-- **B**: Okei, mä tulen hakemaan hänet heti. Paljonko kuumetta on? Mä ilmoitan töihin, että mä lähden aikaisemmin. Onko hän muuten iloinen vai väsynyt?
-- **A**: Tilanne 4: Työkaveri pyytää sinua vaihtamaan työvuoroa hänen kanssaan. Hän haluaisi sun perjantaivuoron ja tarjoaa tilalle maanantaita. Reagoi tilanteeseen.
-- **B**: Mä voin vaihtaa, mutta mun pitää ensin tarkistaa mun kalenteri. Perjantaisin mä haen yleensä tyttären päiväkodista aikaisin. Jos mun mies voi hakea hänet, niin vaihto sopii. Mä vastaan sulle huomenna, sopiiko?
-- **A**: Tilanne 5: Bussinkuljettaja kertoo, että reittiä on muutettu. Bussi ei enää pysähdy sun tavallisella pysäkillä. Reagoi tilanteeseen.
-- **B**: Ai, tämä on yllätys. Mikä on lähin pysäkki mun osoitteelle nyt? Mä käytän tätä bussia joka päivä töihin. Tiedätkö, onko muutos pysyvä vai väliaikainen?
-- **A**: Tilanne 6: Olet kaupassa ja myyjä kertoo, että haluamasi tuote on loppu varastosta. Reagoi tilanteeseen.
-- **B**: Voi ei, mä tarvitsisin sitä tänään. Tiedätkö, milloin sitä tulee lisää? Onko teillä jotain vastaavaa tuotetta tilalla? Mä voin myös käydä toisessa myymälässä, jos siellä on.
-- **A**: Tilanne 7: Vuokranantaja ilmoittaa, että vuokraa nostetaan neljäkymmentä euroa kuussa. Reagoi tilanteeseen.
-- **B**: Neljäkymmentä euroa on aika paljon kerralla. Mä oon asunut täällä jo kolme vuotta ja hoitanut asuntoa hyvin. Voitaisiinko neuvotella pienemmästä korotuksesta? Mä ymmärrän, että kulut nousee, mutta tämä tuntuu isolta.
-- **A**: Tilanne 8: Ystäväsi pyytää sinua suosittelemaan hyvää ravintolaa. Hän haluaa viedä vaimonsa syömään syntymäpäivänä. Reagoi tilanteeseen.
-- **B**: Mä suosittelen Ravintola Savottaa keskustassa. Siellä on tosi hyvää suomalaista ruokaa ja tunnelma on ihana. Varaa pöytä ajoissa, koska se on suosittu paikka. Sun vaimo tykkää varmasti!
-- **A**: Tilanne 9: Olet kassalla ja kassatyöntekijä kertoo, että korttisi on hylätty. Reagoi tilanteeseen.
-- **B**: Hetkinen, mä kokeilen uudelleen. Tämä on outoa, tilillä pitäisi olla rahaa. Voinko maksaa toisella kortilla? Mun pitää tarkistaa verkkopankista, mitä on tapahtunut.
-- **A**: Tilanne 10: Postin työntekijä kertoo, että pakettisi tarvitsee tulliselvityksen. Sinun pitää täyttää lomake ja maksaa tullimaksu. Reagoi tilanteeseen.
-- **B**: Selvä, mitä mun pitää tehdä? Missä mä täytän sen lomakkeen? Paljonko tullimaksu on suunnilleen? Mä en ole aikaisemmin joutunut tekemään tulliselvitystä, joten mä tarvitsen vähän ohjeita.
-- **A**: Tilanne 11: Työkaveri kutsuu sinut after work -tapahtumaan perjantaina. Reagoi tilanteeseen.
-- **B**: Kuulostaa kivalta! Mihin aikaan ja missä se on? Mun pitää järjestää tyttärelle hoitaja, mutta mä yritän päästä. Mä ilmoitan sulle huomenna viimeistään.
-- **A**: Tilanne 12: Pysäköinnintarkastaja on kirjoittamassa sinulle parkkisakkoa. Reagoi tilanteeseen.
-- **B**: Anteeksi, mä olin vain pikaisesti kaupassa! Mä en huomannut, että tässä on aikarajoitus. Onko mahdollista, että mä siirrän auton heti eikä sakkoa tule? Mä olen tosi pahoillani.
-- **A**: Tilanne 13: Ystäväsi pyytää lainaamaan autoasi viikonlopuksi. Hän tarvitsee sitä muuttoa varten. Reagoi tilanteeseen.
-- **B**: Mä voisin lainata sen lauantaiksi, mutta sunnuntaina mä tarvitsen sitä itse. Sopiiko se? Muista tankata se ennen kuin palautat. Ja aja varovasti, se on meidän ainoa auto!
-- **A**: Tilanne 14: Nettiyhteys katkeaa kesken tärkeän videopuhelun. Soitat internetpalveluntarjoajalle. Reagoi tilanteeseen.
-- **B**: Hei, mun netti katkes kesken tärkeän työpuhelun. Mä teen etätöitä ja tarvitsen yhteyden heti. Voitteko tarkistaa, mistä vika johtuu? Mä oon jo käynnistänyt modeemin uudelleen, mutta se ei auttanut.
-- **A**: Tilanne 15: Lääkäri kertoo, että sinulta pitää ottaa verikokeita. Reagoi tilanteeseen.
-- **B**: Selvä, tarvitseeko mun varata aika laboratorioon? Pitääkö mun olla syömättä ennen koetta? Millon mä saan tulokset? Mä haluan tietää, onko kaikki kunnossa.
-- **A**: Tilanne 16: Naapuri tulee valittamaan, että asunnostasi kuuluu meteliä. Reagoi tilanteeseen.
-- **B**: Oi anteeksi, meillä oli tyttären syntymäpäiväjuhlat. Mä ymmärrän, että se häiritsee. Me lopetetaan musiikki heti. Ensi kerralla mä ilmoitan etukäteen, jos meillä on juhlia.
-- **A**: Tilanne 17: Tyttäresi opettaja päiväkodista haluaa sopia tapaamisen. Hän sanoo, että se liittyy lapsen kehitykseen. Reagoi tilanteeseen.
-- **B**: Totta kai, mä tulen mielelläni. Mikä päivä ja aika sopisi? Mun mies tulee myös mukaan, jos mahdollista. Onko jotain erityistä, mistä meidän pitäisi puhua?
-- **A**: Tilanne 18: Taksinkuljettaja sanoo, että mittari on rikki. Hän ehdottaa kiinteää hintaa. Reagoi tilanteeseen.
-- **B**: Paljonko se kiinteä hinta olisi? Jos se on kohtuullinen, niin sopii. Mutta mä haluan sopia hinnan ennen kuin lähdetään. Voitko näyttää mulle arvion sovelluksesta?
+- **A**: Tilanne 1: Olet kirjastossa. Haluat varata kokoustilan ensi viikoksi. Kysy kirjaston työntekijältä, miten voit varata tilan ja mitä se maksaa.
+- **B**: Hei, mä haluaisin varata kokoustilan ensi viikoksi, onko se mahdollista? Miten varaus tehdään ja onko se maksullinen?
+
+- **A**: Tilanne 2: Olet lääkärissä. Sinulla on ollut päänsärkyä jo kaksi viikkoa eikä se mene pois särkylääkkeellä. Kerro lääkärille oireistasi.
+- **B**: Mulla on ollut päänsärkyä jo kaksi viikkoa eikä se mene pois särkylääkkeillä. Se on erityisen voimakasta iltapäivisin, kun olen istunut pitkään tietokoneen äärellä töissä. Olen kokeillut ibuprofeeenia ja parasetamolia, mutta ne ei auta.
+
+- **A**: Tilanne 3: Olet bussipysäkillä. Et ole varma, meneekö bussi keskusasemalle. Kysy kuljettajalta, onko tämä oikea bussi ja missä sinun pitäisi jäädä pois.
+- **B**: Anteeksi, meneekö tämä bussi keskusasemalle? Missä mun pitäisi jäädä pois?
+
+- **A**: Tilanne 4: Olet kaupassa ja huomaat, että hyllyssä oleva tuote on vanhentunut. Mene kassalle ja kerro asiasta. Pyydä myös hyvitystä.
+- **B**: Hei, löysin tämän tuotteen hyllyltä mutta se on vanhentunut jo viime kuussa. Voisitteko poistaa sen myynnistä ja hyvittää ostohintani?
+
+- **A**: Tilanne 5: Naapurisi katsoo televisiota kovalla äänellä joka ilta. Et pysty nukkumaan. Pyydä naapuria hiljentämään televisiota kohteliaasti.
+- **B**: Hei, mä en halua häiritä, mutta television ääni kuuluu tosi hyvin meidän asuntoon seinän läpi. Mulla on pieni tytär, joka nukkuu jo yhdeksältä, ja kova ääni herättää hänet. Voisitko hiljentää television äänenvoimakkuutta ilta-yhdeksän jälkeen?
+
+- **A**: Tilanne 6: Postinkantaja tuo sinulle painavan paketin ovelle asti. Kiitä häntä ja vaihda muutama sana.
+- **B**: Vau, kiitos kovasti kun kannoit tuon raskaan paketin asti ovelle asti! Se on verkosta tilaamiani leivontavälineitä. Teillä on varmaan tosi kiireinen päivä tähän aikaan vuodesta?
+
+- **A**: Tilanne 7: Olet apteekissa. Sinulla on flunssa ja haluat ostaa itsehoitolääkettä. Kysy apteekkarilta, mitä hän suosittelee ja miten lääkettä otetaan.
+- **B**: Hei, mulla on flunssa, kurkkukipua ja tukkoinen nenä. Mitä itsehoitolääkettä suosittelette ja miten se otetaan?
+
+- **A**: Tilanne 8: Työkaveri kysyy, tuletko perjantain kokoukseen. Et pääse, koska sinulla on hammaslääkäriaika. Kerro asiasta ja ehdota vaihtoehtoista aikaa.
+- **B**: Ei onnistu valitettavasti, mulla on hammaslääkäriaika perjantaina aamupäivällä enkä ehdi vaihtaa sitä. Voisiko kokouksen siirtää ensi tiistaille, se sopisi mulle tosi hyvin?
+
+- **A**: Tilanne 9: Olet kauppakeskuksessa ja etsit asiakaspalvelupistettä. Kysy infotiskiltä, missä se sijaitsee ja mihin aikaan se on auki.
+- **B**: Anteeksi, mä etsin asiakaspalvelupistettä. Tiedättekö, missä se sijaitsee ja mihin asti se on auki tänään?
+
+- **A**: Tilanne 10: Unohdit ystäväsi syntymäpäivän eilen. Soita hänelle, pyydä anteeksi ja ehdota juhlistamista myöhemmin.
+- **B**: Hei, mä olen tosi pahoillani! Mä täysin unohdin sun syntymäpäivän eilen, se oli tosi hölmöä mun puolelta. Haluaisitko tulla viikonloppuna kahville meille, niin mä leivon sun suosikkimustikkapiirakkaa?
+
+- **A**: Tilanne 11: Olet kampaajalla. Haluat lyhyemmän leikkauksen kuin viime kerralla. Selitä kampaajalle, millaisen hiusmallin haluat.
+- **B**: Viime kerralla leikkaitte noin viisi senttiä, mutta tällä kertaa haluaisin lyhyemmän mallin. Voisitteko leikata noin kymmenen senttiä ja siistiä reunat samalla?
+
+- **A**: Tilanne 12: Olet ravintolassa. Sinulla on ruoka-allergia eikä ruokalistassa ole merkintöjä allergeeneista. Kerro tarjoilijalle allergiasta ja kysy, mitkä ruoat sopivat sinulle.
+- **B**: Hei, mulla on äyriäisallergia ja ruokalistassa ei näytä olevan allergeenimerkintöjä. Voisiko kokki tarkistaa, mitkä annokset eivät sisällä äyriäisiä? Mä haluaisin tietää turvalliset vaihtoehdot ennen kuin tilaan.
+
+- **A**: Tilanne 13: Olet pankissa. Haluat vaihtaa pankkikorttisi tunnusluvun. Kysy pankkivirkailijalta, miten se onnistuu ja kauanko se kestää.
+- **B**: Hei, haluaisin vaihtaa pankkikorttini tunnusluvun. Miten se tapahtuu ja kauanko se kestää?
+
+- **A**: Tilanne 14: Pesukoneesi vuotaa vettä. Viet sen korjaamoon. Selitä korjaajalle, mikä on vialla ja milloin ongelma alkoi.
+- **B**: Hei, mun pesukone vuotaa vettä jokaisen pesuohjelman aikana. Ongelma alkoi noin kolme viikkoa sitten ja se pahenee koko ajan. Vesi tulee laitteen etuosasta pohjaan, eikä se näytä tiivisteeltä.
+
+- **A**: Tilanne 15: Haluat kokeilla uutta kuntosalia. Mene vastaanottoon ja kysy, onko heillä tutustumisjäsenyyttä ja mitä se sisältää.
+- **B**: Hei, mä olen kiinnostunut kokeilemaan tätä kuntosalia. Onko teillä jonkinlaista tutustumisjäsenyyttä tai kokeilumahdollisuutta ja mitä se sisältäisi?
+
+- **A**: Tilanne 16: Olet matkalla kokoukseen ja myöhästyt viisi minuuttia. Soita kollegallesi ja kerro, että olet pian paikalla.
+- **B**: Hei, mä myöhästyn noin viisi minuuttia, juna oli myöhässä Leppävaarassa. Aloitatko kokouksen jo, mä tulen heti perään!
+
+- **A**: Tilanne 17: Olet hotellissa ja haluat tietää, mihin aikaan huone pitää luovuttaa. Kysy vastaanotosta ja kysy myös, voiko lähtöaikaa siirtää myöhemmäksi.
+- **B**: Hei, haluaisin tietää, mihin mennessä mun täytyy luovuttaa huone. Onko mahdollista saada myöhäisempi uloskirjautumisaika, esimerkiksi kello kaksitoista?
+
+- **A**: Tilanne 18: Olet taksissa ja huomaat, että kuljettaja ajaa pidempää reittiä. Kysy kuljettajalta asiasta ja pyydä selitystä.
+- **B**: Anteeksi, mulla on navigaattori puhelimessa ja se näyttää, että ajamme pidempää reittiä kuin normaalisti. Onko tiellä jotain ongelmia vai voimmeko ottaa lyhyemmän reitin?
 
 **EN Full sample dialogue:**
-- **A**: Situation 1: Your friend calls and cancels the lunch meeting at the last minute. They say they got urgent work. React to the situation.
-- **B**: Oh what a pity, I was already on my way to the restaurant. But I understand, work urgencies are work urgencies. Let's move it to next week, does Tuesday work for you? I'll book a table in advance.
-- **A**: Situation 2: Your neighbor knocks on your door and asks to borrow a ladder. They say they need to change a ceiling light. React to the situation.
-- **B**: Yeah of course, I have a ladder in the storage room. I'll go get it. It's quite tall so be careful. Return it whenever you're done, I don't need it this week.
-- **A**: Situation 3: Daycare calls and tells you that your daughter has a fever. They ask you to pick her up as soon as possible. React to the situation.
-- **B**: Okay, I'll come pick her up right away. How high is the fever? I'll let work know that I'm leaving early. Is she otherwise happy or tired?
-- **A**: Situation 4: A colleague asks you to switch shifts with them. They want your Friday shift and offer Monday in exchange. React to the situation.
-- **B**: I can switch, but I need to check my calendar first. On Fridays I usually pick up my daughter from daycare early. If my husband can pick her up, then the switch works. I'll answer you tomorrow, is that okay?
-- **A**: Situation 5: The bus driver tells you that the route has changed. The bus no longer stops at your usual stop. React to the situation.
-- **B**: Oh, this is a surprise. What is the closest stop to my address now? I use this bus every day for work. Do you know if the change is permanent or temporary?
-- **A**: Situation 6: You're at a store and the sales assistant tells you that the item you want is out of stock. React to the situation.
-- **B**: Oh no, I would need it today. Do you know when you'll get more? Do you have a similar product instead? I can also go to another store if they have it.
-- **A**: Situation 7: The landlord announces that the rent will increase by 40 euros per month. React to the situation.
-- **B**: 40 euros is quite a lot all at once. I've lived here for 3 years already and taken good care of the apartment. Could we negotiate a smaller increase? I understand that costs go up, but this feels like a lot.
-- **A**: Situation 8: Your friend asks you to recommend a good restaurant. They want to take their wife out for their birthday. React to the situation.
-- **B**: I recommend Ravintola Savotta in the city center. They have really good Finnish food and the atmosphere is wonderful. Book a table early because it's a popular place. Your wife will definitely like it!
-- **A**: Situation 9: You're at the checkout and the cashier tells you that your card was declined. React to the situation.
-- **B**: Wait, I'll try again. This is strange, there should be money in the account. Can I pay with a different card? I need to check my online bank to see what happened.
-- **A**: Situation 10: The postal worker tells you that your package needs customs clearance. You need to fill out a form and pay a customs fee. React to the situation.
-- **B**: Okay, what do I need to do? Where do I fill in the form? How much is the customs fee approximately? I haven't had to do customs clearance before so I need some guidance.
-- **A**: Situation 11: A colleague invites you to an after-work event on Friday. React to the situation.
-- **B**: Sounds fun! What time and where is it? I need to arrange a babysitter for my daughter but I'll try to make it. I'll let you know by tomorrow at the latest.
-- **A**: Situation 12: A parking inspector is about to write you a parking ticket. React to the situation.
-- **B**: Sorry, I was just quickly at the shop! I didn't notice that there's a time limit here. Is it possible that I move the car right away and no ticket is issued? I'm really sorry.
-- **A**: Situation 13: Your friend asks to borrow your car for the weekend. They need it for moving. React to the situation.
-- **B**: I could lend it for Saturday, but on Sunday I need it myself. Does that work? Remember to fill it up before you return it. And drive carefully, it's our only car!
-- **A**: Situation 14: The internet connection drops during an important video call. You call the internet provider. React to the situation.
-- **B**: Hi, my internet dropped during an important work call. I work remotely and need the connection right away. Can you check what's causing the problem? I've already restarted the modem but it didn't help.
-- **A**: Situation 15: The doctor tells you that you need to have blood tests done. React to the situation.
-- **B**: Okay, do I need to book an appointment at the laboratory? Do I need to fast before the test? When will I get the results? I want to know if everything is fine.
-- **A**: Situation 16: A neighbor comes to complain about noise from your apartment. React to the situation.
-- **B**: Oh sorry, we had our daughter's birthday party. I understand that it's disturbing. We'll stop the music right away. Next time I'll let you know in advance if we're having a party.
-- **A**: Situation 17: Your daughter's teacher at daycare wants to schedule a meeting. They say it's about the child's development. React to the situation.
-- **B**: Of course, I'd be happy to come. What day and time would work? My husband will also come along if possible. Is there anything specific we should talk about?
-- **A**: Situation 18: The taxi driver says the meter is broken. They suggest a fixed price. React to the situation.
-- **B**: How much would the fixed price be? If it's reasonable, that's fine. But I want to agree on the price before we leave. Can you show me an estimate from the app?
+- **A**: Situation 1: You are at the library. You want to reserve a meeting room for next week. Ask the library staff how to book the room and what it costs.
+- **B**: Hi, I would like to reserve a meeting room for next week, is that possible? How does the booking work and is there a fee?
+
+- **A**: Situation 2: You are at the doctor's office. You have had a headache for two weeks and it won't go away with painkillers. Tell the doctor about your symptoms.
+- **B**: I have had a headache for two weeks now and it won't go away with painkillers. It is especially strong in the afternoons when I have been sitting at the computer for a long time at work. I have tried ibuprofen and paracetamol but they don't help.
+
+- **A**: Situation 3: You are at a bus stop. You are not sure if the bus goes to the central station. Ask the driver if this is the right bus and where you should get off.
+- **B**: Excuse me, does this bus go to the central station? Where should I get off?
+
+- **A**: Situation 4: You are in a store and notice that a product on the shelf has expired. Go to the cashier and tell them about it. Also ask for compensation.
+- **B**: Hi, I found this product on the shelf but it expired already last month. Could you remove it from sale and refund my purchase price?
+
+- **A**: Situation 5: Your neighbor watches television at high volume every evening. You cannot sleep. Ask the neighbor politely to turn the television down.
+- **B**: Hi, I don't want to bother you, but the TV sound carries really well into our apartment through the wall. I have a small daughter who is already asleep by nine, and the loud noise wakes her up. Could you turn down the TV volume after nine in the evening?
+
+- **A**: Situation 6: The postal carrier brings a heavy package to your door. Thank them and exchange a few words.
+- **B**: Wow, thank you so much for carrying that heavy package all the way to the door! It's baking equipment I ordered online. You must be having a really busy day this time of year?
+
+- **A**: Situation 7: You are at the pharmacy. You have a cold and want to buy over-the-counter medicine. Ask the pharmacist what they recommend and how to take the medicine.
+- **B**: Hi, I have a cold, sore throat, and a stuffy nose. What over-the-counter medicine would you recommend and how is it taken?
+
+- **A**: Situation 8: A coworker asks if you are coming to Friday's meeting. You cannot attend because you have a dentist appointment. Tell them about it and suggest an alternative time.
+- **B**: Unfortunately I can't make it, I have a dentist appointment on Friday morning and I can't change it. Could we move the meeting to next Tuesday, that would work really well for me?
+
+- **A**: Situation 9: You are at a shopping center and looking for the customer service desk. Ask the info desk where it is located and what time it is open.
+- **B**: Excuse me, I'm looking for the customer service desk. Do you know where it is located and how late it is open today?
+
+- **A**: Situation 10: You forgot your friend's birthday yesterday. Call them, apologize, and suggest celebrating later.
+- **B**: Hi, I am so sorry! I completely forgot your birthday yesterday, that was really silly of me. Would you like to come over for coffee at the weekend so I can bake your favourite blueberry pie?
+
+- **A**: Situation 11: You are at the hairdresser. You want a shorter cut than last time. Explain to the hairdresser what kind of hairstyle you want.
+- **B**: Last time you cut about 5 centimetres, but this time I would like a shorter style. Could you cut about 10 centimetres and tidy up the edges at the same time?
+
+- **A**: Situation 12: You are at a restaurant. You have a food allergy and the menu has no allergen labels. Tell the waiter about your allergy and ask which dishes are suitable for you.
+- **B**: Hi, I have a shellfish allergy and the menu doesn't seem to have any allergen labels. Could the chef check which dishes do not contain shellfish? I'd like to know the safe options before I order.
+
+- **A**: Situation 13: You are at the bank. You want to change your bank card PIN code. Ask the bank teller how to do it and how long it takes.
+- **B**: Hi, I would like to change my bank card PIN code. How does that work and how long does it take?
+
+- **A**: Situation 14: Your washing machine leaks water. You take it to a repair shop. Explain to the repair person what is wrong and when the problem started.
+- **B**: Hi, my washing machine leaks water during every wash cycle. The problem started about three weeks ago and is getting worse all the time. The water comes from the front of the machine to the floor and it doesn't look like a seal issue.
+
+- **A**: Situation 15: You want to try a new gym. Go to the reception and ask if they have a trial membership and what it includes.
+- **B**: Hi, I am interested in trying out this gym. Do you have any kind of trial membership or introductory option and what would it include?
+
+- **A**: Situation 16: You are on your way to a meeting and will be five minutes late. Call your colleague and tell them you will be there soon.
+- **B**: Hi, I will be about five minutes late, the train was delayed at Leppävaara. Go ahead and start the meeting, I will be right there!
+
+- **A**: Situation 17: You are at a hotel and want to know the check-out time. Ask at reception and also ask if the check-out time can be extended.
+- **B**: Hi, I would like to know by what time I need to check out of my room. Is it possible to get a later check-out time, for example at twelve noon?
+
+- **A**: Situation 18: You are in a taxi and notice that the driver is taking a longer route. Tell the driver about it and ask for an explanation.
+- **B**: Excuse me, I have a navigation app on my phone and it shows we are taking a longer route than usual. Is there some problem on the road or can we take a shorter route?

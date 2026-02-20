@@ -1,40 +1,39 @@
-#### li_dia_01 — Taloyhtiön kokous
+#### li_dia_01 — Calling about a rental apartment ad
 **Learner role:** B
-**FI Konteksti:** Osallistut taloyhtiönkokoukseen, jossa puhutaan putkiremontin suunnitelmista.
-**EN Context:** You attend a housing association meeting to discuss a planned pipe renovation.
+**Non-learner gender:** female
+**FI Konteksti:** Soitat vuokra-asuntoilmoituksesta ja kysyt asunnon yksityiskohdista, vuokrasta ja näyttöajasta.
+**EN Context:** You call about a rental apartment ad and ask about the apartment details, rent, and viewing time.
 
 **FI Koko mallidialogi:**
-- **A**: Hei, tervetuloa tähän taloyhtiönkokoukseen. Mä olen Matti, hallituksen puheenjohtaja. Täällä on pari tärkeää asiaa tällä kerralla.
-- **B**: Hei Matti! Mä olen Tiina kolmannesta kerroksesta. Mä oon ollut aika huolissani näistä putkiremonttijutuista.
-- **A**: Niin, putkiremontti on meidän ilmeinen päätösaihe tänään. Insinööritoimisto on tehnyt kuntotutkimuksen ja putket on aika huonossa kunnossa. Remontti pitäis aloittaa viimeistään ensi vuonna.
-- **B**: Ai, niin pian jo. Miten pitkään se remontti kestää ja miten se vaikuttaa asukkaisiin? Mulla on pieni lapsi kotona, niin mä mietin käytännön asioita.
-- **A**: Remontti kestää noin kolmesta neljään kuukautta per rappu. Sen aikana vesi katkaistaan päiväsaikaan ja keittiö ja kylpyhuone on pois käytöstä viikkoja.
-- **B**: Selvä, on kai pakko muuttaa väliksi pois. Onko taloyhtiö järjestänyt sijaisasuntoja asukkaille?
-- **A**: Joo, hallitus on neuvotellut lähialueen vuokra-asunnoista. Tavoite on, että jokaiselle perheelle löytyy vaihtoehto kohtuulliseen hintaan.
-- **B**: Se kuulostaa hyvältä. Miten paljon tämä remontti maksaa osakkeenomistajille? Mä olen kuullut, että putkiremontit on todella kalliita.
-- **A**: Kokonaiskustannus on noin kaksi miljoonaa euroa koko taloyhtiölle. Yhtiön laina kattaa suurimman osan ja osakkaiden rahoitusvastike nousee noin kahdellasadalla eurolla kuussa viideksi vuodeksi.
-- **B**: Kaksisataa euroa kuussa on iso summa. Voiko rahoitusvastikkeen maksaa kerralla pois, jos haluaa?
-- **A**: Joo, kertamaksu on mahdollinen. Summa riippuu asunnon koosta. Teidän asunnosta se olisi noin kolmekymmentäviisituhatta euroa. Siitä saa myös verovähennyksen.
-- **B**: Okei, mun pitää jutella siitä mun miehen kanssa. Meillä on asuntolainaa vielä, niin pitää miettiä mikä vaihtoehto sopii meille parhaiten.
-- **A**: Totta kai, ei tarvitse päättää vielä tänään. Hallitus lähettää tarkan kustannuserittelyn jokaiselle osakkaalle ensi viikolla.
-- **B**: Kiitos, se auttaa päätöksenteossa. Onko tiedossa, milloin remontti alkaa meidän rapussa?
-- **A**: Teidän rappu on arvion mukaan kolmas vuorossa, joten todennäköisesti ensi syksynä. Me ilmoitetaan tarkempi aikataulu keväällä.
-- **B**: Hyvä, niin ehtii valmistautua. Kiitos Matti, että kerroit näistä näin selkeästi. Tämä kokous on ollut todella hyödyllinen.
+- **A**: Hei, täällä Laura Mäkelä, Vuokramaailma-välityksestä. Miten voin auttaa?
+- **B**: Hei, täällä Sanna Nguyen. Mä soitan siitä kaksiosta, jonka mä näin Oikotiellä. Onko se asunto vielä vapaana?
+- **A**: Joo, se kaksio Sörnäisissä on vielä vapaana. Neljäkymmentäseitsemän neliötä kolmannessa kerroksessa.
+- **B**: Paljonko vuokra on kuussa ja mitä siihen sisältyy?
+- **A**: Vuokra on tuhatyksitoista euroa kuussa. Vesimaksu ja netti sisältyy, sähkö tulee erikseen. Vakuusmaksu on kahden kuukauden vuokra.
+- **B**: Milloin asunto on viimeksi remontoitu ja onko se hyvässä kunnossa?
+- **A**: Kylpyhuone remontoitiin viime vuonna ja parketit hiottiin samalla. Keittiö on alkuperäinen mutta hyväkuntoinen.
+- **B**: Onko talossa varastotilaa ja pesutupa asukkaiden käyttöön?
+- **A**: Kellarikerroksessa on oma varasto jokaiselle asunnolle ja pesutupa, joka varataan netissä. Pihalla on pari autopaikkaa mutta ne on kaikki varattuja.
+- **B**: Milloin voisin tulla katsomaan asuntoa?
+- **A**: Meillä on yleinen näyttö ensi tiistaina kello viideltä. Tuokaa mukaan henkilöllisyystodistus ja palkkatodistus.
+- **B**: Tiistai sopii hyvin. Onko sopimus määräaikainen vai toistaiseksi voimassa oleva?
+- **A**: Sopimus on toistaiseksi voimassa oleva. Vuokralaisen irtisanomisaika on yksi kuukausi ja vuokranantajan kolme kuukautta.
+- **B**: Selvä, mä tulen sitten tiistain näyttöön. Kiitos Laura, hei hei!
+- **A**: Kiitos soitosta! Nähdään tiistaina. Osoite on Sörnäisten rantatie kaksitoista B. Hei hei!
 
 **EN Full sample dialogue:**
-- **A**: Hi, welcome to this housing association meeting. I'm Matti, the board chairman. We have a couple of important things to discuss this time.
-- **B**: Hi Matti! I'm Tiina from the third floor. I've been quite worried about these pipe renovation matters.
-- **A**: Yes, the pipe renovation is obviously our main topic today. An engineering firm has done a condition survey and the pipes are in quite bad shape. The renovation should start next year at the latest.
-- **B**: Oh, that soon already. How long will the renovation take and how will it affect residents? I have a small child at home, so I'm thinking about practical things.
-- **A**: The renovation takes about three to four months per stairwell. During that time, water is cut off during the day and the kitchen and bathroom will be out of use for weeks.
-- **B**: I see, we'll probably have to move out temporarily then. Has the housing association arranged temporary apartments for residents?
-- **A**: Yes, the board has negotiated rental apartments in the nearby area. The goal is to find an option for every family at a reasonable price.
-- **B**: That sounds good. How much will this renovation cost the shareholders? I've heard that pipe renovations are really expensive.
-- **A**: The total cost is about 2 million euros for the whole housing association. The association loan covers most of it and the shareholders' financing charge will increase by about 200 euros per month for 5 years.
-- **B**: 200 euros per month is a big amount. Can you pay off the financing charge in one lump sum if you want to?
-- **A**: Yes, a one-time payment is possible. The amount depends on the apartment size. For your apartment it would be about 35,000 euros. You also get a tax deduction for it.
-- **B**: Okay, I need to discuss that with my husband. We still have a mortgage, so we need to think about which option suits us best.
-- **A**: Of course, you don't have to decide yet today. The board will send a detailed cost breakdown to every shareholder next week.
-- **B**: Thanks, that will help with the decision. Is it known when the renovation will start in our stairwell?
-- **A**: Your stairwell is estimated to be third in line, so probably next autumn. We'll announce the exact schedule in spring.
-- **B**: Good, so there's time to prepare. Thanks Matti for explaining everything so clearly. This meeting has been really useful.
+- **A**: Hi, this is Laura Mäkelä from Vuokramaailma rental agency. How can I help?
+- **B**: Hi, this is Sanna Nguyen. I'm calling about the two-room apartment I saw on Oikotie. Is the apartment still available?
+- **A**: Yes, the two-room apartment in Sörnäinen is still available. 47 square meters on the third floor.
+- **B**: How much is the rent per month and what is included?
+- **A**: The rent is 1011 euros per month. Water and internet are included, electricity is separate. The deposit is two months' rent.
+- **B**: When was the apartment last renovated and is it in good condition?
+- **A**: The bathroom was renovated last year and the parquet floors were sanded at the same time. The kitchen is original but in good condition.
+- **B**: Is there storage space and a laundry room available for residents in the building?
+- **A**: There's a private storage unit for each apartment in the basement and a laundry room that's booked online. There are a couple of parking spaces in the yard but they're all reserved.
+- **B**: When could I come to see the apartment?
+- **A**: We have a general showing next Tuesday at 5 PM. Bring an ID and a salary certificate.
+- **B**: Tuesday works well. Is the lease fixed-term or open-ended?
+- **A**: The lease is open-ended. The tenant's notice period is one month and the landlord's is three months.
+- **B**: Great, I'll come to the showing on Tuesday then. Thank you Laura, bye bye!
+- **A**: Thanks for calling! See you on Tuesday. The address is Sörnäisten rantatie 12 B. Bye bye!

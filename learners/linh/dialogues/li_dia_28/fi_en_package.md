@@ -1,44 +1,43 @@
-#### li_dia_28 — Lääkäriaika
-**Learner role:** A
-**FI Konteksti:** Menet terveysasemalle, koska sinulla on ollut toistuvia päänsärkyjä.
-**EN Context:** You go to the health center because you've been having recurring headaches.
+#### li_dia_28 — Calling health center for appointment
+**Learner role:** B
+**Non-learner gender:** female
+**FI Konteksti:** Soitat terveyskeskukseen ja kerrot oireistasi varataksesi lääkäriajan.
+**EN Context:** You call the health center, describe your symptoms, and book a doctor's appointment.
 
 **FI Koko mallidialogi:**
-- **A**: Hei, mä tulin vastaanottoajan takia. Mulla on ollut tosi paljon päänsärkyä viime aikoina.
-- **B**: Hei, tervetuloa. Mä oon lääkäri Lauri Virtanen. Kertoisitteko tarkemmin, millaista päänsärkyä teillä on?
-- **A**: Se on semmosta puristavaa kipua ohimoilla ja otsalla. Sitä on ollut melkein joka päivä viimeiset kolme viikkoa.
-- **B**: Onko kipu pahempaa johonkin tiettyyn aikaan päivästä?
-- **A**: Yleensä se alkaa iltapäivällä ja pahenee illalla. Aamulla on yleensä ihan ok.
-- **B**: Selvä. Käytättekö paljon tietokonetta töissä?
-- **A**: Joo, mä työskentelen tietokoneella koko päivän. Mä oon data-alalla, niin ruutuaikaa kertyy paljon.
-- **B**: Ymmärrän. Milloin olette viimeksi käyneet silmälääkärillä?
-- **A**: Se on varmaan yli kaksi vuotta sitten. Mulla ei ole silmälaseja, mutta mä oon miettinyt, tarvitsisinko.
-- **B**: Silmien rasitus voi aiheuttaa juuri tällaista jännityspäänsärkyä. Mä kirjoitan teille lähetteen silmälääkärille.
-- **A**: Selvä, kiitos. Onko mun syytä olla huolissaan? Mun äidillä on ollut migreenejä.
-- **B**: Teidän oireet kuulostavat enemmän jännityspäänsäryltä kuin migreeniltä. Mutta mä haluan sulkea pois muut syyt.
-- **A**: Mitä te suosittelette mä teen sillä välin?
-- **B**: Pitäkää taukoja ruudun ääressä vähintään kerran tunnissa. Parasetamolia voi ottaa tarvittaessa, mutta ei joka päivä. Liikunta ja riittävä uni auttavat myös.
-- **A**: Mä pyöräilen töihin joka päivä, mutta mä myönnän, että mä nukun aika huonosti. Lapsi herää usein yöllä.
-- **B**: Unenpuute voi pahentaa päänsärkyä merkittävästi. Yrittäkää saada ainakin seitsemän tuntia unta. Jos oireet pahenevat tai tulee näköhäiriöitä, ottakaa heti yhteyttä.
-- **A**: Kiitos paljon, lääkäri. Mä varaan ajan silmälääkärille mahdollisimman pian.
-- **B**: Hyvä. Tulkaa kontrollikäynnille kuukauden päästä, niin katsotaan tilanne uudestaan. Hyvää vointia!
+- **A**: Terveyskeskuksen ajanvaraus, Riikka puhelimessa. Hyvää huomenta, miten voin auttaa?
+- **B**: Hei, hyvää huomenta. Mä haluaisin varata lääkäriajan. Mulla on ollut kurkkukipua ja yskää jo viisi päivää.
+- **A**: Selvä. Onko sulla kuumetta ollut tai muita oireita?
+- **B**: Kuumetta oli kahtena ensimmäisenä päivänä noin kolmekymmentäseitsemän pilkku kahdeksan astetta, mutta nyt ei enää. Yskä on pahentunut, erityisesti öisin nukuttaa huonosti.
+- **A**: Okei. Ootko käynyt koronatestissä tai kotitestissä?
+- **B**: Joo, mä tein kotitestin eilen ja se oli negatiivinen.
+- **A**: Hyvä, yksi negatiivinen riittää. Sulla kuulostaa olevan normaali ylähengitystieinfektio. Haluatko lääkäriajan vai riittäisikö sairaanhoitajan vastaanotto?
+- **B**: Mä haluaisin mieluummin lääkärille, koska yskä on kestänyt jo niin kauan. Onko teillä vapaita aikoja?
+- **A**: Ymmärrän. Meillä on aikoja huomenna iltapäivällä. Sopiiko kello kolmetoista neljäkymmentäviisi? Vastaanotto kestää noin kaksikymmentä minuuttia.
+- **B**: Se sopii hyvin. Paljonko käynti maksaa?
+- **A**: Lääkärikäynti maksaa kolmekymmentä euroa ja kaksikymmentä senttiä. Sitä laskutetaan enintään kolme kertaa kalenterivuodessa. Sairaanhoitajan vastaanotto olis ilmanen.
+- **B**: Selvä, se sopii. Pitääkö mun ottaa jotain mukaan vastaanotolle?
+- **A**: Ota mukaan Kela-kortti ja henkilöllisyystodistus. Jos sulla on reseptilääkkeitä käytössä, niin mainitse ne lääkärille. Tulokset näkyy jälkeenpäin OmaKannassa.
+- **B**: Selvä, mä vahvistan ajan huomiselle kello kolmetoista neljäkymmentäviisi. Mistä mun pitää ilmoittautua?
+- **A**: Tervetuloa pääovesta sisään, ilmoittautuminen on heti vasemmalla. Ilmoittaudu viimeistään kymmenen minuuttia ennen aikaa. Nähdään huomenna!
+- **B**: Kiitos paljon, Riikka. Nähdään huomenna, hei hei!
+- **A**: Ole hyvä, hyvää paranemista! Hei hei.
 
 **EN Full sample dialogue:**
-- **A**: Hi, I came for my appointment. I've been having a lot of headaches recently.
-- **B**: Hi, welcome. I'm doctor Lauri Virtanen. Could you tell me in more detail what kind of headaches you've been having?
-- **A**: It's a pressing pain in the temples and forehead. It's been happening almost every day for the last 3 weeks.
-- **B**: Is the pain worse at any particular time of day?
-- **A**: Usually it starts in the afternoon and gets worse in the evening. In the morning it's usually fine.
-- **B**: I see. Do you use a computer a lot at work?
-- **A**: Yes, I work on a computer all day. I'm in the data field, so I get a lot of screen time.
-- **B**: I understand. When did you last visit an eye doctor?
-- **A**: It's probably over 2 years ago. I don't have glasses, but I've been wondering if I need them.
-- **B**: Eye strain can cause exactly this type of tension headache. I'll write you a referral to an eye doctor.
-- **A**: Right, thanks. Should I be worried? My mother has had migraines.
-- **B**: Your symptoms sound more like tension headaches than migraines. But I want to rule out other causes.
-- **A**: What do you recommend I do in the meantime?
-- **B**: Take breaks from the screen at least once an hour. You can take paracetamol when needed, but not every day. Exercise and sufficient sleep also help.
-- **A**: I cycle to work every day, but I admit I sleep quite poorly. My child often wakes up at night.
-- **B**: Sleep deprivation can significantly worsen headaches. Try to get at least 7 hours of sleep. If symptoms worsen or you get vision problems, contact us immediately.
-- **A**: Thank you very much, doctor. I'll book an appointment with the eye doctor as soon as possible.
-- **B**: Good. Come for a follow-up appointment in a month and we'll look at the situation again. Get well!
+- **A**: Health center appointment booking, Riikka speaking. Good morning, how can I help?
+- **B**: Hi, good morning. I'd like to book a doctor's appointment. I've had a sore throat and cough for 5 days now.
+- **A**: Alright. Have you had a fever or other symptoms?
+- **B**: I had a slight fever the first 2 days, around 37.8 degrees, but not anymore. The cough has gotten worse, especially at night it's hard to sleep.
+- **A**: Okay. Have you taken a COVID test or done a home test?
+- **B**: Yes, I did a home test yesterday and it was negative.
+- **A**: Good, one negative result is enough. It sounds like you have a normal upper respiratory infection. Would you like a doctor's appointment or would a nurse consultation be enough?
+- **B**: I'd prefer to see a doctor because the cough has lasted so long. Do you have any free slots?
+- **A**: I understand. We have slots available tomorrow afternoon. Would 1:45 PM work? The appointment takes about 20 minutes.
+- **B**: That works fine. How much does the visit cost?
+- **A**: A doctor's visit costs 30.20 euros. It's charged a maximum of 3 times per calendar year. A nurse consultation would be free.
+- **B**: Right, that's fine. Do I need to bring anything to the appointment?
+- **A**: Bring your Kela card and an ID. If you're taking any prescription medications, mention them to the doctor. Results will be available afterwards in OmaKanta.
+- **B**: Sure, I'll confirm the appointment for tomorrow at 1:45 PM. Where do I check in?
+- **A**: Welcome through the main entrance, check-in is right on the left. Check in at least 10 minutes before your time. See you tomorrow!
+- **B**: Thanks a lot, Riikka. See you tomorrow, bye bye!
+- **A**: You're welcome, get well soon! Bye bye.

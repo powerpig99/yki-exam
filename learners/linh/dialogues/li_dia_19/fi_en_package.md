@@ -1,42 +1,45 @@
-#### li_dia_19 — Suomi.fi-tunnistautuminen
-**Learner role:** B
-**FI Konteksti:** Asioit kunnan neuvontapisteessä, koska tarvitset apua Suomi.fi-tunnistautumisen kanssa digitaalisten palvelujen käyttöön.
-**EN Context:** You visit a municipal help desk because you need help with Suomi.fi authentication to use digital services.
+#### li_dia_19 — Calling phone operator about plan upgrade
+**Learner role:** A
+**Non-learner gender:** female
+**FI Konteksti:** Soitat puhelinoperaattorille ja kysyt liittymän vaihtamisesta isompaan, vertailet eri paketteja ja sopimustietoja.
+**EN Context:** You call your phone operator and ask about upgrading your plan, compare different packages, and discuss contract details.
 
 **FI Koko mallidialogi:**
-- **A**: Hei, tervetuloa neuvontaan! Mä oon Lauri. Miten voin auttaa?
-- **B**: Hei! Mulla on ongelmia Suomi.fi-tunnistautumisen kanssa. Mä yritin kirjautua Omakantaan, mutta tunnistautuminen ei onnistu.
-- **A**: Selvä, sitä tulee paljon. Millä tavalla sä yritit tunnistautua? Pankkitunnuksilla, mobiilivarmennuksella vai henkilökortilla?
-- **B**: Mä yritin pankkitunnuksilla. Mä pääsen pankin sivulle, mutta sitten tulee virheilmoitus ja sivu palaa alkuun.
-- **A**: Okei. Yleinen syy puhelimella on, että selain estää ponnahdusikkunat. Pankkitunnistautuminen avaa uuden ikkunan ja jos selain estää sen, niin tunnistautuminen epäonnistuu.
-- **B**: Ai, mä en tiennyt sitä. Miten mä salliin ponnahdusikkunat puhelimessa?
-- **A**: Chromessa mene asetuksiin, sitten sivuston asetukset ja ponnahdusikkunat. Vaihda asetus päälle. Toinen vaihtoehto on kokeilla tietokoneella, jossa ongelma on harvinaisempi.
-- **B**: Okei, mä kokeilen sitä kotona. Mutta mua kiinnostaa myös se mobiilivarmenne. Miten se toimii?
-- **A**: Mobiilivarmenne on SIM-korttiin liitetty tunnistautumistapa. Se on helppo ja toimii hyvin puhelimella. Sä tilaat sen omalta operaattoriltasi ja se aktivoidaan parissa päivässä.
-- **B**: Maksaako se jotain? Mulla on DNA:n liittymä.
-- **A**: DNA:lla mobiilivarmenne on ilmainen. Sä voit tilata sen DNA:n sovelluksessa tai soittamalla asiakaspalveluun. Saat uuden SIM-kortin, jossa on varmenne valmiina.
-- **B**: Kuulostaa helpolta. Mitä kaikkia palveluja mä voin käyttää, kun tunnistautuminen toimii?
-- **A**: Todella monia. Omakannassa näet terveystiedot ja reseptit. Vero.fi:ssä hoidat verotuksen. Kelan sivuilla haet tukia. Espoon kaupungin sivuilla voit varata ajan neuvolaan ja hoitaa päiväkotiasioita.
-- **B**: Vau, se on todella kätevää. Mä oon hoitanut monet noista asioista puhelimella tai paikan päällä.
-- **A**: Joo, verkkoasiointi säästää paljon aikaa. Ja kaikki on turvallista, kun tunnistautuminen on vahva. Haluatko, että näytän Suomi.fi-sivustoa tässä koneella?
-- **B**: Joo, kiitos! Se olisi todella hyödyllistä.
-- **A**: Hyvä, istutaan tähän. Mä näytän, miten se toimii vaihe vaiheelta. Sen jälkeen sä osaat käyttää sitä kotona.
+- **A**: Hei! Mulla on tällä hetkellä tosi hidas liittymä töissä ja kotona, ja mä haluaisin vaihtaa nopeampaan.
+- **B**: Hei! Täällä Leena, Elisan asiakaspalvelusta. Mä voin auttaa liittymäasioissa. Mikä liittymä sulla on tällä hetkellä?
+- **A**: Mulla on perussata megan liittymä, joka maksaa kaksikymmentäkaksi euroa kuussa. Se tuntuu hitaalta varsinkin, kun mä striimaan töissä kokouksia ja kotona reseptivideoita.
+- **B**: Joo, sadan megan liittymä voi tuntua hitaalta, varsinkin jos useampi laite on samaan aikaan verkossa. Meillä on kaksi vaihtoehtoa: kaksisataa megaa kaksikymmentäseitsemän euroa kuussa tai rajoittamaton viisisataa megaa kolmekymmentäkaksi euroa kuussa.
+- **A**: Mitä eroa näillä kahdella on käytännössä?
+- **B**: Kaksisataa megaa riittää hyvin suoratoistoon ja pelaamiseen yhdellä tai kahdella laitteella. Viisisataa megaa on parempi, jos sulla on paljon laitteita kotona tai jos sä lataat isoja tiedostoja usein.
+- **A**: Meillä kotona on kolme käyttäjää, mä, mun mies ja pieni lapsi. Riittääkö kaksisataa megaa meille?
+- **B**: Kolmen hengen taloudessa kaksisataa megaa toimii yleensä hyvin. Mutta jos kaikki striimaavat samaan aikaan, viisisataa megaa on varmempi valinta.
+- **A**: Sisältyykö paketteihin rajattomat puhelut ja viestit vai pelkästään data?
+- **B**: Kaikki meidän liittymät sisältää rajattomat puhelut ja viestit Suomessa ja EU-maissa. Data on ainoa ero pakettien välillä. Lisäksi kaikissa on viiden gigan EU-data kuukaudessa.
+- **A**: Onko liittymässä sitoutumisaika?
+- **B**: Kaksisataa megan liittymässä ei ole sitoutumisaikaa, joten sen voi irtisanoa milloin tahansa. Viisisataa megan liittymässä on kahdentoista kuukauden sitoutumisjakso kampanjahinnalla.
+- **A**: Mitä tapahtuu sen kahdentoista kuukauden jälkeen?
+- **B**: Kampanjan jälkeen hinta nousee normaaliin kolmekymmentäseitsemän euroon kuussa. Silloin voi vaihtaa takaisin halvempaan tai neuvotella uuden tarjouksen.
+- **A**: Mä luulen, että kaksisataa megaa riittää meille. Tapahtuuko vaihto heti vai täytyykö odottaa?
+- **B**: Vaihto tapahtuu heti puhelimessa. Mä aktivoin uuden liittymän ja nopeusmuutos tulee voimaan vuorokauden sisällä. Ensimmäinen lasku uudella hinnalla tulee seuraavassa laskutusjaksossa.
+- **A**: Selvä, mä otan sen kaksisataa megan liittymän. Kiitos tosi paljon avusta!
+- **B**: Hienoa, mä teen vaihdon nyt. Uusi nopeus on käytössä huomenna aamulla. Kiitos soitosta ja mukavaa päivää!
 
 **EN Full sample dialogue:**
-- **A**: Hi, welcome to the help desk! I'm Lauri. How can I help?
-- **B**: Hi! I'm having problems with Suomi.fi authentication. I tried to log into Omakanta, but the authentication doesn't work.
-- **A**: I see, that comes up a lot. How did you try to authenticate? With bank credentials, mobile certificate, or an ID card?
-- **B**: I tried with bank credentials. I get to the bank's page, but then I get an error message and the page returns to the beginning.
-- **A**: Okay. A common reason on phones is that the browser blocks pop-up windows. Bank authentication opens a new window and if the browser blocks it, the authentication fails.
-- **B**: Oh, I didn't know that. How do I allow pop-ups on my phone?
-- **A**: In Chrome go to settings, then site settings, and pop-ups. Switch the setting on. Another option is to try on a computer, where the problem is less common.
-- **B**: Okay, I'll try that at home. But I'm also interested in the mobile certificate. How does it work?
-- **A**: The mobile certificate is an authentication method linked to the SIM card. It's easy and works well on a phone. You order it from your own operator and it's activated in a couple of days.
-- **B**: Does it cost anything? I have a DNA subscription.
-- **A**: With DNA the mobile certificate is free. You can order it in the DNA app or by calling customer service. You'll get a new SIM card that has the certificate ready.
-- **B**: Sounds easy. What services can I use once the authentication works?
-- **A**: Quite many. In Omakanta you can see health information and prescriptions. On Vero.fi you handle taxation. On Kela's pages you apply for benefits. On Espoo city's pages you can book an appointment at the health clinic and manage daycare matters.
-- **B**: Wow, that's really convenient. I've been handling many of those things by phone or in person.
-- **A**: Yeah, online services save a lot of time. And everything is secure when the authentication is strong. Would you like me to show the Suomi.fi website on this computer?
-- **B**: Yes, please! That would be really helpful.
-- **A**: Good, let's sit here. I'll show you how it works step by step. After that you'll know how to use it at home.
+- **A**: Hi! My current plan feels really slow both at work and at home, and I'd like to switch to a faster one.
+- **B**: Hi! Leena here, from Elisa customer service. I can help with plan matters. What plan do you currently have?
+- **A**: I have the basic 100 Mbps plan that costs 22 euros a month. It feels slow especially when I stream meetings at work and recipe videos at home.
+- **B**: Yeah, a hundred megabit plan can feel slow, especially if multiple devices are on the network at the same time. We have two options: 200 Mbps for 27 euros per month or unlimited 500 Mbps for 32 euros per month.
+- **A**: What is the difference between these two in practice?
+- **B**: 200 Mbps is plenty for streaming and gaming on one or two devices. 500 Mbps is better if you have many devices at home or if you download large files often.
+- **A**: At home we have three users — me, my husband, and a small child. Is 200 Mbps enough for us?
+- **B**: In a three-person household, 200 Mbps usually works well. But if everyone is streaming at the same time, 500 Mbps is a safer choice.
+- **A**: Do the plans include unlimited calls and texts or just data?
+- **B**: All our plans include unlimited calls and texts in Finland and EU countries. Data is the only difference between packages. Additionally, all plans include five gigabytes of EU data per month.
+- **A**: Is there a commitment period with the plan?
+- **B**: The 200 Mbps plan has no commitment period, so you can cancel it at any time. The 500 Mbps plan has a twelve-month commitment period at the campaign price.
+- **A**: What happens after those twelve months?
+- **B**: After the campaign, the price goes up to the regular 37 euros per month. At that point you can switch back to a cheaper plan or negotiate a new offer.
+- **A**: I think 200 Mbps is enough for us. Does the switch happen immediately or do I have to wait?
+- **B**: The switch happens right away over the phone. I'll activate the new plan and the speed change takes effect within twenty-four hours. The first bill at the new price comes in the next billing period.
+- **A**: Alright, I'll take the 200 Mbps plan. Thank you so much for the help!
+- **B**: Great, I'll make the switch now. The new speed will be active tomorrow morning. Thanks for calling and have a nice day!

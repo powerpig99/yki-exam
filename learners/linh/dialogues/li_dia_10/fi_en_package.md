@@ -1,44 +1,43 @@
-#### li_dia_10 — Kehityskeskustelu
-**Learner role:** A
-**FI Konteksti:** Vuotuinen kehityskeskustelu esihenkilön kanssa työpaikalla.
-**EN Context:** Annual development discussion with your manager at work.
+#### li_dia_10 — Job interview at a tech company
+**Learner role:** B
+**Non-learner gender:** female
+**FI Konteksti:** Osallistut työhaastatteluun ohjelmistoyrityksen toimistolla ja vastaat kysymyksiin kokemuksestasi ja osaamisestasi.
+**EN Context:** You attend a job interview at a software company office and answer questions about your experience and skills.
 
 **FI Koko mallidialogi:**
-- **A**: Hei Eero, kiitos että varasit ajan kehityskeskustelulle. Mulla on muutama asia, josta haluaisin puhua.
-- **B**: Hei Minna, istuupa! Mulla on tunti varattuna meille. Aloitetaanko sun työtilanteesta?
-- **A**: Joo, hyvä. Mä olen ollut tiimissä nyt puolitoista vuotta ja mä koen, että mun rooli on laajentunut aika paljon alkuperäisestä.
-- **B**: Niin on. Sä olet ottanut vastuuta dataprojektien lisäksi myös asiakasrajapinnasta ja uusien työntekijöiden perehdytyksestä. Mä olen ollut siihen todella tyytyväinen.
-- **A**: Kiitos, se tuntuu hyvältä kuulla. Mä haluaisin kehittyä vielä enemmän tiiminvetäjän suuntaan. Olisko mahdollista saada lisää vastuuta projektin johtamisesta?
-- **B**: Ehdottomasti, se sopii meidän suunnitelmiin hyvin. Meillä on tulossa iso dataprojekti ensi kvartaalilla ja mä olen miettinyt, että sä voisit vetää sitä.
-- **A**: Mahtavaa, mä olisin todella kiinnostunut siitä! Mitä koulutusta sun mielestä mun kannattais hakea tuekseni?
-- **B**: Meidän firmalla on sisäinen projektinjohtamiskoulutus, joka alkaa tammikuussa. Lisäksi mä suosittelen agile-sertifiointia, johon firma maksaa osallistumismaksun.
-- **A**: Se kuulostaa tärkeältä. Mä olen kiinnostunut myös pilvipalvelujen koulutuksesta, koska meidän datatiimi siirtyy pilviratkaisuihin ensi vuonna.
-- **B**: Hyvä pointti. Mä laitan sinut pilvipalvelukoulutuksen listalle. Budjetista pitää neuvotella, mutta mä uskon, että se onnistuu.
-- **A**: Kiitos. Mä haluaisin puhua myös työn ja perheen yhteensovittamisesta. Mun tyttö on nelivuotias ja joskus päiväkodista haetaan jo kello neljältä.
-- **B**: Ymmärrän. Meidän firmassa joustava työaika on mahdollista. Voisitko tehdä pidempää päivää kolmena päivänä ja lähteä aikaisemmin kahtena?
-- **A**: Se olisi täydellistä. Myös etäpäivät pari kertaa viikossa auttaisi paljon, kun mä säästäisin työmatkassa tunnin päivässä.
-- **B**: Etäpäivät sopii hyvin. Meidän tiimissä kolme päivää toimistolla ja kaksi etänä on vakiokäytäntö. Pääasia on, että tiimin palaverit toimii.
-- **A**: Ehdottomasti, mä pidän huolen siitä. Vielä yksi asia. Mä olen miettinyt pitkän aikavälin uratavoitteita. Mä haluaisin jossain vaiheessa edetä data-arkkitehdin rooliin.
-- **B**: Se on realistinen tavoite. Data-arkkitehdin paikka vaatii noin kolmesta viiteen vuoden kokemusta ja vahvaa teknistä osaamista. Nykyinen suuntasi vie sinua sinne.
-- **A**: Hyvä, se motivoi minua paljon. Kiitos Eero, tämä oli todella hyödyllinen keskustelu.
-- **B**: Kiitos Minna! Mä kirjaan sovitut asiat ylös kehityskeskustelupohjaan ja lähetän sen sulle kommentoitavaksi. Pidetään tilannekatsaus puolen vuoden päästä.
+- **A**: Hei, tervetuloa haastatteluun! Mä olen Mari Koivisto, tiiminvetäjä. Istukaa alas. Haluatteko kahvia?
+- **B**: Hei Mari, kiitos! Kahvi maistuu hyvin. Mä olen tosi iloinen, että sain tämän haastattelumahdollisuuden.
+- **A**: Kertokaa ensin lyhyesti itsestänne ja miksi haitte tätä tehtävää.
+- **B**: Mä olen Laura Nguyen, data-insinööri. Mulla on viisi vuotta kokemusta data-alalta, viimeksi Australiassa ja nyt Helsingissä. Tämä tehtävä sopii hyvin mun osaamiseen, koska se yhdistää dataputkistotyön ja tiimityön.
+- **A**: Kiinnostavaa. Tässä tehtävässä tarvitaan sekä itsenäistä työtä että tiimityötä. Miten kuvaatte työtapaanne?
+- **B**: Mä olen järjestelmällinen ja pidän selkeistä prosesseista. Nautin tiimityöstä ja kommunikoinnista, ja pystyn sopeutumaan muuttuviin prioriteetteihin nopeasti.
+- **A**: Meillä käytetään ketterää kehitystä ja kahden viikon sprinttejä. Onko teillä kokemusta tällaisesta?
+- **B**: Joo, edellisessä työssäni käytimme kahden viikon sprinttejä Jiran avulla. Joka sprint-sykli sisälsi suunnittelun, päivittäiset stand-upit ja retrospektiivin.
+- **A**: Entä miten käsittelette tiukkoja aikatauluja? Meillä tulee välillä kiireisiä jaksoja.
+- **B**: Mä priorisoin tehtävät tärkeysjärjestykseen ja ilmoitan ajoissa, jos aikataulu on tiukka. Esimerkiksi viime kvartaalilla mä neuvottelin deadlinesta ja toimitimme projektin ajallaan.
+- **A**: Hyvä esimerkki. Suomen kielen taito on meille tärkeä, työkieli on pääosin suomi. Miten kuvaatte kielitaitoanne?
+- **B**: Mä olen opiskellut suomea puolitoista vuotta ja pystyn hoitamaan kokouksia ja päivittäisiä tilanteita suomeksi. Tekniset dokumentit voin tehdä sekä suomeksi että englanniksi.
+- **A**: Hienoa. Mitä palkkaa toivotte?
+- **B**: Mä toivon neljästätuhannesta neljääntuhanteenviiteensataan euroa kuussa. Olen kuitenkin avoin neuvotteluille.
+- **A**: Se on meidän haarukassa. Meillä on myös laaja työterveys, viisi viikkoa lomaa ja etätyömahdollisuus kolme päivää viikossa. Päätös tulee kahden viikon sisällä.
+- **B**: Työsuhde-edut kuulostavat erinomaisilta. Kiitos haastattelusta Mari, mä olen todella kiinnostunut tästä tehtävästä.
+- **A**: Kiitos haastattelusta! Teillä on hyvä kokemus. Me ilmoitetaan kaikille sähköpostilla. Hyvää päivän jatkoa!
 
 **EN Full sample dialogue:**
-- **A**: Hi Eero, thanks for scheduling time for the development discussion. I have a few things I'd like to talk about.
-- **B**: Hi Minna, have a seat! I have an hour reserved for us. Shall we start with your work situation?
-- **A**: Yes, good. I've been on the team for 1.5 years now and I feel that my role has expanded quite a lot from the original one.
-- **B**: Indeed it has. You've taken on responsibility for client-facing work and onboarding new employees in addition to data projects. I've been really pleased with that.
-- **A**: Thanks, that feels good to hear. I'd like to develop further toward a team lead direction. Would it be possible to get more project management responsibility?
-- **B**: Absolutely, that fits our plans well. We have a big data project coming next quarter and I've been thinking you could lead it.
-- **A**: Wonderful, I'd be really interested in that! What training do you think I should apply for to support me?
-- **B**: Our company has an internal project management course starting in January. Additionally I recommend an agile certification, for which the company pays the participation fee.
-- **A**: That sounds important. I'm also interested in cloud services training, since our data team is moving to cloud solutions next year.
-- **B**: Good point. I'll put you on the cloud services training list. The budget needs to be negotiated, but I believe it will work out.
-- **A**: Thanks. I'd also like to talk about work-life balance. My daughter is 4 years old and sometimes she needs to be picked up from daycare at 4 already.
-- **B**: I understand. In our company flexible working hours are possible. Could you work longer days 3 days and leave earlier on 2 days?
-- **A**: That would be perfect. Also remote days a couple of times a week would help a lot, as I'd save an hour a day on commuting.
-- **B**: Remote days work well. In our team 3 days at the office and 2 remote is the standard practice. The main thing is that team meetings work.
-- **A**: Absolutely, I'll make sure of that. One more thing. I've been thinking about long-term career goals. I'd like to eventually advance to a data architect role.
-- **B**: That's a realistic goal. A data architect position requires about 3 to 5 years of experience and strong technical expertise. Your current direction is taking you there.
-- **A**: Good, that motivates me a lot. Thanks Eero, this was a really useful discussion.
-- **B**: Thank you Minna! I'll record the agreed items in the development discussion form and send it to you for comments. We'll do a status check in 6 months.
+- **A**: Hi, welcome to the interview! I'm Mari Koivisto, team lead. Please sit down. Would you like coffee?
+- **B**: Hi Mari, thank you! Coffee sounds great. I'm really glad I got this interview opportunity.
+- **A**: First, tell briefly about yourself and why you applied for this position.
+- **B**: I'm Laura Nguyen, a data engineer. I have 5 years of experience in the data field, most recently in Australia and now in Helsinki. This position suits my skills well because it combines data pipeline work and teamwork.
+- **A**: Interesting. This position requires both independent work and teamwork. How would you describe your work style?
+- **B**: I'm organized and like clear processes. I enjoy teamwork and communication, and I can adapt to changing priorities quickly.
+- **A**: We use agile development and two-week sprints. Do you have experience with that?
+- **B**: Yes, in my previous job we used two-week sprints with Jira. Each sprint cycle included planning, daily stand-ups, and a retrospective.
+- **A**: How do you handle tight deadlines? We sometimes have busy periods.
+- **B**: I prioritize tasks by importance and communicate early if the schedule is tight. For example, last quarter I negotiated the deadline and we delivered the project on time.
+- **A**: Good example. Finnish language skills are important for us, the working language is mainly Finnish. How would you describe your language skills?
+- **B**: I've been studying Finnish for 1.5 years and I can handle meetings and daily situations in Finnish. I can produce technical documents in both Finnish and English.
+- **A**: Great. What salary are you hoping for?
+- **B**: I'm hoping for 4,000 to 4,500 euros per month. However, I'm open to negotiation.
+- **A**: That's within our range. We also have comprehensive occupational health, 5 weeks of vacation, and remote work 3 days a week. The decision will come within two weeks.
+- **B**: The benefits sound excellent. Thank you for the interview Mari, I'm very interested in this position.
+- **A**: Thank you for the interview! You have good experience. We'll notify everyone by email. Have a good day!

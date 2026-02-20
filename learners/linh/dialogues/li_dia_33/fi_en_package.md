@@ -1,42 +1,41 @@
-#### li_dia_33 — Postin palvelupiste
-**Learner role:** B
-**FI Konteksti:** Menet postiin lähettämään paketin Vietnamiin ja täytät tullilomakkeen.
-**EN Context:** You go to the post office to send a package to Vietnam and fill out customs forms.
+#### li_dia_33 — Sending package abroad at post office
+**Learner role:** A
+**Non-learner gender:** female
+**FI Konteksti:** Lähetät paketin ulkomaille postissa ja kysyt toimitusvaihtoehdoista, hinnoista ja tulliasioista.
+**EN Context:** You send a package abroad at the post office and ask about shipping options, prices, and customs.
 
 **FI Koko mallidialogi:**
-- **A**: Seuraava, ole hyvä. Miten voin auttaa?
-- **B**: Hei, mä haluaisin lähettää tämän paketin Vietnamiin. Mä en oo ennen lähettänyt pakettia Euroopan ulkopuolelle.
-- **A**: Selvä, Euroopan ulkopuolisiin lähetyksiin tarvitaan tullilomake. Minkä kokoinen ja painoinen paketti on?
-- **B**: Se on noin kolmekymmentä kertaa kaksikymmentä kertaa viisitoista senttiä. Mä en oo punninnut sitä, mutta se on aika kevyt.
-- **A**: Punnitaan se tässä. Se painaa kaksi kiloa kolmesataa grammaa. Mitä paketissa on?
-- **B**: Siellä on vaatteita mun tyttärelle, suomalaista suklaata ja pari kirjaa. Ne on lahjoja mun vanhemmille.
-- **A**: Hyvä, meidän pitää kirjoittaa sisältö tullilomakkeeseen englanniksi. Jokainen tuote tarvitsee kuvauksen ja arvon.
-- **B**: Okei. Vaatteiden arvo on noin viisikymmentä euroa, suklaata on noin kaksikymmentä euroa ja kirjat noin viisitoista euroa.
-- **A**: Selvä, kokonaisarvo on kahdeksankymmentäviisi euroa. Merkitsen lomakkeeseen, että kyseessä on lahja. Silloin vastaanottaja ei yleensä joudu maksamaan tullia.
-- **B**: Hyvä, kiitos. Mitä lähetysvaihtoehtoja mulla on?
-- **A**: Vietnamiin on kaksi vaihtoehtoa. Priority-paketti saapuu noin viidessä-seitsemässä arkipäivässä ja maksaa neljäkymmentäkaksi euroa. Economy kestää kaksi-neljä viikkoa ja maksaa kaksikymmentäseitsemän euroa.
-- **B**: Mä otan Priority-vaihtoehdon, koska mun äidin syntymäpäivä on kahden viikon päästä.
-- **A**: Hyvä valinta. Sisältääkö paketti mitään helposti särkyvää? Haluatteko seurantanumeron, se sisältyy Priority-hintaan.
-- **B**: Mitään särkyvää ei ole, mä oon pakannut kaiken hyvin. Joo, mä haluan seurantanumeron. Voiko seurantaa katsoa verkossa?
-- **A**: Kyllä, seurantanumero toimii Postin verkkosivuilla ja sovelluksessa. Tässä on kuitti ja seurantatiedot. Haluatteko muuta?
-- **B**: Ei muuta, kiitos paljon! Mä oon helpottunut, että se ei ollut niin monimutkaista.
-- **A**: Ei hätää, se on helppoa kun tekee sen kerran. Hyvää päivää!
+- **A**: Hei! Haluaisin lähettää paketin Saksaan. Se painaa noin kaksi kiloa.
+- **B**: Hei! Saksaan meillä on kaksi vaihtoehtoa. Peruslähetys menee noin viidessä seitsemässä arkipäivässä ja maksaa viisitoista euroa yhdeksänkymmentä senttiä. Pikalähetys kahdessa kolmessa arkipäivässä, kaksikymmentäseitsemän euroa viisikymmentä senttiä.
+- **A**: Peruslähetys sopii hyvin. Sisältääkö se seurannan?
+- **B**: Joo, peruslähetyksessä on seurantanumero mukana. Sä näät paketin etenemisen Postin sovelluksessa tai nettisivuilla.
+- **A**: Tarvitaanko EU-maiden väliseen lähetykseen tullilomaketta?
+- **B**: EU-maiden välillä ei tarvii tulliselvitystä. Mutta jos lähettäisit EU:n ulkopuolelle, niin silloin pitäisi täyttää tulliasiakirja ja ilmoittaa sisältö ja arvo.
+- **A**: Paketissa on kirjoja ja suklaata. Onko niissä rajoituksia?
+- **B**: Elintarvikkeita saa lähettää EU-sisällä. Suklaa on ihan okei. Nesteistä ja paineenalaisista aineista on rajoituksia. Paristoja ja akkuja saa lähettää vaan maateitse.
+- **A**: Ei ole nesteitä eikä paristoja. Kannattaako paketti vakuuttaa?
+- **B**: Vakuutus on vapaaehtoinen. Perusvakuutus sadan euron asti maksaa kolme euroa viisikymmentä senttiä. Jos kirjat on arvokkaita, niin kannattaa ottaa.
+- **A**: Sisältö on noin neljänkymmenen euron arvoinen, otetaan perusvakuutus. Miten maksaminen onnistuu?
+- **B**: Yhteensä tulee yhdeksäntoista euroa neljäkymmentä senttiä vakuutuksineen. Käy kortti, käteinen ja MobilePay. Kirjoita vastaanottajan osoite ja nimi tähän tarraan.
+- **A**: Täytän osoitetarran. Milloin paketti on perillä?
+- **B**: Paketti lähtee tänään seuraavassa noudossa kello neljä ja on perillä noin viikon päästä. Vastaanottaja saa noutokutsun tekstiviestillä lähimpään noutopisteeseen. Tässä on kuitti ja seurantatunnus.
+- **A**: Kiitos paljon, Tiina. Hei hei!
+- **B**: Kiitos asioimisesta ja hyvää päivänjatkoa! Hei hei!
 
 **EN Full sample dialogue:**
-- **A**: Next, please. How can I help?
-- **B**: Hi, I'd like to send this package to Vietnam. I've never sent a package outside Europe before.
-- **A**: Right, for shipments outside Europe a customs form is needed. What is the size and weight of the package?
-- **B**: It's about 30 by 20 by 15 centimeters. I haven't weighed it, but it's quite light.
-- **A**: Let's weigh it here. It weighs 2 kilograms 300 grams. What's in the package?
-- **B**: There are clothes for my daughter, Finnish chocolate, and a couple of books. They're gifts for my parents.
-- **A**: Good, we need to write the contents on the customs form in English. Each item needs a description and a value.
-- **B**: Okay. The value of the clothes is about 50 €, the chocolate is about 20 €, and the books about 15 €.
-- **A**: Right, the total value is 85 €. I'll mark on the form that this is a gift. Then the recipient usually doesn't have to pay customs duty.
-- **B**: Good, thanks. What shipping options do I have?
-- **A**: For Vietnam there are 2 options. A Priority package arrives in about 5 to 7 business days and costs 42 €. Economy takes 2 to 4 weeks and costs 27 €.
-- **B**: I'll take the Priority option, because my mother's birthday is in 2 weeks.
-- **A**: Good choice. Does the package contain anything fragile? Would you like a tracking number, it's included in the Priority price.
-- **B**: There's nothing fragile, I've packed everything well. Yes, I'd like a tracking number. Can the tracking be checked online?
-- **A**: Yes, the tracking number works on the Post's website and app. Here is the receipt and tracking information. Would you like anything else?
-- **B**: Nothing else, thanks a lot! I'm relieved that it wasn't that complicated.
-- **A**: No worries, it's easy once you do it once. Have a nice day!
+- **A**: Hi! I'd like to send a package to Germany. It weighs about 2 kilograms.
+- **B**: Hi! For Germany we have two options. Standard shipping takes about 5 to 7 business days and costs 15.90 euros. Express shipping in 2 to 3 business days, 27.50 euros.
+- **A**: Standard shipping is fine. Does it include tracking?
+- **B**: Yes, standard shipping includes a tracking number. You can follow the package's progress in the Posti app or on the website.
+- **A**: Do you need to fill in a customs form for EU countries?
+- **B**: Within EU countries you don't need a customs declaration. But if you were sending outside the EU, you'd need to fill in a customs document and declare the contents and value.
+- **A**: The package contains books and chocolates. Are there any restrictions on those?
+- **B**: Food items can be sent within the EU. Chocolate is perfectly fine. There are restrictions on liquids and pressurized substances. Batteries can only be sent by ground transport.
+- **A**: There are no liquids or batteries. Should I insure the package?
+- **B**: Insurance is optional. Basic insurance up to 100 euros costs 3.50 euros. If the books are valuable, it's worth getting.
+- **A**: The contents are worth about 40 euros, so I'll take the basic insurance. How do I pay?
+- **B**: The total comes to 19.40 euros including insurance. We accept card, cash, and MobilePay. Write the recipient's address and name on this label.
+- **A**: I'll fill in the address label. When will the package arrive?
+- **B**: The package will leave today on the next pickup at 4 PM and arrive in about a week. The recipient will get a pickup notification by text to the nearest pickup point. Here's your receipt and tracking number.
+- **A**: Thanks a lot, Tiina. Bye bye!
+- **B**: Thanks for your visit and have a nice rest of the day! Bye bye!

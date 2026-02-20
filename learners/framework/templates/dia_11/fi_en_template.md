@@ -6,7 +6,7 @@
 
 **FI Koko mallidialogi:**
 - **A**: <!-- LEARNER: greet Laura, say you received the contract draft and want to go through some points before signing -->
-- **B**: Hei Mikko, totta kai! Käydään ne läpi. Mistä aloitetaan?
+- **B**: Hei {NIMI}, totta kai! Käydään ne läpi. Mistä aloitetaan?
 - **A**: <!-- LEARNER: ask about the probation period — how long and what does it mean in practice -->
 - **B**: Koeaika on kuusi kuukautta. Sen aikana molemmat osapuolet voivat päättää työsuhteen ilman irtisanomisaikaa.
 - **A**: <!-- LEARNER: ask about working hours — the contract says 37.5 hours, ask about flexible hours and remote work -->
@@ -24,7 +24,7 @@
 
 **EN Full sample dialogue:**
 - **A**: <!-- LEARNER: greet Laura, say you received the contract draft and want to go through some points before signing -->
-- **B**: Hi Mikko, of course! Let's go through them. Where shall we start?
+- **B**: Hi {NAME}, of course! Let's go through them. Where shall we start?
 - **A**: <!-- LEARNER: ask about the probation period — how long and what does it mean in practice -->
 - **B**: The probation period is 6 months. During it, both parties can end the employment without a notice period.
 - **A**: <!-- LEARNER: ask about working hours — the contract says 37.5 hours, ask about flexible hours and remote work -->

@@ -1,44 +1,43 @@
-#### li_dia_18 — Perheloma Lapissa
-**Learner role:** A
-**FI Konteksti:** Soitat matkailuneuvontaan suunnitellaksesi perhelomaa Lappiin ja kysyt majoituksesta ja aktiviteeteista.
-**EN Context:** You call a tourism information center to plan a family trip to Lapland and ask about accommodation and activities.
+#### li_dia_18 — Reporting fender bender to insurance company
+**Learner role:** B
+**Non-learner gender:** female
+**FI Konteksti:** Soitat vakuutusyhtiöösi ja ilmoitat pienestä kolarista parkkipaikalla sekä kysyt korvausmenettelystä.
+**EN Context:** You call your insurance company to report a minor fender bender in a parking lot and ask about the claims process.
 
 **FI Koko mallidialogi:**
-- **A**: Hei, me ollaan suunnittelemassa perhelomaa Lappiin helmikuussa. Meillä on neljävuotias tyttö ja me halutaan nähdä revontulia ja kokeilla talviaktiviteetteja.
-- **B**: Hei! Helmikuu on loistava aika Lapille. Mä oon Eero, matkailuneuvonnan asiakaspalvelija. Minkä alueen matkaa te olette suunnittelemassa?
-- **A**: Me oltiin ajateltu Leviä tai Saariselkää. Kumpi sopii paremmin lapsiperheelle?
-- **B**: Molemmat on hyviä. Levi on isompi ja siellä on enemmän palveluja ja laskettelurinteitä. Saariselkä on rauhallisempi ja luonto on lähempänä. Neljävuotiaan kanssa molemmat toimii hyvin.
-- **A**: Miten pitkä matka sinne on Helsingistä? Me mietitään, lennetäänkö vai ajetaanko.
-- **B**: Lentämällä Kittilään menee noin puolitoista tuntia ja siitä Leville on viisitoista minuuttia bussilla. Autolla matka kestää noin kaksitoista-neljätoista tuntia. Lasten kanssa lentäminen on helpompi vaihtoehto.
-- **A**: Joo, me varmaan lennetään. Millaista majoitusta te suosittelette lapsiperheelle?
-- **B**: Mökki on suosituin vaihtoehto perheille. Siellä on oma sauna, keittiö ja tilaa lapselle leikkiä. Hinnat on noin sataviisikymmentä-kaksisataaviisikymmentä euroa yöltä mökin koosta riippuen.
-- **A**: Kuulostaa hyvältä. Mitä aktiviteetteja neljävuotiaan kanssa voi tehdä?
-- **B**: Poroajelu on lasten suosikki ja se sopii kaikenikäisille. Huskyajelu on myös mahdollinen, mutta siihen on yleensä viiden vuoden ikäraja. Lumikenkäkävely ja mäenlasku onnistuu hyvin pientenkin kanssa.
-- **A**: Poroajelu kuulostaa ihanalta! Paljonko se maksaa ja kauanko se kestää?
-- **B**: Tunnin poroajelu maksaa noin neljäkymmentä-kuusikymmentä euroa aikuiselta ja puolet lapselta. Pidemmät retket kestää kaksi-kolme tuntia ja sisältää usein nuotiolla grillauksen ja tarinoita saamelaiskulttuurista.
-- **A**: Entä revontulet, missä niitä näkee parhaiten? Se on mun unelma nähdä ne. Onko teillä järjestettyjä retkiä?
-- **B**: Helmikuussa revontulia näkee hyvin, koska yöt on pitkiä ja pimeitä. Meillä on bussiretki, joka sopii lapsiperheelle ja maksaa noin kahdeksankymmentä euroa henkilöltä. Opas vie parhaisiin paikkoihin.
-- **A**: Mahtavaa! Mä varaan varmaan mökin ja sen bussiretken. Miten aikaisin kannattaa varata helmikuulle?
-- **B**: Helmikuu on sesonkiaikaa, eli kannattaa varata heti. Suositut mökit menee nopeasti. Meidän nettisivuilla näkee saatavuuden ja voi varata suoraan.
-- **A**: Kiitos todella paljon kaikista vinkeistä! Tää kuulostaa upealta lomalta.
-- **B**: Kiitos soitosta ja tervetuloa Lappiin! Teillä tulee olemaan ihana perheloma.
+- **A**: If vakuutus, vahinkoilmoitukset, Riikka puhelimessa. Miten voin auttaa?
+- **B**: Hei! Mä oon Leena Nguyen. Mä haluaisin ilmoittaa autokolarista, joka tapahtui tänään parkkipaikalla.
+- **A**: Selvä. Ensin mä tarvitsen sun vakuutusnumeron ja rekisteritunnuksen.
+- **B**: Vakuutusnumero on neljäkuusikahdeksankolme seitsemän ja rekisteritunnus on ABC-viisiseitsemänkaksi. Mitä muita tietoja tarvitaan?
+- **A**: Kiitos. Nyt mä tarvitsen tarkemman kuvauksen tapahtuneesta. Missä ja milloin kolari tapahtui?
+- **B**: Se tapahtui tänä aamuna Prisman parkkipaikalla Leppävaarassa. Mä olin peruuttamassa parkkipaikalta enkä nähnyt takaani ollutta autoa, ja osuin siihen hitaasti.
+- **A**: Selvä. Oliko kukaan loukkaantunut ja otitteko kuvat vahingoista?
+- **B**: Ei kukaan loukkaantunut onneksi. Molemmissa autoissa on pieniä naarmuja ja puskuri on hieman painunut. Mä otin kuvat ja vaihdoin yhteystiedot toisen kuljettajan kanssa.
+- **A**: Mahtavaa, se helpottaa käsittelyä paljon. Nyt meidän pitää arvioida vahingot. Sun pitää tuoda auto katsottavaksi meidän sopimuskorjaamolle viikon sisällä.
+- **B**: Mihin korjaamolle mun pitää mennä ja mikä on omavastuuni?
+- **A**: Lähin sopimuskorjaamo on Fixus Itäkeskuksessa. Omavastuu on kaksisataa euroa kaskovakuutuksessa. Jos toinen osapuoli on syyllinen, omavastuuta ei peritä sinulta.
+- **B**: Kauanko vahingon käsittely kestää ja milloin auto saadaan korjattua?
+- **A**: Vahinkoilmoituksen käsittely kestää noin viisi arkipäivää. Sen jälkeen korjaamo ottaa yhteyttä ja sopii korjausajan. Korjaus kestää tyypillisesti yhdestä kolmeen arkipäivää.
+- **B**: Saanko sijaisauton, kun mun oma auto on korjauksessa?
+- **A**: Kaskovakuutukseesi kuuluu sijaisauto korjauksen ajaksi. Se on ilmainen enintään kolmeksi päiväksi. Korjaamo järjestää sen sulle automaattisesti.
+- **B**: Kiitos paljon. Pitääkö mun tehdä vielä jotain muuta nyt?
+- **A**: Lähetä valokuvat ja toisen osapuolen tiedot meidän verkkopalveluun osoitteessa if.fi. Mä lähetän sulle vahinkotunnuksen tekstiviestillä. Se on kaikki tässä vaiheessa. Hyvää päivää!
 
 **EN Full sample dialogue:**
-- **A**: Hi, we're planning a family trip to Lapland in February. We have a 4-year-old daughter and we want to see the Northern Lights and try winter activities.
-- **B**: Hi! February is an excellent time for Lapland. I'm Eero, a tourism information customer service agent. What area are you planning to visit?
-- **A**: We were thinking of Levi or Saariselkä. Which one is better for a family with children?
-- **B**: Both are good. Levi is bigger and has more services and ski slopes. Saariselkä is quieter and nature is closer. With a 4-year-old both work well.
-- **A**: How long is the trip there from Helsinki? We're considering whether to fly or drive.
-- **B**: Flying to Kittilä takes about 1.5 hours and from there to Levi it's 15 minutes by bus. By car the trip takes about 12-14 hours. With children flying is the easier option.
-- **A**: Yeah, we'll probably fly. What kind of accommodation do you recommend for a family with children?
-- **B**: A cabin is the most popular option for families. It has its own sauna, kitchen, and space for a child to play. Prices are about 150-250 euros per night depending on cabin size.
-- **A**: Sounds good. What activities can you do with a 4-year-old?
-- **B**: A reindeer ride is children's favorite and it's suitable for all ages. A husky ride is also possible, but there's usually a 5-year age limit. Snowshoeing and sledding work well even with small children.
-- **A**: A reindeer ride sounds lovely! How much does it cost and how long does it take?
-- **B**: A 1-hour reindeer ride costs about 40-60 euros per adult and half for a child. Longer trips last 2-3 hours and often include grilling by a campfire and stories about Sami culture.
-- **A**: How about the Northern Lights, where can you see them best? It's my dream to see them. Do you have organized excursions?
-- **B**: In February you can see the Northern Lights well, because the nights are long and dark. We have a bus trip that's suitable for families with children and costs about 80 euros per person. A guide takes you to the best spots.
-- **A**: Wonderful! I'll probably book a cabin and that bus trip. How early should you book for February?
-- **B**: February is peak season, so it's worth booking right away. Popular cabins go quickly. On our website you can see availability and book directly.
-- **A**: Thank you so much for all the tips! This sounds like an amazing vacation.
-- **B**: Thanks for calling and welcome to Lapland! You're going to have a lovely family vacation.
+- **A**: If Insurance, damage reports, Riikka speaking. How can I help?
+- **B**: Hi! I'm Leena Nguyen. I'd like to report a car accident that happened today in a parking lot.
+- **A**: Alright. First I need your insurance policy number and license plate number.
+- **B**: The policy number is 4683-7 and the license plate is ABC-572. What other information is needed?
+- **A**: Thanks. Now I need a more detailed description of what happened. Where and when did the collision occur?
+- **B**: It happened this morning in the Prisma parking lot in Leppävaara. I was reversing out of a parking spot and didn't see the car behind me, and I bumped into it slowly.
+- **A**: Alright. Was anyone injured, and did you take photos of the damage?
+- **B**: Luckily no one was injured. Both cars have minor scratches and the bumper is slightly dented. I took photos and exchanged contact details with the other driver.
+- **A**: Excellent, that makes processing much easier. Now we need to assess the damage. You need to bring the car for inspection at our partner repair shop within a week.
+- **B**: Which repair shop do I need to go to and what is my deductible?
+- **A**: The nearest partner repair shop is Fixus in Itäkeskus. The deductible is 200 euros with comprehensive insurance. If the other party is at fault, the deductible is not charged to you.
+- **B**: How long does the claims process take and when will the car be fixed?
+- **A**: Processing the damage report takes about five business days. After that the repair shop will contact you and agree on a repair time. Repair typically takes one to three business days.
+- **B**: Do I get a courtesy car while my own car is being repaired?
+- **A**: Your comprehensive insurance includes a courtesy car during repair. It's free for up to three days. The repair shop arranges it for you automatically.
+- **B**: Thank you very much. Is there anything else I need to do right now?
+- **A**: Upload the photos and the other party's details to our online service at if.fi. I'll send you a claim reference number by text message. That's everything for now. Have a good day!

@@ -19,7 +19,7 @@
 - **B**: <!-- LEARNER: ask if you should inform the building maintenance company or isännöitsijä beforehand -->
 - **A**: Jos se on taloyhtiön putkistossa, niin kannattaa ilmoittaa isännöitsijälle. Mutta ensin katon onko se sun asunnon puolella vai yhteisessä putkistossa. Sen jälkeen tiedetään kuka maksaa.
 - **B**: <!-- LEARNER: thank Minna, say you'll clear the sink area, confirm see you tomorrow at 10 -->
-- **A**: Kiitos soitosta, Pekka. Nähdään huomenna kympiltä. Hei hei!
+- **A**: Kiitos soitosta, {NIMI}. Nähdään huomenna kympiltä. Hei hei!
 
 **EN Full sample dialogue:**
 - **A**: LVI-Palvelu, Minna Korhonen speaking, hello. How can I help?
@@ -36,4 +36,4 @@
 - **B**: <!-- LEARNER: ask if you should inform the building maintenance company or isännöitsijä beforehand -->
 - **A**: If it's in the building's shared plumbing, it's worth notifying the property manager. But first I'll check whether it's on your apartment's side or in the shared pipes. After that we'll know who pays.
 - **B**: <!-- LEARNER: thank Minna, say you'll clear the sink area, confirm see you tomorrow at 10 -->
-- **A**: Thanks for calling, Pekka. See you tomorrow at 10. Bye bye!
+- **A**: Thanks for calling, {NAME}. See you tomorrow at 10. Bye bye!

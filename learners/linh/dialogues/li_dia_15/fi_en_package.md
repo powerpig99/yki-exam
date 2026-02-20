@@ -1,42 +1,41 @@
-#### li_dia_15 — Neuvolakäynti
-**Learner role:** B
-**FI Konteksti:** Tuot neljävuotiaan tyttäresi laajaan terveystarkastukseen neuvolaan ja keskustelet terveydenhoitajan kanssa lapsen kehityksestä.
-**EN Context:** You bring your 4-year-old daughter for her comprehensive health checkup at the child health clinic and discuss the child's development with the public health nurse.
+#### li_dia_15 — Calling school about child's absence
+**Learner role:** A
+**Non-learner gender:** female
+**FI Konteksti:** Soitat lapsesi kouluun ja ilmoitat lapsen poissaolosta sairauden takia sekä kysyt läksyistä ja kokeista.
+**EN Context:** You call your child's school to report an absence due to illness and ask about homework and exams.
 
 **FI Koko mallidialogi:**
-- **A**: Huomenta! Mä oon Antti, terveydenhoitaja. Tervetuloa Ainon neljävuotistarkastukseen. Miten teillä menee?
-- **B**: Huomenta! Meillä menee hyvin, kiitos. Aino on ollu terveenä ja kasvaa kovaa vauhtia.
-- **A**: Hienoa. Tää neljän vuoden tarkastus on laaja, eli me käydään läpi kasvu, näkö, kuulo ja motoriikka. Aloitetaan mittauksilla. Aino, tuu tänne vaa'alle.
-- **B**: Joo, hän on kasvanut paljon viime käynnin jälkeen. Mua on vähän mietityttänyt, onko hän normaalipainoinen ikäänsä nähden.
-- **A**: Ainon pituus on satakolme senttiä ja paino seitsemäntoista kiloa. Molemmat on ihan normaalisti kasvukäyrällä. Ei mitään huolta siinä.
-- **B**: Hyvä, se helpottaa. Mites näkö ja kuulo, miten ne testataan tässä iässä?
-- **A**: Näkö testataan kuvataululta, jossa on tuttuja muotoja ja eläimiä. Kuulo testataan kuiskaustestillä ja ääniä kuuntelemalla. Molemmat on ihan leikinomaisia testejä.
-- **B**: Selvä. Aino katsoo aika paljon lastenkirjoja ja istuu välillä tosi lähellä. Pitäisikö mun huolestua hänen näöstään?
-- **A**: Hyvä, että mainitsit. Testataan nyt tarkkaan ja katsotaan. Jos tulee jotain poikkeavaa, niin ohjataan silmälääkärille. Monella lapsella läheltä katsominen on ihan normaalia tässä iässä.
-- **B**: Okei, kiitos. Entä miten puheen kehitys pitäisi olla tässä vaiheessa?
-- **A**: Neljävuotiaan pitäisi puhua selkeitä lauseita ja kertoa lyhyitä tarinoita. Ainakin neljän-viiden sanan lauseita pitäisi tulla. Miten Aino puhuu kotona?
-- **B**: Hän puhuu tosi paljon ja kertoo pitkiä tarinoita päiväkodista. Välillä hän sekoittaa sanajärjestystä, mutta me ymmärretään aina, mitä hän tarkoittaa.
-- **A**: Se kuulostaa todella hyvältä tähän ikään nähden. Pieni sanajärjestyksen sekoittaminen on ihan normaalia. Entä motoriikka, osaako Aino hyppiä yhdellä jalalla ja leikata saksilla?
-- **B**: Joo, hän hyppii yhdellä jalalla ja tykkää leikata ja liimata askartelussa. Mun tytöllä on myös keväisin allergiaa. Neuvola on määrännyt antihistamiinin, mutta pitäisikö meidän käydä allergiatesteissä?
-- **A**: Motoriikka kuulostaa hyvältä, ihan ikätasolla. Allergian suhteen, jos oireet on lieviä ja lääke auttaa, niin testejä ei välttämättä tarvita vielä. Mutta jos oireet pahenee, niin kannattaa pyytää lähete allergiapoliklinikalle.
-- **B**: Kiitos todella paljon tästä tarkastuksesta. Se on hyvä tietää allergiasta.
-- **A**: Kiitos teille! Seuraava tarkastus on viiden vuoden iässä. Nähdään silloin!
+- **A**: Hei, täällä Minna Nguyen, Emmin äiti. Mä soitan ilmoittaakseni, että Emmi on sairas tänään eikä pysty tulemaan kouluun.
+- **B**: Hei! Mä olen Hanna, koulun sihteeri. Ikävä kuulla. Mikä lapsellasi on?
+- **A**: Emmillä on korkea kuume ja kurkkukipu. Lääkäri epäili, että se voi olla streptokokki-infektio, joten hänen täytyy olla kotona ainakin kolme päivää.
+- **B**: Selvä, mä merkitsen poissaolon järjestelmään. Kolmen päivän poissaoloon riittää vanhemman ilmoitus Wilmassa. Jos poissaolo jatkuu yli kolme päivää, tarvitaan lääkärintodistus.
+- **A**: Miten mä teen sen ilmoituksen Wilmassa? Mä en oo varma prosessista.
+- **B**: Menet Wilmaan ja valitset poissaoloilmoitukset. Siellä on lomake, johon kirjoitat syyn ja päivämäärät. Luokanvalvoja hyväksyy ilmoituksen.
+- **A**: Kiitos, selvä. Onko Emmillä tällä viikolla läksyjä tai palautuksia, jotka mun pitäisi tietää?
+- **B**: Tällä viikolla on matikan tehtävät sivut neljäkymmentäkuusi ja neljäkymmentäseitsemän ja äidinkielen lukupäiväkirja pitää palauttaa perjantaihin mennessä. Mä pyydän opettajia laittamaan tarkat ohjeet Wilmaan.
+- **A**: Onko Emmillä tällä viikolla kokeita, jotka hän jäisi väliin?
+- **B**: Huomenna keskiviikkona on englannin sanakoe. Jos lapsi on vielä poissa, sanakoe siirtyy automaattisesti seuraavalle viikolle. Luokanvalvoja järjestää uuden ajan.
+- **A**: Hyvä, se helpottaa. Voiko Emmi seurata tunteja jotenkin kotoa käsin?
+- **B**: Kyllä. Opettajat laittavat tehtävät ja materiaalit Wilmaan joka päivä. Jotkut opettajat käyttävät myös Google Classroomia. Tunnukset löytyvät Wilmasta.
+- **A**: Pitääkö terveydenhoitajalle ilmoittaa vai tarvitseeko Emmi jotain palatessaan kouluun?
+- **B**: Hyvä kysymys. Jos lapsella on antibioottikuuri, ilmoita siitä terveydenhoitajalle Wilmassa. Lapsi voi palata kouluun, kun hän on ollut kuumeeton vuorokauden.
+- **A**: Kiitos paljon kaikesta tiedosta! Mä teen Wilma-ilmoituksen heti.
+- **B**: Ole hyvä! Toivottavasti lapsi paranee pian. Jos sinulla on lisäkysymyksiä, soita tai laita viesti Wilmaan. Pikaista paranemista!
 
 **EN Full sample dialogue:**
-- **A**: Good morning! I'm Antti, the public health nurse. Welcome to Aino's 4-year checkup. How are you doing?
-- **B**: Good morning! We're doing well, thanks. Aino has been healthy and growing fast.
-- **A**: Great. This 4-year checkup is comprehensive, so we'll go through growth, vision, hearing, and motor skills. Let's start with the measurements. Aino, come here to the scale.
-- **B**: Yeah, she's grown a lot since the last visit. I've been a bit worried about whether she's a normal weight for her age.
-- **A**: Aino's height is 103 centimeters and weight is 17 kilograms. Both are right on the normal growth curve. Nothing to worry about there.
-- **B**: Good, that's a relief. How about vision and hearing, how are they tested at this age?
-- **A**: Vision is tested with a picture chart that has familiar shapes and animals. Hearing is tested with a whisper test and by listening to sounds. Both are very play-like tests.
-- **B**: I see. Aino looks at children's books a lot and sometimes sits very close. Should I be worried about her vision?
-- **A**: Good that you mentioned it. Let's test carefully now and see. If anything abnormal comes up, we'll refer to an eye doctor. For many children, looking up close is completely normal at this age.
-- **B**: Okay, thanks. How should speech development be at this stage?
-- **A**: A 4-year-old should speak clear sentences and tell short stories. At least 4-5 word sentences should be coming out. How does Aino speak at home?
-- **B**: She talks a lot and tells long stories about daycare. Sometimes she mixes up word order, but we always understand what she means.
-- **A**: That sounds really good for this age. A little word order mixing is completely normal. How about motor skills, can Aino hop on one foot and cut with scissors?
-- **B**: Yes, she hops on one foot and loves cutting and gluing in crafts. My daughter also has allergies in spring. The health clinic has prescribed an antihistamine, but should we go for allergy tests?
-- **A**: Motor skills sound good, right at age level. Regarding the allergy, if the symptoms are mild and the medicine helps, then tests may not be needed yet. But if the symptoms get worse, it's worth requesting a referral to the allergy clinic.
-- **B**: Thank you so much for this checkup. That's good to know about the allergy.
-- **A**: Thank you! The next checkup is at 5 years of age. See you then!
+- **A**: Hi, this is Minna Nguyen, Emmi's mother. I'm calling to report that Emmi is sick today and can't come to school.
+- **B**: Hi! I'm Hanna, the school secretary. Sorry to hear that. What's wrong with your child?
+- **A**: Emmi has a high fever and a sore throat. The doctor suspected it might be a strep infection, so she needs to stay home for at least three days.
+- **B**: Alright, I'll record the absence in the system. For a three-day absence, a parent's notification in Wilma is sufficient. If the absence continues beyond three days, a doctor's certificate is needed.
+- **A**: How do I submit the notification in Wilma? I'm not sure about the process.
+- **B**: Go to Wilma and select absence notifications. There's a form where you write the reason and dates. The homeroom teacher will approve the notification.
+- **A**: Thank you, I see. Does Emmi have any homework or submissions this week that I should know about?
+- **B**: This week there are math assignments on pages 46 and 47, and the Finnish language reading diary must be submitted by Friday. I'll ask the teachers to put the exact instructions on Wilma.
+- **A**: Are there any exams this week that Emmi would miss?
+- **B**: Tomorrow, Wednesday, there's an English vocabulary test. If the child is still absent, the test will automatically be moved to the following week. The homeroom teacher will arrange a new time.
+- **A**: That's a relief. Can Emmi follow lessons from home somehow?
+- **B**: Yes. The teachers post assignments and materials on Wilma every day. Some teachers also use Google Classroom. The login credentials can be found on Wilma.
+- **A**: Should the school nurse be informed, or does Emmi need anything when she returns to school?
+- **B**: Good question. If the child is on antibiotics, notify the school nurse through Wilma. The child can return to school once they have been fever-free for twenty-four hours.
+- **A**: Thank you very much for all the information! I'll submit the Wilma notification right away.
+- **B**: You're welcome! Hopefully the child recovers soon. If you have more questions, call or send a message through Wilma. Wishing a speedy recovery!

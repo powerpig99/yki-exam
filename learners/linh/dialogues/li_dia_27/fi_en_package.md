@@ -1,42 +1,41 @@
-#### li_dia_27 — Vuokranantajan kanssa
-**Learner role:** B
-**FI Konteksti:** Soitat huoltoyhtiölle neuvotellaksesi korjauksista asunnossasi.
-**EN Context:** You call the building maintenance company to negotiate repairs in your apartment.
+#### li_dia_27 — Noise complaint to neighbor
+**Learner role:** A
+**Non-learner gender:** female
+**FI Konteksti:** Puhut naapurille yöllisestä melusta ja yrität löytää yhteisen ratkaisun.
+**EN Context:** You talk to your neighbor about nighttime noise and try to find a solution together.
 
 **FI Koko mallidialogi:**
-- **A**: Huoltoyhtiö Koivunen, Kari puhelimessa. Mitä asiaa?
-- **B**: Hei, mun nimi on Hanna ja mä asun Leppävaarassa Turuntiellä. Mulla on pari asiaa, jotka pitäisi korjata asunnossa.
-- **A**: Hei Hanna. Mikä osoite tarkemmin?
-- **B**: Turuntie kaksikymmentäneljä B, kolmas kerros. Ensinnäkin meidän kylpyhuoneen hana vuotaa. Se tippuu koko ajan, vaikka hanan sulkee kunnolla.
-- **A**: Selvä, vuotava hana. Kuinka kauan se on vuotanut?
-- **B**: Noin kaksi viikkoa. Ja se toinen asia on, että keittiön jääkaapin tiiviste on irti ja kaappi huurtuu sisältä.
-- **A**: Okei. Jääkaapin tiiviste kuuluu taloyhtiön vastuulle, jos se on alkuperäinen laite. Onko se taloyhtiön jääkaappi?
-- **B**: Joo, se tuli asunnon mukana. Me ollaan asuttu täällä kolme vuotta eikä me olla vaihdettu mitään kodinkoneita.
-- **A**: Silloin molemmat korjaukset kuuluvat taloyhtiölle. Mä laitan ne työlistalle.
-- **B**: Hyvä. Milloin korjaaja voisi tulla? Mulla on pieni lapsi kotona, niin mä toivoisin, että tiedän ajankohdan etukäteen.
-- **A**: Putkimies voi tulla ensi viikolla tiistaina tai keskiviikkona. Kumpi sopii paremmin?
-- **B**: Tiistai aamupäivällä sopisi parhaiten. Mä oon kotona silloin ennen kymmentä.
-- **A**: Hyvä, mä laitan putkimiehen tiistaiksi kello yhdeksän ja kymmenen välille. Jääkaapin tiivisteen kanssa mä tilaan osan ja se kestää muutaman päivän.
-- **B**: Selvä, se sopii hyvin. Pitääkö mun tehdä joku vikailmoitus kirjallisesti myös?
-- **A**: Ei tarvitse, tämä puhelu riittää. Mä kirjaan molemmat järjestelmään. Tässä on työnumerot.
-- **B**: Kiitos paljon, Kari. Mä odotan sitten tiistaina putkimiestä.
-- **A**: Ole hyvä! Jos tulee jotain muuta, soittakaa rohkeasti. Hyvää päivää!
+- **A**: Hei, anteeksi että häiritsen. Mulla olisi yksi asia, josta haluaisin jutella. Onko nyt hyvä hetki?
+- **B**: Hei, joo totta kai. Tuleeko jotain ongelmaa?
+- **A**: Joo, viime perjantain ja lauantain yönä asunnostasi tuli todella kovaa musiikkia, ihan puolen yön jälkeenkin. Se häiritsi aika paljon nukkumista.
+- **B**: Ai, anteeksi. Meillä oli viikonloppuna ystäviä kylässä ja ilta venyi vähän pitkäksi. En tajunnut, että se kuuluu noin hyvin.
+- **A**: Ymmärrän, ettei se ole pahantahtoista. Mutta basso menee seinien läpi ja tekee nukkumisesta todella vaikeaa.
+- **B**: Voi harmi. Nää vanhat talot on kyllä sellasia, että äänet kuuluu helposti. Mä en oo tajunnut, että basso menee noin läpi.
+- **A**: Sopisiko, että arkisin pidät musiikin hiljaisempana kymmeneltä iltapäivällä eteenpäin ja viikonloppuisin yhdentoista jälkeen? Taloyhtiön säännötkin sanoo niin.
+- **B**: Joo, se on ihan reilua. Mä tiedän, että taloyhtiön järjestyssäännöissä on se hiljasuusaika kymmenestä iltapäivällä seitsemään aamulla. Mä lupaan pitää tarkemmin huolta siitä.
+- **A**: Kiitos paljon, se on mukava kuulla. Jos sulla on tulossa isommat bileet, niin voit ilmoittaa siitä etukäteen.
+- **B**: Hyvä idea. Mä voin laittaa sulle viestiä etukäteen, niin tiedät varautua. Ja jos melu häiritsee, niin tuu vaan koputtelemaan ovelle, niin mä hiljennän heti.
+- **A**: Se on tosi hyvä asenne, kiitos. Mä en halua olla hankala naapuri, mutta töissä alkaa aikaisin ja tarvitsen unta.
+- **B**: Ei se oo mitenkään vaikeeta. Mäkin herään aikaisin arkisin, niin ymmärrän hyvin. Mä laitan bluetoothkuulokkeet illalla, niin basso ei tuu seinien läpi.
+- **A**: Se kuulostaa täydelliseltä ratkaisulta! Mun täytyy myös myöntää, että mä välillä imuroin viikonlopun aamuisin. Pahoittelen jos se häiritsee.
+- **B**: Haha, joo mä oon kuullut imurin, mutta se ei oo häirinnyt. Päivisin äänet on ihan normaalia elämää. Kunhan yöllä on rauhallista, niin kaikki on hyvin.
+- **A**: Ollaan samaa mieltä. On kiva, kun naapuri on niin järkevä. Hyvää iltaa!
+- **B**: Samoin, kiitos kun tulit juttelemaan suoraan. Se on paljon parempi kuin se, että tekisi valituksen isännöitsijälle. Hyvää iltaa!
 
 **EN Full sample dialogue:**
-- **A**: Maintenance company Koivunen, Kari speaking. How can I help?
-- **B**: Hi, my name is Hanna and I live in Leppävaara on Turuntie. I have a couple of things that need to be fixed in my apartment.
-- **A**: Hi Hanna. What is the exact address?
-- **B**: Turuntie 24 B, third floor. First of all, our bathroom faucet is leaking. It drips all the time, even when you close the faucet properly.
-- **A**: Right, a leaking faucet. How long has it been leaking?
-- **B**: About 2 weeks. And the other thing is that the kitchen refrigerator's seal has come loose and the fridge is frosting up inside.
-- **A**: Okay. The refrigerator seal is the housing company's responsibility, if it's an original appliance. Is it the housing company's refrigerator?
-- **B**: Yes, it came with the apartment. We've lived here for 3 years and we haven't replaced any appliances.
-- **A**: Then both repairs are the housing company's responsibility. I'll put them on the work list.
-- **B**: Good. When could the repairman come? I have a small child at home, so I'd like to know the time in advance.
-- **A**: The plumber can come next week on Tuesday or Wednesday. Which works better?
-- **B**: Tuesday morning would work best. I'm home then before 10.
-- **A**: Good, I'll schedule the plumber for Tuesday between 9 and 10. For the refrigerator seal, I'll order the part and that takes a few days.
-- **B**: Right, that works fine. Do I need to make a written fault report as well?
-- **A**: No need, this phone call is enough. I'll log both into the system. Here are the work order numbers.
-- **B**: Thanks a lot, Kari. I'll be waiting for the plumber on Tuesday then.
-- **A**: You're welcome! If anything else comes up, don't hesitate to call. Have a good day!
+- **A**: Hi, sorry to bother you. There's one thing I'd like to talk about. Is now a good time?
+- **B**: Hi, yeah of course. Is there some problem?
+- **A**: Yes, last Friday and Saturday night there was really loud music coming from your apartment, even after midnight. It made sleeping quite difficult.
+- **B**: Oh, sorry. We had friends over on the weekend and the evening went on a bit too long. I didn't realize it was that loud.
+- **A**: I understand it's not intentional. But the bass comes through the walls and makes sleeping really hard.
+- **B**: Oh no. These old buildings are like that, sounds carry easily. I didn't realize the bass goes through that much.
+- **A**: Would it be okay to keep the music quieter after 10 PM on weekdays and after 11 on weekends? The building rules say the same.
+- **B**: Yeah, that's totally fair. I know the housing company's rules have a quiet period from 10 PM to 7 AM. I promise to be more careful about that.
+- **A**: Thanks a lot, that's great to hear. If you're planning a bigger party, you can let me know in advance.
+- **B**: Good idea. I can message you in advance so you know to prepare. And if the noise bothers you, just come knock on my door and I'll turn it down right away.
+- **A**: That's a really great attitude, thank you. I don't want to be a difficult neighbor, but work starts early and I need sleep.
+- **B**: It's no trouble at all. I also get up early on weekdays, so I totally understand. I'll put on Bluetooth headphones in the evening so the bass doesn't come through the walls.
+- **A**: That sounds like a perfect solution! I also have to admit that I sometimes vacuum on weekend mornings. Sorry if that bothers you.
+- **B**: Haha, yeah I've heard the vacuum, but it hasn't bothered me. During the day sounds are just normal life. As long as it's quiet at night, everything's fine.
+- **A**: We agree on that. It's nice to have such a reasonable neighbor. Good evening!
+- **B**: Likewise, thanks for coming to talk directly. That's much better than making a complaint to the property manager. Good evening!

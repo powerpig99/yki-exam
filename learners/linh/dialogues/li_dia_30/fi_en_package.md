@@ -1,44 +1,39 @@
-#### li_dia_30 — Hammaslääkäri
-**Learner role:** A
-**FI Konteksti:** Menet hammaslääkäriin tarkastukseen ja keskustelet hoitovaihtoehdoista ja kustannuksista.
-**EN Context:** You go to the dentist for a checkup and discuss treatment options and costs.
+#### li_dia_30 — Calling dentist for check-up
+**Learner role:** B
+**Non-learner gender:** female
+**FI Konteksti:** Soitat hammaslääkäriin varataksesi tarkastusajan ja kysyt odotusajasta sekä hinnoista.
+**EN Context:** You call the dentist to book a check-up and ask about waiting times and fees.
 
 **FI Koko mallidialogi:**
-- **A**: Hei, mä oon varautunut tänne tarkastukseen. Mun viimeinen hammaslääkärikäynti oli yli vuosi sitten.
-- **B**: Hei, tervetuloa. Mä oon hammaslääkäri Eero Mäkinen. Onko teillä ollut jotain vaivoja hampaissa?
-- **A**: Joo, mulla on ollut vihlontaa vasemmalla yläpuolella. Se vihloo etenkin kylmästä ja kuumasta.
-- **B**: Selvä, katsotaan ensin tilanne. Istukaa tuoliin, niin mä teen perusteellisen tarkastuksen ja otan röntgenkuvan.
-- **A**: Onko röntgen välttämätön? Mä mietin vähän kustannuksia.
-- **B**: Röntgenkuva on tärkeä, koska se näyttää ongelmat, joita ei näe silmällä. Tämä on panoraamakuva ja se maksaa kolmekymmentäviisi euroa.
-- **A**: Okei, otetaan se sitten. Paljonko tarkastus maksaa kokonaan?
-- **B**: Perustarkastus on viisikymmentäviisi euroa ja röntgen kolmekymmentäviisi euroa. Kelakorvaus kattaa osan, joten te maksatte tarkastuksesta noin kuusikymmentä euroa yhteensä.
-- **A**: Selvä, se on ihan kohtuullinen hinta. Onko mahdollista, että mä tarvitsen paikkausta?
-- **B**: Katsotaan ensin. Avatkaa suu, kiitos. Joo, täällä vasemmalla on pieni reikä takimmaisen poskihampaan pinnalla. Se selittää vihlonnan.
-- **A**: Voi ei. Paljonko paikkaus maksaisi?
-- **B**: Pieni komposiittipaikkaus maksaa noin satakaksikymmentä euroa. Kelakorvauksen jälkeen teidän osuus on noin kahdeksankymmentä euroa.
-- **A**: Voitaisiinko se tehdä tänään vai pitääkö varata uusi aika?
-- **B**: Mä voin tehdä sen tänään, jos teillä on aikaa. Paikkaus kestää noin kolmekymmentä minuuttia. Puudutan alueen ensin, niin se ei satu.
-- **A**: Hyvä, tehdään se heti. Mä haluaisin myös kysyä hampaiden puhdistuksesta. Pitäisikö mun käydä hammashygienistillä?
-- **B**: Kyllä, suosittelen puhdistusta kerran vuodessa. Teillä on jonkin verran hammaskiveä. Mä varaan teille ajan hygienistille, se maksaa noin kuusikymmentäviisi euroa.
-- **A**: Selvä, varataan se. Mun tytär on neljävuotias, milloin hänen pitäisi tulla ensimmäiseen tarkastukseen?
-- **B**: Lasten ensimmäinen tarkastus on yleensä kolme-neljävuotiaana. Kunnallinen hammashoito on lapsille maksuton. Varaatte ajan kaupungin hammashoitolasta.
+- **A**: Hammashoitola Hymyhammas, Mari puhelimessa. Miten voin auttaa?
+- **B**: Hei, mä haluaisin varata hammaslääkäriajan tarkastukseen. Mä oon uusi asiakas, mä muutin hiljattain Leppävaaraan.
+- **A**: Tervetuloa! Uudelle asiakkaalle tehdään ensimmäisellä käynnillä perusteellisempi tarkastus, johon kuuluu röntgenkuvat ja ienkartoitus. Se kestää noin neljäkymmentäviisi minuuttia.
+- **B**: Paljonko ensimmäinen käynti maksaa ja sisältääkö se hampaiden puhdistuksen?
+- **A**: Ensikäynti on yhdeksänkymmentäviisi euroa, siihen sisältyy tarkastus, panoraamaröntgen ja hoitosuunnitelma. Puhdistus on erillinen, kuusikymmentäviisi euroa, ja se tehdään yleensä seuraavalla käynnillä.
+- **B**: Mikä on lähin vapaa aika?
+- **A**: Meillä on aikoja kolmen viikon päähän. Lähin vapaa aika olis perjantaina maaliskuun neljästoista kello neljätoista kolmekymmentä. Sopiiko se?
+- **B**: Iltapäivä sopii hyvin, koska pyöräilen töihin ja pääsen silloin helposti. Onko teillä mitään aikaisempaa, esimerkiksi peruutusaikaa?
+- **A**: Mä laitan sut peruutuslistalle, niin jos joku peruuttaa ajan, soitetaan sulle. Muuten se perjantai on lähin.
+- **B**: Selvä, otetaan se perjantain aika ja mä otan myös peruutuslistalle paikan. Mitä maksutapoja teillä on?
+- **A**: Meillä käy kortti, käteinen ja mobiilimaksu. Kelakorvaus lasketaan suoraan kassalla, jos sulla on Kela-kortti mukana. Kela korvaa tällä hetkellä kahdeksan euroa yksityisestä käynnistä.
+- **B**: Hyvä, mä tulen yksityiselle puolelle. Mitä mun pitää ottaa mukaan?
+- **A**: Ota mukaan henkilöllisyystodistus ja Kela-kortti. Jos sulla on aikaisempia röntgenkuvia toiselta hammaslääkäriltä, ne voi pyytää siirtoon OmaKannan kautta.
+- **B**: Kiitos paljon, Mari. Mä tulen perjantaina maaliskuun neljästoista kello neljätoista kolmekymmentä. Hei hei!
+- **A**: Hienoa, mä laitan ajan varausjärjestelmään. Saat tekstiviestivahvistuksen. Muista, että peruutus pitää tehdä viimeistään kaksikymmentäneljä tuntia ennen aikaa. Tervetuloa, hei hei!
 
 **EN Full sample dialogue:**
-- **A**: Hi, I'm here for a checkup. My last dentist visit was over a year ago.
-- **B**: Hi, welcome. I'm dentist Eero Mäkinen. Have you had any problems with your teeth?
-- **A**: Yes, I've had sensitivity on the upper left side. It's sensitive especially to cold and hot.
-- **B**: Right, let's look at the situation first. Sit in the chair and I'll do a thorough examination and take an X-ray.
-- **A**: Is the X-ray necessary? I'm a bit concerned about the costs.
-- **B**: The X-ray is important because it shows problems that can't be seen with the eye. This is a panoramic image and it costs 35 €.
-- **A**: Okay, let's take it then. How much does the checkup cost in total?
-- **B**: The basic checkup is 55 € and the X-ray is 35 €. Kela reimbursement covers part, so you'll pay about 60 € total for the checkup.
-- **A**: Right, that's a reasonable price. Is it possible that I'll need a filling?
-- **B**: Let's look first. Open your mouth, please. Yes, there's a small cavity on the surface of the back molar on the left. That explains the sensitivity.
-- **A**: Oh no. How much would a filling cost?
-- **B**: A small composite filling costs about 120 €. After Kela reimbursement your share is about 80 €.
-- **A**: Could it be done today or do I need to book a new appointment?
-- **B**: I can do it today if you have time. The filling takes about 30 minutes. I'll numb the area first so it won't hurt.
-- **A**: Good, let's do it right away. I'd also like to ask about teeth cleaning. Should I go to a dental hygienist?
-- **B**: Yes, I recommend a cleaning once a year. You have some tartar buildup. I'll book you an appointment with the hygienist, that costs about 65 €.
-- **A**: Right, let's book that. My daughter is 4 years old, when should she come for her first checkup?
-- **B**: The first checkup for children is usually at 3 to 4 years old. Municipal dental care is free for children. Book an appointment at the city's dental clinic.
+- **A**: Hymyhammas dental clinic, Mari speaking. How can I help?
+- **B**: Hi, I'd like to book a dental check-up appointment. I'm a new customer, I recently moved to Leppävaara.
+- **A**: Welcome! For a new customer, the first visit includes a more thorough examination with X-rays and a gum assessment. It takes about 45 minutes.
+- **B**: How much does the first visit cost and does it include teeth cleaning?
+- **A**: The first visit is 95 euros, which includes the examination, panoramic X-ray, and treatment plan. Cleaning is separate at 65 euros and is usually done at the next visit.
+- **B**: What's the earliest available appointment?
+- **A**: We have slots available 3 weeks from now. The nearest opening would be Friday March 14th at 2:30 PM. Does that work?
+- **B**: Afternoon works well because I cycle to work and it's easier for me then. Do you have anything earlier, like a cancellation slot?
+- **A**: I'll put you on the cancellation list, so if someone cancels, we'll call you. Otherwise that Friday is the earliest.
+- **B**: Sure, I'll take the Friday appointment and I'll also take the spot on the cancellation list. What payment methods do you have?
+- **A**: We accept card, cash, and mobile payment. Kela reimbursement is calculated directly at the register if you bring your Kela card. Kela currently reimburses 8 euros for a private visit.
+- **B**: Good, I'll go with the private option. What do I need to bring?
+- **A**: Bring your ID and Kela card. If you have earlier X-rays from another dentist, you can request a transfer through OmaKanta.
+- **B**: Thanks a lot, Mari. I'll come on Friday the 14th of March at 2:30 PM. Bye bye!
+- **A**: Great, I'll put the appointment in the booking system. You'll receive a text message confirmation. Remember, cancellation must be done at least 24 hours before. Welcome, bye bye!
