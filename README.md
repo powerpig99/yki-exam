@@ -6,6 +6,8 @@ Includes a sample learner (Linh) with 56 complete dialogue packages for referenc
 
 [**Sample output video**](sample.mp4) (3.5MB, click to download and play)
 
+https://github.com/user-attachments/assets/364a5f06-35ce-4115-98fc-29dd3f0edd47
+
 ## How It Works
 
 ```
