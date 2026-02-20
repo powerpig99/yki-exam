@@ -1157,6 +1157,7 @@ Topics that appear in actual tests but aren't always in textbooks:
 - [HELAO exercises](https://helao.fi/en/instructions-and-exercises-for-the-yki-test/) — Free exercises from Helsinki Adult Education
 - [Suomi-koulujen tuki](https://suomikoulut.fi/) — Materials for Finnish schools abroad
 - [Kielibuusti.fi](https://kielibuusti.fi/) — Government-funded Finnish learning platform
+- [Uusi Kielemme](https://uusikielemme.fi/) — Grammar and vocabulary repository mapped to CEFR/YKI levels
 - [yki-testi.fi](https://yki-testi.fi/) — Practice tests; claims ~90% of topics repeat from their bank
 - [YKIFinnish.fi](https://ykifinnish.fi/) — 1 free practice test, B1-B2 guide
 - [YKIFinnish.fi — Vocabulary themes](https://ykifinnish.fi/yki-vocabulary-themes/) — Thematic vocabulary lists for YKI prep
