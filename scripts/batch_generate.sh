@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # Generic batch TTS + video generator
 # Usage: scripts/batch_generate.sh <learner_dir> <gender> <delivery_path>
-# Example: scripts/batch_generate.sh jing_s2 male "/Users/.../Family/YKI_jing_s2"
+# Example: scripts/batch_generate.sh linh female ~/delivery/YKI_linh
 #
 # Auto-discovers IDs from learners/<learner_dir>/dialogues/*/fi_en_package.md
 # Skips already-delivered items (safe re-runs)
@@ -10,7 +10,7 @@ set -uo pipefail
 
 if [ $# -ne 3 ]; then
   echo "Usage: $0 <learner_dir> <gender> <delivery_path>"
-  echo "  learner_dir:   directory name under learners/ (e.g. jing_s2, linh)"
+  echo "  learner_dir:   directory name under learners/ (e.g. linh)"
   echo "  gender:        male or female (for TTS voice selection)"
   echo "  delivery_path: absolute path to iCloud delivery folder"
   exit 1
@@ -20,7 +20,7 @@ LEARNER="$1"
 GENDER="$2"
 DELIVERY="$3"
 
-cd /Users/jingliang/Projects/YKI_exam
+cd "$(dirname "$0")/.."
 
 DIALOGUE_DIR="learners/$LEARNER/dialogues"
 if [ ! -d "$DIALOGUE_DIR" ]; then

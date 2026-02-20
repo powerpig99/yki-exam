@@ -29,6 +29,8 @@ __pycache__/
 # Legacy content
 dialog_practice/
 scripts/build_all_dialog_videos.py
+scripts/batch_*.sh
+!scripts/batch_generate.sh
 
 # Learner content — keep framework templates and sample (Linh) only
 learners/*

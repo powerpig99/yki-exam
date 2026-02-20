@@ -16,7 +16,8 @@ fi_en_package.md (Finnish dialogue + English translation)
 |--------|---------|
 | `generate_dialog_tts_google.py` | Google Chirp 3 HD TTS with voice rotation |
 | `render_dialog_karaoke.py` | 9:16 vertical video with Finnish karaoke + English subtitles |
-| `build_all_dialog_videos.py` | Batch orchestrator (TTS + video for multiple dialogues) |
+| `batch_generate.sh` | Generic batch launcher — auto-discovers IDs, retry logic |
+| `validate_packages.py` | Validates FI/EN sentence count parity across all packages |
 
 ## Requirements
 
@@ -29,23 +30,23 @@ fi_en_package.md (Finnish dialogue + English translation)
 
 ### Single dialogue
 ```bash
-.venv/bin/python3 scripts/generate_dialog_tts_google.py --only xr_dia_01 --force
-.venv/bin/python3 scripts/render_dialog_karaoke.py --only xr_dia_01 --force
+.venv/bin/python3 scripts/generate_dialog_tts_google.py --only li_dia_01 --force
+.venv/bin/python3 scripts/render_dialog_karaoke.py --only li_dia_01 --force
 ```
 
 ### With learner gender (personalized voice assignment)
 ```bash
-.venv/bin/python3 scripts/generate_dialog_tts_google.py --only xr_dia_01 --force --learner-gender female
+.venv/bin/python3 scripts/generate_dialog_tts_google.py --only li_dia_01 --force --learner-gender female
 ```
 
-### Batch all dialogues
+### Batch all dialogues for a learner
 ```bash
-.venv/bin/python3 scripts/build_all_dialog_videos.py --force-audio --force-video
+scripts/batch_generate.sh linh female ~/delivery/YKI_linh
 ```
 
 ### Re-pick a single speaker's voice
 ```bash
-.venv/bin/python3 scripts/generate_dialog_tts_google.py --only xr_dia_01 --force --repick B
+.venv/bin/python3 scripts/generate_dialog_tts_google.py --only li_dia_01 --force --repick B
 ```
 
 ## Input format
