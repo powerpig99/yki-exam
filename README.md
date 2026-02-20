@@ -2,7 +2,7 @@
 
 Automated pipeline for generating personalized Finnish language practice videos for the [YKI keskitaso (intermediate) exam](https://www.oph.fi/en/services/yki-test-finnish). Each video is a karaoke-style dialogue with word-by-word Finnish highlighting and English subtitles, tailored to an individual learner's life context.
 
-**336 videos delivered** across 6 learner content sets.
+Includes a sample learner (Linh) with 56 complete dialogue packages for reference.
 
 ## How It Works
 
@@ -103,17 +103,6 @@ This separation means new learner sets can reuse existing templates (fast path) 
 - FI and EN sentence counts must match per turn (renderer splits on `.!?`)
 - Character names must be Finnish (TTS constraint)
 - Non-learner gender alternates across templates for voice diversity
-
-## Completed Sets
-
-| Learner | Prefix | Videos | Profile |
-|---------|--------|--------|---------|
-| Jing (textbook) | — | 112 | Sections 01-08 from course material |
-| Xiaoru | `xr_` | 56 | Chinese female, PhD, banking, Helsinki |
-| Jing personalized | `ji_` | 56 | Chinese male, MBA, tech/AI, Helsinki |
-| Linh (default) | `li_` | 56 | Vietnamese female, data engineer, Espoo |
-| Xiaoru set 2 | `x2_` | 56 | Same profile, new templates |
-| Jing set 2 | `j2_` | 56 | Same profile, new templates |
 
 ## What's Not in Git
 
