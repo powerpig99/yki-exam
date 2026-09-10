@@ -115,6 +115,10 @@ Media files, personal learner content, and copyrighted sources are gitignored:
 - `.pdf` files — copyrighted textbook scans (local reference only)
 - `.env` — API keys
 
+## Philosophy & Context
+
+This project is a continuous living record and practical application of the first-person philosophy explored in [Not a ToE](https://powerpig99.github.io/not-a-toe/) — embodying the shift from analytical modeling to direct, active agency in everyday life.
+
 ## License
 
 [MIT](LICENSE) — pipeline scripts, templates, and sample imaginary learner content are all freely available.
